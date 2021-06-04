@@ -10,7 +10,7 @@ on:
 jobs:
   repo-sync:
     env:
-      PAT: ${{ secrets.PAT1 }} 
+      PAT: ${{ secrets.PAT }} 
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
@@ -22,7 +22,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/NobyDa/Script/tree/master.git"
+          source_repo: "https://github.com/NobyDa/Script/tree/Pv.git"
           source_branch: "master"
           destination_branch: "AD2"
-          github_token: ${{ secrets.PAT1 }}
+          github_token: ${{ secrets.PAT }}
