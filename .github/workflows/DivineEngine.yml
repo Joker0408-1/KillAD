@@ -1,4 +1,4 @@
-name: AD3
+name: DivineEngine
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -24,5 +24,5 @@ jobs:
         with:
           source_repo: "https://github.com/DivineEngine/Profiles.git"
           source_branch: "master"
-          destination_branch: "AD3"
+          destination_branch: "DivineEngine"
           github_token: ${{ secrets.PAT }}
