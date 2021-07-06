@@ -1,5 +1,6 @@
 [URL Rewrite]
 # 抖音 去广告&水印
+# 经测试抖音15.8版本支持，新版已加密
 # 需配合脚本使用 https://raw.githubusercontent.com/Joker0408-1/KillAD/main/douyin.js
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/feed\/ https://aweme.snssdk.com/aweme/v1/feed/ header
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/aweme\/post\/ https://aweme.snssdk.com/aweme/v1/aweme/post/ header
