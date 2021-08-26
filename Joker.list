@@ -1,3 +1,4 @@
+# 禁止京东收集信息
 URL-REGEX,https://wqs.jd.com/portal/wx/storageBridge2?\.shtml,REJECT-TINYGIF
 URL-REGEX,https://uranus.jd.com/log/m,REJECT-TINYGIF
 URL-REGEX,https://m.jingxi.com/webmonitor/collect/biz.json,REJECT-TINYGIF
