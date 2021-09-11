@@ -7,9 +7,9 @@ let opener = str.indexOf("m.tb.cn") != -1 ? "taobao://" + str: ($response.body)
 const $ = new cmp()
 
 if (str.indexOf("m.tb.cn") != -1) {
-    $.notify(``,"微信助手·","如需访问该链接，请点击通知跳转", opener)
+    $.notify(``,"微信助手·","如需访问该链接，请点击本通知跳转", opener)
 } else if (str.indexOf("如需浏览")) {
-    $.notify(``,"微信助手·","如需访问该链接，请点击通知跳转", "https://"+str)
+    $.notify(``,"微信助手·","如需访问该链接，请点击本通知跳转", "https://"+str)
 }
 
 $done({body: $response.body});
