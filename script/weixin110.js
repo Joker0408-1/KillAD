@@ -19,9 +19,9 @@ let opener = str.indexOf("m.tb.cn") != -1 ? "taobao://" + str: ($response.body)
 const $ = new cmp()
 
 if (str.indexOf("m.tb.cn") != -1) {
-    $.notify(``, "", "🛍️点击打开淘宝", opener)
+    $.notify(``, "", "🛍该页面已被屏蔽，请点击跳转淘宝", opener)
 } else if (str.indexOf("如需浏览")) {
-    $.notify(``,"", "🔗点击打开链接", "https://"+str)
+    $.notify(``,"", "🔗该页面已被屏蔽，请点击跳转Safari", "https://"+str)
 }
 
 $done({body: $response.body});
