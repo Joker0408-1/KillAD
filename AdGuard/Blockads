@@ -2,7 +2,7 @@
 ! Description: 效果过于强大，慎用
 ! Last Modified: 2021/9/20
 ! Homepage: https://github.com/Joker0408-1/KillAD
-! Version: 1.0
+! Version: 202109201542
 tieba.baidu.com##div.footer-wrap
 tieba.baidu.com##div.top-guide-wrap
 tieba.baidu.com##div.father_cut_daoliu
@@ -116,7 +116,6 @@ m.baidu.com###se-recommend-word-list-container
 qimai.cn###index > div.box-shadow:first-child > div.activity-banner:nth-child(2) > div.my-swipe.van-swipe > div.van-swipe__track > div.van-swipe-item
 ! -- 恶意SEO -- END
 [Adblock Plus 2.1]
-! Version: 20200217000
 ! Last modified:ChinaListV2.0 2020/02/17 19:20:27 +0800
 -1688-wp-media/ads/
 -880-80-4.jpg
