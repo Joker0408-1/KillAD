@@ -1,7 +1,7 @@
 ! Title: 百度净化+ChinaList
 ! Description: 效果过于强大，慎用
 ! Last Modified: 2021/9/20
-! Homepage:http://adgk.net
+! Homepage: https://github.com/Joker0408-1/KillAD
 ! Version: 1.0
 tieba.baidu.com##div.footer-wrap
 tieba.baidu.com##div.top-guide-wrap
