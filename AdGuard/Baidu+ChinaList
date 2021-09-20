@@ -93,6 +93,28 @@ baidu.com$$div[data-log="boce.com/dns/"]
 baidu.com$$div[data-log="site.ip138.com"]
 baidu.com$$div[data-log="jiagongchang.com"]
 baidu.com$$div[data-log="huaweicloud.com/theme/"]
+
+m.baidu.com###page-copyright > div.return-link:first-child
+m.baidu.com###logo
+m.baidu.com###copyright
+m.baidu.com###ft-wrap
+m.baidu.com###page-controller > div.new-pagenav.c-flexbox > div.new-pagenav-center:nth-child(2) > span.new-nowpage > i.c-icon.c-gap-right.icon-logo
+m.baidu.com###page-hd > div.se-page-hd-content > div.searchboxtop.newsearch-white-style.headsearch-pdtop:first-child
+qimai.cn###index > div.hot-list:last-child
+w.mail.qq.com##div.qm_frame.today:first-child > div.top_announce.top_announce_mobileqq:nth-child(4)
+w.mail.qq.com###ct > div > div.qm_toolbar.qm_frameToolbar.qm_toolbar_WeReadAd:first-child > div.qm_toolbar_left.qm_toolbar_left_WithSubTitle.qm_toolbarSpace.func_hideInPadMode:first-child > div.qm_toolbarSubTitle:last-child
+tieba.baidu.com###tiebaCustomPassLogin
+tieba.baidu.com###pagelet_frs-aside\/pagelet\/normal_aside > div.aside_region.app_download_box:nth-child(3)
+tieba.baidu.com###pagelet_encourage-celebrity\/pagelet\/celebrity > div.aside_region.celebrity
+tieba.baidu.com###com_userbar
+tieba.baidu.com###head > div.head_inner > div.search_top.clearfix:first-child > div.search_nav.j_search_nav
+m.baidu.com###results-pre > div.c-result.result:nth-child(2) > div.c-result-content:first-child > div > div.ball-wrapper__3Wj_S
+smart.mail.163.com###mailgg__10241024_0 > a:first-child > img
+smart.mail.163.com###mailgg__10241025_0 > a > img
+smart.mail.163.com##div.g-foot:nth-child(4) > p.u-copyright:last-child
+m.baidu.com###page-hd > div.se-page-hd-content > div.se-head-tablink:last-child
+m.baidu.com###se-recommend-word-list-container
+qimai.cn###index > div.box-shadow:first-child > div.activity-banner:nth-child(2) > div.my-swipe.van-swipe > div.van-swipe__track > div.van-swipe-item
 ! -- 恶意SEO -- END
 [Adblock Plus 2.1]
 ! Version: 20200217000
