@@ -66,7 +66,7 @@ if (cgiData.type === "newgray" || cgiData.type === "empty") {
                     if (isQuanX) redirect.body = respBody;
                     $done(redirect);
                 } else {
-                    notify("", "点击跳转到浏览器打开", trueURL, trueURL);
+                    notify("", "微信助手","如需访问该链接，请点击本通知跳转", trueURL, trueURL);
                     $done({});
                 }
                 resolve(trueURL);
