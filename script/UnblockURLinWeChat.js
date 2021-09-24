@@ -27,13 +27,13 @@ if (cgiData.type === "newgray" || cgiData.type === "empty") {
         },
     };
     if (notifyJump && /\.taobao|tb|tmall\./.test(trueURL)) {
-        notify("", "点击跳转到淘宝打开", trueURL, taobaoScheme + encodeURIComponent(trueURL));
+        notify("", "微信助手","如需访问淘宝，请点击本通知跳转", trueURL, taobaoScheme + encodeURIComponent(trueURL));
     } else if (/qr\.alipay/.test(trueURL)) {
-        notify("", "点击跳转到支付宝打开", trueURL, alipayScheme + encodeURIComponent(trueURL));
+        notify("", "微信助手","如需访问支付宝，请点击本通知跳转", trueURL, alipayScheme + encodeURIComponent(trueURL));
     } else {
         let googleCacheReg = /^https:\/\/webcache\.googleusercontent\.com\/search\?q=cache:(.*)/;
         let trueURL1 = googleCacheReg.test(trueURL) ? googleCacheReg.exec(trueURL)[1] : trueURL;
-        notify("", "点击跳转到浏览器打开", trueURL1, trueURL1);
+        notify("", "微信助手","如需访问该链接，请点击本通知跳转", trueURL1, trueURL1);
     }
     if (isQuanX) redirect.body = respBody;
     $done(redirect);
