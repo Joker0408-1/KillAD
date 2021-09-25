@@ -42,7 +42,7 @@ if (cgiData.type === "newgray" || cgiData.type === "empty") {
     } else {
         let googleCacheReg = /^https:\/\/webcache\.googleusercontent\.com\/search\?q=cache:(.*)/;
         let trueURL1 = googleCacheReg.test(trueURL) ? googleCacheReg.exec(trueURL)[1] : trueURL;
-        notify("", "微信助手","如需访问该链接，请点击本通知跳转", trueURL1, trueURL1);
+        notify("", "微信助手","如需访问链接，请点击本通知跳转", trueURL1, trueURL1);
     }
     if (isQuanX) redirect.body = respBody;
     $done(redirect);
@@ -75,7 +75,7 @@ if (cgiData.type === "newgray" || cgiData.type === "empty") {
                     if (isQuanX) redirect.body = respBody;
                     $done(redirect);
                 } else {
-                    notify("", "微信助手","如需访问该链接，请点击本通知跳转", trueURL, trueURL);
+                    notify("", "微信助手","如需访问链接，请点击本通知跳转", trueURL, trueURL);
                     $done({});
                 }
                 resolve(trueURL);
