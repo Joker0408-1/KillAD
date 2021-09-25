@@ -36,9 +36,9 @@ if (cgiData.type === "newgray" || cgiData.type === "empty") {
     };
     if (/\.taobao|tb|tmall\./.test(trueURL)) {
         if (taobaoNotifyJump)
-            notify("", "微信助手","如需访问淘宝客户端,请点击本通知跳转", trueURL, taobaoScheme + encodeURIComponent(trueURL));
+            notify("", "微信助手","如需访问淘宝App,请点击本通知跳转", trueURL, taobaoScheme + encodeURIComponent(trueURL));
     } else if (/qr\.alipay/.test(trueURL)) {
-        notify("", "微信助手","如需访问支付宝客户端,请点击本通知跳转", trueURL, alipayScheme + encodeURIComponent(trueURL));
+        notify("", "微信助手","如需访问支付宝App,请点击本通知跳转", trueURL, alipayScheme + encodeURIComponent(trueURL));
     } else {
         let googleCacheReg = /^https:\/\/webcache\.googleusercontent\.com\/search\?q=cache:(.*)/;
         let trueURL1 = googleCacheReg.test(trueURL) ? googleCacheReg.exec(trueURL)[1] : trueURL;
