@@ -1,12 +1,20 @@
-const notifyJump = true; //是否开启淘宝通知跳转
-const useGoogleCache = true; //是否在微信中用谷歌快照显示被封禁的链接
-const wechatExportKey = ""; //微信的一个 key，暂未研究如何生成，测试中仅 macOS 微信打开链接跳转浏览器时会缺失，导致无法解析原始链接
+let persisVal = read("UnblockURLinWeChat");
+let taobaoNotifyJump = persisVal.taobaoNotifyJump === "false" ? false : true; //是否开启淘宝通知跳转，测试阶段微信已可跳转淘宝，故默认改为 false
+let useGoogleCache = persisVal.useGoogleCache === "false" ? false : true; //是否在微信中用谷歌快照显示被封禁的链接
+let wechatExportKey = persisVal.wechatExportKey || ""; //微信的一个 key，暂未研究如何生成，测试中仅 macOS 微信打开链接跳转浏览器时会缺失，导致无法解析原始链接
+if (typeof $argument != "undefined") {
+    let arg = Object.fromEntries($argument.split("&").map((item) => item.split("=")));
+    console.log(JSON.stringify(arg));
+    taobaoNotifyJump = arg.taobaoNotifyJump === "true";
+    useGoogleCache = arg.useGoogleCache === "true";
+}
 const respBody = $response.body;
 const googleCache = "https://webcache.googleusercontent.com/search?q=cache:";
 const taobaoScheme = "taobao://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&h5Url=";
 const alipayScheme = "alipays://platformapi/startapp?appId=20000067&url=";
 const isQuanX = typeof $notify != "undefined";
 const isSurgeiOS = typeof $environment != "undefined" ? $environment.system == "iOS" : false;
+const isLoon = typeof $loon != "undefined";
 const redirectStatus = isQuanX ? "HTTP/1.1 302 Temporary Redirect" : 302;
 const cgiDataReg = /var cgiData = ([\s\S]*);\s*<\/script>/;
 let cgiData = JSON.parse(cgiDataReg.exec(respBody)[1].replace(/\\/g, ""));
@@ -26,8 +34,9 @@ if (cgiData.type === "newgray" || cgiData.type === "empty") {
             Location: trueURL,
         },
     };
-    if (notifyJump && /\.taobao|tb|tmall\./.test(trueURL)) {
-        notify("", "微信助手","如需访问淘宝，请点击本通知跳转", trueURL, taobaoScheme + encodeURIComponent(trueURL));
+    if (/\.taobao|tb|tmall\./.test(trueURL)) {
+        if (taobaoNotifyJump)
+            notify("", "微信助手","如需访问淘宝，请点击本通知跳转", trueURL, taobaoScheme + encodeURIComponent(trueURL));
     } else if (/qr\.alipay/.test(trueURL)) {
         notify("", "微信助手","如需访问支付宝，请点击本通知跳转", trueURL, alipayScheme + encodeURIComponent(trueURL));
     } else {
@@ -96,6 +105,14 @@ function notify(title = "", subtitle = "", content = "", open_url) {
         } else {
             $notification.post(title, subtitle, content, opts);
         }
+    } else if (isLoon) {
+        let opts = {};
+        if (open_url) opts["openUrl"] = open_url;
+        if (JSON.stringify(opts) == "{}") {
+            $notification.post(title, subtitle, content);
+        } else {
+            $notification.post(title, subtitle, content, opts);
+        }
     }
 }
 
@@ -110,5 +127,13 @@ function get(options) {
                 else resolve({ statusCode: response.status, headers: response.headers, body });
             });
         });
+    }
+}
+
+function read(key) {
+    if (typeof $notify != "undefined") {
+        return JSON.parse($prefs.valueForKey(key) || "{}");
+    } else {
+        return JSON.parse($persistentStore.read(key) || "{}");
     }
 }
