@@ -1,1 +1,11 @@
-
+#  >> 酷安
+Host,api-access.pangolin-sdk-toutiao.com,REJECT
+Host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+#  >> 知乎
+IP-CIDR,118.89.204.198/32,REJECT
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+HOST,118.89.204.198,REJECT
+HOST,mqtt.zhihu.com,REJECT
+HOST,sugar.zhihu.com,REJECT
+HOST,appcloud2.in.zhihu.com,REJECT
+USER-AGENT,AVOS*,REJECT
