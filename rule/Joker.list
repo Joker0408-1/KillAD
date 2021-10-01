@@ -1,5 +1,4 @@
 #  >> 酷安
-Host,*toutiao.com,REJECT
 Host,api-access.pangolin-sdk-toutiao.com,REJECT
 Host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 #  >> 知乎
