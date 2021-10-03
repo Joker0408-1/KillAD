@@ -2,6 +2,7 @@
 Host,wgo.mmstat.com,REJECT
 Host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 Host,api-access.pangolin-sdk-toutiao.com,REJECT
+
 #  >> 知乎
 USER-AGENT,AVOS*,REJECT
 HOST,118.89.204.198,REJECT
@@ -10,3 +11,25 @@ HOST,sugar.zhihu.com,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
 HOST,appcloud2.in.zhihu.com,REJECT
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+
+#  >> 禁止IOS检测更新
+DOMAIN,mesu.apple.com,REJECT
+DOMAIN,gdmf.apple.com,REJECT
+DOMAIN,updates-http.cdn-apple.com,REJECT
+DOMAIN,xp.apple.com,REJECT
+HOST-SUFFIX,appldnld.apple.com,REJECT
+HOST-SUFFIX,appldnld.apple.com.akadns.net,REJECT
+HOST-SUFFIX,appldnld-lb.apple.com.akadns.net,REJECT
+HOST-SUFFIX,appldnld.g.aaplimg.com,REJECT
+HOST-SUFFIX,mesu.apple.com,REJECT
+HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,REJECT
+HOST-SUFFIX,mesu-cdn.origin-apple.com.akadns.net,REJECT
+HOST-SUFFIX,mesu.apple.com.edgekey.net,REJECT
+HOST-SUFFIX,gdmf.apple.com,REJECT
+HOST-SUFFIX,gdmf.apple.com.akadns.net,REJECT
+HOST-SUFFIX,ocsp.apple.com,REJECT
+HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,REJECT
+HOST-SUFFIX,ocsp-a.g.aaplimg.com,REJECT
+HOST-SUFFIX,ocsp2.apple.com,REJECT
+HOST-SUFFIX,ocsp2-lb.apple.com.akadns.net,REJECT
+HOST-SUFFIX,ocsp2.g.aaplimg.com,REJECT
