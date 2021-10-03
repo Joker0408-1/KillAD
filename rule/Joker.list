@@ -1,5 +1,6 @@
 #  >> 酷安
 Host,wgo.mmstat.com,REJECT
+Host,tnc3-aliec2.snssdk.com,REJECT
 Host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 Host,api-access.pangolin-sdk-toutiao.com,REJECT
 
