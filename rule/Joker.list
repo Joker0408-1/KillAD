@@ -1,6 +1,12 @@
 #  >> 酷安
+HOST,*umeng.com,REJECT
+HOST,bds.snssdk.com,REJECT
 Host,wgo.mmstat.com,REJECT
+HOST,toblog.ctobsnssdk.com,REJECT
 Host,tnc3-aliec2.snssdk.com,REJECT
+Host,tnc3-aliec2.snssdk.com,REJECT
+HOST,log-api.pangolin-sdk-toutiao.com,REJECT
+HOST,sf1-be-pack.pglstatp-toutiao.com,REJECT
 Host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 Host,api-access.pangolin-sdk-toutiao.com,REJECT
 
