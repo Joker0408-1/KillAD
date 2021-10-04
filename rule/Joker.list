@@ -4,9 +4,9 @@ HoST,wgo.mmstat.com,REJECT
 HOST-SUFFIX,umeng.com,REJECT
 HOST,toblog.ctobsnssdk.com,REJECT
 HOST,tnc3-aliec2.snssdk.com,REJECT
+HOST,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 HOST,log-api.pangolin-sdk-toutiao.com,REJECT
 HOST,sf1-be-pack.pglstatp-toutiao.com,REJECT
-HOST,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao.com,REJECT
 
 #  >> 知乎
