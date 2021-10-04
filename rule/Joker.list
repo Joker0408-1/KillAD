@@ -1,7 +1,7 @@
 #  >> 酷安
-HOST-SUFFIX,umeng.com,REJECT
 HOST,bds.snssdk.com,REJECT
 HoST,wgo.mmstat.com,REJECT
+HOST-SUFFIX,umeng.com,REJECT
 HOST,toblog.ctobsnssdk.com,REJECT
 HOST,tnc3-aliec2.snssdk.com,REJECT
 HOST,log-api.pangolin-sdk-toutiao.com,REJECT
