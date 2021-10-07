@@ -21,9 +21,3 @@ HOST,sugar.zhihu.com,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
 HOST,appcloud2.in.zhihu.com,REJECT
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
-
-#  >> 禁止iOS更新
-DOMAIN,xp.apple.com,REJECT
-DOMAIN,mesu.apple.com,REJECT
-DOMAIN,gdmf.apple.com,REJECT
-DOMAIN,updates-http.cdn-apple.com,REJECT
