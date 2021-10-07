@@ -3,11 +3,12 @@ HOST,bds.snssdk.com,REJECT
 HoST,wgo.mmstat.com,REJECT
 HOST-SUFFIX,umeng.com,REJECT
 HOST,bsync.snssdk.com,REJECT
+HOST-SUFFIX,toutiao.com,REJECT
 HOST,toblog.ctobsnssdk.com,REJECT
 HOST,tnc3-alisc1.snssdk.com,REJECT
 HOST,tnc3-aliec2.snssdk.com,REJECT
 HOST,tnc3-aliec*.snssdk.com,REJECT
-HOST,api5-normal-c-lq.amemv.com,REJECT
+HOST-SUFFIX,normal-c-lq.amemv.com,REJECT
 HOST,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 HOST,log-api.pangolin-sdk-toutiao.com,REJECT
 HOST,sf1-be-pack.pglstatp-toutiao.com,REJECT
