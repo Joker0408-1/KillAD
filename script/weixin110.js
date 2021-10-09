@@ -1,3 +1,7 @@
+/*
+^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi url script-response-body https://raw.githubusercontent.com/Joker0408-1/KillAD/main/script/weixin110.js
+*/
+
 var str = ($response.body);
 
 str = str.match(/:&#x2f;&#x2f;(\S*)"}/)[1].replace(/&#x2f;/g, '/').replace(/&amp;/g, '&').split("\"")[0]
