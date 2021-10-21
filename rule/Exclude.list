@@ -1,1 +1,5 @@
-hostname
+*************************
+#  >> 排除主机名
+*************************
+[MITM]
+hostname = -s-api.smzdm.com,-vv.video.qq.com,-lite-msg.m.jd.com,-jdcs.m.jd.com,-ddms.jd.com,-redpoint-msg.m.jd.com,-msjdpay.jd.com,-payfinish.jd.com,-payfinish.m.jd.com,-jingfenapp.jd.com,-*webullbroker.com,-*icloud.com*,-*apple.com,-*mzstatic.com,-*cloudflare-dns.com,-*google*
