@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-15 02:12:01
+# UPDATED: 2022-01-16 02:10:09
 # DOMAIN-SUFFIX: 72408
 # PROCESS-NAME: 5
 # DOMAIN: 57
-# IP-CIDR: 6183
+# IP-CIDR: 6184
 # IP-CIDR6: 5448
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84102
+# TOTAL: 84103
 payload:
   - '265.com'
   - 'c.android.clients.google.com'
