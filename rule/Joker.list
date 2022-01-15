@@ -2,15 +2,6 @@
 HOST,tpc.googlesyndication.com,REJECT
 HOST,googleads.g.doubleclick.net,REJECT
 
-#  >> 知乎
-USER-AGENT,AVOS*,REJECT
-HOST,118.89.204.198,REJECT
-HOST,mqtt.zhihu.com,REJECT
-HOST,sugar.zhihu.com,REJECT
-IP-CIDR,118.89.204.198/32,REJECT
-HOST,appcloud2.in.zhihu.com,REJECT
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
-
 #  >> 友盟/穿山甲
 HOST-SUFFIX,umeng.com,REJECT
 HOST-SUFFIX,toutiao.com,REJECT
