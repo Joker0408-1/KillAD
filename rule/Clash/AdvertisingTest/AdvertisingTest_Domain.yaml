@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:08
+# UPDATED: 2022-01-17 02:10:52
 # DOMAIN: 45134
-# DOMAIN-SUFFIX: 88301
+# DOMAIN-SUFFIX: 88317
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 133694
+# TOTAL: 133710
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -58020,6 +58020,7 @@ payload:
   - '+.ayahtyros.com'
   - '+.ayandns.com'
   - '+.ayazsth.cn'
+  - '+.aybnn.cn'
   - '+.ayboll.com'
   - '+.ayc0zsm69431gfebd.info'
   - '+.ayc0zsm69431gfebd.xyz'
@@ -63879,6 +63880,7 @@ payload:
   - '+.chordeez.net'
   - '+.chosensoothespeechless.com'
   - '+.chouftak.net'
+  - '+.choujimai.top'
   - '+.choupsee.com'
   - '+.chpfgx.com'
   - '+.chpok.pw'
@@ -64859,6 +64861,7 @@ payload:
   - '+.cmads.sv.publicus.com'
   - '+.cmads.us.publicus.com'
   - '+.cmadserver.de'
+  - '+.cmall.club'
   - '+.cmap.alibaba.com'
   - '+.cmass.massmedian.co.jp'
   - '+.cmaxisolation.com'
@@ -67528,6 +67531,7 @@ payload:
   - '+.cybook.fun'
   - '+.cybugim4bdzqhwl.ru'
   - '+.cycalaky.xyz'
+  - '+.cyccy.cn'
   - '+.cyck.top'
   - '+.cyclim.com'
   - '+.cyclobenzaprine.1.p2l.info'
@@ -72244,6 +72248,7 @@ payload:
   - '+.ecapolefud.com'
   - '+.ecard.shenzhentong.com'
   - '+.ecard4all.com'
+  - '+.eccbb.com'
   - '+.eccehkho.com'
   - '+.ecconcier.com'
   - '+.ecctjf.leroymerlin.com.br'
@@ -74378,6 +74383,7 @@ payload:
   - '+.exemplarfilthy.com'
   - '+.exercially.mobi'
   - '+.exercisely.club'
+  - '+.exgrao.cn'
   - '+.exgt.xyz'
   - '+.exhaustedannulmentaccredited.com'
   - '+.exhaustedgemini.com'
@@ -77444,6 +77450,7 @@ payload:
   - '+.gardoult.com'
   - '+.gardourd.com'
   - '+.garean.vn'
+  - '+.gareena.vn'
   - '+.garena-members.com'
   - '+.garena.fan'
   - '+.garenamembers.com'
@@ -77523,6 +77530,7 @@ payload:
   - '+.gb686.cn'
   - '+.gbaseby.ru'
   - '+.gbbcraf.cn'
+  - '+.gbcvbnv5.com'
   - '+.gbeik.com'
   - '+.gbfeexoyo.com'
   - '+.gbfgvzfcjfs.com'
@@ -80068,6 +80076,7 @@ payload:
   - '+.hanhaiedu.tech'
   - '+.hanhooo.cn'
   - '+.hanju18.net'
+  - '+.hanjw1988.com'
   - '+.hanmiyong.com'
   - '+.hannist.com'
   - '+.hannode.xyz'
@@ -88304,6 +88313,7 @@ payload:
   - '+.leejongsuk.top'
   - '+.leeleo.top'
   - '+.leelightning.com'
+  - '+.leelovelwj.com'
   - '+.leeryabdomencares.com'
   - '+.leerymeasurejam.com'
   - '+.leetmedia.com'
@@ -99549,6 +99559,7 @@ payload:
   - '+.ojpem.com'
   - '+.ojpweezvce.com'
   - '+.ojrq.net'
+  - '+.ojtqzxu.cn'
   - '+.ojues.com'
   - '+.ojwd63thskiz.com'
   - '+.ojwebb.vivaaerobus.com'
@@ -106628,9 +106639,11 @@ payload:
   - '+.rctxijo.cn'
   - '+.rctxiqx.cn'
   - '+.rctxjbv.cn'
+  - '+.rctxlac.cn'
   - '+.rctxmbr.cn'
   - '+.rctxpks.cn'
   - '+.rctxprz.cn'
+  - '+.rctxsbw.cn'
   - '+.rctxsrv.cn'
   - '+.rctxtjp.cn'
   - '+.rctxubn.cn'
@@ -123475,6 +123488,7 @@ payload:
   - '+.tutotrack.com'
   - '+.tutula.biz'
   - '+.tutvp.com'
+  - '+.tuuihea.top'
   - '+.tuvene.com'
   - '+.tuwhuthoru.com'
   - '+.tuwo-audio.cn'
@@ -130089,6 +130103,7 @@ payload:
   - '+.xgdhmwbgilx.com'
   - '+.xgdhxgznp.com'
   - '+.xggayd.thecolouredhouse.nl'
+  - '+.xglryxd.cn'
   - '+.xgmc6lu8fs.me'
   - '+.xgogi.com'
   - '+.xgraph.net'
@@ -130301,6 +130316,7 @@ payload:
   - '+.xiongzhangad.com'
   - '+.xioodnxc1p1a.com'
   - '+.xiqgqftva.com'
+  - '+.xiqqq.com'
   - '+.xiqvza.dickblick.com'
   - '+.xisea.top'
   - '+.xispmyctc.xyz'

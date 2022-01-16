@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:08
+# UPDATED: 2022-01-17 02:10:52
 # DOMAIN: 46348
-# DOMAIN-SUFFIX: 76193
+# DOMAIN-SUFFIX: 76208
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 122800
+# TOTAL: 122815
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -57495,6 +57495,7 @@ payload:
   - DOMAIN-SUFFIX,ayahtyros.com
   - DOMAIN-SUFFIX,ayandns.com
   - DOMAIN-SUFFIX,ayazsth.cn
+  - DOMAIN-SUFFIX,aybnn.cn
   - DOMAIN-SUFFIX,ayboll.com
   - DOMAIN-SUFFIX,ayc0zsm69431gfebd.info
   - DOMAIN-SUFFIX,ayc0zsm69431gfebd.xyz
@@ -63471,6 +63472,7 @@ payload:
   - DOMAIN-SUFFIX,cmads.sv.publicus.com
   - DOMAIN-SUFFIX,cmads.us.publicus.com
   - DOMAIN-SUFFIX,cmadserver.de
+  - DOMAIN-SUFFIX,cmall.club
   - DOMAIN-SUFFIX,cmap.alibaba.com
   - DOMAIN-SUFFIX,cmass.massmedian.co.jp
   - DOMAIN-SUFFIX,cmaxisolation.com
@@ -65800,6 +65802,7 @@ payload:
   - DOMAIN-SUFFIX,cybook.fun
   - DOMAIN-SUFFIX,cybugim4bdzqhwl.ru
   - DOMAIN-SUFFIX,cycalaky.xyz
+  - DOMAIN-SUFFIX,cyccy.cn
   - DOMAIN-SUFFIX,cyck.top
   - DOMAIN-SUFFIX,cyclim.com
   - DOMAIN-SUFFIX,cyclobenzaprine.1.p2l.info
@@ -70010,6 +70013,7 @@ payload:
   - DOMAIN-SUFFIX,ecai.info
   - DOMAIN-SUFFIX,ecapolefud.com
   - DOMAIN-SUFFIX,ecard4all.com
+  - DOMAIN-SUFFIX,eccbb.com
   - DOMAIN-SUFFIX,eccehkho.com
   - DOMAIN-SUFFIX,ecconcier.com
   - DOMAIN-SUFFIX,ece8c2alhz.ru
@@ -71794,6 +71798,7 @@ payload:
   - DOMAIN-SUFFIX,exemix.com
   - DOMAIN-SUFFIX,exemplarfilthy.com
   - DOMAIN-SUFFIX,exercially.mobi
+  - DOMAIN-SUFFIX,exgrao.cn
   - DOMAIN-SUFFIX,exgt.xyz
   - DOMAIN-SUFFIX,exhaustedannulmentaccredited.com
   - DOMAIN-SUFFIX,exhaustedgemini.com
@@ -74455,6 +74460,7 @@ payload:
   - DOMAIN-SUFFIX,gardoult.com
   - DOMAIN-SUFFIX,gardourd.com
   - DOMAIN-SUFFIX,garean.vn
+  - DOMAIN-SUFFIX,gareena.vn
   - DOMAIN-SUFFIX,garena.fan
   - DOMAIN-SUFFIX,garenamembers.com
   - DOMAIN-SUFFIX,garera.vn
@@ -74522,6 +74528,7 @@ payload:
   - DOMAIN-SUFFIX,gb686.cn
   - DOMAIN-SUFFIX,gbaseby.ru
   - DOMAIN-SUFFIX,gbbcraf.cn
+  - DOMAIN-SUFFIX,gbcvbnv5.com
   - DOMAIN-SUFFIX,gbeik.com
   - DOMAIN-SUFFIX,gbfeexoyo.com
   - DOMAIN-SUFFIX,gbfgvzfcjfs.com
@@ -76729,6 +76736,7 @@ payload:
   - DOMAIN-SUFFIX,hanhaiedu.tech
   - DOMAIN-SUFFIX,hanhooo.cn
   - DOMAIN-SUFFIX,hanju18.net
+  - DOMAIN-SUFFIX,hanjw1988.com
   - DOMAIN-SUFFIX,hanmiyong.com
   - DOMAIN-SUFFIX,hannist.com
   - DOMAIN-SUFFIX,hannode.xyz
@@ -84008,6 +84016,7 @@ payload:
   - DOMAIN-SUFFIX,leejongsuk.top
   - DOMAIN-SUFFIX,leeleo.top
   - DOMAIN-SUFFIX,leelightning.com
+  - DOMAIN-SUFFIX,leelovelwj.com
   - DOMAIN-SUFFIX,leeryabdomencares.com
   - DOMAIN-SUFFIX,leerymeasurejam.com
   - DOMAIN-SUFFIX,leetmedia.com
@@ -93485,6 +93494,7 @@ payload:
   - DOMAIN-SUFFIX,ojpem.com
   - DOMAIN-SUFFIX,ojpweezvce.com
   - DOMAIN-SUFFIX,ojrq.net
+  - DOMAIN-SUFFIX,ojtqzxu.cn
   - DOMAIN-SUFFIX,ojues.com
   - DOMAIN-SUFFIX,ojwejqeqvxn.xyz
   - DOMAIN-SUFFIX,ojxgmgvpfad.top
@@ -99639,9 +99649,11 @@ payload:
   - DOMAIN-SUFFIX,rctxijo.cn
   - DOMAIN-SUFFIX,rctxiqx.cn
   - DOMAIN-SUFFIX,rctxjbv.cn
+  - DOMAIN-SUFFIX,rctxlac.cn
   - DOMAIN-SUFFIX,rctxmbr.cn
   - DOMAIN-SUFFIX,rctxpks.cn
   - DOMAIN-SUFFIX,rctxprz.cn
+  - DOMAIN-SUFFIX,rctxsbw.cn
   - DOMAIN-SUFFIX,rctxsrv.cn
   - DOMAIN-SUFFIX,rctxtjp.cn
   - DOMAIN-SUFFIX,rctxubn.cn
@@ -113763,6 +113775,7 @@ payload:
   - DOMAIN-SUFFIX,tutorthing.com
   - DOMAIN-SUFFIX,tutula.biz
   - DOMAIN-SUFFIX,tutvp.com
+  - DOMAIN-SUFFIX,tuuihea.top
   - DOMAIN-SUFFIX,tuvene.com
   - DOMAIN-SUFFIX,tuwhuthoru.com
   - DOMAIN-SUFFIX,tuwo-audio.cn
@@ -119512,6 +119525,7 @@ payload:
   - DOMAIN-SUFFIX,xgcsr.com
   - DOMAIN-SUFFIX,xgdhmwbgilx.com
   - DOMAIN-SUFFIX,xgdhxgznp.com
+  - DOMAIN-SUFFIX,xglryxd.cn
   - DOMAIN-SUFFIX,xgmc6lu8fs.me
   - DOMAIN-SUFFIX,xgogi.com
   - DOMAIN-SUFFIX,xgraph.net
@@ -119714,6 +119728,7 @@ payload:
   - DOMAIN-SUFFIX,xiongyin.com
   - DOMAIN-SUFFIX,xiongzhangad.com
   - DOMAIN-SUFFIX,xiqgqftva.com
+  - DOMAIN-SUFFIX,xiqqq.com
   - DOMAIN-SUFFIX,xiqvza.dickblick.com
   - DOMAIN-SUFFIX,xisea.top
   - DOMAIN-SUFFIX,xispmyctc.xyz

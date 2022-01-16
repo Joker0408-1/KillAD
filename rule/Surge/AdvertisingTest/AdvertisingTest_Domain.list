@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:05
+# UPDATED: 2022-01-17 02:10:49
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45134
-# DOMAIN-SUFFIX: 88301
+# DOMAIN-SUFFIX: 88317
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 133996
+# TOTAL: 134012
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -58021,6 +58021,7 @@ zzzrtrcm2.com
 .ayahtyros.com
 .ayandns.com
 .ayazsth.cn
+.aybnn.cn
 .ayboll.com
 .ayc0zsm69431gfebd.info
 .ayc0zsm69431gfebd.xyz
@@ -63880,6 +63881,7 @@ zzzrtrcm2.com
 .chordeez.net
 .chosensoothespeechless.com
 .chouftak.net
+.choujimai.top
 .choupsee.com
 .chpfgx.com
 .chpok.pw
@@ -64860,6 +64862,7 @@ zzzrtrcm2.com
 .cmads.sv.publicus.com
 .cmads.us.publicus.com
 .cmadserver.de
+.cmall.club
 .cmap.alibaba.com
 .cmass.massmedian.co.jp
 .cmaxisolation.com
@@ -67529,6 +67532,7 @@ zzzrtrcm2.com
 .cybook.fun
 .cybugim4bdzqhwl.ru
 .cycalaky.xyz
+.cyccy.cn
 .cyck.top
 .cyclim.com
 .cyclobenzaprine.1.p2l.info
@@ -72245,6 +72249,7 @@ zzzrtrcm2.com
 .ecapolefud.com
 .ecard.shenzhentong.com
 .ecard4all.com
+.eccbb.com
 .eccehkho.com
 .ecconcier.com
 .ecctjf.leroymerlin.com.br
@@ -74379,6 +74384,7 @@ zzzrtrcm2.com
 .exemplarfilthy.com
 .exercially.mobi
 .exercisely.club
+.exgrao.cn
 .exgt.xyz
 .exhaustedannulmentaccredited.com
 .exhaustedgemini.com
@@ -77445,6 +77451,7 @@ zzzrtrcm2.com
 .gardoult.com
 .gardourd.com
 .garean.vn
+.gareena.vn
 .garena-members.com
 .garena.fan
 .garenamembers.com
@@ -77524,6 +77531,7 @@ zzzrtrcm2.com
 .gb686.cn
 .gbaseby.ru
 .gbbcraf.cn
+.gbcvbnv5.com
 .gbeik.com
 .gbfeexoyo.com
 .gbfgvzfcjfs.com
@@ -80069,6 +80077,7 @@ zzzrtrcm2.com
 .hanhaiedu.tech
 .hanhooo.cn
 .hanju18.net
+.hanjw1988.com
 .hanmiyong.com
 .hannist.com
 .hannode.xyz
@@ -88305,6 +88314,7 @@ zzzrtrcm2.com
 .leejongsuk.top
 .leeleo.top
 .leelightning.com
+.leelovelwj.com
 .leeryabdomencares.com
 .leerymeasurejam.com
 .leetmedia.com
@@ -99550,6 +99560,7 @@ zzzrtrcm2.com
 .ojpem.com
 .ojpweezvce.com
 .ojrq.net
+.ojtqzxu.cn
 .ojues.com
 .ojwd63thskiz.com
 .ojwebb.vivaaerobus.com
@@ -106629,9 +106640,11 @@ zzzrtrcm2.com
 .rctxijo.cn
 .rctxiqx.cn
 .rctxjbv.cn
+.rctxlac.cn
 .rctxmbr.cn
 .rctxpks.cn
 .rctxprz.cn
+.rctxsbw.cn
 .rctxsrv.cn
 .rctxtjp.cn
 .rctxubn.cn
@@ -123476,6 +123489,7 @@ zzzrtrcm2.com
 .tutotrack.com
 .tutula.biz
 .tutvp.com
+.tuuihea.top
 .tuvene.com
 .tuwhuthoru.com
 .tuwo-audio.cn
@@ -130090,6 +130104,7 @@ zzzrtrcm2.com
 .xgdhmwbgilx.com
 .xgdhxgznp.com
 .xggayd.thecolouredhouse.nl
+.xglryxd.cn
 .xgmc6lu8fs.me
 .xgogi.com
 .xgraph.net
@@ -130302,6 +130317,7 @@ zzzrtrcm2.com
 .xiongzhangad.com
 .xioodnxc1p1a.com
 .xiqgqftva.com
+.xiqqq.com
 .xiqvza.dickblick.com
 .xisea.top
 .xispmyctc.xyz

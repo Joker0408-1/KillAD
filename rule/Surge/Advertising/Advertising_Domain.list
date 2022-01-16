@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:05
+# UPDATED: 2022-01-17 02:10:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 46348
-# DOMAIN-SUFFIX: 76193
+# DOMAIN-SUFFIX: 76208
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 123102
+# TOTAL: 123117
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -57496,6 +57496,7 @@ zzzrtrcm2.com
 .ayahtyros.com
 .ayandns.com
 .ayazsth.cn
+.aybnn.cn
 .ayboll.com
 .ayc0zsm69431gfebd.info
 .ayc0zsm69431gfebd.xyz
@@ -63472,6 +63473,7 @@ zzzrtrcm2.com
 .cmads.sv.publicus.com
 .cmads.us.publicus.com
 .cmadserver.de
+.cmall.club
 .cmap.alibaba.com
 .cmass.massmedian.co.jp
 .cmaxisolation.com
@@ -65801,6 +65803,7 @@ zzzrtrcm2.com
 .cybook.fun
 .cybugim4bdzqhwl.ru
 .cycalaky.xyz
+.cyccy.cn
 .cyck.top
 .cyclim.com
 .cyclobenzaprine.1.p2l.info
@@ -70011,6 +70014,7 @@ zzzrtrcm2.com
 .ecai.info
 .ecapolefud.com
 .ecard4all.com
+.eccbb.com
 .eccehkho.com
 .ecconcier.com
 .ece8c2alhz.ru
@@ -71795,6 +71799,7 @@ zzzrtrcm2.com
 .exemix.com
 .exemplarfilthy.com
 .exercially.mobi
+.exgrao.cn
 .exgt.xyz
 .exhaustedannulmentaccredited.com
 .exhaustedgemini.com
@@ -74456,6 +74461,7 @@ zzzrtrcm2.com
 .gardoult.com
 .gardourd.com
 .garean.vn
+.gareena.vn
 .garena.fan
 .garenamembers.com
 .garera.vn
@@ -74523,6 +74529,7 @@ zzzrtrcm2.com
 .gb686.cn
 .gbaseby.ru
 .gbbcraf.cn
+.gbcvbnv5.com
 .gbeik.com
 .gbfeexoyo.com
 .gbfgvzfcjfs.com
@@ -76730,6 +76737,7 @@ zzzrtrcm2.com
 .hanhaiedu.tech
 .hanhooo.cn
 .hanju18.net
+.hanjw1988.com
 .hanmiyong.com
 .hannist.com
 .hannode.xyz
@@ -84009,6 +84017,7 @@ zzzrtrcm2.com
 .leejongsuk.top
 .leeleo.top
 .leelightning.com
+.leelovelwj.com
 .leeryabdomencares.com
 .leerymeasurejam.com
 .leetmedia.com
@@ -93486,6 +93495,7 @@ zzzrtrcm2.com
 .ojpem.com
 .ojpweezvce.com
 .ojrq.net
+.ojtqzxu.cn
 .ojues.com
 .ojwejqeqvxn.xyz
 .ojxgmgvpfad.top
@@ -99640,9 +99650,11 @@ zzzrtrcm2.com
 .rctxijo.cn
 .rctxiqx.cn
 .rctxjbv.cn
+.rctxlac.cn
 .rctxmbr.cn
 .rctxpks.cn
 .rctxprz.cn
+.rctxsbw.cn
 .rctxsrv.cn
 .rctxtjp.cn
 .rctxubn.cn
@@ -113764,6 +113776,7 @@ zzzrtrcm2.com
 .tutorthing.com
 .tutula.biz
 .tutvp.com
+.tuuihea.top
 .tuvene.com
 .tuwhuthoru.com
 .tuwo-audio.cn
@@ -119513,6 +119526,7 @@ zzzrtrcm2.com
 .xgcsr.com
 .xgdhmwbgilx.com
 .xgdhxgznp.com
+.xglryxd.cn
 .xgmc6lu8fs.me
 .xgogi.com
 .xgraph.net
@@ -119715,6 +119729,7 @@ zzzrtrcm2.com
 .xiongyin.com
 .xiongzhangad.com
 .xiqgqftva.com
+.xiqqq.com
 .xiqvza.dickblick.com
 .xisea.top
 .xispmyctc.xyz
