@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:10
-# DOMAIN-SUFFIX: 36085
+# UPDATED: 2022-01-18 02:11:31
+# DOMAIN-SUFFIX: 36086
 # DOMAIN: 30
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # DOMAIN-KEYWORD: 6
-# TOTAL: 37396
+# TOTAL: 37397
 payload:
   - 'api-p014.ribob01.net'
   - 'api.okzy.tv'
@@ -15346,6 +15346,7 @@ payload:
   - '+.hustlercash.com'
   - '+.hustlerstore.com'
   - '+.hut2.ru'
+  - '+.hutao.cloud'
   - '+.hutianyi.net'
   - '+.hutong9.net'
   - '+.hutpromos.com'

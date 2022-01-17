@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:05
-# DOMAIN-SUFFIX: 34119
+# UPDATED: 2022-01-18 02:11:27
+# DOMAIN-SUFFIX: 34120
 # USER-AGENT: 10
 # DOMAIN: 20
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34240
+# TOTAL: 34241
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -14489,6 +14489,7 @@ widgets.stripst.com
 .hustlercash.com
 .hustlerstore.com
 .hut2.ru
+.hutao.cloud
 .hutianyi.net
 .hutong9.net
 .hutpromos.com

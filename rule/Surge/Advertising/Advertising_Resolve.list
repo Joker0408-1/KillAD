@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-17 02:10:48
+# UPDATED: 2022-01-18 02:11:26
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 46348
-# DOMAIN-SUFFIX: 76208
+# DOMAIN: 46358
+# DOMAIN-SUFFIX: 76225
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 123117
+# TOTAL: 123144
 DOMAIN-KEYWORD,stsdk.vivo.com.cn
 DOMAIN-KEYWORD,stsdk.vivoglobal.com
 IP-CIDR,1.3.0.10/32

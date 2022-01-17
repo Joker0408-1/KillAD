@@ -1,12 +1,12 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:09
-# DOMAIN-SUFFIX: 34119
+# UPDATED: 2022-01-18 02:11:31
+# DOMAIN-SUFFIX: 34120
 # DOMAIN: 20
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34230
+# TOTAL: 34231
 payload:
   - 'api-p.videomarket.jp'
   - 'apip.videomarket.jp'
@@ -14489,6 +14489,7 @@ payload:
   - '+.hustlercash.com'
   - '+.hustlerstore.com'
   - '+.hut2.ru'
+  - '+.hutao.cloud'
   - '+.hutianyi.net'
   - '+.hutong9.net'
   - '+.hutpromos.com'

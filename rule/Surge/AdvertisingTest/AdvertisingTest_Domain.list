@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-17 02:10:49
+# UPDATED: 2022-01-18 02:11:26
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 45134
-# DOMAIN-SUFFIX: 88317
+# DOMAIN: 45145
+# DOMAIN-SUFFIX: 88334
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 134012
+# TOTAL: 134040
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -10282,6 +10282,7 @@ dajlkvplxyzbsa.com
 dajoetsja.com
 dakselbilisim.com
 dakshatamatrimony.com
+dalj98ktasppa.cloudfront.net
 dalqybwdy.com
 daltontrail.com
 daltontvrepair.com
@@ -11950,6 +11951,7 @@ dzaphjajrisgr.com
 dzaqzgjsot.com
 dzbk.dhxctzx.com
 dzblysulli.com
+dzbx8qv1at614.cloudfront.net
 dzcx04lyk9hjp.cloudfront.net
 dzdfmwaztrrm.com
 dzenastrology.com
@@ -12011,6 +12013,7 @@ e.freewebhostingarea.com
 e.invodo.com
 e.mtraction.com
 e.thanksearch.com
+e.xsm98e.cn
 e09f3e4ceda.com
 e0yp21.cn
 e1-rayan.com
@@ -12257,6 +12260,7 @@ edxosrcvydn.com
 edxvyyywsxqh.com
 edyjiqxeppjkj.com
 ee.update.ref086.com
+ee.x8r9m.cn
 eeagxonnsoggq.com
 eeamatyc.com
 eebbfcwspe.com
@@ -21389,6 +21393,7 @@ jrvtmfxkkl.com
 jrwlxwypmgvk.com
 jryyekccnw.com
 jryywrczwcfmw.com
+js-ad.a.yximgs.com
 js-cd.mmtcdn.com
 js.admngr.com
 js.adpremium.org
@@ -24100,6 +24105,7 @@ m.x36ur.cn
 m.x51se.cn
 m.x6z9w.cn
 m.xmmh.pw
+m.xsm98e.cn
 m.y0k8h.cn
 m.yubomiaomu.cn
 m.yyfymj.com
@@ -25527,6 +25533,7 @@ mobileandroidapi.punchh.com
 mobileapi.mobiquitynetworks.com
 mobilebouncingcastle.com
 mobileclientservice.com
+mobiledl.adobe.com
 mobilegamehackers.com
 mobilehacks.net
 mobilehacks4u.com
@@ -28191,6 +28198,7 @@ ojvwpiqnmecd.com
 ojwgkxcgdhvacc.com
 ojwmlieqguqg.com
 ojxzmlgl.com
+ok.4qn9c.cn
 okaeetrzjyvx.com
 okasfshomqmg.com
 okay-dating.com
@@ -30237,6 +30245,7 @@ pnwhrmyit.com
 pnzamawzgw.com
 pnzchguyctrsyb.com
 po.fyybox.com
+po.jiangchangbo.com
 poaulpos.net
 poaurtor.com
 poaxupoqbw.com
@@ -33290,6 +33299,7 @@ ryxpmonwqeg.com
 ryybhoklizmuew.com
 ryylc.q8w4gxhjn.com
 rz.news-subscribe.com
+rz.w8r4q.cn
 rzbbcjnrsbk.com
 rzbozucqgmostr.com
 rzbsvyigbwip.com
@@ -33823,6 +33833,7 @@ sdk.touchcast.com
 sdk.vl1.mobi
 sdk.wappier.com
 sdk2.ibm.xtify.com
+sdk2.youguoquan.com
 sdk3.ibm.xtify.com
 sdkangjie.com
 sdkstatic.onemt.co
@@ -35828,7 +35839,6 @@ statecannoticed.com
 statelead.com
 stateofjesus.com
 stateoluxzac.com
-static-cnt.bid
 static.127777.com
 static.2mdnsys.com
 static.4chan-ads.org
@@ -39953,6 +39963,7 @@ uzxzkkyzb.com
 uzylpwfamhcb.com
 v-dubisland.com
 v-voice.com
+v.37uta.cn
 v.actionx.com
 v.bsvideos.com
 v.gougeyy.com
@@ -48003,6 +48014,7 @@ zzzrtrcm2.com
 .99tuan.com.cn
 .99youmeng.com
 .9a24a1b3dcd5f4.com
+.9a2a0fe656.com
 .9a6wb.cn
 .9a9j.cn
 .9aaeea3094d8.com
@@ -48311,6 +48323,7 @@ zzzrtrcm2.com
 .a.thexfactorusa.com
 .a.thn21.com
 .a.tiyuxiu.com
+.a.tn.token-ad.com
 .a.tovarro.com
 .a.trk-imps.com
 .a.trkimps.com
@@ -50682,7 +50695,6 @@ zzzrtrcm2.com
 .adexprts.com
 .adexprtz.com
 .adext.inkclub.com
-.adextensioncontrol.tudou.com
 .adextent.com
 .adextra.51wnl-cq.com
 .adextrem.com
@@ -52887,7 +52899,6 @@ zzzrtrcm2.com
 .adservice.sigmob.cn
 .adservice.tohsoft.com
 .adservicemedia.dk
-.adserviceretry.kglink.cn
 .adserviceretry.kugou.com
 .adservices.brandcdn.com
 .adserving.de
@@ -56478,7 +56489,6 @@ zzzrtrcm2.com
 .api.xk.miui.com
 .api.youqian.baidu.com
 .api.youtu.qq.com
-.api.yp.com
 .api.zol.com
 .api.ztgm17.ru
 .api1.888zy.cn
@@ -57574,6 +57584,7 @@ zzzrtrcm2.com
 .attacketsun.space
 .attackscabbagevengeance.com
 .attantarow.ru
+.attemptinghorace.com
 .attendantsteakfax.com
 .attentionsauditoriummall.com
 .attenuatecripple.com
@@ -58454,6 +58465,7 @@ zzzrtrcm2.com
 .baiduccdn1.com
 .baiducdncmn-gd.inter.iqiyi.com
 .baiducdncmn.inter.iqiyi.com
+.baiducdncmn3.inter.iqiyi.com
 .baiduimageqqcom.com
 .baidujavascript.com
 .baidujs.cnys.com
@@ -58977,6 +58989,7 @@ zzzrtrcm2.com
 .basknausea.com
 .basnn14.com
 .basnn15.com
+.basnn16.com
 .bass.kidneystonediet.com
 .bass.siterig.io
 .bastingestival.com
@@ -59887,7 +59900,6 @@ zzzrtrcm2.com
 .bewailindigestionunhappy.com
 .bewaslac.com
 .bewaycare.com
-.bewhoyouare.gq
 .bewilderedbattle.com
 .bewilderedblade.com
 .bexakezi.com
@@ -60900,6 +60912,7 @@ zzzrtrcm2.com
 .bonne-terre-data-layer.com
 .bonneterredatalayer.com
 .bonnieradnetwork.se
+.bonnilytooths.com
 .bonsai.internetbrands.com
 .bontech-zh.com
 .bontent.powvideo.net
@@ -63011,6 +63024,7 @@ zzzrtrcm2.com
 .cdn.civicscience.com
 .cdn.clerk.io
 .cdn.clinch.co
+.cdn.cnbj1.fds.api.mi-img.com
 .cdn.comedia.coccoc.com
 .cdn.constafun.com
 .cdn.convertbox.com
@@ -63021,7 +63035,6 @@ zzzrtrcm2.com
 .cdn.dragonstatic.com
 .cdn.driveback.ru
 .cdn.epommarket.com
-.cdn.fedsy.xyz
 .cdn.fotoable.com
 .cdn.freefaits.com
 .cdn.freefarcy.com
@@ -63092,7 +63105,6 @@ zzzrtrcm2.com
 .cdn.sports-streams-online.xyz
 .cdn.sportsstreamsonline.club
 .cdn.sportsstreamsonline.xyz
-.cdn.static-cnt.bid
 .cdn.staticcnt.bid
 .cdn.steambets.net
 .cdn.surroundtm.com
@@ -65721,6 +65733,7 @@ zzzrtrcm2.com
 .configuration.ttpsdk.info
 .confirm-referer.glrsales.com
 .confirmational.com
+.confirmationviewsyowl.com
 .confirmic.com
 .confirmit.com
 .confirmlyr.xyz
@@ -66356,7 +66369,6 @@ zzzrtrcm2.com
 .count6.pconline.com.cn
 .countante.info
 .countar.de
-.countatm.cp12.wasu.tv
 .countby.com
 .counted.com
 .counter-city.de
@@ -67895,9 +67907,7 @@ zzzrtrcm2.com
 .d23p9gffjvre9v.cloudfront.net
 .d23pi6hvdpcc5i.cloudfront.net
 .d23xhr62nxa8qo.cloudfront.net
-.d2405b0jymm2dk.cloudfront.net
 .d240937yockcdo.cloudfront.net
-.d24afgsm39csxt.cloudfront.net
 .d24ak3f2b.top
 .d24cze5sab2jwg.cloudfront.net
 .d24g87zbxr4yiz.cloudfront.net
@@ -67963,7 +67973,6 @@ zzzrtrcm2.com
 .d2j042cj1421wi.cloudfront.net
 .d2j1fszo1axgmp.cloudfront.net
 .d2j3te7y7s8xxp.cloudfront.net
-.d2jn12r3o7an7z.cloudfront.net
 .d2k487jakgs1mb.cloudfront.net
 .d2k7b1tjy36ro0.cloudfront.net
 .d2kadvyeq051an.cloudfront.net
@@ -68440,7 +68449,6 @@ zzzrtrcm2.com
 .dalianruosen.com
 .daliantong.com.cn
 .dalingjia.ren
-.dalj98ktasppa.cloudfront.net
 .daljntupdaoejb.com
 .dallavel.com
 .dalseeds.net
@@ -68969,6 +68977,7 @@ zzzrtrcm2.com
 .ddapp.cn
 .ddb0c3b17298fd1.com
 .ddcfzd.com
+.ddd.1sapp.com
 .ddd.haodizhi666.com
 .ddd.yuyouge.com
 .dddddd.net
@@ -70106,6 +70115,7 @@ zzzrtrcm2.com
 .dist.belnk.com
 .distancefinger.com
 .distantnews.com
+.distastefulsoloist.com
 .distemshu.biz
 .distf.kankan.com
 .disticked.club
@@ -71514,7 +71524,6 @@ zzzrtrcm2.com
 .dz5bomaog2c5t.cloudfront.net
 .dzais.com
 .dzbrr144kh0m6.cloudfront.net
-.dzbx8qv1at614.cloudfront.net
 .dzctkjj.cn
 .dzd9.cn
 .dzdkw9.cn
@@ -71821,7 +71830,6 @@ zzzrtrcm2.com
 .e.xikdn.com
 .e.xkqpco.com.com
 .e.xm0t2f.cn
-.e.xsm98e.cn
 .e.y23zpl.cn
 .e.yangjingbang.net
 .e.ycuoj.com
@@ -72520,7 +72528,6 @@ zzzrtrcm2.com
 .ee.wv26d.cn
 .ee.wz382.cn
 .ee.x0u4o.cn
-.ee.x8r9m.cn
 .ee.xq375.cn
 .ee.xr883.cn
 .ee.zowmgxpz.cn
@@ -72844,6 +72851,7 @@ zzzrtrcm2.com
 .elites001.com
 .elitetoplist.com
 .elitics.com
+.elitistrawirresistible.com
 .elitsearch.com
 .elivescousingcr.info
 .elizabledy.club
@@ -75241,6 +75249,7 @@ zzzrtrcm2.com
 .fedethezo.pro
 .fedsdq.com
 .fedsit.com
+.fedsy.xyz
 .feductius.com
 .fedup.tv
 .feduthobi.com
@@ -75417,12 +75426,15 @@ zzzrtrcm2.com
 .fexzuf.com
 .feyl4mh5to.com
 .feyxyguwy.com
+.ff-member-ganena.com
 .ff-members-garena.vn
 .ff-membership-garena.com
 .ff.astv.ru
+.ff.garena.memmbershipp.com
 .ff.guidaye.com
 .ff.imacdn.com
 .ff.meikanguo.com
+.ff.member.garenae.vn
 .ff.nsg.org.ua
 .ff.qichetansuo.com
 .ff.xue163.net
@@ -75450,6 +75462,7 @@ zzzrtrcm2.com
 .ffjk.space
 .ffkdxymyji.com
 .fflsn.com
+.ffmemberganena.com
 .ffmembersgarena.vn
 .ffmembershipgarena.com
 .ffmobi.com
@@ -75741,6 +75754,7 @@ zzzrtrcm2.com
 .fishermanmartial.com
 .fishhoo.com
 .fishkekcamp.info
+.fishyscalpelweight.com
 .fisoes.com
 .fistcartyped.casa
 .fistofzeus.com
@@ -75879,6 +75893,7 @@ zzzrtrcm2.com
 .flatcapspriggy.cam
 .flatepicbats.com
 .flatlyforensics.com
+.flaxierfilmset.com
 .flaxseedssoenrh4372ojd.com
 .flbmfc.com
 .flbox.net
@@ -76366,6 +76381,7 @@ zzzrtrcm2.com
 .fpb.sohu.com
 .fpb1.apple886.com
 .fpb1.gxfin.com
+.fpb1.qicaixianhua.com
 .fpb1.tabuzhe.com
 .fpb8.esce.fr
 .fpbb.aizhan.com
@@ -79703,6 +79719,7 @@ zzzrtrcm2.com
 .gvwan.cn
 .gvyyri.major-auto.ru
 .gw-analytics.panasonic.com
+.gw.365you.com
 .gw.d.ywopt.com
 .gw069.com
 .gw100-10.com
@@ -80108,6 +80125,7 @@ zzzrtrcm2.com
 .haoerer.cn
 .haogame.me
 .haoghost.com
+.haogo.cc
 .haohaowan8.com
 .haoinn.top
 .haojun.info
@@ -80369,6 +80387,7 @@ zzzrtrcm2.com
 .hcjpbc.snowboarder.com
 .hcjpbc.usmagazine.com
 .hcmages.carte-gr.total.fr
+.hcnegb.cn
 .hconsukulti.co
 .hcqyek.miuz.ru
 .hcreditx.com
@@ -82309,7 +82328,6 @@ zzzrtrcm2.com
 .i5iog3mlrw.com
 .i62e2b4mfy.com
 .i6h1x9ss5wtv.ru
-.i8.i8ggwm.com
 .i8023.icu
 .i864ekhq.com
 .i87b3.cn
@@ -82671,6 +82689,7 @@ zzzrtrcm2.com
 .igas.com.ua
 .igcdnnu.com
 .igdgsfa.pro
+.igdxzzeglrlqm.ru
 .igehuo.com
 .igetsend.ru
 .igetui.com
@@ -84616,6 +84635,7 @@ zzzrtrcm2.com
 .is-tracking-pixel-api-prod.appspot.com
 .is.base.de
 .is.sabah.com.tr
+.is.snssdk.com
 .is686.com
 .isabelisa.com
 .isanalyze.com
@@ -85067,6 +85087,7 @@ zzzrtrcm2.com
 .javascriptcounter.appspot.com
 .javblow.com
 .javbucks.com
+.javgg.eu
 .javhd.com
 .javoyynu.xyz
 .jawholeminable.com
@@ -86581,6 +86602,7 @@ zzzrtrcm2.com
 .karinart.de
 .karma.mdpcdn.com
 .karonty.com
+.karteljackal.com
 .karuna4u.com
 .kasa.m.biqubao.com
 .kasaze.babosarang.co.kr
@@ -88170,6 +88192,7 @@ zzzrtrcm2.com
 .ldrummaroise.club
 .lds.lenovomm.com
 .lds.zui.com
+.ldsage.top
 .ldserv01.adtech.fr
 .ldserv01.adtech.us
 .ldserv02.adtech.fr
@@ -91126,7 +91149,6 @@ zzzrtrcm2.com
 .m.xrum.info
 .m.xs222.com
 .m.xsk5j.cn
-.m.xsm98e.cn
 .m.xuwm6.cn
 .m.y195j.cn
 .m.y7s6ro.cn
@@ -91326,6 +91348,7 @@ zzzrtrcm2.com
 .madite.info
 .madmanbears.com
 .madmen.alastonsuomi.com
+.madmen2.alastonsuomi.com
 .madmini.com
 .madnet.ru
 .madplypie.club
@@ -94888,6 +94911,7 @@ zzzrtrcm2.com
 .milestonetelephone.com
 .miliatedvictions.xyz
 .milibao.com
+.militanttrial.com
 .militaryverse.com
 .milk.supertool.stunnermedia.com
 .milk.yesky.com.cn
@@ -95538,7 +95562,6 @@ zzzrtrcm2.com
 .mobilecore.com
 .mobiledissector.com
 .mobiledl.adboe.com
-.mobiledl.adobe.com
 .mobilefuse.com
 .mobilehdmi.com
 .mobileleads.msn.com
@@ -96034,7 +96057,6 @@ zzzrtrcm2.com
 .mp.5.p2l.info
 .mp.cheering3d.com
 .mp.miaomiaojia.cc
-.mp.nextmedia.com
 .mp.sijiaopingtai.com
 .mp.subservis.com
 .mp3.haogeba.com
@@ -97901,6 +97923,7 @@ zzzrtrcm2.com
 .nh738.cn
 .nhacainbet.club
 .nhacaisodo.net
+.nhanquaffob31.com
 .nhanthuong88.com
 .nhat.game
 .nhatvip.net
@@ -99568,7 +99591,6 @@ zzzrtrcm2.com
 .ojxgmgvpfad.top
 .ok-app.online
 .ok.432kkk.com
-.ok.4qn9c.cn
 .ok.5.p2l.info
 .ok365.com
 .ok9ydq.ru
@@ -101267,6 +101289,7 @@ zzzrtrcm2.com
 .paincake.yoll.net
 .painfullyneattide.com
 .painiuimg.com
+.painlessassumedbeing.com
 .painmidsummer.com
 .painolympics.info
 .painolympics.org
@@ -101851,7 +101874,6 @@ zzzrtrcm2.com
 .pds-midea.com
 .pdsjycm.com
 .pdss.xyz
-.pdst.fm
 .pdsxp.cn
 .pdvacde.com
 .pdxgfnnoan.com
@@ -102486,6 +102508,7 @@ zzzrtrcm2.com
 .pic.ea3w.com
 .pic.fengniao.com
 .pic.haowj.com.cn
+.pic.imgdb.cn
 .pic.jd-bbs.com
 .pic.jdbbs.com
 .pic.jdunion.com
@@ -103308,7 +103331,6 @@ zzzrtrcm2.com
 .pnxs.com
 .po-cloud.net
 .po.funshion.com
-.po.jiangchangbo.com
 .po.ponant.com
 .po18.in
 .poacawhe.net
@@ -106626,6 +106648,7 @@ zzzrtrcm2.com
 .rcmimages.amazon.com
 .rcmit.amazon.it
 .rcn.asapp.com
+.rcnnqsd.cn
 .rconand.club
 .rcounter.rambler.ru
 .rcp.evolok.net
@@ -106635,6 +106658,7 @@ zzzrtrcm2.com
 .rcqiho.emp.de
 .rcsadv.it
 .rcsmetrics.it
+.rctxada.cn
 .rctxcsi.cn
 .rctxczy.cn
 .rctxijo.cn
@@ -108581,6 +108605,7 @@ zzzrtrcm2.com
 .rtserversp.fun
 .rtslgov.cn
 .rttxcxvq.top
+.rtwupfly.com
 .rtxplatform.com
 .rtxpx-a.akamaihd.net
 .rtxpxa.akamaihd.net
@@ -108829,7 +108854,6 @@ zzzrtrcm2.com
 .rywoments.info
 .ryxfyjvcdugdf.com
 .ryynoljdarrw.com
-.rz.w8r4q.cn
 .rz261.cn
 .rzajohyjxff.com
 .rzbkusrz.com
@@ -109642,6 +109666,7 @@ zzzrtrcm2.com
 .sanmiyangguang.com
 .sanspr01.net
 .santicalsse.club
+.santonpardal.com
 .santrateduk.site
 .santuforward.club
 .sanwukeji.xyz
@@ -110067,6 +110092,7 @@ zzzrtrcm2.com
 .scoutdealingdrift.com
 .scoutle.com
 .scowledmulticulturaldebauch.com
+.scowlsteering.com
 .scowpoppanasals.com
 .scqajt.cn
 .scr-tz.com
@@ -110271,7 +110297,6 @@ zzzrtrcm2.com
 .sdk.zsdfm.com
 .sdk1.ibm.xtify.com
 .sdk1.resu.io
-.sdk2.youguoquan.com
 .sdk6.ibm.xtify.com
 .sdk8.ibm.xtify.com
 .sdkapi.kookong.com
@@ -111136,6 +111161,7 @@ zzzrtrcm2.com
 .sexystat.com
 .sexzavod.com
 .seyatosan.iaigiri.com
+.seyevjpcjkcnka.com
 .seyfwl.interia.pl
 .seyfwl.maxmodels.pl
 .seyfwl.pomponik.pl
@@ -116040,6 +116066,7 @@ zzzrtrcm2.com
 .static-ads.akamaized.net
 .static-ads.zaloapp.com
 .static-cnt.bi
+.static-cnt.bid
 .static-downloads.com
 .static-google-analtyic.com
 .static-s.iqiyi.com
@@ -116078,7 +116105,6 @@ zzzrtrcm2.com
 .static.g.ppstream.com
 .static.g.pptv.com
 .static.gaomaer.cn
-.static.googeadsserving.cn
 .static.herr.io
 .static.hootsuite.com
 .static.ichehome.com
@@ -122778,7 +122804,6 @@ zzzrtrcm2.com
 .trasholita.com
 .tratefirearly.top
 .tratouler.com
-.traumasister.tk
 .traumaticnoiseless.com
 .trav4life.site
 .travangeind.club
@@ -123033,6 +123058,7 @@ zzzrtrcm2.com
 .trk.wdacashtrk.com
 .trk.wealthmanagement.com
 .trk.webhostingtalk.com
+.trk1.17admob.com
 .trk2.pinterest.com
 .trk4.com
 .trk42.net
@@ -124314,6 +124340,7 @@ zzzrtrcm2.com
 .unfrmpgqbfe.com
 .unfudgetljbf.xyz
 .unfurlyawweed.casa
+.unfzclg.cn
 .ungstlateriag.club
 .uni69.top
 .uniad.vn
@@ -125079,7 +125106,6 @@ zzzrtrcm2.com
 .v-pack.net
 .v-support.free.bg
 .v-vlog.cn
-.v.37uta.cn
 .v.76768hwj.cn
 .v.center
 .v.ckpvz.space
@@ -127557,6 +127583,7 @@ zzzrtrcm2.com
 .weddingeeos.com
 .wedeegut.net
 .wedgeac.com
+.wedgeenclosed.com
 .wedleaunocomp.work
 .wedliminat.space
 .wedneckekij.club
@@ -128276,6 +128303,7 @@ zzzrtrcm2.com
 .witsoats.net
 .witstandfridge.com
 .witthethim.com
+.wittyoffers.club
 .wivamyno.pro
 .wivo2gaza.com
 .wiwapaxo.xyz
@@ -128321,6 +128349,7 @@ zzzrtrcm2.com
 .wkfdymfxmyckr.com
 .wkjava.top
 .wkjhd.com
+.wkkjfcgjofbix.ru
 .wkll7glfazgp.com
 .wklwyt.springer.com
 .wknaczrxjrj.com
@@ -129419,7 +129448,6 @@ zzzrtrcm2.com
 .www.service.cz.nl
 .www.servitemequipos.cl
 .www.sexadvertentiesite.nl
-.www.seyevjpcjkcnka.com
 .www.sgtwilko.f9.co.uk
 .www.shaunfennings.plus.com
 .www.shinilchurch.net
@@ -129835,7 +129863,6 @@ zzzrtrcm2.com
 .x2.trk1.co
 .x25.plorp.com
 .x2l5lsn8rvsq.li.finance
-.x2sfa.javgg.eu
 .x3-policy-maker.goguardian.com
 .x3-predictor.goguardian.com
 .x316f.cn
@@ -130013,7 +130040,6 @@ zzzrtrcm2.com
 .xcycm.com
 .xcyjzs.net
 .xcyrc.com
-.xd3r.javgg.eu
 .xdadang.com
 .xdadevelopers.browsi.mobi
 .xdaoxa.footasylum.com
@@ -132173,6 +132199,7 @@ zzzrtrcm2.com
 .yuyinqs.com
 .yuyue008.cn
 .yuyueyang.cn
+.yuyyio.com
 .yvatswzotstdve.com
 .yvcjyi.beymen.com
 .yvdaeg.on-running.com
@@ -132247,7 +132274,6 @@ zzzrtrcm2.com
 .yxgfcj.com
 .yxhxs.com
 .yximgdpivguxke.com
-.yximgs.com
 .yxinf108.1e100.net
 .yxjad.com
 .yxkhpk.com
@@ -132519,6 +132545,7 @@ zzzrtrcm2.com
 .zdovrb.cn
 .zdpeanut.com
 .zdrawnews.ru
+.zdrcnx.cn
 .zdryg.com
 .zdsfnagupwkztl.com
 .zdtag.com
@@ -132966,6 +132993,7 @@ zzzrtrcm2.com
 .zkczbti.cn
 .zkdkvnzsdxge.info
 .zkfborg.cn
+.zkit.club
 .zkmhhr1fr79z.dictionary.basabali.org
 .zkmvjm.f1news.ru
 .zkqlyhwfn.com

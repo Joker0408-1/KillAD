@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-16 02:10:06
-# HOST-SUFFIX: 36085
+# UPDATED: 2022-01-18 02:11:28
+# HOST-SUFFIX: 36086
 # USER-AGENT: 78
 # HOST: 30
 # IP-CIDR: 1188
 # IP6-CIDR: 31
 # HOST-KEYWORD: 6
-# TOTAL: 37418
+# TOTAL: 37419
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
 HOST,apicdn-p014.ribob01.net,GlobalMax
@@ -15345,6 +15345,7 @@ HOST-SUFFIX,hustler.com,GlobalMax
 HOST-SUFFIX,hustlercash.com,GlobalMax
 HOST-SUFFIX,hustlerstore.com,GlobalMax
 HOST-SUFFIX,hut2.ru,GlobalMax
+HOST-SUFFIX,hutao.cloud,GlobalMax
 HOST-SUFFIX,hutianyi.net,GlobalMax
 HOST-SUFFIX,hutong9.net,GlobalMax
 HOST-SUFFIX,hutpromos.com,GlobalMax
