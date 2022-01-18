@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:35
-# DOMAIN: 44638
+# UPDATED: 2022-01-19 02:11:26
+# DOMAIN: 44642
 # DOMAIN-KEYWORD: 87
 # DOMAIN-SUFFIX: 85781
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 130763
+# TOTAL: 130767
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -1097,6 +1097,7 @@ payload:
   - 'a.networkworld.com'
   - 'a.softconsultgroup.com'
   - 'a.spicetv.com'
+  - 'a.ssl.'
   - 'a.tadd.react2media.com'
   - 'a.targetserving.com'
   - 'a.tempurpedic.com'
@@ -9386,6 +9387,7 @@ payload:
   - 'cs6serialcrack.com'
   - 'csagov.jinanyuz.com'
   - 'csbsyukodmga.com'
+  - 'csc.beap.'
   - 'cscactmkbfvn.com'
   - 'cscbarja.org'
   - 'cscprivatelabel.com'
@@ -10578,6 +10580,7 @@ payload:
   - 'dhvzrpvjwibr.com'
   - 'dhxwczetwdkt.com'
   - 'dhycazbjhewd.com'
+  - 'di.ssl.'
   - 'di1.shopping.com'
   - 'diablo3cracked.org'
   - 'diablo3keygen.org'
@@ -19411,6 +19414,7 @@ payload:
   - 'img.skenzo.com'
   - 'img.smi2.net'
   - 'img.soulmate.com'
+  - 'img.ssl.'
   - 'img.sunmediaads.com'
   - 'img001.com'
   - 'img01.coofinder.com'

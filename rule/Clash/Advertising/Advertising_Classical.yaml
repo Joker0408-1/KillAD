@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:34
-# DOMAIN: 45817
+# UPDATED: 2022-01-19 02:11:26
+# DOMAIN: 45819
 # DOMAIN-KEYWORD: 87
 # DOMAIN-SUFFIX: 73972
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 120133
+# TOTAL: 120135
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -1622,6 +1622,7 @@ payload:
   - DOMAIN,ad-tizer.net
   - DOMAIN,ad-u.com
   - DOMAIN,ad-uk.tiscali.com
+  - DOMAIN,ad.10010.com
   - DOMAIN,ad.1serve-sys.com
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.9tv.co.il
@@ -9756,6 +9757,7 @@ payload:
   - DOMAIN,cs6serialcrack.com
   - DOMAIN,csagov.jinanyuz.com
   - DOMAIN,csbsyukodmga.com
+  - DOMAIN,csc.beap.
   - DOMAIN,cscactmkbfvn.com
   - DOMAIN,cscbarja.org
   - DOMAIN,cscprivatelabel.com

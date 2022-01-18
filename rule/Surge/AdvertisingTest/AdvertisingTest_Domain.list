@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:24
+# UPDATED: 2022-01-19 02:11:23
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44638
+# DOMAIN: 44642
 # DOMAIN-KEYWORD: 87
 # DOMAIN-SUFFIX: 85781
 # IP-CIDR: 256
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 131065
+# TOTAL: 131069
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1098,6 +1098,7 @@ a.namemilky.com
 a.networkworld.com
 a.softconsultgroup.com
 a.spicetv.com
+a.ssl.
 a.tadd.react2media.com
 a.targetserving.com
 a.tempurpedic.com
@@ -9387,6 +9388,7 @@ cs6serial.net
 cs6serialcrack.com
 csagov.jinanyuz.com
 csbsyukodmga.com
+csc.beap.
 cscactmkbfvn.com
 cscbarja.org
 cscprivatelabel.com
@@ -10579,6 +10581,7 @@ dhvaigzy.com
 dhvzrpvjwibr.com
 dhxwczetwdkt.com
 dhycazbjhewd.com
+di.ssl.
 di1.shopping.com
 diablo3cracked.org
 diablo3keygen.org
@@ -19412,6 +19415,7 @@ img.ruclicks.com
 img.skenzo.com
 img.smi2.net
 img.soulmate.com
+img.ssl.
 img.sunmediaads.com
 img001.com
 img01.coofinder.com
