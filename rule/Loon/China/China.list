@@ -1,20 +1,19 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-21 15:34:17
-# DOMAIN-SUFFIX: 578
+# UPDATED: 2022-01-18 23:33:31
+# DOMAIN-SUFFIX: 561
 # USER-AGENT: 31
-# DOMAIN: 7
+# DOMAIN: 6
 # IP-CIDR: 9
+# DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# DOMAIN-KEYWORD: 1
-# TOTAL: 630
+# TOTAL: 621
 DOMAIN,analytics.strava.com
 DOMAIN,client.amplifi.com
 DOMAIN,download.jetbrains.com
 DOMAIN,file-igamecj.akamaized.net
 DOMAIN,ip.istatmenus.app
-DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,sms.imagetasks.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10089.cn
@@ -64,12 +63,7 @@ DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabausercontent.com
-DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alikunlun.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amd.com
@@ -90,10 +84,6 @@ DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,b612.net
 DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,baduziyuan.com
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidubcr.com
-DOMAIN-SUFFIX,baidupan.com
-DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bdatu.com
@@ -196,7 +186,6 @@ DOMAIN-SUFFIX,eclipse.org
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,emerald.com
-DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,ewqcxz.com
@@ -220,7 +209,6 @@ DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,goodread.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,hamreus.com
@@ -340,8 +328,6 @@ DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mls-cdn.com
@@ -371,7 +357,6 @@ DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,nfoservers.com
 DOMAIN-SUFFIX,ngabbs.com
-DOMAIN-SUFFIX,nim-lang-cn.org
 DOMAIN-SUFFIX,novipnoad.com
 DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,nuomi.com
@@ -395,7 +380,6 @@ DOMAIN-SUFFIX,oxfordbibliographies.com
 DOMAIN-SUFFIX,oxfordmusiconline.com
 DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,pingan.com.cn
@@ -438,7 +422,6 @@ DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,sandai.net
@@ -491,7 +474,6 @@ DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,t.tt
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,tandfonline.com
-DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tawk.link
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tencent-cloud.com
@@ -594,7 +576,16 @@ DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,beplay
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,officecdn
+DOMAIN-KEYWORD,taobao
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*

@@ -1,9 +1,10 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-07 02:10:56
-# HOST-SUFFIX: 503
+# UPDATED: 2022-01-18 23:33:29
+# HOST-SUFFIX: 499
 # IP-CIDR: 45
+# HOST-KEYWORD: 4
 # HOST: 4
 # TOTAL: 552
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,Game
@@ -138,7 +139,6 @@ HOST-SUFFIX,easy.ac,Game
 HOST-SUFFIX,easyanticheat.net,Game
 HOST-SUFFIX,electronicarts.com,Game
 HOST-SUFFIX,electronicarts.fr,Game
-HOST-SUFFIX,epicgames.com,Game
 HOST-SUFFIX,excitebots.com,Game
 HOST-SUFFIX,fanatical.com,Game
 HOST-SUFFIX,fifastreet.com,Game
@@ -408,7 +408,6 @@ HOST-SUFFIX,starwarsjedifallenorder.com,Game
 HOST-SUFFIX,starwarstheoldrepublic.com,Game
 HOST-SUFFIX,steam-api.com,Game
 HOST-SUFFIX,steam-chat.com,Game
-HOST-SUFFIX,steambroadcast.akamaized.net,Game
 HOST-SUFFIX,steamcdn-a.akamaihd.net,Game
 HOST-SUFFIX,steamchina.com,Game
 HOST-SUFFIX,steamcommunity-a.akamaihd.net,Game
@@ -422,11 +421,9 @@ HOST-SUFFIX,steampowered.com.8686c.com,Game
 HOST-SUFFIX,steamstat.us,Game
 HOST-SUFFIX,steamstatic.com,Game
 HOST-SUFFIX,steamstatic.com.8686c.com,Game
-HOST-SUFFIX,steamstore-a.akamaihd.net,Game
 HOST-SUFFIX,steamunlocked.net,Game
 HOST-SUFFIX,steamusercontent-a.akamaihd.net,Game
 HOST-SUFFIX,steamusercontent.com,Game
-HOST-SUFFIX,steamuserimages-a.akamaihd.net,Game
 HOST-SUFFIX,steamvideo-a.akamaihd.net,Game
 HOST-SUFFIX,supermario.com,Game
 HOST-SUFFIX,supermario3dworld.com,Game
@@ -513,6 +510,10 @@ HOST-SUFFIX,xn--mts47c3w9b1qr.cn,Game
 HOST-SUFFIX,xn--mts47c3w9b1qr.net,Game
 HOST-SUFFIX,yogify.com,Game
 HOST-SUFFIX,yoshisnewisland.com,Game
+HOST-KEYWORD,epicgames,Game
+HOST-KEYWORD,steambroadcast,Game
+HOST-KEYWORD,steamstore,Game
+HOST-KEYWORD,steamuserimages,Game
 IP-CIDR,103.4.114.233/32,Game
 IP-CIDR,103.4.115.248/32,Game
 IP-CIDR,13.210.25.233/32,Game

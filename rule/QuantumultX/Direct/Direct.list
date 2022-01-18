@@ -1,11 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:38
+# UPDATED: 2022-01-18 23:33:27
 # HOST-SUFFIX: 5
+# HOST-KEYWORD: 1
 # HOST: 16
 # USER-AGENT: 4
-# TOTAL: 25
+# TOTAL: 26
 HOST,ad.10010.com,Direct
 HOST,analytics.95516.com,Direct
 HOST,analytics.strava.com,Direct
@@ -27,6 +28,7 @@ HOST-SUFFIX,f.video.weibocdn.com,Direct
 HOST-SUFFIX,fus.cdn.krcom.cn,Direct
 HOST-SUFFIX,ol.epicgames.com,Direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,Direct
+HOST-KEYWORD,wb_ad,Direct
 USER-AGENT,Coffee%20Corp*,Direct
 USER-AGENT,archero*,Direct
 USER-AGENT,coffeecorp*,Direct

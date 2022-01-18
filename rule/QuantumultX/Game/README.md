@@ -19,8 +19,9 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 503 |
+| HOST-SUFFIX | 499 |
 | IP-CIDR | 45 |
+| HOST-KEYWORD | 4 |
 | HOST | 4 |
 ## 配置说明
 

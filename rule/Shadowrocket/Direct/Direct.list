@@ -1,11 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-16 17:32:49
+# UPDATED: 2022-01-18 23:33:39
 # DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
 # DOMAIN: 16
 # USER-AGENT: 4
-# TOTAL: 25
+# TOTAL: 26
 DOMAIN,ad.10010.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.strava.com
@@ -27,6 +28,7 @@ DOMAIN-SUFFIX,f.video.weibocdn.com
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+DOMAIN-KEYWORD,wb_ad
 USER-AGENT,Coffee%20Corp*
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*

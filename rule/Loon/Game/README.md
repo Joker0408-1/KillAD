@@ -19,8 +19,9 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 503 |
+| DOMAIN-SUFFIX | 499 |
 | IP-CIDR | 45 |
+| DOMAIN-KEYWORD | 4 |
 | DOMAIN | 4 |
 ## 配置说明
 
