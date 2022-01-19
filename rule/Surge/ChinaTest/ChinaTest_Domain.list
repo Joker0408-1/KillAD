@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:25
-# DOMAIN-SUFFIX: 68488
+# UPDATED: 2022-01-19 22:48:47
+# DOMAIN-SUFFIX: 68481
 # USER-AGENT: 31
 # DOMAIN: 78
 # IP-CIDR: 9
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68620
+# TOTAL: 68613
 265.com
 2mdn.net
 adservice.google.com
@@ -451,7 +451,6 @@ www4-static.gog-statics.com
 .0471fcw.com
 .0472.com
 .0479xx.com
-.04wan.com
 .05087.com
 .051058.com
 .0510syedu.com
@@ -926,6 +925,7 @@ www4-static.gog-statics.com
 .100jiapu.com
 .100jm.net
 .100ksw.com
+.100legend.com
 .100loujia.com
 .100lw.com
 .100market.net
@@ -2967,7 +2967,6 @@ www4-static.gog-statics.com
 .3250mh.com
 .3259.com
 .32800.com
-.328888.xyz
 .3289.com
 .328f.com
 .32bh.com
@@ -3373,6 +3372,7 @@ www4-static.gog-statics.com
 .365yg.com
 .365you.com
 .365yyd.com
+.365zn.com
 .365zzd.com
 .3663.com
 .366300.com
@@ -4014,7 +4014,6 @@ www4-static.gog-statics.com
 .4xiazai.com
 .4xseo.com
 .4y4.net
-.4yang.com
 .4ye.cc
 .4yt.net
 .4yx.com
@@ -13454,7 +13453,6 @@ www4-static.gog-statics.com
 .catfun.tv
 .catguo.com
 .cathayagroup.com
-.cathaycentury.com
 .cathayfund.com
 .catjc.com
 .cato-travel.com
@@ -22472,7 +22470,6 @@ www4-static.gog-statics.com
 .eywedu.com
 .eywedu.net
 .eywedu.org
-.eywl.cc
 .eyy168.com
 .eyy8.vip
 .ez-leaf.com
@@ -27676,6 +27673,7 @@ www4-static.gog-statics.com
 .hdcolorant.com
 .hdd-group.com
 .hddhhn.com
+.hddid.com
 .hddolby.com
 .hddznet.com
 .hdem12.com
@@ -30312,6 +30310,7 @@ www4-static.gog-statics.com
 .hzsbz.com
 .hzsdfsyxx.com
 .hzsgjj.com
+.hzshudian.com
 .hzstad88.com
 .hzti.com
 .hztosz.com
@@ -30748,7 +30747,6 @@ www4-static.gog-statics.com
 .ictpaas.com
 .ictun.com
 .ictuniv.com
-.icuiya.com
 .icver.com
 .icvip.com
 .icxbk.com
@@ -38722,7 +38720,6 @@ www4-static.gog-statics.com
 .loupan.com
 .louqun.com
 .loushi12.com
-.loushiwo.com
 .lousj.com
 .lousw.com
 .louyue.com
@@ -40487,7 +40484,6 @@ www4-static.gog-statics.com
 .mftianshanam.com
 .mftvideo.com
 .mfxs888.com
-.mfycdn.com
 .mfzdb.com
 .mfzxcs.com
 .mg-cdn.com
@@ -44917,7 +44913,6 @@ www4-static.gog-statics.com
 .pilifu.com
 .pilifx.com
 .pimei.com
-.pin-ad.com
 .pin-color.net
 .pin-qu.com
 .pin18pin.com
@@ -51848,6 +51843,7 @@ www4-static.gog-statics.com
 .ssnewyork.com
 .ssnn.net
 .ssofair.com
+.ssoffo.com
 .ssozz.com
 .ssp86.com
 .sspaas.com
@@ -52176,6 +52172,7 @@ www4-static.gog-statics.com
 .suirui.com
 .suishenyun.net
 .suishouji.com
+.suisuihu.com
 .suisuijiang.com
 .suixingjia.com
 .suixw.com
@@ -54625,7 +54622,6 @@ www4-static.gog-statics.com
 .topeditsci.com
 .topeet.com
 .topeetboard.com
-.topenergy.org
 .topengroup.net
 .topfisc.com
 .topflames.com
@@ -60194,7 +60190,6 @@ www4-static.gog-statics.com
 .xcj.pub
 .xcjd.net
 .xckszx.com
-.xcktsb.com
 .xcloudbase.com
 .xcmad.com
 .xcmg.com
@@ -66714,7 +66709,6 @@ www4-static.gog-statics.com
 .zhiliaomj.com
 .zhilii.com
 .zhilingshidai.com
-.zhilizazhi.com
 .zhilong.me
 .zhilongtech.com
 .zhiluo.net
@@ -67718,7 +67712,6 @@ www4-static.gog-statics.com
 .zlsnet.com
 .zlsoft.com
 .zltianhen.com
-.zltkj.com
 .zluren.com
 .zlvod.com
 .zlw.so

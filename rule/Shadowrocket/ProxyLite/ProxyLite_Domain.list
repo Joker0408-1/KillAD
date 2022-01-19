@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:29
-# DOMAIN-SUFFIX: 32900
+# UPDATED: 2022-01-19 22:48:52
+# DOMAIN-SUFFIX: 32896
 # USER-AGENT: 10
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
-# TOTAL: 33042
+# TOTAL: 33038
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -3739,8 +3739,6 @@ widgets.stripst.com
 .apple-hk.com
 .apple-imac.com
 .apple-inc.net
-.apple-livephotoskit.com
-.apple-mapkit.com
 .apple-online.com
 .apple-pay.com
 .apple-pay.rs
@@ -3750,8 +3748,6 @@ widgets.stripst.com
 .apple-usa.net
 .apple.be
 .apple.ch
-.apple.co
-.apple.com
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -6992,7 +6988,6 @@ widgets.stripst.com
 .cdjp.org
 .cdkworkshop.com
 .cdmr.rpz.su
-.cdn-apple.com
 .cdn-main.plus500.com
 .cdn-terapeak.com
 .cdn.angruo.com
@@ -14865,7 +14860,6 @@ widgets.stripst.com
 .ituneas.com
 .itunes-radio.net
 .itunes.co
-.itunes.com
 .itunes.org
 .itunes.rio
 .itunes12days.com
@@ -24717,6 +24711,7 @@ widgets.stripst.com
 .trading212.com
 .tradingview.com
 .traeumtgerade.de
+.trafficmanager.net
 .trakt.tv
 .transferstudentcn.weebly.com
 .translate.goog
@@ -26311,6 +26306,7 @@ widgets.stripst.com
 .vpnspecial.com
 .vpntaiwan.com
 .vpntool.com
+.vpntraffic.com
 .vpntunnel.com
 .vpnuk.info
 .vpnunlimitedapp.com

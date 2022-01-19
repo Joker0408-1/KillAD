@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:25
+# UPDATED: 2022-01-19 22:48:49
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 71860
+# DOMAIN-SUFFIX: 71856
 # DOMAIN: 53
-# IP-CIDR: 6184
+# IP-CIDR: 6185
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5448
-# TOTAL: 83621
+# TOTAL: 83618
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -433,7 +433,6 @@ www4-static.gog-statics.com
 .0479xx.com
 .04qfw7m68o.com
 .04r0e3w2ac.com
-.04wan.com
 .05087.com
 .051058.com
 .0510syedu.com
@@ -921,6 +920,7 @@ www4-static.gog-statics.com
 .100jiapu.com
 .100jm.net
 .100ksw.com
+.100legend.com
 .100loujia.com
 .100lw.com
 .100market.net
@@ -3013,7 +3013,6 @@ www4-static.gog-statics.com
 .3250mh.com
 .3259.com
 .32800.com
-.328888.xyz
 .3289.com
 .328f.com
 .32974z0361.com
@@ -3452,6 +3451,7 @@ www4-static.gog-statics.com
 .365yg.com
 .365you.com
 .365yyd.com
+.365zn.com
 .365zzd.com
 .3663.com
 .366300.com
@@ -4121,7 +4121,6 @@ www4-static.gog-statics.com
 .4xiazai.com
 .4xseo.com
 .4y4.net
-.4yang.com
 .4ye.cc
 .4yt.net
 .4yx.com
@@ -23346,7 +23345,6 @@ www4-static.gog-statics.com
 .eywedu.com
 .eywedu.net
 .eywedu.org
-.eywl.cc
 .eyy168.com
 .eyy8.vip
 .eyzeafp.com
@@ -25709,6 +25707,7 @@ www4-static.gog-statics.com
 .gdtnio.com
 .gdtone.com
 .gdtoolkit.com
+.gdtrafficad.com
 .gdtravel.com
 .gdttc.com
 .gdtz888.com
@@ -29033,6 +29032,7 @@ www4-static.gog-statics.com
 .hdcolorant.com
 .hdd-group.com
 .hddhhn.com
+.hddid.com
 .hddolby.com
 .hddznet.com
 .hdem12.com
@@ -31783,6 +31783,7 @@ www4-static.gog-statics.com
 .hzsbz.com
 .hzsdfsyxx.com
 .hzsgjj.com
+.hzshudian.com
 .hzstad88.com
 .hzti.com
 .hztosz.com
@@ -32256,7 +32257,6 @@ www4-static.gog-statics.com
 .ictpaas.com
 .ictun.com
 .ictuniv.com
-.icuiya.com
 .icver.com
 .icvip.com
 .icxbk.com
@@ -32611,6 +32611,7 @@ www4-static.gog-statics.com
 .igreatdream.com
 .igslb.net
 .iguanyu.com
+.iguazutraffic.xyz
 .iguder.com
 .iguitar.me
 .igumo.cc
@@ -40567,7 +40568,6 @@ www4-static.gog-statics.com
 .loupan.com
 .louqun.com
 .loushi12.com
-.loushiwo.com
 .lousj.com
 .lousw.com
 .louyue.com
@@ -42385,7 +42385,6 @@ www4-static.gog-statics.com
 .mftianshanam.com
 .mftvideo.com
 .mfxs888.com
-.mfycdn.com
 .mfzdb.com
 .mfzxcs.com
 .mg-cdn.com
@@ -47101,7 +47100,6 @@ www4-static.gog-statics.com
 .pilifu.com
 .pilifx.com
 .pimei.com
-.pin-ad.com
 .pin-color.net
 .pin-qu.com
 .pin18pin.com
@@ -54465,6 +54463,7 @@ www4-static.gog-statics.com
 .ssnewyork.com
 .ssnn.net
 .ssofair.com
+.ssoffo.com
 .ssozz.com
 .ssp86.com
 .sspaas.com
@@ -54803,6 +54802,7 @@ www4-static.gog-statics.com
 .suirui.com
 .suishenyun.net
 .suishouji.com
+.suisuihu.com
 .suisuijiang.com
 .suixingjia.com
 .suixw.com
@@ -57370,7 +57370,6 @@ www4-static.gog-statics.com
 .topeditsci.com
 .topeet.com
 .topeetboard.com
-.topenergy.org
 .topengroup.net
 .topfisc.com
 .topflames.com
@@ -63211,7 +63210,6 @@ www4-static.gog-statics.com
 .xcj.pub
 .xcjd.net
 .xckszx.com
-.xcktsb.com
 .xcloudbase.com
 .xcmad.com
 .xcmg.com
@@ -70016,7 +70014,6 @@ www4-static.gog-statics.com
 .zhiliaoke.com
 .zhiliaomj.com
 .zhiliaowenda.com.cn
-.zhilizazhi.com
 .zhilong.me
 .zhilongtech.com
 .zhiluo.net
@@ -71042,7 +71039,6 @@ www4-static.gog-statics.com
 .zlsnet.com
 .zlsoft.com
 .zltianhen.com
-.zltkj.com
 .zluren.com
 .zlvod.com
 .zlw.so

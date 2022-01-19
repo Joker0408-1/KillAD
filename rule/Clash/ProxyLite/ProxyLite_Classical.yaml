@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:28
-# DOMAIN-SUFFIX: 32900
+# UPDATED: 2022-01-19 22:48:51
+# DOMAIN-SUFFIX: 32896
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33035
+# TOTAL: 33031
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -3740,8 +3740,6 @@ payload:
   - DOMAIN-SUFFIX,apple-hk.com
   - DOMAIN-SUFFIX,apple-imac.com
   - DOMAIN-SUFFIX,apple-inc.net
-  - DOMAIN-SUFFIX,apple-livephotoskit.com
-  - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-online.com
   - DOMAIN-SUFFIX,apple-pay.com
   - DOMAIN-SUFFIX,apple-pay.rs
@@ -3751,8 +3749,6 @@ payload:
   - DOMAIN-SUFFIX,apple-usa.net
   - DOMAIN-SUFFIX,apple.be
   - DOMAIN-SUFFIX,apple.ch
-  - DOMAIN-SUFFIX,apple.co
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.co
   - DOMAIN-SUFFIX,apple.com.do
   - DOMAIN-SUFFIX,apple.com.pr
@@ -6993,7 +6989,6 @@ payload:
   - DOMAIN-SUFFIX,cdjp.org
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,cdmr.rpz.su
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn-main.plus500.com
   - DOMAIN-SUFFIX,cdn-terapeak.com
   - DOMAIN-SUFFIX,cdn.angruo.com
@@ -14866,7 +14861,6 @@ payload:
   - DOMAIN-SUFFIX,ituneas.com
   - DOMAIN-SUFFIX,itunes-radio.net
   - DOMAIN-SUFFIX,itunes.co
-  - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,itunes.org
   - DOMAIN-SUFFIX,itunes.rio
   - DOMAIN-SUFFIX,itunes12days.com
@@ -24718,6 +24712,7 @@ payload:
   - DOMAIN-SUFFIX,trading212.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,traeumtgerade.de
+  - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,trakt.tv
   - DOMAIN-SUFFIX,transferstudentcn.weebly.com
   - DOMAIN-SUFFIX,translate.goog
@@ -26312,6 +26307,7 @@ payload:
   - DOMAIN-SUFFIX,vpnspecial.com
   - DOMAIN-SUFFIX,vpntaiwan.com
   - DOMAIN-SUFFIX,vpntool.com
+  - DOMAIN-SUFFIX,vpntraffic.com
   - DOMAIN-SUFFIX,vpntunnel.com
   - DOMAIN-SUFFIX,vpnuk.info
   - DOMAIN-SUFFIX,vpnunlimitedapp.com

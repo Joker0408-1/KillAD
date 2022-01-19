@@ -1,21 +1,25 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:28
-# DOMAIN-SUFFIX: 34420
-# DOMAIN: 27
+# UPDATED: 2022-01-19 22:48:51
+# DOMAIN-SUFFIX: 34423
+# DOMAIN: 48
 # DOMAIN-KEYWORD: 70
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 35792
+# TOTAL: 35816
 payload:
+  - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
   - DOMAIN,api.okzy.tv
   - DOMAIN,apicdn-p014.ribob01.net
   - DOMAIN,apip.videomarket.jp
+  - DOMAIN,appleid.apple.com
   - DOMAIN,artcdnsecure.ribob01.net
+  - DOMAIN,beta.music.apple.com
   - DOMAIN,blizzard.nefficient.co.kr
+  - DOMAIN,books.apple.com
   - DOMAIN,cdn.apple-cloudkit.com
   - DOMAIN,cdn77.scoreuniverse.com
   - DOMAIN,cfss.dunbar.scea.com
@@ -23,17 +27,34 @@ payload:
   - DOMAIN,commerce1.api.np.km.playstation.n
   - DOMAIN,deutschewelle.h-cdn.com
   - DOMAIN,deutschewelle.hcdn.com
+  - DOMAIN,developer.apple.com
+  - DOMAIN,devimages-cdn.apple.com
+  - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,edge.cwtv-vod-ext.top.comcast.net
   - DOMAIN,elib.maruzen.co.jp
   - DOMAIN,faronics.kayako.com
   - DOMAIN,gs-sec.ww.np.dl.playstation.n
   - DOMAIN,gs2.ww.prod.dl.playstation.ne
+  - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,i.jeded.com
+  - DOMAIN,js-cdn.music.apple.com
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client-search.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,ocsp.apple.com
   - DOMAIN,p.bstarstatic.com
   - DOMAIN,pchomeonline.com.tw
+  - DOMAIN,play-edge.itunes.apple.com
+  - DOMAIN,radio.itunes.apple.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,speed.dler.io
   - DOMAIN,static-resource.np.community.playstation.n
+  - DOMAIN,testflight.apple.com
+  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN,zeke.scea.com
@@ -3772,8 +3793,6 @@ payload:
   - DOMAIN-SUFFIX,apple-hk.com
   - DOMAIN-SUFFIX,apple-imac.com
   - DOMAIN-SUFFIX,apple-inc.net
-  - DOMAIN-SUFFIX,apple-livephotoskit.com
-  - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-online.com
   - DOMAIN-SUFFIX,apple-pay.com
   - DOMAIN-SUFFIX,apple-pay.rs
@@ -3784,7 +3803,6 @@ payload:
   - DOMAIN-SUFFIX,apple.be
   - DOMAIN-SUFFIX,apple.ch
   - DOMAIN-SUFFIX,apple.co
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.co
   - DOMAIN-SUFFIX,apple.com.do
   - DOMAIN-SUFFIX,apple.com.pr
@@ -5574,6 +5592,7 @@ payload:
   - DOMAIN-SUFFIX,blm888888.com
   - DOMAIN-SUFFIX,blm898.com
   - DOMAIN-SUFFIX,blmdc7.com
+  - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,blockbuster.com
   - DOMAIN-SUFFIX,blockcn.com
   - DOMAIN-SUFFIX,blockedbyhk.com
@@ -9627,6 +9646,7 @@ payload:
   - DOMAIN-SUFFIX,doh.applied-privacy.net
   - DOMAIN-SUFFIX,doh.appliedprivacy.net
   - DOMAIN-SUFFIX,doh.au.ahadns.net
+  - DOMAIN-SUFFIX,doh.dns.apple.com
   - DOMAIN-SUFFIX,doh.dnslify.com
   - DOMAIN-SUFFIX,doh.doh.my.id
   - DOMAIN-SUFFIX,doh.eastus.pi-dns.com
@@ -15697,7 +15717,6 @@ payload:
   - DOMAIN-SUFFIX,ituneas.com
   - DOMAIN-SUFFIX,itunes-radio.net
   - DOMAIN-SUFFIX,itunes.co
-  - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,itunes.org
   - DOMAIN-SUFFIX,itunes.rio
   - DOMAIN-SUFFIX,itunes12days.com
@@ -21249,6 +21268,7 @@ payload:
   - DOMAIN-SUFFIX,phimvideo.org
   - DOMAIN-SUFFIX,phmsociety.org
   - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phobos.apple.com
   - DOMAIN-SUFFIX,phoenixnewtimes.com
   - DOMAIN-SUFFIX,phoeshow.me
   - DOMAIN-SUFFIX,phoile.tender88.com
@@ -23914,6 +23934,7 @@ payload:
   - DOMAIN-SUFFIX,sminted.com
   - DOMAIN-SUFFIX,smith.edu
   - DOMAIN-SUFFIX,smmiracle.com
+  - DOMAIN-SUFFIX,smoot.apple.com
   - DOMAIN-SUFFIX,smpte.org
   - DOMAIN-SUFFIX,smsn.com
   - DOMAIN-SUFFIX,smt.live
@@ -25978,6 +25999,7 @@ payload:
   - DOMAIN-SUFFIX,trading212.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,traeumtgerade.de
+  - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,trakt.tv
   - DOMAIN-SUFFIX,translate.goog
   - DOMAIN-SUFFIX,translatetheweb.com
@@ -26211,6 +26233,7 @@ payload:
   - DOMAIN-SUFFIX,tuvpn.com
   - DOMAIN-SUFFIX,tuxing.live
   - DOMAIN-SUFFIX,tuzaijidi.com
+  - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,tv.com
   - DOMAIN-SUFFIX,tv.domain888.pw
   - DOMAIN-SUFFIX,tv.endlessmovie.com
@@ -27696,6 +27719,7 @@ payload:
   - DOMAIN-SUFFIX,vpnspecial.com
   - DOMAIN-SUFFIX,vpntaiwan.com
   - DOMAIN-SUFFIX,vpntool.com
+  - DOMAIN-SUFFIX,vpntraffic.com
   - DOMAIN-SUFFIX,vpntunnel.com
   - DOMAIN-SUFFIX,vpnuk.info
   - DOMAIN-SUFFIX,vpnunlimitedapp.com

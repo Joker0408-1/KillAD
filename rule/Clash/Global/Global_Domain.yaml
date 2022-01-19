@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:37
-# DOMAIN-SUFFIX: 25595
+# UPDATED: 2022-01-19 22:48:51
+# DOMAIN-SUFFIX: 25596
 # DOMAIN: 26
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25796
+# TOTAL: 25797
 payload:
   - 'amp-api.podcasts.apple.com'
   - 'apple.comscoreresearch.com'
@@ -19356,6 +19356,7 @@ payload:
   - '+.vpnspecial.com'
   - '+.vpntaiwan.com'
   - '+.vpntool.com'
+  - '+.vpntraffic.com'
   - '+.vpntunnel.com'
   - '+.vpnuk.info'
   - '+.vpnunlimitedapp.com'

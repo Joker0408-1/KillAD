@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:28
-# DOMAIN-SUFFIX: 71860
+# UPDATED: 2022-01-19 22:48:51
+# DOMAIN-SUFFIX: 71856
 # PROCESS-NAME: 5
 # DOMAIN: 53
-# IP-CIDR: 6184
+# IP-CIDR: 6185
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5448
-# TOTAL: 83564
+# TOTAL: 83561
 payload:
   - DOMAIN,265.com
   - DOMAIN,c.android.clients.google.com
@@ -434,7 +434,6 @@ payload:
   - DOMAIN-SUFFIX,0479xx.com
   - DOMAIN-SUFFIX,04qfw7m68o.com
   - DOMAIN-SUFFIX,04r0e3w2ac.com
-  - DOMAIN-SUFFIX,04wan.com
   - DOMAIN-SUFFIX,05087.com
   - DOMAIN-SUFFIX,051058.com
   - DOMAIN-SUFFIX,0510syedu.com
@@ -922,6 +921,7 @@ payload:
   - DOMAIN-SUFFIX,100jiapu.com
   - DOMAIN-SUFFIX,100jm.net
   - DOMAIN-SUFFIX,100ksw.com
+  - DOMAIN-SUFFIX,100legend.com
   - DOMAIN-SUFFIX,100loujia.com
   - DOMAIN-SUFFIX,100lw.com
   - DOMAIN-SUFFIX,100market.net
@@ -3014,7 +3014,6 @@ payload:
   - DOMAIN-SUFFIX,3250mh.com
   - DOMAIN-SUFFIX,3259.com
   - DOMAIN-SUFFIX,32800.com
-  - DOMAIN-SUFFIX,328888.xyz
   - DOMAIN-SUFFIX,3289.com
   - DOMAIN-SUFFIX,328f.com
   - DOMAIN-SUFFIX,32974z0361.com
@@ -3453,6 +3452,7 @@ payload:
   - DOMAIN-SUFFIX,365yg.com
   - DOMAIN-SUFFIX,365you.com
   - DOMAIN-SUFFIX,365yyd.com
+  - DOMAIN-SUFFIX,365zn.com
   - DOMAIN-SUFFIX,365zzd.com
   - DOMAIN-SUFFIX,3663.com
   - DOMAIN-SUFFIX,366300.com
@@ -4122,7 +4122,6 @@ payload:
   - DOMAIN-SUFFIX,4xiazai.com
   - DOMAIN-SUFFIX,4xseo.com
   - DOMAIN-SUFFIX,4y4.net
-  - DOMAIN-SUFFIX,4yang.com
   - DOMAIN-SUFFIX,4ye.cc
   - DOMAIN-SUFFIX,4yt.net
   - DOMAIN-SUFFIX,4yx.com
@@ -23347,7 +23346,6 @@ payload:
   - DOMAIN-SUFFIX,eywedu.com
   - DOMAIN-SUFFIX,eywedu.net
   - DOMAIN-SUFFIX,eywedu.org
-  - DOMAIN-SUFFIX,eywl.cc
   - DOMAIN-SUFFIX,eyy168.com
   - DOMAIN-SUFFIX,eyy8.vip
   - DOMAIN-SUFFIX,eyzeafp.com
@@ -25710,6 +25708,7 @@ payload:
   - DOMAIN-SUFFIX,gdtnio.com
   - DOMAIN-SUFFIX,gdtone.com
   - DOMAIN-SUFFIX,gdtoolkit.com
+  - DOMAIN-SUFFIX,gdtrafficad.com
   - DOMAIN-SUFFIX,gdtravel.com
   - DOMAIN-SUFFIX,gdttc.com
   - DOMAIN-SUFFIX,gdtz888.com
@@ -29034,6 +29033,7 @@ payload:
   - DOMAIN-SUFFIX,hdcolorant.com
   - DOMAIN-SUFFIX,hdd-group.com
   - DOMAIN-SUFFIX,hddhhn.com
+  - DOMAIN-SUFFIX,hddid.com
   - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,hddznet.com
   - DOMAIN-SUFFIX,hdem12.com
@@ -31784,6 +31784,7 @@ payload:
   - DOMAIN-SUFFIX,hzsbz.com
   - DOMAIN-SUFFIX,hzsdfsyxx.com
   - DOMAIN-SUFFIX,hzsgjj.com
+  - DOMAIN-SUFFIX,hzshudian.com
   - DOMAIN-SUFFIX,hzstad88.com
   - DOMAIN-SUFFIX,hzti.com
   - DOMAIN-SUFFIX,hztosz.com
@@ -32257,7 +32258,6 @@ payload:
   - DOMAIN-SUFFIX,ictpaas.com
   - DOMAIN-SUFFIX,ictun.com
   - DOMAIN-SUFFIX,ictuniv.com
-  - DOMAIN-SUFFIX,icuiya.com
   - DOMAIN-SUFFIX,icver.com
   - DOMAIN-SUFFIX,icvip.com
   - DOMAIN-SUFFIX,icxbk.com
@@ -32612,6 +32612,7 @@ payload:
   - DOMAIN-SUFFIX,igreatdream.com
   - DOMAIN-SUFFIX,igslb.net
   - DOMAIN-SUFFIX,iguanyu.com
+  - DOMAIN-SUFFIX,iguazutraffic.xyz
   - DOMAIN-SUFFIX,iguder.com
   - DOMAIN-SUFFIX,iguitar.me
   - DOMAIN-SUFFIX,igumo.cc
@@ -40568,7 +40569,6 @@ payload:
   - DOMAIN-SUFFIX,loupan.com
   - DOMAIN-SUFFIX,louqun.com
   - DOMAIN-SUFFIX,loushi12.com
-  - DOMAIN-SUFFIX,loushiwo.com
   - DOMAIN-SUFFIX,lousj.com
   - DOMAIN-SUFFIX,lousw.com
   - DOMAIN-SUFFIX,louyue.com
@@ -42386,7 +42386,6 @@ payload:
   - DOMAIN-SUFFIX,mftianshanam.com
   - DOMAIN-SUFFIX,mftvideo.com
   - DOMAIN-SUFFIX,mfxs888.com
-  - DOMAIN-SUFFIX,mfycdn.com
   - DOMAIN-SUFFIX,mfzdb.com
   - DOMAIN-SUFFIX,mfzxcs.com
   - DOMAIN-SUFFIX,mg-cdn.com
@@ -47102,7 +47101,6 @@ payload:
   - DOMAIN-SUFFIX,pilifu.com
   - DOMAIN-SUFFIX,pilifx.com
   - DOMAIN-SUFFIX,pimei.com
-  - DOMAIN-SUFFIX,pin-ad.com
   - DOMAIN-SUFFIX,pin-color.net
   - DOMAIN-SUFFIX,pin-qu.com
   - DOMAIN-SUFFIX,pin18pin.com
@@ -54466,6 +54464,7 @@ payload:
   - DOMAIN-SUFFIX,ssnewyork.com
   - DOMAIN-SUFFIX,ssnn.net
   - DOMAIN-SUFFIX,ssofair.com
+  - DOMAIN-SUFFIX,ssoffo.com
   - DOMAIN-SUFFIX,ssozz.com
   - DOMAIN-SUFFIX,ssp86.com
   - DOMAIN-SUFFIX,sspaas.com
@@ -54804,6 +54803,7 @@ payload:
   - DOMAIN-SUFFIX,suirui.com
   - DOMAIN-SUFFIX,suishenyun.net
   - DOMAIN-SUFFIX,suishouji.com
+  - DOMAIN-SUFFIX,suisuihu.com
   - DOMAIN-SUFFIX,suisuijiang.com
   - DOMAIN-SUFFIX,suixingjia.com
   - DOMAIN-SUFFIX,suixw.com
@@ -57371,7 +57371,6 @@ payload:
   - DOMAIN-SUFFIX,topeditsci.com
   - DOMAIN-SUFFIX,topeet.com
   - DOMAIN-SUFFIX,topeetboard.com
-  - DOMAIN-SUFFIX,topenergy.org
   - DOMAIN-SUFFIX,topengroup.net
   - DOMAIN-SUFFIX,topfisc.com
   - DOMAIN-SUFFIX,topflames.com
@@ -63212,7 +63211,6 @@ payload:
   - DOMAIN-SUFFIX,xcj.pub
   - DOMAIN-SUFFIX,xcjd.net
   - DOMAIN-SUFFIX,xckszx.com
-  - DOMAIN-SUFFIX,xcktsb.com
   - DOMAIN-SUFFIX,xcloudbase.com
   - DOMAIN-SUFFIX,xcmad.com
   - DOMAIN-SUFFIX,xcmg.com
@@ -70017,7 +70015,6 @@ payload:
   - DOMAIN-SUFFIX,zhiliaoke.com
   - DOMAIN-SUFFIX,zhiliaomj.com
   - DOMAIN-SUFFIX,zhiliaowenda.com.cn
-  - DOMAIN-SUFFIX,zhilizazhi.com
   - DOMAIN-SUFFIX,zhilong.me
   - DOMAIN-SUFFIX,zhilongtech.com
   - DOMAIN-SUFFIX,zhiluo.net
@@ -71043,7 +71040,6 @@ payload:
   - DOMAIN-SUFFIX,zlsnet.com
   - DOMAIN-SUFFIX,zlsoft.com
   - DOMAIN-SUFFIX,zltianhen.com
-  - DOMAIN-SUFFIX,zltkj.com
   - DOMAIN-SUFFIX,zluren.com
   - DOMAIN-SUFFIX,zlvod.com
   - DOMAIN-SUFFIX,zlw.so
@@ -78082,6 +78078,7 @@ payload:
   - IP-CIDR,67.198.192.0/23
   - IP-CIDR,67.198.195.0/24
   - IP-CIDR,67.198.199.0/24
+  - IP-CIDR,67.198.201.0/24
   - IP-CIDR,67.198.207.0/24
   - IP-CIDR,67.198.208.0/24
   - IP-CIDR,67.198.221.0/24

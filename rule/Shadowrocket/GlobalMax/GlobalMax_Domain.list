@@ -1,21 +1,25 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:29
+# UPDATED: 2022-01-19 22:48:52
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 34420
+# DOMAIN-SUFFIX: 34423
 # USER-AGENT: 78
-# DOMAIN: 27
+# DOMAIN: 48
 # DOMAIN-KEYWORD: 70
 # IP-CIDR: 1188
 # URL-REGEX: 9
-# TOTAL: 35792
+# TOTAL: 35816
+amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
 apicdn-p014.ribob01.net
 apip.videomarket.jp
+appleid.apple.com
 artcdnsecure.ribob01.net
+beta.music.apple.com
 blizzard.nefficient.co.kr
+books.apple.com
 cdn.apple-cloudkit.com
 cdn77.scoreuniverse.com
 cfss.dunbar.scea.com
@@ -23,17 +27,34 @@ clubhouse.pubnubapi.com
 commerce1.api.np.km.playstation.n
 deutschewelle.h-cdn.com
 deutschewelle.hcdn.com
+developer.apple.com
+devimages-cdn.apple.com
+devstreaming-cdn.apple.com
 edge.cwtv-vod-ext.top.comcast.net
 elib.maruzen.co.jp
 faronics.kayako.com
 gs-sec.ww.np.dl.playstation.n
 gs2.ww.prod.dl.playstation.ne
+gspe1-ssl.ls.apple.com
 i.jeded.com
+js-cdn.music.apple.com
+lookup-api.apple.com
+news-assets.apple.com
+news-client-search.apple.com
+news-client.apple.com
+news-edge.apple.com
+news-events.apple.com
+np-edge.itunes.apple.com
+ocsp.apple.com
 p.bstarstatic.com
 pchomeonline.com.tw
+play-edge.itunes.apple.com
+radio.itunes.apple.com
 rpg.pic-imges.com
 speed.dler.io
 static-resource.np.community.playstation.n
+testflight.apple.com
+uts-api.itunes.apple.com
 widgets.stripst.com
 wmff.warnermediacdn.com
 zeke.scea.com
@@ -3772,8 +3793,6 @@ zeke.scea.com
 .apple-hk.com
 .apple-imac.com
 .apple-inc.net
-.apple-livephotoskit.com
-.apple-mapkit.com
 .apple-online.com
 .apple-pay.com
 .apple-pay.rs
@@ -3784,7 +3803,6 @@ zeke.scea.com
 .apple.be
 .apple.ch
 .apple.co
-.apple.com
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -5574,6 +5592,7 @@ zeke.scea.com
 .blm888888.com
 .blm898.com
 .blmdc7.com
+.blobstore.apple.com
 .blockbuster.com
 .blockcn.com
 .blockedbyhk.com
@@ -9627,6 +9646,7 @@ zeke.scea.com
 .doh.applied-privacy.net
 .doh.appliedprivacy.net
 .doh.au.ahadns.net
+.doh.dns.apple.com
 .doh.dnslify.com
 .doh.doh.my.id
 .doh.eastus.pi-dns.com
@@ -15697,7 +15717,6 @@ zeke.scea.com
 .ituneas.com
 .itunes-radio.net
 .itunes.co
-.itunes.com
 .itunes.org
 .itunes.rio
 .itunes12days.com
@@ -21249,6 +21268,7 @@ zeke.scea.com
 .phimvideo.org
 .phmsociety.org
 .phncdn.com
+.phobos.apple.com
 .phoenixnewtimes.com
 .phoeshow.me
 .phoile.tender88.com
@@ -23914,6 +23934,7 @@ zeke.scea.com
 .sminted.com
 .smith.edu
 .smmiracle.com
+.smoot.apple.com
 .smpte.org
 .smsn.com
 .smt.live
@@ -25978,6 +25999,7 @@ zeke.scea.com
 .trading212.com
 .tradingview.com
 .traeumtgerade.de
+.trafficmanager.net
 .trakt.tv
 .translate.goog
 .translatetheweb.com
@@ -26211,6 +26233,7 @@ zeke.scea.com
 .tuvpn.com
 .tuxing.live
 .tuzaijidi.com
+.tv.apple.com
 .tv.com
 .tv.domain888.pw
 .tv.endlessmovie.com
@@ -27696,6 +27719,7 @@ zeke.scea.com
 .vpnspecial.com
 .vpntaiwan.com
 .vpntool.com
+.vpntraffic.com
 .vpntunnel.com
 .vpnuk.info
 .vpnunlimitedapp.com

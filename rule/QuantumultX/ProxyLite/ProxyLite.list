@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:25
-# HOST-SUFFIX: 32900
+# UPDATED: 2022-01-19 22:48:48
+# HOST-SUFFIX: 32896
 # USER-AGENT: 10
 # HOST: 18
 # HOST-KEYWORD: 26
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33045
+# TOTAL: 33041
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,apip.videomarket.jp,ProxyLite
 HOST,blizzard.nefficient.co.kr,ProxyLite
@@ -3740,8 +3740,6 @@ HOST-SUFFIX,apple-expo.com,ProxyLite
 HOST-SUFFIX,apple-hk.com,ProxyLite
 HOST-SUFFIX,apple-imac.com,ProxyLite
 HOST-SUFFIX,apple-inc.net,ProxyLite
-HOST-SUFFIX,apple-livephotoskit.com,ProxyLite
-HOST-SUFFIX,apple-mapkit.com,ProxyLite
 HOST-SUFFIX,apple-online.com,ProxyLite
 HOST-SUFFIX,apple-pay.com,ProxyLite
 HOST-SUFFIX,apple-pay.rs,ProxyLite
@@ -3751,8 +3749,6 @@ HOST-SUFFIX,apple-store.wang,ProxyLite
 HOST-SUFFIX,apple-usa.net,ProxyLite
 HOST-SUFFIX,apple.be,ProxyLite
 HOST-SUFFIX,apple.ch,ProxyLite
-HOST-SUFFIX,apple.co,ProxyLite
-HOST-SUFFIX,apple.com,ProxyLite
 HOST-SUFFIX,apple.com.co,ProxyLite
 HOST-SUFFIX,apple.com.do,ProxyLite
 HOST-SUFFIX,apple.com.pr,ProxyLite
@@ -6993,7 +6989,6 @@ HOST-SUFFIX,cdig.info,ProxyLite
 HOST-SUFFIX,cdjp.org,ProxyLite
 HOST-SUFFIX,cdkworkshop.com,ProxyLite
 HOST-SUFFIX,cdmr.rpz.su,ProxyLite
-HOST-SUFFIX,cdn-apple.com,ProxyLite
 HOST-SUFFIX,cdn-main.plus500.com,ProxyLite
 HOST-SUFFIX,cdn-terapeak.com,ProxyLite
 HOST-SUFFIX,cdn.angruo.com,ProxyLite
@@ -14866,7 +14861,6 @@ HOST-SUFFIX,itunbes.com,ProxyLite
 HOST-SUFFIX,ituneas.com,ProxyLite
 HOST-SUFFIX,itunes-radio.net,ProxyLite
 HOST-SUFFIX,itunes.co,ProxyLite
-HOST-SUFFIX,itunes.com,ProxyLite
 HOST-SUFFIX,itunes.org,ProxyLite
 HOST-SUFFIX,itunes.rio,ProxyLite
 HOST-SUFFIX,itunes12days.com,ProxyLite
@@ -24718,6 +24712,7 @@ HOST-SUFFIX,tradiio.com,ProxyLite
 HOST-SUFFIX,trading212.com,ProxyLite
 HOST-SUFFIX,tradingview.com,ProxyLite
 HOST-SUFFIX,traeumtgerade.de,ProxyLite
+HOST-SUFFIX,trafficmanager.net,ProxyLite
 HOST-SUFFIX,trakt.tv,ProxyLite
 HOST-SUFFIX,transferstudentcn.weebly.com,ProxyLite
 HOST-SUFFIX,translate.goog,ProxyLite
@@ -26312,6 +26307,7 @@ HOST-SUFFIX,vpnsp.com,ProxyLite
 HOST-SUFFIX,vpnspecial.com,ProxyLite
 HOST-SUFFIX,vpntaiwan.com,ProxyLite
 HOST-SUFFIX,vpntool.com,ProxyLite
+HOST-SUFFIX,vpntraffic.com,ProxyLite
 HOST-SUFFIX,vpntunnel.com,ProxyLite
 HOST-SUFFIX,vpnuk.info,ProxyLite
 HOST-SUFFIX,vpnunlimitedapp.com,ProxyLite

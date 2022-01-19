@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:40
-# DOMAIN-SUFFIX: 25757
+# UPDATED: 2022-01-19 22:48:51
+# DOMAIN-SUFFIX: 25758
 # USER-AGENT: 12
 # DOMAIN: 5
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
-# TOTAL: 25891
+# TOTAL: 25892
 assets-priconne-redive-us.akamaized.net
 cvws.icloud-content.com
 developer.apple.com
@@ -19435,6 +19435,7 @@ voice.telephony.goog
 .vpnspecial.com
 .vpntaiwan.com
 .vpntool.com
+.vpntraffic.com
 .vpntunnel.com
 .vpnuk.info
 .vpnunlimitedapp.com
