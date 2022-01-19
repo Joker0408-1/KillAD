@@ -16,9 +16,9 @@
 | ---- | ---- |
 | mitm | 551 |
 | DOMAIN | 6 |
+| IP-CIDR | 1 |
 | URL-REGEX | 7 |
 | DOMAIN-SUFFIX | 2 |
-| IP-CIDR | 1 |
 | USER-AGENT | 1 |
 | IP-CIDR6 | 1 |
 | reject | 735 |
