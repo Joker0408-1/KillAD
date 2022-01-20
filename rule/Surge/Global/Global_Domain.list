@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 22:48:47
+# UPDATED: 2022-01-20 15:02:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 25596
+# DOMAIN-SUFFIX: 24460
 # USER-AGENT: 49
 # DOMAIN: 26
 # DOMAIN-KEYWORD: 41
@@ -11,7 +11,7 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 25847
+# TOTAL: 24711
 amp-api.podcasts.apple.com
 apple.comscoreresearch.com
 appleid.apple.com
@@ -138,7 +138,6 @@ tv.apple.com
 .025vic.com
 .02802.com
 .03.from-ga.com
-.03.fromga.com
 .0304game.com
 .030buy.com
 .032006.com
@@ -221,7 +220,6 @@ tv.apple.com
 .0rz.tw
 .1-10.fr
 .1-apple.com.tw
-.1-cl0ud.com
 .1-dk.cg-dialup.net
 .1.bb5522.ws
 .1.buyu213.com
@@ -272,9 +270,6 @@ tv.apple.com
 .10betcn-apitw.100b108.com
 .10betcn-pushcrm.100b108.com
 .10betcn-pushserver-tw.100b108.com
-.10betcnapitw.100b108.com
-.10betcnpushcrm.100b108.com
-.10betcnpushservertw.100b108.com
 .10bo1000.com
 .10bo10000.com
 .10bo10001.com
@@ -294,7 +289,6 @@ tv.apple.com
 .10shibo1000.com
 .10tracks.ru
 .11.233txb.com
-.110.fr
 .11007398.com
 .1100tk.com
 .11088088.com
@@ -332,7 +326,6 @@ tv.apple.com
 .11sebb.com
 .12.com
 .12.from-ga.com
-.12.fromga.com
 .1202069.com
 .121584.com
 .121610.com
@@ -403,7 +396,6 @@ tv.apple.com
 .1499368.com
 .15.buyu212.com
 .15.is-by.us
-.15.isby.us
 .15.redirectme.net
 .1500345.com
 .1500kai.com
@@ -582,7 +574,6 @@ tv.apple.com
 .18itv.com
 .18jack.cc
 .18jack.com
-.18luck.com
 .18onlygirls.com
 .18p2p.com
 .18qiu.com
@@ -642,9 +633,7 @@ tv.apple.com
 .1998cdp.org
 .19fun01.com
 .19letou.com
-.1apple.com.tw
 .1bao.org
-.1dk.cgdialup.net
 .1dpw.com
 .1dumb.com
 .1eew.com
@@ -669,7 +658,6 @@ tv.apple.com
 .1t.z95666.com
 .1ucrs.com
 .1w1w-id.com
-.1w1wid.com
 .1wh.com
 .1world.mobi
 .1ws.pj12.tk
@@ -706,7 +694,6 @@ tv.apple.com
 .20206003.com
 .20206006.com
 .2020loseweight.lun-cheng.com
-.2020loseweight.luncheng.com
 .2021hkcharter.com
 .203186077128.static.ctinets.com
 .2047.name
@@ -834,7 +821,6 @@ tv.apple.com
 .25565.app
 .255k7.com
 .256.now-ip.net
-.256.nowip.net
 .257.t28.net
 .2573751.com
 .2576740.com
@@ -907,7 +893,6 @@ tv.apple.com
 .2dway.com
 .2femdom.com
 .2gw.publichealthonline.gwu.edu
-.2hand.info
 .2l387.cc
 .2lib.org
 .2lipstube.com
@@ -1145,7 +1130,6 @@ tv.apple.com
 .39879.com
 .39898.com
 .399699.com
-.3a.net
 .3a5a.com
 .3aazb.com
 .3abnlatino.org
@@ -1156,8 +1140,6 @@ tv.apple.com
 .3d-game.com
 .3d-gold.com
 .3d.ddos.im
-.3dgame.com
-.3dgold.com
 .3dtoontube.com
 .3dwise.com
 .3dxtras.com
@@ -1166,7 +1148,6 @@ tv.apple.com
 .3hjdc.com
 .3hundred.ml
 .3ie87c2dond928rt2e2zzo8o-wpengine.netdna-ssl.com
-.3ie87c2dond928rt2e2zzo8owpengine.netdnassl.com
 .3lib.net
 .3m.com.au
 .3movs.com
@@ -1339,7 +1320,6 @@ tv.apple.com
 .50655.com
 .507678.com
 .50na50.net
-.50video.com
 .50webs.com
 .51.ca
 .511zhang.com
@@ -1431,7 +1411,6 @@ tv.apple.com
 .53688.com
 .53900a.com
 .54.from-nh.com
-.54.fromnh.com
 .5401434.com
 .540186.co
 .54271.com
@@ -1439,7 +1418,6 @@ tv.apple.com
 .54321365.com
 .543215.com
 .5461888297-sy.cp168.ws
-.5461888297sy.cp168.ws
 .5462.com
 .54647.io
 .54647.xyz
@@ -1499,14 +1477,12 @@ tv.apple.com
 .56777vip.com
 .5680257.com
 .57.from-ga.com
-.57.fromga.com
 .57138.com
 .5749839.com
 .5753998.com
 .5755819.com
 .577k7.com
 .58.from-hi.com
-.58.fromhi.com
 .5802365.com
 .5838977.com
 .58559.com
@@ -1612,7 +1588,6 @@ tv.apple.com
 .633mmm.net
 .6345345.com
 .635-188.com
-.635188.com
 .6366r.com
 .637539.com
 .637581.com
@@ -1635,8 +1610,6 @@ tv.apple.com
 .63qq.net
 .63rr.net
 .64.from-hi.com
-.64.fromhi.com
-.64.net
 .6408118.com
 .6427925.com
 .6442179.com
@@ -1929,7 +1902,6 @@ tv.apple.com
 .777.bgabbin.com
 .777.itwinstars.com
 .777.pk-bbins.com
-.777.pkbbins.com
 .777.tcy789.com
 .7771.yzc615.com
 .777777.com
@@ -2206,7 +2178,6 @@ tv.apple.com
 .895600.cc
 .8958164.com
 .8964.com
-.8964.org
 .8964museum.com
 .8969.org
 .8977.cc
@@ -2218,7 +2189,6 @@ tv.apple.com
 .8bodog.com
 .8cp8778.com
 .8cyber.com
-.8d.com
 .8dgo.com
 .8dgo.tw
 .8dice168.com
@@ -2304,7 +2274,6 @@ tv.apple.com
 .9411616.com
 .9413081.com
 .941app.com
-.941hd.com
 .941novel.com
 .942777.com
 .9439522.com
@@ -2512,7 +2481,6 @@ tv.apple.com
 .9cache.com
 .9cash.net
 .9ff450a4-6dc6-4b0c-9e7a-87c74a5b5e70.realclearprivacy.biz
-.9ff450a46dc64b0c9e7a87c74a5b5e70.realclearprivacy.biz
 .9fyt.com
 .9gag.com
 .9gag.tv
@@ -2538,7 +2506,6 @@ tv.apple.com
 .a.pomf.se
 .a.ssd2.bid
 .a.we55.us
-.a0014.amsedge.net
 .a00788.com
 .a0263.com
 .a0415704157.byethost7.com
@@ -2602,7 +2569,6 @@ tv.apple.com
 .aamacau.com
 .aapks.com
 .aarberg-bierwanderung.ch
-.aarbergbierwanderung.ch
 .aaronmix.net
 .aaronnieh.com
 .aast.edu
@@ -2631,7 +2597,6 @@ tv.apple.com
 .abpchina.org
 .abs-cbnnews.com
 .abs.edu
-.abscbnnews.com
 .abstracta.cl
 .abula.idv.tw
 .abyfine.web.id
@@ -2646,7 +2611,6 @@ tv.apple.com
 .acebook.com
 .acel.com
 .aceros-de-hispania.com
-.acerosdehispania.com
 .acertainsound.com
 .acetop.com
 .acevpn.com
@@ -2681,13 +2645,11 @@ tv.apple.com
 .activpn.com
 .acts29network.org
 .actu-bonsplans.com
-.actubonsplans.com
 .actuweb.net
 .aculo.us
 .adad06.com
 .adad09.com
 .adam-modellbau.pl
-.adammodellbau.pl
 .adanwebnet.site44.com
 .adblockplus.org
 .adcex.com
@@ -2702,7 +2664,6 @@ tv.apple.com
 .adityabhushan.com
 .admin-newyork1.bloxcms.com
 .admin.bodog18.com
-.adminnewyork1.bloxcms.com
 .admissionsessayhelp.com
 .adnmb2.com
 .adobe.com
@@ -2720,11 +2681,8 @@ tv.apple.com
 .adult-empire.com
 .adult-sex-games.com
 .adult.com
-.adultcartoonsex.com
-.adultempire.com
 .adultism.com
 .adultkeep.net
-.adultsexgames.com
 .advanhost.con.hk
 .advanscene.com
 .adventist.org
@@ -2733,12 +2691,10 @@ tv.apple.com
 .aebn.net
 .aenhancers.com
 .aeon-pool.com
-.aeonpool.com
 .aerisapi.com
 .aeroflot.ru
 .aeromexico.com
 .aerotaxi.cl
-.aet.org
 .aetcf.pt
 .aetoscg.com
 .aex.com
@@ -2804,8 +2760,6 @@ tv.apple.com
 .agent-365ty.houtai045.com
 .agent-jbty.aschcct.com
 .agent.xinhuangyule88899.com
-.agent365ty.houtai045.com
-.agentjbty.aschcct.com
 .agentwho.net
 .agfish.jd111.net
 .agfunder.com
@@ -2815,7 +2769,6 @@ tv.apple.com
 .agnesb.fr
 .agnitio.com.ar
 .agos-ti.com.ar
-.agosti.com.ar
 .agpf.de
 .agreca.com.ar
 .agro.hk
@@ -2830,12 +2783,10 @@ tv.apple.com
 .ahri.work
 .ahri.xyz
 .ahri8.com
-.ahrihentai.com
 .ai-kan.net
 .ai-wen.net
 .ai780.com
 .aicoin.com
-.aikan.net
 .aikeji.tk
 .aimoon.com
 .aing01.com
@@ -2868,7 +2819,6 @@ tv.apple.com
 .aiv-delivery.net
 .aiweiwei.com
 .aiweiweiblog.com
-.aiwen.net
 .aizhi.co
 .aj009.com
 .aj12888.com
@@ -2881,7 +2831,6 @@ tv.apple.com
 .aka.ms
 .akademiye.org
 .akaishidake-test.ec2.toshiba-medical.biz
-.akaishidaketest.ec2.toshibamedical.biz
 .akali.club
 .akamai.cn
 .akamai.com
@@ -2890,8 +2839,6 @@ tv.apple.com
 .akamaistream.net
 .akiba-online.com
 .akiba-web.com
-.akibaonline.com
-.akibaweb.com
 .akii.work
 .akitainu.cl
 .akiyama.ca
@@ -2907,7 +2854,6 @@ tv.apple.com
 .al-qimmah.net
 .alabout.com
 .aladep.com
-.alakhbar.com
 .alalin.me
 .alanhou.com
 .alarab.qa
@@ -2931,7 +2877,6 @@ tv.apple.com
 .alifaan.ovh
 .alifta.com
 .alimentacion.cl
-.alislam.com
 .alistapart.com
 .alittlemarket.com
 .alive.bar
@@ -2967,7 +2912,6 @@ tv.apple.com
 .allofteens.com
 .allover30.com
 .allowed.org
-.allquran.com
 .allstate.com
 .allthingsd.com
 .allunblocked.com
@@ -2978,9 +2922,7 @@ tv.apple.com
 .alohabrowser.com
 .alohatube.com
 .alpes-himalaya.com
-.alpeshimalaya.com
 .alphasigmaphi.org
-.alqimmah.net
 .alqp184.com
 .alqp195.com
 .alqp49.com
@@ -2991,7 +2933,6 @@ tv.apple.com
 .alt.com
 .altavista.com
 .alternate-tools.com
-.alternatetools.com
 .alternativeto.net
 .alternet.co.il
 .altimiras.cl
@@ -3021,7 +2962,6 @@ tv.apple.com
 .amateurgalls.com
 .amateurs-gone-wild.com
 .amateursexy.net
-.amateursgonewild.com
 .ambit.chat
 .ambitvpn.com
 .amcas.org
@@ -3038,7 +2978,6 @@ tv.apple.com
 .ame-life.com
 .ameba.jp
 .ameblo.jp
-.amelife.com
 .amentrix.co.uk
 .america.gov
 .american.edu
@@ -3062,7 +3001,6 @@ tv.apple.com
 .amiduos.com
 .amigobbs.net
 .amis-tibet.lu
-.amistibet.lu
 .amitabhafoundation.us
 .amittal.in
 .amjs669.com
@@ -3094,7 +3032,6 @@ tv.apple.com
 .amrc.org.hk
 .amrita.edu
 .amtb-taipei.org
-.amtbtaipei.org
 .amvs22.com
 .amvs6.com
 .amvs66.com
@@ -3128,7 +3065,6 @@ tv.apple.com
 .anaconda.com
 .anakinweb.com
 .analyze-v.com
-.analyzev.com
 .anandaminers.com
 .anarchistan.com
 .anchor.fm
@@ -3147,7 +3083,6 @@ tv.apple.com
 .android.com
 .android.jlelse.eu
 .android.mi9.com
-.androidapk.org
 .androidapksfree.com
 .androidappsapk.co
 .androidebook.org
@@ -3156,12 +3091,10 @@ tv.apple.com
 .androidtablets.net
 .androidtv.com
 .androidworld.ch
-.androidx86.org
 .andygod.com
 .andyjenkinsblog.com
 .aneisa.com
 .angela-merkel.de
-.angelamerkel.de
 .angelblog.jp
 .angelfire.com
 .angelwind.tw
@@ -3173,7 +3106,6 @@ tv.apple.com
 .anime-sharing.com
 .animecrazy.net
 .animedreaming.tv
-.animesharing.com
 .animeshippuuden.com
 .aniscartujo.com
 .anisearch.de
@@ -3190,7 +3122,6 @@ tv.apple.com
 .anonasurf.com
 .anonproxy.eu
 .anontext.com
-.anonv.com
 .anonymise.us
 .anonymitynetwork.com
 .anonymize.net
@@ -3198,20 +3129,16 @@ tv.apple.com
 .anonymous-proxies.net
 .anonymous-proxy.com.de
 .anonymouse.org
-.anonymousproxies.net
-.anonymousproxy.com.de
 .anonymoussurf.us
 .anonymox.net
 .anonymus.us
 .anonypost.com
 .anonyproxy.biz
 .anonysurf.com
-.anormalday.com
 .anotherstep.pt
 .anpopo.com
 .anqingshi.xyz
 .answering-islam.org
-.answeringislam.org
 .ant.comm.ccu.edu.tw
 .anta888.com
 .antd.org
@@ -3224,10 +3151,7 @@ tv.apple.com
 .anti1984.com
 .anticcp.net
 .antichristendom.com
-.anticoco.top
 .antiek.com
-.antigfw.com
-.antigfw.org
 .antiq.com
 .antiwave.net
 .antoinette.cl
@@ -3268,7 +3192,6 @@ tv.apple.com
 .apcrwangpian.com
 .apetube.com
 .apfi-jatim.org
-.apfijatim.org
 .apfritts.com
 .api.a5188yes.com
 .api.ai
@@ -3281,7 +3204,6 @@ tv.apple.com
 .api.netlify.com
 .api.ott.pm
 .api.phantom.avira-vpn.com
-.api.phantom.aviravpn.com
 .api.pncle8.com
 .api.rongzhouxing.com
 .api.sugram.chat
@@ -3312,7 +3234,6 @@ tv.apple.com
 .apk2.tk
 .apk4fun.com
 .apkcombo.com
-.apkdl.com
 .apkdownloadforwindows.com
 .apkfind.com
 .apkgk.com
@@ -3339,7 +3260,6 @@ tv.apple.com
 .app.tv333.us
 .app.vsight.io
 .app.xmx-134-1.com
-.app.xmx1341.com
 .app2.tk
 .app3.tk
 .app365.ga
@@ -3353,7 +3273,6 @@ tv.apple.com
 .appadvice.com
 .appali.hnlsht.com
 .appboxes.co
-.appcdn.minepi.com
 .appdownload.qm2500.com
 .appdownloader.net
 .apple-dns.net
@@ -3367,7 +3286,6 @@ tv.apple.com
 .appreplica.com
 .apps.education2020.com
 .apps.mohawkcollege.ca
-.appsdylqipai3917.com
 .appshopper.com
 .appsocks.net
 .appspot.com
@@ -3383,7 +3301,6 @@ tv.apple.com
 .aravas.io
 .arcadianews.com
 .arcangel-images.com
-.arcangelimages.com
 .arcgis.com
 .archive.fo
 .archive.is
@@ -3405,7 +3322,6 @@ tv.apple.com
 .arctosia.com
 .areavoices.com
 .areca-backup.org
-.arecabackup.org
 .areload.com
 .arena.taipei
 .arethusa.su
@@ -3414,7 +3330,6 @@ tv.apple.com
 .arieltorres.com.ar
 .aritzcracker.ca
 .arizona-friends-of-tibet.org
-.arizonafriendsoftibet.org
 .arkpay.site
 .arlen.io
 .arlingtoncemetery.mil
@@ -3451,20 +3366,16 @@ tv.apple.com
 .asia-gaming.com
 .asia-northeast1-saluton.cloudfunctions.net
 .asia.dnscepat.id
-.asiaapi.yikyakapi.net
 .asiabet168.com
 .asiafrc.com
-.asiagaming.com
 .asiaharvest.org
 .asiamoviepass.com
 .asian-boy-models.com
 .asianage.com
-.asianboymodels.com
 .asianclassics.org
 .asiancorrespondent.com
 .asianews.it
 .asianfreeforum.com
-.asianortheast1saluton.cloudfunctions.net
 .asianresearch.org
 .asiansexdiary.com
 .asiansister.com
@@ -3488,7 +3399,6 @@ tv.apple.com
 .asredas.com
 .assembla.com
 .assets.gitlab-static.net
-.assets.gitlabstatic.net
 .asshole.com
 .assimp.org
 .assisass.com
@@ -3499,7 +3409,6 @@ tv.apple.com
 .astrill.com
 .astrill4u.com
 .astrology-zodiac-signs.com
-.astrologyzodiacsigns.com
 .astrumpeople.com
 .asu.mx
 .async.be
@@ -3525,7 +3434,6 @@ tv.apple.com
 .au1.ca
 .au79nt5wic4x.com
 .auction-house.ru
-.auctionhouse.ru
 .audiobar.net
 .audioboom.com
 .audiobro.com
@@ -3551,7 +3459,6 @@ tv.apple.com
 .auto-aufladen.de
 .auto.freev2.top
 .auto0391.com
-.autoaufladen.de
 .autocity.us
 .autodiscover.se.com
 .autodraw.com
@@ -3586,7 +3493,6 @@ tv.apple.com
 .av99.tv
 .av991.sex888.cc
 .avaaz.org
-.avadult.com
 .avatarify.ai
 .avaxhm.com
 .avaxsearch.com
@@ -3600,7 +3506,6 @@ tv.apple.com
 .avday.tv
 .avdb.in
 .avdb.tv
-.avebody.com
 .avemaria.cl
 .avemarialiving.com
 .aventertainments.com
@@ -3620,11 +3525,9 @@ tv.apple.com
 .avmoo.com
 .avmoo.net
 .avmoo.pw
-.avmovie1.xyz
 .avno1.com
 .avocatbihor.ro
 .avoision.com
-.avok.com
 .avos.pw
 .avq.52avq.cc
 .avqtv.com
@@ -3635,9 +3538,6 @@ tv.apple.com
 .avsp2p.com
 .avstry.com
 .avt-global.com
-.avtest.org
-.avtglobal.com
-.avwiki.net
 .avyahoo.com
 .aw15.iqi.asu.su
 .awabo.com
@@ -3755,7 +3655,6 @@ tv.apple.com
 .babepedia.com
 .babes.com
 .baby-kingdom.com
-.babykingdom.com
 .babylonbee.com
 .babynet.com.hk
 .bacc.game88city.net
@@ -3793,7 +3692,6 @@ tv.apple.com
 .bamgrid.com
 .banamex.com.mx
 .banana-vpn.com
-.bananavpn.com
 .bancserve.biz
 .bancserve.org
 .band.us
@@ -3885,7 +3783,6 @@ tv.apple.com
 .bbcworldnews.com
 .bbei7.com
 .bbg.gov
-.bbin.net
 .bbinary.com
 .bbkz.com
 .bbnradio.org
@@ -3904,8 +3801,6 @@ tv.apple.com
 .bbs.sex169.xyz
 .bbs.sopboy.com
 .bbs.soul-plus.org
-.bbs.soulplus.org
-.bbs.soutong.org
 .bbs.tianshi2.com
 .bbs4.2djgame.net
 .bbsdigest.com
@@ -3913,7 +3808,6 @@ tv.apple.com
 .bbsland.com
 .bbsmo.com
 .bbsone.com
-.bbstw.com
 .bbtchurch.com
 .bbtoystore.com
 .bbwei818.com
@@ -4019,7 +3913,6 @@ tv.apple.com
 .bestforchina.org
 .bestmalevideos.com
 .bestofscenecollection.cc
-.bestproxy.com.de
 .bestroc.org
 .bestvpn-china.com
 .bestvpn.com
@@ -4097,7 +3990,6 @@ tv.apple.com
 .bic2011.org
 .bichosout.cl
 .bicycle-store-123.business.site
-.bicyclestore123.business.site
 .biec.us
 .biedian.me
 .bifa006.com
@@ -4133,7 +4025,6 @@ tv.apple.com
 .bilet.intercity.pl
 .biliworld.com
 .bill2-software.com
-.bill2software.com
 .billerickson.net
 .billyclack.com
 .billypan.com
@@ -4142,7 +4033,6 @@ tv.apple.com
 .binance.cc
 .binance.com
 .binance.us
-.binancecn.com
 .binary.com
 .bind2.com
 .bine.me
@@ -4160,14 +4050,6 @@ tv.apple.com
 .bione.me
 .bipic.net
 .bird.so
-.bisi.xyz
-.bisi10.xyz
-.bisi2.xyz
-.bisi7.xyz
-.bisi8.xyz
-.bisi888.xyz
-.bisi9.xyz
-.bisi999.xyz
 .bit-z.com
 .bit.biz.st
 .bit.com
@@ -4181,7 +4063,6 @@ tv.apple.com
 .bitcoinheaven.pw
 .bitcoint-id.xyz
 .bitcointalk.org
-.bitcointid.xyz
 .bitcoinworld.com
 .bitfinex.com
 .bitgz.com
@@ -4197,7 +4078,6 @@ tv.apple.com
 .bitvise.com
 .bitxtv.site
 .bitz.ai
-.bitz.com
 .bivipsil.org
 .bivpn.com
 .biwei389.com
@@ -4259,7 +4139,6 @@ tv.apple.com
 .blazebox.net
 .blbest.xyz
 .bldaily.com
-.bldoujinsouko.com
 .ble.soas.ac.uk
 .blenderartists.com
 .blewpass.com
@@ -4293,7 +4172,6 @@ tv.apple.com
 .blog.bengmugenr.com
 .blog.birdhouseapp.com
 .blog.boxcar.io
-.blog.calibreebook.com
 .blog.chrxw.com
 .blog.cloudboost.io
 .blog.com
@@ -4307,7 +4185,6 @@ tv.apple.com
 .blog.idevr.com
 .blog.imprezagt1031.idv.tw
 .blog.iphone-dev.org
-.blog.iphonedev.org
 .blog.iruo.cc
 .blog.iset.com.tw
 .blog.jp
@@ -4332,7 +4209,6 @@ tv.apple.com
 .blog.usejournal.com
 .blog.vipin.us
 .blog.wan-ifra.org
-.blog.wanifra.org
 .blog.x188.cn
 .blog.xlfmguanyin.com
 .blog.yandere.moe
@@ -4465,9 +4341,6 @@ tv.apple.com
 .bogusx.idv.tw
 .boizoe.gq
 .boizoe.ml
-.bok.as
-.bok.asia
-.bok.cc
 .bokefa888.com
 .bokking.com.br
 .bol.com
@@ -4480,7 +4353,6 @@ tv.apple.com
 .bonbonsex.com
 .bonbonyou.com
 .bond-adventures.com
-.bondadventures.com
 .bondage.com
 .bondageblog.com
 .bonfoundation.org
@@ -4512,7 +4384,6 @@ tv.apple.com
 .boostmobile.com
 .borderlandindustry.ml
 .borderlands-books.com
-.borderlandsbooks.com
 .borgenmagazine.com
 .boringart.lt
 .borquezyburr.cl
@@ -4523,10 +4394,8 @@ tv.apple.com
 .bot.nu
 .botanwang.com
 .boulevard-sa.com.ar
-.boulevardsa.com.ar
 .bounceme.net
 .boundless-sky.com
-.boundlesssky.com
 .bowenpress.com
 .box.com
 .box.hyds360.com
@@ -4561,7 +4430,6 @@ tv.apple.com
 .brannans.org
 .brauclub.ch
 .brauereibaar-shop.ch
-.brauereibaarshop.ch
 .braumeister.org
 .brave.com
 .bravoerotica.com
@@ -4579,7 +4447,6 @@ tv.apple.com
 .breakwall.net
 .breitbart.com
 .brewster.kahle.org
-.briancon05urgencetibet.overblog.com
 .brianwardlow.com
 .bridgefund.org
 .bridgethewise.net
@@ -4624,7 +4491,6 @@ tv.apple.com
 .btbtdy.com
 .btc-alpha.com
 .btc98.com
-.btcalpha.com
 .btcbank.bank
 .btcbatman.com
 .btcc.com
@@ -4637,7 +4503,6 @@ tv.apple.com
 .btdigg.org
 .btguard.com
 .btio.pw
-.btking.xyz
 .btkitty.com
 .btkitty.org
 .btkittyok.co
@@ -4669,7 +4534,6 @@ tv.apple.com
 .buddhanet.idv.tw
 .buddhism-controversy-blog.com
 .buddhism.about.com
-.buddhismcontroversyblog.com
 .buddhismnow.com
 .buddhistchannel.tv
 .bufalopedia.ch
@@ -4704,13 +4568,11 @@ tv.apple.com
 .business-humanrights.org
 .business-standard.com
 .business.nikkeibp.co.jp
-.businesshumanrights.org
 .businessinsider.com
 .businessinsider.com.au
 .businessinsider.sg
 .businessmart.com
 .businesssource.bokf.com
-.businessstandard.com
 .businesstoday.com.tw
 .businessweek.com
 .busu.org
@@ -4722,7 +4584,6 @@ tv.apple.com
 .buy-thing.com
 .buyastrill.com
 .buylobstereasy.com
-.buything.com
 .buyu0077.com
 .buyu013.com
 .buyu016.com
@@ -4902,7 +4763,6 @@ tv.apple.com
 .c8082.com
 .c82.compucase.com
 .c87238846p-hw.scrc365.com
-.c87238846phw.scrc365.com
 .c88588.com
 .c8881.com
 .c9h1ess.com
@@ -4990,7 +4850,6 @@ tv.apple.com
 .cacss.me
 .cactusvpn.com
 .cadburybournvita.in
-.cadesktoppremium.zenmateuser.com
 .cafedots.com
 .cafepress.com
 .cahr.org.tw
@@ -5006,7 +4865,6 @@ tv.apple.com
 .calgaryplanninggm.com
 .calibre-ebook.com
 .call-3u8633.com
-.call3u8633.com
 .calstate.edu
 .caltech.edu
 .cam4.be
@@ -5053,14 +4911,12 @@ tv.apple.com
 .captureage.com
 .carabinasypistolas.com
 .carattericinesi.china-files.com
-.carattericinesi.chinafiles.com
 .carcano.me
 .card.llsif.moe
 .cardinalkungfoundation.org
 .cardrogue.com
 .care2.com
 .careerdirect-ge.org
-.careerdirectge.org
 .careers.kerry.kuokgroup.com
 .carfax.com
 .cari.com.my
@@ -5089,12 +4945,10 @@ tv.apple.com
 .casatibet.org.mx
 .cash-168.com
 .cash.tbet88.com
-.cash168.com
 .cashier.cff888.com
 .cashnhits.com
 .cashondrive.com
 .cashwork.kangdi-pay.com
-.cashwork.kangdipay.com
 .casi998.com
 .casino.kto.asia
 .casinobellini.com
@@ -5191,7 +5045,6 @@ tv.apple.com
 .cdd.me
 .cde.jp
 .cdef.org
-.cdellis.com
 .cdig.info
 .cdjp.org
 .cdmr.rpz.su
@@ -5199,7 +5052,6 @@ tv.apple.com
 .cdn-main.plus500.com
 .cdn.angruo.com
 .cdn.cms-twdigitalassets.com
-.cdn.cmstwdigitalassets.com
 .cdn.entelectonline.co.za
 .cdn.hkwesi22222.xyz
 .cdn.mobileread.com
@@ -5211,7 +5063,6 @@ tv.apple.com
 .cdn.ub8.com
 .cdn1.appleinsider.com
 .cdnews.com.tw
-.cdnmain.plus500.com
 .cdns.com.tw
 .cdnst.net
 .cdp.org
@@ -5250,9 +5101,7 @@ tv.apple.com
 .centresuite.com
 .centurys.net
 .certificate-transparency.org
-.certificatetransparency.org
 .cervetoria.pt
-.cestsimple.com
 .cevin.me
 .cex.io
 .cf.gs
@@ -5332,7 +5181,6 @@ tv.apple.com
 .chenghuavideo.asia
 .chengmingmag.com
 .chenguangcheng.com
-.chenlin.idv.tw
 .chenpokong.com
 .chenpokong.net
 .chenpokongvip.com
@@ -5405,14 +5253,12 @@ tv.apple.com
 .chinalawtranslate.com
 .chinamediaproject.org
 .chinammm.la
-.chinammm.net
 .chinamule.com
 .chinamz.org
 .chinanewscenter.com
 .chinapost.com.tw
 .chinapress.com.my
 .chinaresearchgroup.org
-.chinareview.com.ua
 .chinarightsia.org
 .chinarumor.com
 .chinasaint.com
@@ -5431,7 +5277,6 @@ tv.apple.com
 .chinavpn.net
 .chinaway.org
 .chinaweb.bsgroup.com.hk
-.chinaweek.com
 .chinaworker.info
 .chinaxchina.com
 .chinayouth.org.hk
@@ -5442,16 +5287,12 @@ tv.apple.com
 .chinese-memorial.org
 .chinese.cgntv.net
 .chinese.net.au
-.chinesebloggers.com
 .chinesedaily.com
 .chinesedailynews.com
 .chinesedemocracy.com
 .chinesegay.org
-.chinesehermit.net
 .chinesehope.tv
 .chineselabourparty.org
-.chineseleaders.org
-.chinesememorial.org
 .chinesen.de
 .chinesenews.net.au
 .chinesenewsgroup.com
@@ -5475,7 +5316,6 @@ tv.apple.com
 .chito.com.mx
 .chkci.org.hk
 .chn.the-liberty.com
-.chn.theliberty.com
 .chnroute.com
 .chobit.cc
 .chocalanwines.com
@@ -5487,7 +5327,6 @@ tv.apple.com
 .chouzakeil.com.ar
 .chrdnet.com
 .chrgn.mjs-122.com
-.chrgn.mjs122.com
 .chris2.net16.net
 .christianfreedom.org
 .christianity.about.com
@@ -5511,7 +5350,6 @@ tv.apple.com
 .chrs.me.uk
 .chuang-yen.org
 .chuangcn.org
-.chuangyen.org
 .chuanqibianmu.com
 .chubold.com
 .chubun.com
@@ -5554,7 +5392,6 @@ tv.apple.com
 .citrahalal.co.id
 .citramarga.com
 .citrix-ca.cloudwerx.com
-.citrixca.cloudwerx.com
 .city365.ca
 .city9x.com
 .citylab.com
@@ -5601,7 +5438,6 @@ tv.apple.com
 .clearsurance.com
 .clearwisdom.net
 .clementine-player.org
-.clementineplayer.org
 .clgperformance.com
 .clickindex.com
 .clickprompt.com
@@ -5611,7 +5447,6 @@ tv.apple.com
 .climatedatalibrary.cl
 .climb.ro
 .clinica-tibet.ru
-.clinicatibet.ru
 .cliowelt.de
 .clipconverter.cc
 .clipfish.de
@@ -5635,8 +5470,6 @@ tv.apple.com
 .cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
-.cloudflaredns.com
-.cloudflareipfs.com
 .cloudfoundry.com
 .cloudfront.glb.cellopoint.com
 .cloudfront.net
@@ -5654,7 +5487,6 @@ tv.apple.com
 .clyp.it
 .cm.spacetechnology.net
 .cm04.coaching-baum.de
-.cm04.coachingbaum.de
 .cm33.cf
 .cm33.ga
 .cm365.xyz
@@ -5815,7 +5647,6 @@ tv.apple.com
 .collegehumor.com
 .collegetransferstudent.com
 .colorado-photo.com
-.coloradophoto.com
 .coloradosprings.com
 .com.ru
 .com.uk
@@ -5826,7 +5657,6 @@ tv.apple.com
 .comhealth.xyz
 .comic-mega.me
 .comiccb.com
-.comicmega.me
 .comico.tw
 .commandarms.com
 .commentshk.com
@@ -5888,14 +5718,11 @@ tv.apple.com
 .core3.proxyswitcher.com
 .coresoft.ro
 .corona-tracing.org
-.coronatracing.org
 .corriere.it
 .cors-anywhere.herokuapp.com
-.corsanywhere.herokuapp.com
 .corumcollege.com
 .cos-moe.com
 .cosersuki.net
-.cosmoe.com
 .cosplaybutts.com
 .costco.com
 .cotizalia.com
@@ -5914,7 +5741,6 @@ tv.apple.com
 .cp.cloudn.me
 .cp.walllink.cc
 .cp52-4.trixbox.com
-.cp524.trixbox.com
 .cp929.com
 .cp98.com
 .cp999.com
@@ -5949,7 +5775,6 @@ tv.apple.com
 .crc003.net
 .crchina.org
 .crd-net.org
-.crdnet.org
 .creader.com
 .creaders.net
 .creadersnet.com
@@ -5958,7 +5783,6 @@ tv.apple.com
 .creditpay.myfxcm.com
 .creek22.idv.tw
 .crete-crete.com
-.cretecrete.com
 .crikey.com.au
 .crisp.chat
 .cristyli.com
@@ -5975,7 +5799,6 @@ tv.apple.com
 .croxyproxy.com
 .crrev.com
 .crsna-2015.tk
-.crsna2015.tk
 .crucial.com
 .cruisecritic.com
 .crunchyroll.com
@@ -6081,9 +5904,7 @@ tv.apple.com
 .csis.org
 .csnn.osha.gov.tw
 .cspan.org
-.cspanvideo.org
 .css.now-ip.net
-.css.nowip.net
 .css22.ga
 .css22.gq
 .css3.cf
@@ -6093,7 +5914,6 @@ tv.apple.com
 .css5.ml
 .css5.tk
 .cst-ltda.cl
-.cstltda.cl
 .csuchen.de
 .csw.org.uk
 .csweek.com
@@ -6102,7 +5922,6 @@ tv.apple.com
 .ct186.com
 .ctao.org
 .ctb.pernod-ricard.io
-.ctb.pernodricard.io
 .ctfriend.net
 .ctgop.org
 .ctitv.com.tw
@@ -6150,7 +5969,6 @@ tv.apple.com
 .cwb.gov.tw
 .cwbbooks.com
 .cweb-pix.com
-.cwebpix.com
 .cx.v2ray.cx
 .cxf51.t28.net
 .cy.cynaver.com
@@ -6163,7 +5981,6 @@ tv.apple.com
 .cyberfusion.com.au
 .cyberghostvpn.com
 .cyberguerrilla.org
-.cyberinsider.com
 .cybersyndrome.net
 .cybertv.tv
 .cyclingnews.com
@@ -6283,7 +6100,6 @@ tv.apple.com
 .dalailama.org.br
 .dalailama.ru
 .dalailama80.org
-.dalailamaarchives.org
 .dalailamacenter.org
 .dalailamafellows.org
 .dalailamafilm.com
@@ -6304,7 +6120,6 @@ tv.apple.com
 .damanpost.com
 .damara.me
 .damon-baker.com
-.damonbaker.com
 .danawa.com
 .dancemeets.com
 .dancingbear.com
@@ -6315,7 +6130,6 @@ tv.apple.com
 .danilo.to
 .danke4china.net
 .dans-condos.com
-.danscondos.com
 .danshen114.com
 .dansmovies.com
 .danwei.org
@@ -6342,17 +6156,14 @@ tv.apple.com
 .data.hugoboss.com
 .data.leafwind.tw
 .data.org.tr
-.datacdn.mbamupdates.com
 .datafilehost.com
 .datalak3.ml
 .dataprivacyproject.org
 .datasegura.com
-.datavocabulary.org
 .daum.net
 .daumcdn.net
 .davecushing.ca
 .david-kilgour.com
-.davidkilgour.com
 .davidsonsousa.net
 .davidwaner.com
 .davxv.com
@@ -6424,7 +6235,6 @@ tv.apple.com
 .dcmilitary.com
 .dcpress.net
 .dcs-live.apis.anvato.net
-.dcslive.apis.anvato.net
 .dcwg.org
 .dd0066.com
 .dd5278.loan
@@ -6464,7 +6274,6 @@ tv.apple.com
 .deadline.com
 .deaftone.com
 .deainx.net
-.dealmeida.org
 .dearelder.com
 .deathbychina.com
 .debate.org
@@ -6501,13 +6310,11 @@ tv.apple.com
 .delphi.ktop.com.tw
 .delsaler.com
 .delta-homes.com
-.deltahomes.com
 .demabeauty.com
 .demdex.net
 .demo.ai4t.com
 .demo.newworld666.com
 .demo.nyris.io
-.demo.operamini.net
 .demo2.sgwin123.com
 .democracy.com
 .democracynow.org
@@ -6523,7 +6330,6 @@ tv.apple.com
 .deptofhealth.xyz
 .derementeria.cl
 .desc.se
-.desci.org
 .deseguros.com.mx
 .designterrarium.de
 .designyoutrust.com
@@ -6537,11 +6343,9 @@ tv.apple.com
 .destiny.pro
 .destiny.to
 .destroy-china.jp
-.destroychina.jp
 .detnews.com
 .detroitnews.com
 .deutsche-welle.de
-.deutschewelle.de
 .developerlibrary.com
 .deviantart.com
 .deviantart.net
@@ -6561,7 +6365,6 @@ tv.apple.com
 .dfh29.com
 .dfn.org
 .dfpt88.com
-.dfukyu.com
 .dfw.ejdj12.com
 .dgreencommunications.com
 .dh005.com
@@ -6570,7 +6373,6 @@ tv.apple.com
 .dharmawheel.net
 .dhcp.biz
 .dhr.candy-sky.net
-.dhr.candysky.net
 .di-ve.com.ar
 .diaconadovalpo.cl
 .diafilme.ro
@@ -6585,13 +6387,11 @@ tv.apple.com
 .dictatorwatch.org
 .dictionary.com
 .dielinke-riedstadt.de
-.dielinkeriedstadt.de
 .dietsensei.com
 .difangwenge.org
 .digg.com
 .diggingtunnels.com
 .digi-ateljee.be
-.digiateljee.be
 .digibet.com
 .digicert.com
 .digiland.tw
@@ -6643,11 +6443,8 @@ tv.apple.com
 .dist.netpas.net
 .distressler.com
 .dit-inc.us
-.ditinc.us
 .div17.com
-.dive.com.ar
 .divine-interventions.com
-.divineinterventions.com
 .divxea.cf
 .dizdiaz.com.ar
 .dizhidizhi.com
@@ -6668,7 +6465,6 @@ tv.apple.com
 .dl.98123l.com
 .dldl01.com
 .dlive.tv
-.dllaby.jp
 .dlsite.com
 .dlsite.jp
 .dm530.net
@@ -6685,7 +6481,6 @@ tv.apple.com
 .dncsite.xyz
 .dnes.bg
 .dnl-09.geo.kaspersky.com
-.dnl09.geo.kaspersky.com
 .dns-dns.com
 .dns-doh-no-safe-search.dnsforfamily.com
 .dns-family.adguard.com
@@ -6702,10 +6497,8 @@ tv.apple.com
 .dns.containerpi.com
 .dns.decloudus.com
 .dns.digitale-gesellschaft.ch
-.dns.digitalegesellschaft.ch
 .dns.dns-over-https.com
 .dns.dnshome.de
-.dns.dnsoverhttps.com
 .dns.dnsoverhttps.net
 .dns.east.comss.one
 .dns.flatuslifir.is
@@ -6722,7 +6515,6 @@ tv.apple.com
 .dns05.com
 .dns1.nextdns.io
 .dns1.ryan-palmer.com
-.dns1.ryanpalmer.com
 .dns1.us
 .dns10.quad9.net
 .dns2.us
@@ -6731,14 +6523,11 @@ tv.apple.com
 .dnsalias.org
 .dnscom.work
 .dnscrypt.org
-.dnsdns.com
 .dnsdns.xyz
-.dnsdohnosafesearch.dnsforfamily.com
 .dnsdojo.com
 .dnsdojo.net
 .dnsdojo.org
 .dnses.alekberg.net
-.dnsfamily.adguard.com
 .dnsforge.de
 .dnsfre.xyz
 .dnsfree.xyz
@@ -6750,16 +6539,13 @@ tv.apple.com
 .dnsit.xyz
 .dnsname.xyz
 .dnsnl.alekberg.net
-.dnsnyc.aaflalo.me
 .dnsorg.xyz
 .dnsrd.com
 .dnssec.net
 .dnsser.xyz
 .dnsshop.xyz
 .dnssite.xyz
-.dnsstuff.com
 .dnstool.xyz
-.dnsunfiltered.adguard.com
 .dnsweb.xyz
 .dnswho.xyz
 .dnvod.tv
@@ -6768,7 +6554,6 @@ tv.apple.com
 .doc.ivy2.nu
 .doc.trolltech.com
 .docbox.fricke-g.de
-.docbox.frickeg.de
 .docker.com
 .docs.kali.org
 .docstoc.com
@@ -6778,9 +6563,7 @@ tv.apple.com
 .doctorvoice.org
 .documentingreality.com
 .does-it.net
-.doesit.net
 .doesntexist.com
-.doessentialoils.com
 .dogdictionary.net
 .dogess.app
 .dogfartnetwork.com
@@ -6801,7 +6584,6 @@ tv.apple.com
 .doh.dnslify.com
 .doh.doh.my.id
 .doh.eastus.pi-dns.com
-.doh.eastus.pidns.com
 .doh.familyshield.opendns.com
 .doh.ffmuc.net
 .doh.in.ahadns.net
@@ -6813,18 +6595,9 @@ tv.apple.com
 .doh.powerdns.org
 .doh.tiarap.org
 .doh.westus.pi-dns.com
-.doh.westus.pidns.com
-.doh01.spectrum.com
-.doh2.seby.io
-.dohch.blahdns.com
-.dohde.blahdns.com
-.dohfi.blahdns.com
-.dohjp.blahdns.com
-.dohsg.blahdns.com
 .dohtrial.att.net
 .dojin.com
 .dok-forum.net
-.dokforum.net
 .dolc.de
 .dolf.org.hk
 .dollf.com
@@ -6857,7 +6630,6 @@ tv.apple.com
 .dorceltv.com
 .dorjeshugden.com
 .dota2-zh.gamepedia.com
-.dota2zh.gamepedia.com
 .dotclub.com
 .dotplane.com
 .dotsub.com
@@ -6879,7 +6651,6 @@ tv.apple.com
 .doujin-moe.us
 .doujinantena.com
 .doujincafe.com
-.doujinmoe.us
 .doujins.com
 .doust.net.au
 .dowei.org
@@ -6887,7 +6658,6 @@ tv.apple.com
 .down.99oi.us
 .down.gateswq.net
 .down.timcok.com
-.download.aircrackng.org
 .download.bluesprig.com
 .download.camfrogcdn.com
 .download.com
@@ -6922,7 +6692,6 @@ tv.apple.com
 .drmingxia.org
 .droidvpn.com
 .dromeardeche-tibet.org
-.dromeardechetibet.org
 .dropbooks.tv
 .dropcoverholdon.org
 .droplr.com
@@ -7023,8 +6792,6 @@ tv.apple.com
 .dwheeler.com
 .dwnews.com
 .dwnews.net
-.dwworld.com
-.dwworld.de
 .dx3303.com
 .dx7711.com
 .dx7722.com
@@ -7054,18 +6821,9 @@ tv.apple.com
 .dyndns-work.com
 .dyndns.org
 .dyndns.pro
-.dyndnsfree.com
-.dyndnshome.com
-.dyndnsip.com
-.dyndnsmail.com
-.dyndnspics.com
-.dyndnsremote.com
-.dyndnsserver.com
-.dyndnswork.com
 .dynssl.com
 .dynu.com
 .dynu.net
-.dynupdate.noip.com
 .dynvpn.com
 .dysfz.cc
 .dyslexiala.com
@@ -7117,14 +6875,12 @@ tv.apple.com
 .east.moe
 .eastasiaforum.org
 .eastern-ark.com
-.easternark.com
 .easternlightning.org
 .eastmarketing.ro
 .eastturkestan.com
 .eastturkistan-gov.org
 .eastturkistan.net
 .eastturkistancc.org
-.eastturkistangov.org
 .eastturkistangovernmentinexile.us
 .easybib.com
 .easyca.ca
@@ -7134,35 +6890,29 @@ tv.apple.com
 .easyjet.com
 .easypic.com
 .easyvpn.zone
-.eautopay.com
 .ebanoapartments.com
 .ebanohoteles.com
 .ebans.byethost7.com
 .ebaumsworld.com
 .ebizstars.com
 .ebony-beauty.com
-.ebonybeauty.com
 .ebookbrowse.com
 .ebookee.com
 .ebooks-share.net
 .ebookservice.tw
-.ebooksshare.net
 .ebtcbank.com
 .ec.7788.hk
 .ecademy.com
 .ecaipe.com.ar
 .ecar.jlr-apps.com
-.ecar.jlrapps.com
 .ecchi.iwara.tv
 .ecdm.fandom.com
 .ecfa.org.tw
 .echainhost.com
 .echo-balancer.org
-.echobalancer.org
 .echofon.com
 .ecimg.tw
 .eckerd.com
-.eclassical.com.tw
 .ecministry.net
 .eco-visio.net
 .ecoinbroker.com
@@ -7172,7 +6922,6 @@ tv.apple.com
 .ecommtools.com
 .econ.st
 .economist.com
-.ecovisio.net
 .ecrans.fr
 .ecrparty.eu
 .ecstart.com
@@ -7205,7 +6954,6 @@ tv.apple.com
 .edupro.org
 .eduvpn.com
 .edv-schmittner.de
-.edvschmittner.de
 .edwardliao.com.au
 .edwardsalem.com
 .edwingomez.com
@@ -7237,27 +6985,20 @@ tv.apple.com
 .egafd.com
 .eggc.com
 .eggc111.com
-.egold.com
 .egotastic.com
 .egrnaa.lotcai.com
-.ehentai.eu
 .ehentai.org
-.ehentaidb.com
 .ehtracker.org
 .eic-av.com
-.eicav.com
 .eiga.com
 .eight-ball.org
-.eightball.org
 .eighteen8bet.com
-.einfo.org.tw
 .einnews.com
 .eireinikotaerukai.com
 .eiresol.com
 .eisbb.com
 .ekantipur.com
 .ekh3.way-to-win.com
-.ekh3.waytowin.com
 .ekiry.com
 .ekolay.net
 .ekoporta.si
@@ -7275,7 +7016,6 @@ tv.apple.com
 .elenasandu.com
 .elephantvpn.com
 .eletrica.eng.br
-.eleva.com.ar
 .elgoog.im
 .elianapinzon.com
 .elifuysal.com.tr
@@ -7304,7 +7044,6 @@ tv.apple.com
 .elvocero.com
 .emaga.com
 .email.collegeplanning.com
-.email.org
 .emanna.com
 .emaw.com.br
 .embeddedsw.org
@@ -7318,18 +7057,14 @@ tv.apple.com
 .emoneyspace.com
 .emory.edu
 .emotionjam.com
-.emovere.ch
 .empfil.com
 .empflix.com
 .empfs.com
 .ems03.your-freedom.de
-.ems03.yourfreedom.de
 .ems15.your-freedom.de
-.ems15.yourfreedom.de
 .emsuryadi.com
 .emu486.net
 .emule-ed2k.com
-.emuleed2k.com
 .emulefans.com
 .emuparadise.me
 .en.akinator.com
@@ -7340,7 +7075,6 @@ tv.apple.com
 .en.otcommerce.com
 .en.wanweibaike.com
 .en.wikipedia-on-ipfs.org
-.en.wikipediaonipfs.org
 .en.wikispecies.org
 .enanyang.my
 .enatura.biz
@@ -7387,7 +7121,6 @@ tv.apple.com
 .epa.gov.tw
 .epac.to
 .epaper.wsj-asia.com
-.epaper.wsjasia.com
 .epic.com.tw
 .epicquail.co.uk
 .epig.idv.tw
@@ -7413,8 +7146,6 @@ tv.apple.com
 .epochtimes.jp
 .epochtimes.ru
 .epochtimes.se
-.epochtimesbg.com
-.epochtimesromania.com
 .epochtimestr.com
 .epochweek.com
 .epodunk.com
@@ -7442,26 +7173,21 @@ tv.apple.com
 .erolord.com
 .eromanga-kingdom.com
 .eromangadouzin.com
-.eromangakingdom.com
 .eromon.net
 .eroprofile.com
 .erosintl.com
 .erotelki.org
 .eroticbeauties.net
 .eroticsaloon.net
-.erovideo.net
 .error.comlu.com
 .error.pncle8.com
 .errotica-archives.com
-.erroticaarchives.com
 .ertopen.com
 .ertu.org
-.erwebs.com
 .erwinmarin.cl
 .es-kanzhongguo.com
 .es-visiontimes.com
 .esasy-go.ml
-.esasygo.ml
 .esb333.com
 .esb333.net
 .esball.cc
@@ -7471,7 +7197,6 @@ tv.apple.com
 .esbi8.com
 .esbi8.net
 .esg.t91y.com
-.eskanzhongguo.com
 .eslite.com
 .esmatube.com
 .esmtp.biz
@@ -7479,7 +7204,6 @@ tv.apple.com
 .esperantopod101.com
 .esports.ggcarry888.com
 .est-a-la-masion.com
-.estalamasion.com
 .esteticaduende.cat
 .esu.dog
 .esu.im
@@ -7487,7 +7211,6 @@ tv.apple.com
 .esu.red
 .esu.wiki
 .esurance.com
-.esvisiontimes.com
 .etaa.org.au
 .etadult.com
 .etaireia.gr
@@ -7503,7 +7226,6 @@ tv.apple.com
 .etoro.com.cn
 .etowns.net
 .etowns.org
-.etraderland.net
 .ets.cc
 .etsy.com
 .ettego.com
@@ -7528,10 +7250,8 @@ tv.apple.com
 .europalace.com
 .europapress.es
 .europe-west1-mth-web.cloudfunctions.net
-.europewest1mthweb.cloudfunctions.net
 .europroxy.eu
 .eurorgb.com
-.eussa.org
 .evchk.wikia.org
 .events4fun.net
 .eventstagr.am
@@ -7554,11 +7274,9 @@ tv.apple.com
 .excellentcruft.com
 .exchristian.hk
 .excite.co.jp
-.excloud.jp
 .excstat.site88.net
 .exhentai.org
 .exigo-capital.com
-.exigocapital.com
 .exmo.com
 .exmormon.org
 .exozwiki.com
@@ -7568,13 +7286,11 @@ tv.apple.com
 .expecthim.com
 .expekt.com
 .experts-univers.com
-.expertsunivers.com
 .exploader.net
 .expo-peru.com
 .expo.com
 .expochinamexico.com.mx
 .expofutures.com
-.expoperu.com
 .exprescomputers.eu
 .express-vpn-links.com
 .express.co.uk
@@ -7585,15 +7301,12 @@ tv.apple.com
 .expressvpn.net
 .expressvpn.org
 .expressvpn.xyz
-.expressvpnlinks.com
 .expxtv.com
 .exrates.me
 .extmatrix.com
 .extra.voyantic.com
 .extranet-logon-apac.sanofi.com
-.extranetlogonapac.sanofi.com
 .extreme-fetish.org
-.extremefetish.org
 .extremetube.com
 .exx.com
 .exxxtv.com
@@ -7601,7 +7314,6 @@ tv.apple.com
 .eyny.com
 .ezbox.idv.tw
 .ezcat.xyz
-.ezone.com.hk
 .ezpc.tk
 .ezpeer.com
 .ezprice.com.tw
@@ -7677,7 +7389,6 @@ tv.apple.com
 .falunaustin.org
 .falunaz.net
 .falunchicago.org
-.falunco.org
 .falundafa-br.org
 .falundafa-dc.org
 .falundafa-florida.org
@@ -7705,21 +7416,12 @@ tv.apple.com
 .falundafa.org.tw
 .falundafa.se
 .falundafabooks.com
-.falundafabr.org
-.falundafadc.org
-.falundafaflorida.org
 .falundafaindia.org
 .falundafamuseum.com
 .falundafamuseum.org
-.falundafanc.org
 .falundafanevada.org
 .falundafanorge.com
-.falundafapa.net
 .falundafaradio.org
-.falundafasacramento.org
-.falundafasd.org
-.falundafase.nu
-.falundafasrilanka.org
 .falundafautah.org
 .falunfofa.org
 .falungong-wa.org
@@ -7728,16 +7430,12 @@ tv.apple.com
 .falungong.de
 .falungong.org.uk
 .falungonginfo.net
-.falungongwa.org
 .falunhr.org
 .faluninfo.at
 .faluninfo.de
 .faluninfo.net
 .faluninfo.ru
-.faluninlandnw.org
-.falunne.org
 .falunnews.org.il
-.falunny.net
 .falunorlando.org
 .falunpilipinas.net
 .falunworld.net
@@ -7755,14 +7453,12 @@ tv.apple.com
 .fangeqiang.com
 .fanglizhi.info
 .fangmincn.org
-.fangong.forumsfree.com
 .fangong.org
 .fangongheike.com
 .fanguangxin.com
 .fanhaodang.com
 .fanhaolou.com
 .fanipa.com
-.fanqiang.com
 .fanqiang.network
 .fanqiang.tk
 .fanqiangcn.net
@@ -7792,14 +7488,12 @@ tv.apple.com
 .fast.com
 .fastener.tw
 .fastest-proxy.com.de
-.fastestproxy.com.de
 .fastestvpn.com
 .fastlanecommission.com
 .fastly.net
 .fastmail.com
 .fastpic.ru
 .fastpriv.com
-.fastproxy.com.de
 .fastssh.com
 .faststone.org
 .fastusaproxy.com
@@ -7827,7 +7521,6 @@ tv.apple.com
 .fbsbx.com
 .fbworkmail.com
 .fc.iwant-in.net
-.fc.iwantin.net
 .fc00.io
 .fc2.com
 .fc2blog.net
@@ -7874,7 +7567,6 @@ tv.apple.com
 .feikebt.pw
 .feitian-california.org
 .feitianacademy.org
-.feitiancalifornia.org
 .feixiaohao.com
 .felixcat.net
 .fembed.com
@@ -7892,10 +7584,8 @@ tv.apple.com
 .ferrini.mx
 .fetishshrine.com
 .fetlife.com
-.fever.com
 .fevernet.com
 .fewo-direkt.de
-.fewodirekt.de
 .ff.im
 .ff167.net
 .ff316.net
@@ -7990,13 +7680,11 @@ tv.apple.com
 .fix-well.com
 .fixit.com
 .fixtradingcommunity.org
-.fixwell.com
 .fizzik.com
 .fjb11.com
 .fjpinvestment.com
 .fk-book.com
 .fk.mrcat.bet
-.fkbook.com
 .fl-170-185-1.fri-gate.biz
 .fl.wheredreams.com
 .fl0000.com
@@ -8005,7 +7693,6 @@ tv.apple.com
 .fl006.com
 .fl010.com
 .fl0333.com
-.fl1701851.frigate.biz
 .flag.fi
 .flagsonline.it
 .flatey.is
@@ -8048,7 +7735,6 @@ tv.apple.com
 .flyzy2005.win
 .flzbcdn.xyz
 .fm62l4.xmx-134.com
-.fm62l4.xmx134.com
 .fmnnow.com
 .fmradiobuffer.com
 .fnac.be
@@ -8063,7 +7749,6 @@ tv.apple.com
 .focusvpn.com
 .fofg-europe.net
 .fofg.org
-.fofgeurope.net
 .fofldfradio.org
 .fogcity.com
 .followcn.com
@@ -8085,17 +7770,14 @@ tv.apple.com
 .forharriet.com
 .forheavensake.org
 .form.aone-edu.com
-.form.aoneedu.com
 .form.jotformeu.com
 .formatovariable.cl
 .formhemmet.se
 .forratti.com.br
-.forsome.biz
 .fortawesome.com
 .fortressco.com
 .fortune-solution.com
 .fortuneinsight.com
-.fortunesolution.com
 .forum.8cyber.net
 .forum.businessweekly.com.tw
 .forum.culteducation.com
@@ -8113,7 +7795,6 @@ tv.apple.com
 .forusex.com
 .forwarddemocracy.com
 .fos-ff.net
-.fosff.net
 .fosunhani.com
 .fotiaoqiang.club
 .fotile.me
@@ -8136,11 +7817,8 @@ tv.apple.com
 .fpmt.org
 .fpmt.tw
 .fpmtmexico.org
-.fpmtosel.org
 .fpraognet.xmx-134-1.com
 .fpraognet.xmx-134.com
-.fpraognet.xmx134.com
-.fpraognet.xmx1341.com
 .fproxy.nl
 .fq.zungsaan.com
 .fqnews.net
@@ -8207,20 +7885,14 @@ tv.apple.com
 .freedome-de-gw.fd.f-secure.com
 .freedome-jp-gw.fd.f-secure.com
 .freedome.f-secure.com
-.freedome.fsecure.com
-.freedomedegw.fd.fsecure.com
-.freedomejpgw.fd.fsecure.com
 .freedomhouse.org
-.freedomip.com
 .freedomsherald.org
 .freedsn.xyz
 .freeforums.org
 .freefq.com
 .freefuckvids.com
 .freegao.com
-.freegate.org
 .freegroup.org
-.freehadanow.org
 .freehaven.net
 .freehentaimanga.net
 .freehongkong.org
@@ -8235,12 +7907,10 @@ tv.apple.com
 .freemeditation.ie
 .freemoren.com
 .freemorenews.com
-.freemovie.be
 .freemovies.tv
 .freemuse.org
 .freemycloud.pw
 .freenet-china.org
-.freenetchina.org
 .freenetproject.org
 .freenewscn.com
 .freenuts.com
@@ -8253,15 +7923,11 @@ tv.apple.com
 .freepanchenlama.org
 .freeproxies.org
 .freeproxy.ca
-.freeproxy.com.de
 .freeproxy.cz
 .freeproxy.it
 .freeproxy.net
-.freeproxylist.net
 .freeproxylists.net
-.freeproxyserver.com
 .freeproxyserver.net
-.freeproxysite.com
 .freepst.com
 .freerepublic.com
 .freerk.com
@@ -8272,10 +7938,7 @@ tv.apple.com
 .freespiritfestival.com
 .freespiritfilmfestival.com
 .freess.cx
-.freess.ooo
 .freess.pw
-.freess.site
-.freessh.com
 .freessh.us
 .freesstpvpn.com
 .freetaiwanparty.tw
@@ -8285,7 +7948,6 @@ tv.apple.com
 .freetibet.org
 .freetibet2022.org
 .freetibetanheroes.org
-.freetranslation.com
 .freetribe.me
 .freetvall.com
 .freevideoproxy.com
@@ -8303,7 +7965,6 @@ tv.apple.com
 .freevpnssh.com
 .freevpnworld.com
 .freewallpaper4.me
-.freewebproxy.de
 .freewebproxy.us
 .freewebs.com
 .freewechat.com
@@ -8324,13 +7985,11 @@ tv.apple.com
 .frienddy.com
 .friendfeed-media.com
 .friendfeed.com
-.friendfeedmedia.com
 .friendfinder.com
 .friends-of-tibet.org
 .friendsofshenyun.org
 .friendsoftibet.org
 .friendz.sk
-.frigate.org
 .frigment.com
 .fring.com
 .fringenetwork.com
@@ -8357,25 +8016,10 @@ tv.apple.com
 .from-ut.com
 .from-va.com
 .from-wa.com
-.fromal.com
-.fromar.com
 .fromchinatousa.net
-.fromco.net
-.fromdc.com
-.fromde.com
-.fromil.com
-.fromin.com
-.fromla.net
-.fromme.org
 .frommel.net
 .frommers.com
-.frommi.com
 .frommyascloset.com
-.frompr.com
-.fromsd.com
-.fromut.com
-.fromva.com
-.fromwa.com
 .frontlinedefenders.org
 .frontzp.com
 .frootvpn.com
@@ -8420,11 +8064,9 @@ tv.apple.com
 .fuckchina.com
 .fuckcnnic.net
 .fucked-tube.com
-.fuckedtube.com
 .fuckgfw.ggss.cf
 .fuckgfw.org
 .fuckgfw233.org
-.fucktapes.org
 .fuckxijinping.com
 .fudasege.us
 .fufuder.me
@@ -8434,7 +8076,6 @@ tv.apple.com
 .fuhuiasia.com
 .fuhuiglobal.com
 .fuhuiyazhou.com
-.fuhuizh.com
 .fujikong.com
 .fuli.ba
 .fuli.us
@@ -8497,7 +8138,6 @@ tv.apple.com
 .funf.tw
 .funkyimg.com
 .funny-games.biz
-.funnygames.biz
 .funp.com
 .funshop.com
 .funtvcom.com
@@ -8524,7 +8164,6 @@ tv.apple.com
 .fxcm.co
 .fxcm.com
 .fxcmapac.com
-.fxcmchinese.com
 .fxcmcn.com
 .fxnetworks.com
 .fxopen.com
@@ -8602,7 +8241,6 @@ tv.apple.com
 .game.ky195.com
 .game321.com
 .game735.com
-.game899.net
 .gamebase.com.tw
 .gamebreak.com
 .gamechatworld.com
@@ -8635,7 +8273,6 @@ tv.apple.com
 .garageperucchi.ch
 .gardennetworks.com
 .gardennetworks.org
-.garea.org
 .garena.com
 .garizo.com
 .garoblogz.com
@@ -8645,7 +8282,6 @@ tv.apple.com
 .gate.huang.cool
 .gate.io
 .gatecoin.com
-.gateproject.com
 .gateway.jb88app.com
 .gateway.jbo25.com
 .gateway.tlc801.com
@@ -8669,7 +8305,6 @@ tv.apple.com
 .gayhub.com
 .gaymap.cc
 .gaymenring.com
-.gayneeded.com
 .gaysexexposed.com
 .gaysextube.com
 .gaytag.net
@@ -8747,7 +8382,6 @@ tv.apple.com
 .gdthing.com
 .gdzf.org
 .geek-art.net
-.geekart.net
 .geekerhome.com
 .geekheart.info
 .geekproxy.com
@@ -8781,24 +8415,18 @@ tv.apple.com
 .german-proxy.de
 .germanbisogno.com.ar
 .germandeli.com
-.germanproxy.de
 .germany-proxy.com.de
 .germany-webproxy.de
-.germanyproxy.com.de
-.germanywebproxy.de
 .gesgxsj.com
 .gestion-voyage-796ae.firebaseapp.com
-.gestionvoyage796ae.firebaseapp.com
 .gesundteam.se
 .get-a-fuck-tonight.com
-.get-express-vpn.com
 .get-out.co
 .get-tune.net
 .get.app
 .get.dev
 .get.how
 .get.page
-.getafucktonight.com
 .getastrill.com
 .getbitcoin.pw
 .getchu.com
@@ -8821,7 +8449,6 @@ tv.apple.com
 .getmalus.com
 .getmdl.io
 .getome.com
-.getout.co
 .getoutline.org
 .getprice.com.au
 .getpricetag.com
@@ -8829,14 +8456,12 @@ tv.apple.com
 .getrelax.club
 .gets-it.net
 .getsetupfile.com
-.getsit.net
 .getsocialscope.com
 .getsyfer.com
 .getsync.com
 .gettr.com
 .gettr.org
 .gettrials.com
-.gettune.net
 .gettyimages.com
 .gettyimages.hk
 .getukvpn.com
@@ -8890,7 +8515,6 @@ tv.apple.com
 .ghcr.io
 .ghettotube.com
 .ghidra-sre.org
-.ghidrasre.org
 .ghostery.com
 .ghostnoteapp.com
 .ghostpath.com
@@ -8912,7 +8536,6 @@ tv.apple.com
 .gigadomo.com
 .giganews.com
 .gigavest.com
-.gigaweb.jp
 .gigscity.com
 .giize.com
 .gimpyd.com
@@ -8953,7 +8576,6 @@ tv.apple.com
 .globalmuseumoncommunism.org
 .globalnewstv.com.tw
 .globalpost.com
-.globalproxy.com
 .globalrescue.net
 .globalsign.com
 .globaltm.org
@@ -8998,7 +8620,6 @@ tv.apple.com
 .go.nordvpn.net
 .go.sfu.ca
 .go.ss-get.com
-.go.ssget.com
 .go141.com
 .go2av.com
 .go2free.xyz
@@ -9041,7 +8662,6 @@ tv.apple.com
 .goldbet.com
 .goldbetsports.com
 .golden-ages.org
-.goldenages.org
 .goldeneyevault.com
 .goldenfrog.biz
 .goldenfrog.com
@@ -9072,7 +8692,6 @@ tv.apple.com
 .gooddns.xyz
 .goodhope.school
 .goodnews.good-tutor.net
-.goodnews.goodtutor.net
 .goodreaders.com
 .goodreads.com
 .goodssh.com
@@ -9088,7 +8707,6 @@ tv.apple.com
 .goosevpn.com
 .gopetition.com
 .gophone.com.tw
-.gopki.com
 .goproxing.co.uk
 .goproxing.net
 .gordanabajurin.com
@@ -9099,7 +8717,6 @@ tv.apple.com
 .gospelherald.com
 .got-game.org
 .gotdns.ch
-.gotgame.org
 .gotgeeks.com
 .gotquestions.com
 .gotrusted.com
@@ -9116,7 +8733,6 @@ tv.apple.com
 .gpk333.com
 .gpoint.co.jp
 .gqfx.com
-.gqueen.com
 .gqueues.com
 .gr8domain.biz
 .gr8name.biz
@@ -9131,7 +8747,6 @@ tv.apple.com
 .grapecartoons.com
 .graph.org
 .graphic-line.at
-.graphicline.at
 .graphis.ne.jp
 .graphql.org
 .graphsql.com
@@ -9144,9 +8759,7 @@ tv.apple.com
 .greatclips.net
 .greatestfreeproxy.com
 .greatfire.org
-.greatfire.us7.listmanage.com
 .greatfirewall.biz
-.greatfirewall.com
 .greatfirewallofchina.net
 .greatfirewallofchina.org
 .greatnorthernpopcorn.com
@@ -9179,11 +8792,9 @@ tv.apple.com
 .gronkh.tv
 .groovejob.com
 .grotty-monday.com
-.grottymonday.com
 .groundskeeper.us
 .groupmax.hk
 .growthy-release-growthywebcollector-80.gcld-line.com
-.growthyreleasegrowthywebcollector80.gcldline.com
 .grrrgraphics.com
 .grupompr.com
 .gruppuso.com
@@ -9191,7 +8802,6 @@ tv.apple.com
 .gs01.dsn02.co
 .gs108.com
 .gscssr.net
-.gsdiscuss.com
 .gsearch.media
 .gsmarena.gr
 .gso.hk
@@ -9215,7 +8825,6 @@ tv.apple.com
 .gtloli.com
 .gtricks.com
 .gts-vpn.com
-.gtsvpn.com
 .gtv.org
 .gtv1.org
 .gtxxtv.com
@@ -9234,7 +8843,6 @@ tv.apple.com
 .guardian.co.uk
 .guardiansofhk.com
 .guardster.com
-.guchusum.org
 .gufen138.com
 .gufensoso.com
 .guiaturista.net
@@ -9250,7 +8858,6 @@ tv.apple.com
 .gunsamerica.com
 .gunsandammo.com
 .gunsnroses.com
-.gunworld.net
 .guo.media
 .guojiteshe.org
 .guruonline.hk
@@ -9279,7 +8886,6 @@ tv.apple.com
 .gz7888.com
 .gzm.tv
 .gzone-anime.info
-.gzoneanime.info
 .gzzt.org
 .h-china.org
 .h-digital.athersite.com
@@ -9289,7 +8895,6 @@ tv.apple.com
 .h.42tv.pw
 .h.bebc.us
 .h.de-a.org
-.h.dea.org
 .h.gooto.win
 .h.mon33.us
 .h.shop.tm
@@ -9309,6 +8914,7 @@ tv.apple.com
 .h3.elf168.net
 .h3285.com
 .h4.elf168.net
+.h5-as.lydcwl.cn
 .h5.013ld.com
 .h5.069ld.com
 .h5.070ld.com
@@ -9369,7 +8975,6 @@ tv.apple.com
 .h5111.com
 .h528.com
 .h598.com
-.h5as.lydcwl.cn
 .h5dm.com
 .h5galgame.com
 .h5galgame.me
@@ -9382,7 +8987,6 @@ tv.apple.com
 .h88h88.com
 .h99p.cc
 .haascnc-asia.com
-.haascncasia.com
 .haber365.com
 .haberturk.com
 .habits.sijie.wang
@@ -9398,7 +9002,6 @@ tv.apple.com
 .hacker.org
 .hackerne.ws
 .hackerspace-ulm.de
-.hackerspaceulm.de
 .hackfoldr.org
 .hackmd.io
 .hackpad.com
@@ -9411,11 +9014,9 @@ tv.apple.com
 .halloindo.com
 .halloweenexpress.com
 .hamburger-me.com
-.hamburgerme.com
 .han-duty.com
 .handcraftedsoftware.org
 .handelsblatt.com
-.handuty.com
 .hanime.tv
 .hanmail.net
 .hanmanziyuan.com
@@ -9433,9 +9034,7 @@ tv.apple.com
 .happy-science.jp
 .happy-vpn.com
 .happyon.jp
-.happyscience.jp
 .happysocks.com
-.happyvpn.com
 .haproxy.org
 .haptic.al
 .hardbritlads.com
@@ -9478,7 +9077,6 @@ tv.apple.com
 .hbxnets.com
 .hc925.com
 .hce.itechzero.com
-.hchina.org
 .hclips.com
 .hclips.net
 .hcomic.in
@@ -9490,7 +9088,6 @@ tv.apple.com
 .hd1565.com
 .hd25.tk
 .hdd.biz.st
-.hdigital.athersite.com
 .hdlt.me
 .hdsky.me
 .hdtvb.net
@@ -9524,7 +9121,6 @@ tv.apple.com
 .heathnews.xyz
 .heaven.17mh.app
 .heavy-r.com
-.heavyr.com
 .hebdo.ch
 .hec.su
 .hecaitou.net
@@ -9533,11 +9129,9 @@ tv.apple.com
 .heder.dk
 .heeact.edu.tw
 .heeljob-tv.com
-.heeljobtv.com
 .hefeishi.xyz
 .hegre-art.com
 .hegre.com
-.hegreart.com
 .heidsiek.net
 .heise.de
 .helixstudios.net
@@ -9636,7 +9230,6 @@ tv.apple.com
 .hiccears.com
 .hidalgo.cl
 .hidden-advent.org
-.hiddenadvent.org
 .hide-ip.us
 .hide-me.org
 .hide.io
@@ -9646,13 +9239,11 @@ tv.apple.com
 .hideguard.ru
 .hidein.net
 .hideip.co
-.hideip.us
 .hideipusa.com
 .hideipvpn.com
 .hideman.net
 .hideme.be
 .hideme.nl
-.hideme.org
 .hideme.ru
 .hidemy.name
 .hidemyass.com
@@ -9680,14 +9271,12 @@ tv.apple.com
 .himalaya2020.com
 .himalayan-foundation.org
 .himalayanconsensus.org
-.himalayanfoundation.org
 .himalayanglacier.com
 .himemix.com
 .himemix.net
 .hinduism.stackexchange.com
 .hinduismtoday.com
 .hinet.net
-.hion.org.tw
 .hip2save.com
 .hireatradesman.com
 .hispavista.com
@@ -9702,7 +9291,6 @@ tv.apple.com
 .hiwifi.com
 .hizb-ut-tahrir.info
 .hizb-ut-tahrir.org
-.hizbuttahrir.info
 .hizbuttahrir.org
 .hj0018.com
 .hj0028.com
@@ -9774,7 +9362,6 @@ tv.apple.com
 .hk-pic4.xyz
 .hk-pub.com
 .hk.32-b.it
-.hk.32b.it
 .hk.c.cloudss.pw
 .hk.hacked.jp
 .hk.mssi.pw
@@ -9792,9 +9379,7 @@ tv.apple.com
 .hkbbcc.xyz
 .hkbc.net
 .hkbf.org
-.hkbici.com
 .hkbn-a.nsl-node.ml
-.hkbna.nslnode.ml
 .hkbookcity.com
 .hkchronicles.com
 .hkchurch.org
@@ -9836,25 +9421,16 @@ tv.apple.com
 .hkkk6.com
 .hklft.com
 .hklts.org.hk
-.hkmagazine.com
 .hkmap.live
 .hkopentv.com
 .hkpeanut.com
 .hkpic-forum.com
-.hkpic.com
 .hkpic.net
 .hkpic.us
-.hkpic.xyz
-.hkpic1.xyz
-.hkpic2.xyz
-.hkpic3.xyz
-.hkpic4.xyz
-.hkpicforum.com
 .hkpics.net
 .hkplans.bupaglobal.com
 .hkptu.org
 .hkptu.org.hk
-.hkpub.com
 .hkreadingcity.net
 .hkreporter.com
 .hkswgu.org.hk
@@ -9883,7 +9459,6 @@ tv.apple.com
 .hlw66.com
 .hmarkets.co.uk
 .hmarkets.com
-.hmoe.com
 .hmoegirl.com
 .hmonghot.com
 .hmv.co.jp
@@ -9893,11 +9468,8 @@ tv.apple.com
 .hnjhj.com
 .hnntube.com
 .hnw-cpa.com
-.hnwcpa.com
 .hobby-site.com
 .hobby-site.org
-.hobbysite.com
-.hobbysite.org
 .hockeyapp.net
 .hockeyvma.cl
 .hodder.co.uk
@@ -9915,7 +9487,6 @@ tv.apple.com
 .home.mihk.tv
 .home.nzcity.co.nz
 .home.shadowsocks.ch
-.home.sonet.net.tw
 .homebitcoin.club
 .homebrewshanghai.com
 .homecine.be
@@ -9937,7 +9508,6 @@ tv.apple.com
 .hongkong.nhtglobal.com
 .hongkongfp.com
 .hongkongfp.org
-.hongkongs02i02.cgdialup.net
 .honglinzhang.com
 .hongmeimei.com
 .hongzhi.li
@@ -9950,7 +9520,6 @@ tv.apple.com
 .hopedialogue.org
 .hopetv.org
 .hopkins-consulting.com
-.hopkinsconsulting.com
 .hopster.tv
 .hopto.org
 .horan.id.au
@@ -10036,7 +9605,6 @@ tv.apple.com
 .ht.ly
 .ht.sll16.com
 .htcmania.com
-.htdatahawk.com
 .htkou.net
 .htl.li
 .html5rocks.com
@@ -10060,10 +9628,8 @@ tv.apple.com
 .huasing.org
 .huaxia-news.com
 .huaxiabao.org
-.huaxianews.com
 .huaxin.ph
 .huayanjiyu.com
-.huayue.net
 .huayuworld.org
 .huaze.org
 .hub.gf175588.com
@@ -10101,7 +9667,6 @@ tv.apple.com
 .humblebundle.com
 .hung-ya.com
 .hungerstrikeforaids.org
-.hungya.com
 .hungyatw.com
 .hunmagyar.org
 .huo360.com
@@ -10141,7 +9706,6 @@ tv.apple.com
 .hy789444.com
 .hy88887.com
 .hybrid-analysis.com
-.hybridanalysis.com
 .hybssr.org
 .hyc1324.com
 .hyc1324.xyz
@@ -10197,13 +9761,11 @@ tv.apple.com
 .ibit.am
 .iblist.com
 .iblogserv-f.net
-.iblogservf.net
 .ibo.com
 .ibook.idv.tw
 .ibros.org
 .ibtimes.com
 .ibvpn.com
-.icable.com
 .icahn.mssm.edu
 .icams.com
 .icanstay.com
@@ -10211,7 +9773,6 @@ tv.apple.com
 .ice-gay.com
 .iceblaze.com
 .icecast.org
-.icegay.com
 .icerocket.com
 .icevil.webege.com
 .icgirls.com
@@ -10219,7 +9780,6 @@ tv.apple.com
 .icili.net
 .icisleri.gov.tr
 .icl-fi.org
-.iclfi.org
 .icntv.xyz
 .icnyu.org
 .icoco.com
@@ -10228,12 +9788,10 @@ tv.apple.com
 .icons8.com
 .icook.tw
 .icpc-chinesepen.org
-.icpcchinesepen.org
 .icps.com.ua
 .icsin.org
 .ictsupport.com.pe
 .icu-project.org
-.icuproject.org
 .id.t28.net
 .idaili.club
 .idaiwan.com
@@ -10249,7 +9807,6 @@ tv.apple.com
 .idlcoyote.com
 .idn.com.tw
 .idol-blog.com
-.idolblog.com
 .idouga.com
 .idreamx.com
 .idriis.com
@@ -10316,7 +9873,6 @@ tv.apple.com
 .ii773.net
 .iicns.com
 .iidrn.com
-.iii.org
 .iii337.net
 .iii36.net
 .iimmvv.cc
@@ -10353,7 +9909,6 @@ tv.apple.com
 .imagepower.com
 .images-gaytube.com
 .images.chesscomfiles.com
-.imagesgaytube.com
 .imageshack.us
 .imagespost.com
 .imagevenue.com
@@ -10368,10 +9923,8 @@ tv.apple.com
 .imdb.com
 .imdj.imdj3001pankou.com
 .imes-yabotiyu.tianjiugong.com
-.imesyabotiyu.tianjiugong.com
 .imf.org
 .img.ahri-plus.com
-.img.ahriplus.com
 .img.bipics.net
 .img.ly
 .img1.hdmbox.com
@@ -10437,7 +9990,6 @@ tv.apple.com
 .indicarrent.com
 .indiemerch.com
 .indify.co
-.indisguise.com
 .indo.hl8.com
 .indsr.org.tw
 .industriasef.mx
@@ -10451,11 +10003,8 @@ tv.apple.com
 .info-graf.fr
 .info.gf
 .info.tm
-.info140419.overblog.com
-.infobuddhism.com
 .infodns.xyz
 .infofalungong.net
-.infograf.fr
 .infoonhealth.xyz
 .infopertanian.com
 .informer.com
@@ -10501,14 +10050,11 @@ tv.apple.com
 .instibaires.com.ar
 .institut-numerique.org
 .institut-tibetain.org
-.institutnumerique.org
-.instituttibetain.org
 .instra.com
 .instragram.com
 .instructables.com
 .integratedsandt.com
 .intellij-support.jetbrains.com
-.intellijsupport.jetbrains.com
 .interacc.com
 .interactivebrokers.com
 .interactivetrader.com
@@ -10525,7 +10071,6 @@ tv.apple.com
 .interpark.com
 .intersoft.be
 .intervarsitycamps.ca
-.intheband.net
 .inthecrack.com
 .inthenameofconfuciusmovie.com
 .inti.be
@@ -10555,7 +10100,6 @@ tv.apple.com
 .ip6263.com
 .ipaddress.com
 .ipalter.com
-.ipart.com.tw
 .ipcamouflage.com
 .ipchameleon.com
 .ipchanging.com
@@ -10577,7 +10121,6 @@ tv.apple.com
 .ipjlvpn.com
 .ipn.li
 .ipo-90.maaii.com
-.ipo90.maaii.com
 .ipobar.com
 .ipoock.com
 .iportal.me
@@ -10650,33 +10193,9 @@ tv.apple.com
 .isa-geek.com
 .isa-hockeynut.com
 .isaacmao.com
-.isaconservative.com
-.isafurry.org
-.isageek.com
-.isagreen.com
-.isaguru.com
-.isahardworker.com
-.isahockeynut.com
-.isahunter.com
-.isalandscaper.com
-.isalinuxuser.org
 .isalnikov.com
-.isamusician.com
-.isanaccountant.com
-.isanactress.com
 .isanalyze.com
-.isanartist.com
-.isanengineer.com
-.isanurse.com
-.isapersonaltrainer.com
-.isaphotographer.com
-.isaplayer.com
-.isarockstar.com
 .isasecret.com
-.isateacher.com
-.isatechie.com
-.isatherapist.com
-.iscmp.com
 .isdyw.com
 .isebaro.com
 .isgreat.org
@@ -10685,7 +10204,6 @@ tv.apple.com
 .ishr.ch
 .ishr.org
 .isil.org
-.isintoanime.com
 .iskconct.org
 .iskconmauritius.com
 .iskconnj.com
@@ -10698,8 +10216,6 @@ tv.apple.com
 .islamicity.com
 .islamicpluralism.org
 .islamtoday.net
-.isleet.com
-.islost.org
 .ismaelan.com
 .ismalltits.com
 .ismart.55555945.com
@@ -10722,13 +10238,9 @@ tv.apple.com
 .istiqlalhewer.com
 .istmein.de
 .istockphoto.com
-.isuberleet.com
 .isunaffairs.com
 .isuntv.com
 .isupportuyghurs.org
-.isux.com
-.isverygood.org
-.isverysweet.org
 .it-como-hobby.com
 .it.bnaz.org
 .it.weekendmaxmara.com
@@ -10736,21 +10248,18 @@ tv.apple.com
 .itaiwan.club
 .itaiwan.gov.tw
 .italia-film.com
-.italiafilm.com
 .italiatibet.org
 .itasoftware.com
 .itb18.com
 .itb22.com
 .itb606.com
 .itcamefromtheradio.com
-.itcomohobby.com
 .iteke.ml
 .iteke.tk
 .itemdb.com
 .itgonglun.com
 .ithome.com.tw
 .itm-tracker.witron.de
-.itmtracker.witron.de
 .itopcup.com
 .itroncoso.cl
 .itsaol.com
@@ -10771,7 +10280,6 @@ tv.apple.com
 .iuqssfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 .iv-conference.com
 .ivacy.com
-.ivconference.com
 .ivcorp.com.ar
 .iverycd.com
 .ivieasia.com
@@ -10788,7 +10296,6 @@ tv.apple.com
 .ixquick.com
 .ixquick.de
 .ixquick.eu
-.ixquickproxy.com
 .ixxx.com
 .ixxzp.com
 .iyb88.com
@@ -10810,7 +10317,6 @@ tv.apple.com
 .j0005.com
 .j01.best
 .j088088.com
-.j14.com
 .j2.jygnet.org
 .j2268.com
 .j32aa.com
@@ -10859,7 +10365,6 @@ tv.apple.com
 .japanese.xxx
 .japanesepod101.com
 .japantimes.co.jp
-.japanwhores.com
 .japonx.net
 .jappydolls.net
 .jarnjak.com
@@ -10891,7 +10396,6 @@ tv.apple.com
 .jbtalks.com
 .jbtalks.my
 .jbvip01.com
-.jcast.com
 .jcpenney.com
 .jcs.tw
 .jcw1919.com
@@ -10904,7 +10408,6 @@ tv.apple.com
 .jebandthresa.com
 .jeblab.com.ar
 .jelita-reload.com
-.jelitareload.com
 .jenkins.shadowvpn.org
 .jennandnick.com
 .jeongfamily.net
@@ -10913,7 +10416,6 @@ tv.apple.com
 .jerwei.idv.tw
 .jessewilkinson.com
 .jesus-army.com
-.jesusarmy.com
 .jetgames.cf
 .jeth.tk
 .jetos.com
@@ -10947,7 +10449,6 @@ tv.apple.com
 .jgjsvip2.com
 .jgjsvip3.com
 .jgoodies.com
-.jgoods.net
 .jhalderm.com
 .jhanssen.org
 .jhpeng.com
@@ -10982,7 +10483,6 @@ tv.apple.com
 .jingzhoushi1.xyz
 .jinhai.de
 .jinhui163.w5-e2.ezwebtest.com
-.jinhui163.w5e2.ezwebtest.com
 .jinkela.pw
 .jinma123.net
 .jinniumovie.be
@@ -11017,7 +10517,6 @@ tv.apple.com
 .jiuweike.com
 .jiuyaoyouxi.com
 .jize-macau.business.site
-.jizemacau.business.site
 .jizzhut.com
 .jizzman.com
 .jizzmontoo.com
@@ -11037,10 +10536,8 @@ tv.apple.com
 .jkfl01.club
 .jkforum.net
 .jkorlow.com
-.jksexvideos.com
 .jkub.com
 .jla-takarakuji.or.jp
-.jlatakarakuji.or.jp
 .jlb178.com
 .jlc01.com
 .jlia.lin.gr.jp
@@ -11052,7 +10549,6 @@ tv.apple.com
 .jmscult.com
 .jmvbt.com
 .jn-70w.guzoku.net
-.jn70w.guzoku.net
 .joachims.org
 .joacim.net
 .joannesyrop.com
@@ -11098,11 +10594,8 @@ tv.apple.com
 .jp.moc.gov.tw
 .jp.net
 .jp01-28.ssv4.net
-.jp0128.ssv4.net
 .jpiq.com
 .jpopforum.net
-.jproxy.net
-.jpsex.com
 .jpyule.com
 .jqueryui.com
 .jria.jpn.com
@@ -11145,7 +10638,6 @@ tv.apple.com
 .juicybuy.net
 .juicywalnut.com
 .jukujo-club.com
-.jukujoclub.com
 .juliepost.com
 .juliereyc.com
 .juliocesar.in
@@ -11158,12 +10650,10 @@ tv.apple.com
 .jundy.org
 .june4commemoration.org
 .junefourth-20.net
-.junefourth20.net
 .jungleheart.com
 .junglobal.net
 .juoaa.com
 .just-cool.net
-.justcool.net
 .justdied.com
 .justforex.com
 .justfreevpn.com
@@ -11218,7 +10708,6 @@ tv.apple.com
 .k2999.com
 .k3.hk303.c8763.com
 .k36.the-kaisers.net
-.k36.thekaisers.net
 .k5222.com
 .k5ww.com
 .k7201.com
@@ -11242,7 +10731,6 @@ tv.apple.com
 .kagyunews.com.hk
 .kagyuoffice.org
 .kagyuoffice.org.tw
-.kagyusfla.org
 .kahoot.com
 .kaidesa.com
 .kaif1688.com
@@ -11260,11 +10748,9 @@ tv.apple.com
 .kalachakralugano.org
 .kalon.com
 .kami-douga-adult.com
-.kamidougaadult.com
 .kamo.moe
 .kan-be.com
 .kanav520.com
-.kanbe.com
 .kanepress.com
 .kanfoxtv.com
 .kangongyu.com
@@ -11287,7 +10773,6 @@ tv.apple.com
 .karkhung.com
 .karmapa-teachings.org
 .karmapa.org
-.karmapateachings.org
 .karnbo.se
 .kaskus.co.id
 .kaskus.us
@@ -11298,20 +10783,17 @@ tv.apple.com
 .kathmandubiz.com
 .katnip.org.uk
 .kaufmich.com
-.kawai.com
 .kawaiikawaii.jp
 .kawakarpo.com
 .kawase.com
 .kawatan.co.id
 .kazakisfamily.com
 .kba-tx.org
-.kbatx.org
 .kbc.be
 .kchr.org
 .kcoolonline.com
 .kd667.com
 .kddvu29.com
-.kdoujin.net
 .ke2.fengherili.cc
 .keandra.com
 .kebrum.com
@@ -11328,7 +10810,6 @@ tv.apple.com
 .kelloggcareers.com
 .kelloggs.com
 .kelloggsfamilyrewards.com
-.kelt2.shdyyz.com
 .kelvin.com.ar
 .kendatire.com
 .kendincos.net
@@ -11368,7 +10849,6 @@ tv.apple.com
 .khurul.ru
 .kichiku-doujinko.com
 .kichiku.tv
-.kichikudoujinko.com
 .kids.president.gov.tw
 .kielconsulting.org
 .kik.cl
@@ -11399,7 +10879,6 @@ tv.apple.com
 .kink.com
 .kinkcult.com
 .kinkidt.i-cweb.net
-.kinkidt.icweb.net
 .kinmen.org.tw
 .kinmen.travel
 .kinokuniya.com
@@ -11407,7 +10886,6 @@ tv.apple.com
 .kir.jp
 .kirbybbs.com
 .kirin-lin.idv.tw
-.kirinlin.idv.tw
 .kirstydj.co.uk
 .kiss999.com
 .kissanime.com
@@ -11440,7 +10918,6 @@ tv.apple.com
 .kksod.com
 .kktv.com.tw
 .kktv.me
-.kkwhys.co.jp
 .kl8888.com
 .klccab.gov.tw
 .klip.me
@@ -11474,7 +10951,6 @@ tv.apple.com
 .koolsolutions.com
 .koornk.com
 .kopp-verlag.de
-.koppverlag.de
 .koranmandarin.com
 .korbit.co.kr
 .koreanfriendfinder.com
@@ -11528,7 +11004,6 @@ tv.apple.com
 .ksmxpj.com
 .ksnews.com.tw
 .ksnotes2.eternal-group.com
-.ksnotes2.eternalgroup.com
 .kspcoin.com
 .ktsf.com
 .ktunnel.com
@@ -11604,14 +11079,12 @@ tv.apple.com
 .labyc.com.ar
 .lachirigringa.org
 .lacnic.net
-.laconjugaison.fr
 .lacoste.com
 .ladakhkalachakra2014.com
 .ladbrokes.com
 .ladiprevet.com.ar
 .lady.5article.com
 .ladyboygloryhole.com
-.laforum.org
 .lagrandeepoque.com
 .lagranepoca.com
 .lahauntedhouse.com
@@ -11725,7 +11198,6 @@ tv.apple.com
 .leafyvpn.net
 .leaguelegends.com
 .leaks-xlcloud.rhcloud.com
-.leaksxlcloud.rhcloud.com
 .leancloud.com
 .leanwork.pt
 .leapb.zym9.net
@@ -11864,16 +11336,13 @@ tv.apple.com
 .letou995.com
 .letou996.com
 .letou999.net
-.letoubet.com
 .letscorp.net
 .letv311.net
 .letwatch.us
 .leungdikhin.net76.net
 .levanovich.com.ar
 .level-plus.net
-.levelplus.net
 .levote68.net
-.levpn.com
 .levyhsu.com
 .lewrockwell.com
 .lex.idv.tw
@@ -11938,12 +11407,10 @@ tv.apple.com
 .lih.kg
 .lihkg.com
 .liho.club
-.lihongzhimaster.org
 .liimov.com
 .like.com
 .likemov.cc
 .likes-pie.com
-.likespie.com
 .likeswater.com
 .likextv.com
 .lili100.com
@@ -11963,9 +11430,7 @@ tv.apple.com
 .line.me
 .line.vn
 .line36.ga
-.lineapps.com
 .linepost.hk
-.linescdn.net
 .linetv.tw
 .linglingfa.com
 .lingvodics.com
@@ -11977,7 +11442,6 @@ tv.apple.com
 .linkedin.com
 .linkideo.com
 .linkmetube.com
-.linkorama.com
 .links.org.au
 .linksalpha.com
 .linksysinfo.org
@@ -11987,10 +11451,8 @@ tv.apple.com
 .linpus.com
 .linux-it.cf
 .linux.org.hk
-.linuxit.cf
 .linuxnews.idv.tw
 .linuxtoy.org
-.lionsdesneigesmontblanc.overblog.com
 .lionsroar.com
 .lipuman.com
 .liquid.com
@@ -12010,7 +11472,6 @@ tv.apple.com
 .lithium.com
 .litquake.org
 .little-gang.jp
-.littlegang.jp
 .littlehj.com
 .litv.tv
 .liu-xiaobo.org
@@ -12020,7 +11481,6 @@ tv.apple.com
 .liuli.in
 .liuli.se
 .liuxiaobo.net
-.liuxiaobo.org
 .liuxiaotong.com
 .liuxue.stellour.com
 .live.coachella.com
@@ -12110,7 +11570,6 @@ tv.apple.com
 .longhu99.com
 .longjinglihua.com
 .longjohnsilvers.com
-.longlearning.com
 .longlifeint.webnode.tw
 .longmusic.com
 .longtermly.net
@@ -12122,7 +11581,6 @@ tv.apple.com
 .looktoronto.com
 .lordmarty.com
 .loreal-pci.networth.fr
-.lorealpci.networth.fr
 .loteriasf.com.ar
 .lotro.com
 .lotsawahouse.org
@@ -12143,10 +11601,8 @@ tv.apple.com
 .lovemyanime.net
 .loveofkuanyin.com
 .lovetibet.ti-da.net
-.lovetibet.tida.net
 .lovetvshow.com
 .lowa-interlaken.ch
-.lowainterlaken.ch
 .lpsg.com
 .lpxtv.com
 .lr.giantrobotfactory.com
@@ -12224,7 +11680,6 @@ tv.apple.com
 .lulu0528.herokuapp.com
 .luminati-china.io
 .luminati.io
-.luminatichina.io
 .lunafilms.sg
 .lungta.cz
 .luo.bo
@@ -12245,7 +11700,6 @@ tv.apple.com
 .luxurygirls.com
 .luyou002.com
 .lv-134-87-1.fri-gate0.org
-.lv134871.frigate0.org
 .lvcha888.com
 .lvdp.net
 .lvhai.org
@@ -12311,12 +11765,10 @@ tv.apple.com
 .m.fuhuiapac.com
 .m.fun551.com
 .m.fxcm-zh.com
-.m.fxcmzh.com
 .m.fy685.com
 .m.g78999.com
 .m.gc585888.com
 .m.h9-h9.com
-.m.h9h9.com
 .m.herokuapp.com
 .m.huancai66.com
 .m.iwon88.com
@@ -12391,8 +11843,6 @@ tv.apple.com
 .macau-jc.com
 .macaubusiness.com
 .macaudailytimes.com.mo
-.macauexplorerculturaltravel.business.site
-.macaujc.com
 .macauslot.com
 .macgamestore.com
 .machotube.tv
@@ -12404,12 +11854,10 @@ tv.apple.com
 .macts.com.tw
 .macys.com
 .mad-ar.ch
-.madar.ch
 .maddog.hk
 .madebyromania.com
 .madewithcode.com
 .madonna-av.com
-.madonnaav.com
 .madrau.com
 .madthumbs.com
 .mafiagame.ml
@@ -12419,7 +11867,6 @@ tv.apple.com
 .magic-net.info
 .magiccloak.net
 .magiccloud.i234.me
-.magicnet.info
 .magictea.xyz
 .magzter.com
 .mahabodhi.org
@@ -12449,7 +11896,6 @@ tv.apple.com
 .mail.pon.com
 .mail.prentvorur.is
 .mail.quattra-p.nl
-.mail.quattrap.nl
 .mail.ru
 .mail.sji.edu.sg
 .mail.soas.ac.uk
@@ -12465,7 +11911,6 @@ tv.apple.com
 .mail.yahoo.com.br
 .mail.yahoo.se
 .mail.york.ac.uk
-.mailarchive.com
 .mailchimp.com
 .maildns.xyz
 .mailfence.com
@@ -12499,7 +11944,6 @@ tv.apple.com
 .mamingzhe.com
 .mammothtube.com
 .manager-magazin.de
-.managermagazin.de
 .manarat.com
 .manausclass.com.br
 .manbetx711.com
@@ -12514,7 +11958,6 @@ tv.apple.com
 .mangakakalot.com
 .mangareader.com
 .mangashot.com
-.mangatown.net
 .mangaup.jp
 .mango.com
 .mangovpn.com
@@ -12533,7 +11976,6 @@ tv.apple.com
 .manualdousuario.net
 .manxyz5.com
 .manyhats.pao-pao.org
-.manyhats.paopao.org
 .manyvids.com
 .manyvoices.news
 .mao.fi
@@ -12551,7 +11993,6 @@ tv.apple.com
 .marguerite.su
 .mario-lopes.pt
 .mariodesigns.uk
-.mariolopes.pt
 .mariusl.com
 .mark.tw
 .markets.com.cn
@@ -12584,7 +12025,6 @@ tv.apple.com
 .massmutual.com
 .master-insight.com
 .mastercam.com
-.masterinsight.com
 .masterlu.fzgyh.com
 .mastodon.cloud
 .mastodon.host
@@ -12596,13 +12036,10 @@ tv.apple.com
 .matevpn.com
 .mathable.io
 .mathiew-badimon.com
-.mathiewbadimon.com
 .mathjax.org
 .mathmidterm.com
 .matome-plus.com
 .matome-plus.net
-.matomeplus.com
-.matomeplus.net
 .matorral.cl
 .matrix.org
 .matrixteens.com
@@ -12617,7 +12054,6 @@ tv.apple.com
 .maven.org
 .maverlinn.com
 .maximum-leverage.com
-.maximumleverage.com
 .maxing.jp
 .maxisito.it
 .maxjam.worldventures.biz
@@ -12653,7 +12089,6 @@ tv.apple.com
 .mdj02.com
 .mdnkids.com
 .mdse.com.au
-.mdt.org
 .mdu.sp9198.com
 .me-gay.com
 .me.me
@@ -12665,7 +12100,6 @@ tv.apple.com
 .media.lanecrawford.com
 .media.org.hk
 .media1.s-nbcnews.com
-.media1.snbcnews.com
 .mediachinese.com
 .mediafactory.jp
 .mediafire.com
@@ -12681,9 +12115,7 @@ tv.apple.com
 .medibang.com
 .medical-reference.net
 .medicalcheckup.web.id
-.medicalreference.net
 .mediere-oradea.ro
-.mediereoradea.ro
 .medium.com
 .medley.com
 .meetav.com
@@ -12708,7 +12140,6 @@ tv.apple.com
 .megarotic.com
 .megaupload.com
 .megavideo.com
-.megay.com
 .megurineluka.com
 .megworld.co.uk
 .mehide.org
@@ -12742,7 +12173,6 @@ tv.apple.com
 .menoopiu.it
 .mensrush.tv
 .mentadulce.cl
-.mentseekhang.org
 .meow.idv.tw
 .mephistonet.nl
 .mercaderias.cl
@@ -12757,11 +12187,9 @@ tv.apple.com
 .mergersandinquisitions.org
 .merics.org
 .meridian-trust.org
-.meridiantrust.org
 .meripet.biz
 .meripet.com
 .merit-times.com.tw
-.merittimes.com.tw
 .merlinblog.xyz
 .meshrep.com
 .meson.tk
@@ -12795,7 +12223,6 @@ tv.apple.com
 .mfcclub.com
 .mfetu.com
 .mfs-shatel-training.maaii.com
-.mfsshateltraining.maaii.com
 .mfxmedia.com
 .mg3333.com
 .mgame.shalong365.com
@@ -12839,7 +12266,6 @@ tv.apple.com
 .microvpn.com
 .midcenturymodernmag.com
 .middle-way.net
-.middleway.net
 .midnightfever.com
 .miguelsuarez.cl
 .mihk.hk
@@ -12853,7 +12279,6 @@ tv.apple.com
 .milkxzp.site
 .millalen.cl
 .million-movies.com
-.millionmovies.com
 .millions50.com
 .millipiyango.gov.tr
 .milph.net
@@ -12876,9 +12301,6 @@ tv.apple.com
 .minghui.ca
 .minghui.cc
 .minghui.or.kr
-.minghuia.org
-.minghuib.org
-.minghuischool.org
 .mingjinglishi.com
 .mingjingnews.com
 .mingjingtimes.com
@@ -12898,7 +12320,6 @@ tv.apple.com
 .miniforum.org
 .ministrybooks.org
 .minnano-av.com
-.minnanoav.com
 .mintmobile.com
 .minutouno.com
 .minutouno.com.ar
@@ -12911,7 +12332,6 @@ tv.apple.com
 .mirrormedia.mg
 .miss-no1.com
 .miss148.com
-.missno1.com
 .missrissa.net
 .misstibet.com
 .mist.so
@@ -12960,13 +12380,11 @@ tv.apple.com
 .mm-11.com
 .mm-cg.com
 .mm.net.my
-.mm11.com
 .mm168.xyz
 .mm366.net
 .mm831.com
 .mm94168.com
 .mmacademyedu.com
-.mmcg.com
 .mmgal.com
 .mmk.dyn.mk
 .mmm-office.com
@@ -13030,7 +12448,6 @@ tv.apple.com
 .mommyninicenter.ir
 .momodel.tw
 .momon-ga.com
-.momonga.com
 .momoshop.com.tw
 .momotv.tk
 .momoxzp.com
@@ -13044,7 +12461,6 @@ tv.apple.com
 .money-link.com.tw
 .moneydodo.idv.tw
 .moneyhome.biz
-.moneylink.com.tw
 .moneynet.tw
 .monkeywerks.net
 .monlamit.org
@@ -13071,11 +12487,9 @@ tv.apple.com
 .moralesbrothers.com
 .morazzia.com
 .morbell.com
-.morig.discoverhongkong.com
 .morlive.com
 .morningsun.org
 .moromie-av.com
-.moromieav.com
 .moroneta.com
 .mos.ru
 .mostawesomeoffers.com
@@ -13087,7 +12501,6 @@ tv.apple.com
 .motor4ik.ru
 .motortrend.com
 .motul.mooc-training.com
-.motul.mooctraining.com
 .mountcraft.tk
 .mousebreaker.com
 .mov.im
@@ -13096,7 +12509,6 @@ tv.apple.com
 .moves-export.com
 .movie-jamrock.com
 .moviefap.com
-.moviejamrock.com
 .movienthusiast.com
 .movieproxy.com
 .moviesguy.com
@@ -13172,7 +12584,6 @@ tv.apple.com
 .ms52.ga
 .ms6588.com
 .msa-it.org
-.msait.org
 .msb.strikewin.com
 .msedge.net
 .msgforex.com
@@ -13186,7 +12597,6 @@ tv.apple.com
 .mstdn.io
 .mswe1.org
 .mtanos.com
-.mteam.cc
 .mthruf.com
 .mtkgo.com
 .mtrek.com
@@ -13204,7 +12614,6 @@ tv.apple.com
 .muftah.org
 .mullvad.net
 .multi.thyssenkrupp-elevator.com
-.multi.thyssenkruppelevator.com
 .multilan.com
 .multimar.com
 .multiply.com
@@ -13262,7 +12671,6 @@ tv.apple.com
 .my.jumpthewall.net
 .my.keso.cn
 .my.now-ip.net
-.my.nowip.net
 .my.roboforexcn.com
 .my.shadowsocksr.vip
 .my.tranzact.com
@@ -13311,11 +12719,9 @@ tv.apple.com
 .myeclipseide.com
 .myexternalip.com
 .myfontastic.com
-.myformosa.com
 .myforum.com.hk
 .myfreeblack.com
 .myfreecams.com
-.myfreemp3s.com
 .myfreepaysite.com
 .myfreshnet.com
 .myftp.biz
@@ -13358,11 +12764,8 @@ tv.apple.com
 .mypopescu.com
 .mypostcard.com
 .myprivacy.com
-.myprivatenetwork.co.uk
 .myproxies.org
-.myproxy.com
 .myradio.hk
-.myrainbowarts.com
 .myreadingmanga.info
 .myremotecentral.com
 .myrics.com
@@ -13431,7 +12834,6 @@ tv.apple.com
 .nalandawest.org
 .nalpathamkalam.com
 .naluone-av.com
-.naluoneav.com
 .name.com
 .namepros.com
 .namgyal.org
@@ -13444,7 +12846,6 @@ tv.apple.com
 .nanopellets.com
 .nanrenfuli.com
 .nantou.taiwan-pharma.org.tw
-.nantou.taiwanpharma.org.tw
 .nanyang.com
 .nanyang.com.my
 .nanyangpost.com
@@ -13455,7 +12856,6 @@ tv.apple.com
 .narutopixxx.com
 .nas.hcy.idv.tw
 .nas.jochen-hoenicke.de
-.nas.jochenhoenicke.de
 .nas.overock.com
 .nasa.gov
 .nastyvideotube.com
@@ -13469,7 +12869,6 @@ tv.apple.com
 .nationalenquirer.com
 .nationalgeographic.com
 .nationalinterest.org
-.nationallottery.co.uk
 .nationalreview.com
 .nationbuilder.com
 .nationsonline.org
@@ -13504,9 +12903,6 @@ tv.apple.com
 .nc1-h5.ejdj12.com
 .nc1-h5.fsyl223.com
 .nc1-h5.kdwee45.com
-.nc1h5.ejdj12.com
-.nc1h5.fsyl223.com
-.nc1h5.kdwee45.com
 .nccusa.org
 .nccwatch.org.tw
 .ncdc.gov.ng
@@ -13525,14 +12921,12 @@ tv.apple.com
 .ndungndung.com
 .ne.4u.pass.fm
 .neat-url.com
-.neaturl.com
 .ned.org
 .needunblock.com
 .nei.st
 .nekoslovakia.net
 .nemesis.co.il
 .neo-miracle.com
-.neomiracle.com
 .neopets.com
 .neotracker.net
 .neowin.net
@@ -13553,7 +12947,6 @@ tv.apple.com
 .netdb.i2p2.no
 .netdna-cdn.com
 .netfirms.com
-.netfits.pro
 .netflav.com
 .netflix.com
 .netflix.net
@@ -13591,11 +12984,9 @@ tv.apple.com
 .new.ub8go.com
 .new.ub8one.com
 .new.y248.cc
-.new3lunch.net
 .new4.j9987.com
 .new96.ca
 .newadvent.org
-.newakiba.com
 .newblackpantherparty.org
 .newca.org
 .newcenturymc.com
@@ -13616,7 +13007,6 @@ tv.apple.com
 .newpipe.net
 .newportcircuit.net16.net
 .newpowerparty.tw
-.newproxy.com.de
 .newrealmstudios.ca
 .newrepublic.com
 .news.atebits.com
@@ -13684,7 +13074,6 @@ tv.apple.com
 .nextmag.com.tw
 .nextmedia.com
 .nexton-net.jp
-.nextonnet.jp
 .nexttv.com.tw
 .neyshoes.com.br
 .nf.id.au
@@ -13710,7 +13099,6 @@ tv.apple.com
 .nhi.gov.tw
 .nhk-ondemand.jp
 .nhk.or.jp
-.nhkondemand.jp
 .nhncorp.jp
 .ni.ewise.pw
 .niaadia.com
@@ -13742,7 +13130,6 @@ tv.apple.com
 .nihaocloud.com
 .nii.ac.jp
 .nikkan-spa.jp
-.nikkanspa.jp
 .nikkei.com
 .nikomo.fi
 .nikonpc.com
@@ -13780,7 +13167,6 @@ tv.apple.com
 .niuxuewang.com
 .nj-falundafa.org
 .njactb.org
-.njfalundafa.org
 .njuice.com
 .nknews.com
 .nl.hideproxy.me
@@ -13823,14 +13209,12 @@ tv.apple.com
 .nofile.io
 .nofilmschool.com
 .noicehalfsugar.tw
-.noip.org
 .nokogiri.org
 .nokola.com
 .nola.com
 .nolencasa.com
 .non-fakenews.org
 .nonesovile.com
-.nonfakenews.org
 .noodlevpn.com
 .norados.com
 .norbulingka.org
@@ -13841,17 +13225,7 @@ tv.apple.com
 .nord-me.com
 .nord-mirror-site.net
 .nord4china.com
-.nordcn.net
-.nordcn.org
-.nordcnsite.org
-.nordforapps.com
 .nordfx-chinese.com
-.nordfxchinese.com
-.nordhelp.com
-.nordinchina.org
-.nordincn.org
-.nordme.com
-.nordmirrorsite.net
 .nordstrom.com
 .nordstromimage.com
 .nordstromrack.com
@@ -13861,12 +13235,10 @@ tv.apple.com
 .nordwebsite.net
 .norestnetwork.com
 .north-plus.net
-.northplus.net
 .nos.nl
 .notacom.ru
 .notblocked.telex.cc
 .notepad-plus-plus.org
-.notepadplusplus.org
 .notheroes.com
 .nothinghere.tk
 .notion.so
@@ -13926,7 +13298,6 @@ tv.apple.com
 .ns2.nsnai.com
 .ns2.rr.nu
 .ns2.uniregistry-dns.net
-.ns2.uniregistrydns.net
 .ns3.name
 .ns5240.com
 .nsarchive.gwu.edu
@@ -13959,12 +13330,10 @@ tv.apple.com
 .ntta.org
 .ntu.edu.tw
 .ntu.tdna.me
-.ntv.de
 .nu.nl
 .nubiles.net
 .nude-art-erotic.com
 .nude.tv
-.nudearterotic.com
 .nudeflix.com
 .nudevista.com
 .nudezz.com
@@ -13975,7 +13344,6 @@ tv.apple.com
 .nuovelle.ee
 .nuovomegavideo.com
 .nurgo-software.com
-.nurgosoftware.com
 .nusatrip.com
 .nutaku.net
 .nutsvpn.site
@@ -14007,7 +13375,6 @@ tv.apple.com
 .nyesek.com
 .nyk.moe
 .nylon-angel.com
-.nylonangel.com
 .nylonstockingsonline.com
 .nypost.com
 .nyshalong.com
@@ -14021,7 +13388,6 @@ tv.apple.com
 .nytimes-se.com
 .nytimes.com
 .nytimes.org
-.nytimesse.com
 .nytimg.com
 .nytlabs.com
 .nytlog.com
@@ -14063,9 +13429,7 @@ tv.apple.com
 .ocregister.com
 .ocry.com
 .ocsp.int-x3.letsencrypt.org
-.ocsp.intx3.letsencrypt.org
 .october-review.org
-.octoberreview.org
 .octoteam.com
 .octrev.mysrvnet.com
 .oculartechie.com
@@ -14095,7 +13459,6 @@ tv.apple.com
 .og8xtv.com
 .ogaoga.org
 .ogate.org
-.ogbwt.com
 .ogj.com
 .ogli.org
 .ohara.cl
@@ -14136,7 +13499,6 @@ tv.apple.com
 .olabloga.pl
 .olcl.com
 .old-cat.net
-.oldcat.net
 .older4me.com
 .oldertube.com
 .oldgoesyoung.com
@@ -14195,7 +13557,6 @@ tv.apple.com
 .online.freemansec.com
 .online.woodforest.com
 .online2.freemansec.com
-.onlineanonymizer.com
 .onlinecha.com
 .onlineproxy.us
 .onlinestore.dcbooks.com
@@ -14209,10 +13570,8 @@ tv.apple.com
 .onmypc.info
 .onmypc.org
 .onmypc.us
-.onsir.tk
 .onsw.asn.au
 .onthehunt.com
-.ontheweb.tv
 .ontrac.com
 .ontrack.com
 .onuspride.com
@@ -14226,7 +13585,6 @@ tv.apple.com
 .ooo-sex.com
 .ooo16.net
 .ooo36.net
-.ooosex.com
 .oopsforum.com
 .oovied.com
 .oovpn.com
@@ -14270,7 +13628,6 @@ tv.apple.com
 .optibrium.co.uk
 .opticalize.com
 .opus-gaming.com
-.opusgaming.com
 .orangemail.okstate.edu
 .oranges.idv.tw
 .orchid.com
@@ -14295,7 +13652,6 @@ tv.apple.com
 .orienta.com.br
 .orientaldaily.com.my
 .orientalradio.com.sg
-.orientdoll.com
 .origamitea.com
 .originsoft.co.uk
 .orkut.co.in
@@ -14403,7 +13759,6 @@ tv.apple.com
 .p2992.com
 .p2es.com
 .p2p-terminus.hashbase.io
-.p2pterminus.hashbase.io
 .p3235.com
 .p3285.com
 .p3325.com
@@ -14491,7 +13846,6 @@ tv.apple.com
 .pandapow.net
 .pandasecurity.com
 .pandavpn-jp.com
-.pandavpnjp.com
 .pandavpnpro.com
 .pandora.com
 .pandora.tv
@@ -14503,7 +13857,6 @@ tv.apple.com
 .paofuyun.me
 .paoluz.com
 .paoluz.link
-.paopao.net
 .paowang.net
 .papakev.de
 .papamv.com
@@ -14511,7 +13864,6 @@ tv.apple.com
 .paper-replika.com
 .paper.li
 .paperb.us
-.paperreplika.com
 .paradisehill.cc
 .paradisepoker.com
 .parallels.com
@@ -14522,7 +13874,6 @@ tv.apple.com
 .parler.com
 .parnassusbooks.net
 .paroki-klaten.org
-.parokiklaten.org
 .parse.com
 .parsevideo.com
 .parsonseng.com.au
@@ -14534,7 +13885,6 @@ tv.apple.com
 .passeporttibetain.org
 .passion-hd.com
 .passion.com
-.passionhd.com
 .passionhdfan.com
 .passiontimes.hk
 .paste.ee
@@ -14558,7 +13908,6 @@ tv.apple.com
 .payloadz.com
 .payza.org
 .pbassociates.biz
-.pbogty.kg811.com
 .pbs.org
 .pbwiki.com
 .pbworks.com
@@ -14570,8 +13919,6 @@ tv.apple.com
 .pc1.9baf1.com
 .pca-express.com
 .pca-express.org
-.pcaexpress.com
-.pcaexpress.org
 .pcanywhere.net
 .pcc.gov.tw
 .pcdvd.com.tw
@@ -14617,7 +13964,6 @@ tv.apple.com
 .pendemonium.com
 .penguinvids.com
 .pengyulong.com
-.peninternational.org
 .penisbot.com
 .pensionati.ro
 .pentalogic.net
@@ -14625,13 +13971,11 @@ tv.apple.com
 .penthouse-pool.com
 .penthouse.com
 .penthousehdtv.com
-.penthousepool.com
 .pentoy.hk
 .people-press.org
 .peoplebookcafe.com
 .peoplenews.tw
 .peoplepower.hk
-.peoplepress.org
 .peoplesproxy.com
 .peopo.org
 .pepperstone.com
@@ -14641,7 +13985,6 @@ tv.apple.com
 .perfectgirls.net
 .perfectgonzo.com
 .perfectinter.net
-.perfectprivacy.com
 .perfectvpn.net
 .perfekt.us
 .perfektegirls.com
@@ -14683,7 +14026,6 @@ tv.apple.com
 .phamhong.com
 .phapluan.org
 .pharmacie-grand-littoral.fr
-.pharmaciegrandlittoral.fr
 .phayul.com
 .philborges.com
 .philly.com
@@ -14703,13 +14045,11 @@ tv.apple.com
 .photo.niniyeh.com
 .photodharma.net
 .photofocus.com
-.photoframe.com
 .photojojo.com
 .photos.dailyme.com
 .photoshopvip.net
 .photoslike.me
 .php.32-b.it
-.php.32b.it
 .php.de
 .php3.cf
 .php3.ga
@@ -14750,7 +14090,6 @@ tv.apple.com
 .pin6.com
 .pinbet88.com
 .pinboard.in
-.pincong.com
 .pincong.org
 .pincong.rocks
 .ping.fm
@@ -14764,10 +14103,8 @@ tv.apple.com
 .pinkclips.mobi
 .pinkrod.com
 .pinoy-n.com
-.pinoyn.com
 .pinsta.me
 .pintrest.com
-.pioneerworker.forumsfree.com
 .pipii.tv
 .piposay.com
 .piraattilahti.org
@@ -14830,13 +14167,11 @@ tv.apple.com
 .pki.goog
 .placemix.com
 .plant-seeds.idv.tw
-.plantseeds.idv.tw
 .plasson.com.ar
 .play-asia.com
 .play.baleship2.xyz
 .play.bst218.com
 .playartifact.com
-.playasia.com
 .playboy.com
 .playboyplus.com
 .player.fm
@@ -14902,7 +14237,6 @@ tv.apple.com
 .poloniex.com
 .polymer-project.org
 .polymerhk.com
-.polymerproject.org
 .polysolve.com
 .pomf.cat
 .pomf.io
@@ -14978,7 +14312,6 @@ tv.apple.com
 .ppp626.net
 .pptp-hk-2.expressnetwork.net
 .pptp.kr
-.pptphk2.expressnetwork.net
 .pr0pgutf0hp089.com
 .practicaldigitalprotection.com
 .praksis.com.my
@@ -14995,7 +14328,6 @@ tv.apple.com
 .pressplay.cc
 .pressreader.com
 .prestige-av.com
-.prestigeav.com
 .prestigecasino.com
 .prestigeused.co.za
 .prettysimpleimages.com
@@ -15008,12 +14340,10 @@ tv.apple.com
 .pri.org
 .prices.liwuxiao.com
 .prigle.com
-.priimagedb.herokuapp.com
 .primevideo.com
 .princeofnewyork.com
 .printfriendly.com
 .prism-break.org
-.prismbreak.org
 .prisoneralert.com
 .pritunl.com
 .privacybox.de
@@ -15041,7 +14371,6 @@ tv.apple.com
 .program-think.herokuapp.com
 .program.think.workers.dev
 .programagol.cl
-.programthink.herokuapp.com
 .programthinkmirror.com
 .progressive.com
 .prohub.com
@@ -15049,9 +14378,7 @@ tv.apple.com
 .projecth.us
 .projectinterfaith.org
 .projectsecretidentity.org
-.projectsyndicate.org
 .projectus-grupa.hr
-.projectusgrupa.hr
 .prokher.pro
 .proksiak.pl
 .proksyfree.com
@@ -15106,7 +14433,6 @@ tv.apple.com
 .proxy.toolur.com
 .proxy.yt
 .proxy2974.my-addr.org
-.proxy2974.myaddr.org
 .proxy4free.com
 .proxy4free.pl
 .proxy6.net
@@ -15121,10 +14447,8 @@ tv.apple.com
 .proxydb.org
 .proxydns.com
 .proxyfort.com
-.proxyfree.org
 .proxyhide.org
 .proxyhub.ru
-.proxylist.org
 .proxylist.org.uk
 .proxylistpro.com
 .proxylists.me
@@ -15135,19 +14459,14 @@ tv.apple.com
 .proxypy.net
 .proxyroad.com
 .proxyscrape.com
-.proxyserver.at
 .proxyserver.com
-.proxyservice.com.de
-.proxyservice.de
 .proxyshore.org
 .proxysite.com
-.proxysite.com.de
 .proxysites.com
 .proxysites.net
 .proxysubmit.com
 .proxysurfs.com
 .proxytopsite.biz
-.proxytopsite.com
 .proxytunnel.net
 .proxyturbo.com
 .proxyunblocker.org
@@ -15156,7 +14475,6 @@ tv.apple.com
 .proxywebsite.co.uk
 .proxywebsite.org
 .proxyzan.pw
-.proxyzone.net
 .proyectoclubes.com
 .proyectoq.cl
 .prozz.net
@@ -15266,7 +14584,7 @@ tv.apple.com
 .pvp.im
 .pvzfcs7.com
 .pw.fiddlefish.net
-.pwaas.kmyuntai.cn
+.pwa-as.kmyuntai.cn
 .pwned.com
 .pwnwiki.org
 .px.mystakidis.gr
@@ -15300,7 +14618,6 @@ tv.apple.com
 .qgirl.com.tw
 .qhigh.com
 .qhj-isat.com
-.qhjisat.com
 .qi-gong.me
 .qianbai.tw
 .qiandao.today
@@ -15309,7 +14626,6 @@ tv.apple.com
 .qidian.ca
 .qienkuen.org
 .qieyz.com
-.qigong.me
 .qingpeng.org
 .qingqing.freebbs.tw
 .qingyangmovie.be
@@ -15384,9 +14700,7 @@ tv.apple.com
 .qtrac.eu
 .qtweeter.com
 .quality-electronics.com
-.qualityelectronics.com
 .quanben-xiaoshuo.com
-.quanbenxiaoshuo.com
 .quannengshen.org
 .quantumbooter.net
 .quantumidiot.com
@@ -15532,7 +14846,6 @@ tv.apple.com
 .rch88.com
 .rcinet.ca
 .rcmp-grc.gc.ca
-.rcmpgrc.gc.ca
 .rcordeiro.pt
 .rcover.net
 .rcpantry.org
@@ -15556,7 +14869,6 @@ tv.apple.com
 .real-brandflow.com
 .real.com
 .realage.com
-.realbrandflow.com
 .realcourage.org
 .realhomesex.net
 .realitykings.com
@@ -15594,15 +14906,12 @@ tv.apple.com
 .redditlist.com
 .redditmedia.com
 .redditstatic.com
-.reddragonrising.com
 .redeemercast.net
 .redgti.com.ar
 .redhat.com
 .redhotlabs.com
 .redimec.com.ar
 .redir.fd.f-secure.com
-.redir.fd.fsecure.com
-.redlang.org
 .redmaplenews.com
 .redtube.com
 .redtube.com.br
@@ -15652,7 +14961,6 @@ tv.apple.com
 .rerouted.org
 .res.web.id
 .reseed.i2p-projekt.de
-.reseed.i2pprojekt.de
 .reseed.memcpy.io
 .resilio.com
 .resistchina.org
@@ -15708,9 +15016,7 @@ tv.apple.com
 .rfienglish.com
 .rfimundo.com
 .rgbhu.xmx-134.com
-.rgbhu.xmx134.com
 .rha-audio.co.uk
-.rhaaudio.co.uk
 .rheet.com
 .rhythmusic.net
 .richardlujunhon.com
@@ -15726,7 +15032,6 @@ tv.apple.com
 .riddim.com.ar
 .rideexpress.com
 .ridgeline-roofing.com
-.ridgelineroofing.com
 .rigaero.com
 .rightbtc.com
 .rightster.com
@@ -15779,7 +15084,6 @@ tv.apple.com
 .rocket-inc.net
 .rocketbbs.com
 .rockethub.com
-.rocketinc.net
 .rocketvpn.net
 .rockpays.com
 .rocksdb.org
@@ -15796,7 +15100,6 @@ tv.apple.com
 .romandie.ch
 .ronjoneswriter.com
 .rons-home.net
-.ronshome.net
 .roodo.com
 .room4rent.cl
 .rootsg.com
@@ -15825,7 +15128,6 @@ tv.apple.com
 .rscredito.com.br
 .rsf-chinese.org
 .rsf.org
-.rsfchinese.org
 .rsgamen.org
 .rsmb.co
 .rsoeqr.com
@@ -15835,7 +15137,6 @@ tv.apple.com
 .rssing.com
 .rssmeme.com
 .rstt-lan.ch
-.rsttlan.ch
 .rsz6ms.lotcai.com
 .rt6.1906999.com
 .rtalabel.org
@@ -15854,7 +15155,6 @@ tv.apple.com
 .ruistudio.com
 .rukor.org
 .rule-34.net
-.rule34.net
 .rule34.xxx
 .rumahsabiq.com
 .runbtx.com
@@ -15885,14 +15185,12 @@ tv.apple.com
 .rxhj.net
 .rxproxy.com
 .ry-ss.tk
-.ryss.tk
 .ryukyushimpo.jp
 .rztcapital.com
 .s-cute.com
 .s-dragon.org
 .s.mobileread.com
 .s.sami-lehtinen.net
-.s.samilehtinen.net
 .s.scss.pw
 .s.sh22.us
 .s.sne.jp
@@ -15932,10 +15230,8 @@ tv.apple.com
 .sacks.com
 .sacom.hk
 .sacred-texts.org
-.sacredtexts.org
 .sactownbankruptcy.com
 .sadistic-v.com
-.sadisticv.com
 .sadout.com
 .sadpanda.us
 .safe-inet.com
@@ -15943,7 +15239,6 @@ tv.apple.com
 .safechat.com
 .safeforwork.net
 .safeguarddefenders.com
-.safeinet.com
 .safervpn.com
 .safetunnel.tk
 .safevpn.net
@@ -15963,7 +15258,6 @@ tv.apple.com
 .sakuralive.com
 .sakya.org
 .salangane-books.com
-.salanganebooks.com
 .salon365vip.com
 .salonsp.com
 .salth2ofish.com
@@ -15978,7 +15272,6 @@ tv.apple.com
 .samskritabharati.org
 .samuel-lab.ml
 .samuelkong.com
-.samuellab.ml
 .samuelponce.cl
 .sandpointehoa.com
 .sandscotaicentral.com
@@ -16003,7 +15296,6 @@ tv.apple.com
 .savemedia.com
 .saverthk.org
 .saves-the-whales.com
-.savesthewhales.com
 .savethedate.foo
 .savethesounds.info
 .savetibet.de
@@ -16018,7 +15310,6 @@ tv.apple.com
 .savevid.com
 .savevideo.me
 .saw-online.com
-.sawonline.com
 .say2.info
 .saycheese.hk
 .saygcup.com
@@ -16029,7 +15320,6 @@ tv.apple.com
 .sb.188bet.com
 .sb0919.com
 .sb1-bob.burubudur.com
-.sb1bob.burubudur.com
 .sb5202.com
 .sbf111.com
 .sbf117.com
@@ -16060,10 +15350,8 @@ tv.apple.com
 .sbo8810.com
 .sbobet.com
 .sbrand988.com
-.sbresults.188bet.com
 .sbs.com.au
 .sbsstudio.net63.net
-.sby6.onlinegamegoonline.com
 .sc.sh22.us
 .sc1288.co
 .sc1919.com
@@ -16076,7 +15364,6 @@ tv.apple.com
 .schalk.com.br
 .schema.org
 .schneider-electric.com
-.schneiderelectric.com
 .schneiderhome.us
 .scholar.glgoo.com
 .scholarsatrisk.org
@@ -16105,20 +15392,17 @@ tv.apple.com
 .scribd.com
 .scribserver.ga
 .scriptspot.com
-.scute.com
 .sd-bbs.net
 .sd.domain888.pw
 .sd.freepac.pw
 .sd.sino.tw
 .sdarabia.com
-.sdbbs.net
 .sdertyu87123mk.unusualperson.com
 .sdf379.mioler57.cf
 .sdhts.com
 .sdk3.ga
 .sdk3.tk
 .sdparty.tw
-.sdragon.org
 .sdthaa.org
 .sdyun.cc
 .se-books.com
@@ -16132,13 +15416,11 @@ tv.apple.com
 .search.avira.com
 .search.com
 .search.f-secure.com
-.search.fsecure.com
 .search.gmx.com
 .search.snopyta.org
 .search.xxx
 .searchlove.cc
 .searchmagnified.com
-.searchmp3.com
 .searchtruth.com
 .sears.com
 .searx.me
@@ -16151,7 +15433,6 @@ tv.apple.com
 .seba.tw
 .sebastianbarrios.cl
 .sebe.fairuse.org
-.sebooks.com
 .seccionamarilla.com.mx
 .secretchina.com
 .secretgarden.no
@@ -16161,7 +15442,6 @@ tv.apple.com
 .secretvpn.net
 .secure.footprint.net
 .secure.free-signal.com
-.secure.freesignal.com
 .secure.ncsoft.com
 .secure.shadowsocks.ch
 .secure.shadowsocks.nu
@@ -16175,7 +15455,6 @@ tv.apple.com
 .securitykiss.com
 .securitysite.tech
 .sedty.com
-.seductive.com
 .seechmv.com
 .seed4.me
 .seedboxes.cc
@@ -16237,7 +15516,6 @@ tv.apple.com
 .service.kvbgc.com
 .service001.net84.net
 .servicescoalition.org
-.servonline.org
 .sesawe.net
 .sesawe.org
 .setdns.work
@@ -16256,7 +15534,6 @@ tv.apple.com
 .sex.141.tw
 .sex.com
 .sex.xxx
-.sex11.com
 .sex169.net
 .sex169.org
 .sex18.xyz
@@ -16280,14 +15557,11 @@ tv.apple.com
 .sexidude.com
 .sexinsex.net
 .sexix.net
-.sexkontakte.at
 .sexpreviews.eu
 .sextube-6.com
 .sextube-android.com
 .sextube.com
 .sextube.com.tw
-.sextube6.com
-.sextubeandroid.com
 .sextubepromo.com
 .sextvx.com
 .sexu.com
@@ -16297,17 +15571,14 @@ tv.apple.com
 .sexy.com
 .sexyandfunny.com
 .sexyfuckgames.com
-.sexylingerie.ws
 .sexytube.me
 .sexytv.cc
-.sexyword.com
 .sf.net
 .sfbbq.com
 .sfi.se
 .sfileydy.com
 .sfshibao.com
 .sft-canada.org
-.sftcanada.org
 .sftindia.org
 .sftjapan.wikidot.com
 .sftpoland.org
@@ -16323,7 +15594,6 @@ tv.apple.com
 .sg9097.com
 .sgforums.com
 .sgod.ga
-.sgzxc.serverip.co
 .sh223.cf
 .sha0001.com
 .shaaid.com
@@ -16350,7 +15620,6 @@ tv.apple.com
 .shadowx.win
 .shafaqna.com
 .shahamat-english.com
-.shahamatenglish.com
 .shahit.biz
 .shakfu.com
 .shalong14.com
@@ -16360,14 +15629,12 @@ tv.apple.com
 .shan-mi.com
 .shangfang.org
 .shanghai.china-tripnavi.com
-.shanghai.chinatripnavi.com
 .shanghai.happymassage.com
 .shanghai.ist
 .shanghaibeerweek.com
 .shanghaiist.com
 .shanghainationalparty.com
 .shanmao.tv
-.shanmi.com
 .shaogood.com
 .shapeservices.com
 .share.playbabies.net
@@ -16377,16 +15644,13 @@ tv.apple.com
 .shareit247.com
 .sharesix.com
 .shark-chinaz.com
-.sharkchinaz.com
 .sharks-lagoon.fr
-.sharkslagoon.fr
 .sharky.co.uk
 .sharpdaily.com.hk
 .sharpdaily.hk
 .sharpdaily.tw
 .shat-tibet.com
 .shattered.io
-.shattibet.com
 .shawnlentz.com
 .shazam.com
 .shehasherpes.com
@@ -16396,7 +15660,6 @@ tv.apple.com
 .shemalez.com
 .shendiantong.com
 .shengxueb.w305-e0.ezwebtest.com
-.shengxueb.w305e0.ezwebtest.com
 .shenlan.gq
 .shenlaoxi.com
 .shenpoker.com
@@ -16446,7 +15709,6 @@ tv.apple.com
 .show.tca.org.tw
 .showav.tv
 .showhaotu.com
-.showlive.tw
 .showtime.jp
 .showwe.tw
 .showyourdick.org
@@ -16528,7 +15790,6 @@ tv.apple.com
 .sinocast.com
 .sinocism.com
 .sinoinsider.com
-.sinomonthly.com
 .sinomontreal.ca
 .sinonet.ca
 .sinopitt.info
@@ -16557,7 +15818,6 @@ tv.apple.com
 .situola.cn
 .siwa.com
 .six-degrees.io
-.sixdegrees.io
 .sixdollarclick.com
 .sixpackshortcuts.com
 .sixth.biz
@@ -16572,7 +15832,6 @@ tv.apple.com
 .skeedz.com
 .sketchappsources.com
 .skg-tech.com
-.skgtech.com
 .skillfeed.com
 .skimtube.com
 .skirt.com
@@ -16582,7 +15841,6 @@ tv.apple.com
 .skybet.com
 .skyking.com.tw
 .skyking.net-tv.tw
-.skyking.nettv.tw
 .skykiwi.com
 .skynet.be
 .skyoyue.com
@@ -16616,7 +15874,6 @@ tv.apple.com
 .slinkset.com
 .slosberg.net
 .slsdubai.projects-uae.com
-.slsdubai.projectsuae.com
 .slutload.com
 .slutmoonbeam.com
 .slutroulette.com
@@ -16645,13 +15902,11 @@ tv.apple.com
 .smhric.org
 .sminted.com
 .smith.edu
-.smmiracle.com
 .smoot.apple.com
 .smt.live
 .smutcam.com
 .smutty.com
 .smyth-house.com
-.smythhouse.com
 .smyxy.org
 .smzb.cn
 .smzb.io
@@ -16674,7 +15929,6 @@ tv.apple.com
 .socaltibet.org
 .soccer18.com
 .social.caa-ins.org
-.social.caains.org
 .socialblade.com
 .socialeel.com
 .socialequality.com
@@ -16684,13 +15938,10 @@ tv.apple.com
 .socialprogress.org
 .socialwhale.com
 .societe-biblique.com
-.societebiblique.com
 .socks-mall.com
 .socks-proxy.net
 .sockscap64.com
 .sockslist.net
-.socksmall.com
-.socksproxy.net
 .socrec.org
 .sod.co.jp
 .sod99.com
@@ -16699,7 +15950,6 @@ tv.apple.com
 .softether-download.com
 .softether.co.jp
 .softether.org
-.softetherdownload.com
 .softfamous.com
 .softlayer.net
 .softnology.biz
@@ -16750,7 +16000,6 @@ tv.apple.com
 .soportemdq.com.ar
 .sorazone.net
 .sorting-algorithms.com
-.sortingalgorithms.com
 .sos.org
 .sosanime.com
 .soskids.net
@@ -16765,7 +16014,6 @@ tv.apple.com
 .sougouwiki.com
 .soul-plus.net
 .soulcaliburhentai.net
-.soulplus.net
 .soumo.info
 .soundcloud.com
 .soundcloud.org
@@ -16790,8 +16038,6 @@ tv.apple.com
 .southnews.com.tw
 .southpark.cc.com
 .southpark.fandom.com
-.southplus.net
-.southplus.org
 .southxchange.com
 .souvenirkediri.com
 .sowers.org.hk
@@ -16802,9 +16048,7 @@ tv.apple.com
 .sp667.com
 .space-18.com
 .space-elephant.com
-.space18.com
 .spaceboop.com
-.spaceelephant.com
 .spaces.ru
 .spankbang.com
 .spankbang.name
@@ -16867,10 +16111,7 @@ tv.apple.com
 .sports1im.jbo8.com
 .sports918.com
 .sportsauthority.com
-.sportsbb.ipistech471.com
 .sportsbookim.salon63.com
-.sportsdcim.nntisixsixsix.com
-.sportsqyim.nntisixsixsix.com
 .spotflux.com
 .spoti.fi
 .spotoption.com
@@ -16892,7 +16133,6 @@ tv.apple.com
 .sq.itimemachine.net
 .square-jbty.scgpbl.cn
 .squarefoot.com.hk
-.squarejbty.scgpbl.cn
 .squarespace.com
 .squirly.info
 .squirrelvpn.com
@@ -16912,7 +16152,6 @@ tv.apple.com
 .ss.life
 .ss.welsmann.com
 .ss.zhen-chen.xyz
-.ss.zhenchen.xyz
 .ss2wall.net
 .ss36507.com
 .ss36508.com
@@ -16932,8 +16171,6 @@ tv.apple.com
 .ssl.ujiule.com
 .ssl2.cdngc.net
 .ssl443.org
-.sslink.com
-.sslproxy.myaddr.org
 .sslproxyserver.com
 .sslsecureproxy.com
 .ssltunnel.net
@@ -16982,7 +16219,6 @@ tv.apple.com
 .staging.spacious.hk
 .standard-molecules.webnode.tw
 .standardglove.com
-.standardmolecules.webnode.tw
 .standup4tibet.org
 .standupfortibet.org
 .standwithhk.org
@@ -17012,7 +16248,6 @@ tv.apple.com
 .static-economist.com
 .static.iwincdn.com
 .static.palgrave.com
-.staticeconomist.com
 .staticflickr.com
 .statkit.com
 .statueofdemocracy.org
@@ -17028,7 +16263,6 @@ tv.apple.com
 .stealthygeek.com
 .steco.net
 .steel-storm.com
-.steelstorm.com
 .steemit.com
 .steemitwallet.com
 .stefanroberts.org
@@ -17049,7 +16283,6 @@ tv.apple.com
 .stex.com
 .stexv.com
 .stfu-kthx.net
-.stfukthx.net
 .stgloballink.com
 .stheadline.com
 .sthoo.com
@@ -17058,7 +16291,6 @@ tv.apple.com
 .stickeraction.com
 .stileproject.com
 .stimme-de.de
-.stimmede.de
 .stitcher.com
 .stitchfingers.com
 .stltoday.com
@@ -17070,7 +16302,6 @@ tv.apple.com
 .stomp.com.sg
 .stonesriver.org
 .stop-block.com
-.stopblock.com
 .stoporganharvesting.org
 .stoptibetcrisis.net
 .storagenewsletter.com
@@ -17126,7 +16357,6 @@ tv.apple.com
 .studioluxfm.com
 .studylink.govt.nz
 .stuff-4-sale.us
-.stuff4sale.us
 .stuffseek.com
 .stuffyoushouldknow.com
 .stumbleupon.com
@@ -17153,7 +16383,6 @@ tv.apple.com
 .sugumiru18.com
 .suhrthu.com
 .suika-vpn.com
-.suikavpn.com
 .suissl.com
 .sujiawei.howbbs.com
 .sulecki.de
@@ -17215,7 +16444,6 @@ tv.apple.com
 .sunnysidepac.ca
 .sunrocks.com.ar
 .sunshine-pv.com
-.sunshinepv.com
 .sunskyforum.com
 .sunsmoke.com
 .sunsmoke.net
@@ -17277,7 +16505,6 @@ tv.apple.com
 .swdevelop.de
 .sweetkiss.me
 .sweetpacks-search.com
-.sweetpackssearch.com
 .swell.cl
 .swganh.com
 .swi16.com
@@ -17319,7 +16546,6 @@ tv.apple.com
 .syosetu.com
 .syria-news.com
 .syrianchurch.org
-.syrianews.com
 .sysresccd.org
 .sytes.net
 .syx86.com
@@ -17350,7 +16576,6 @@ tv.apple.com
 .t951.com
 .t981.com
 .taa-usa.org
-.taausa.org
 .taaze.tw
 .tablesgenerator.com
 .tabletmag.com
@@ -17359,7 +16584,6 @@ tv.apple.com
 .tacem.org
 .tachyon.eco
 .taco-land.net
-.tacoland.net
 .taconet.com.tw
 .taedp.org.tw
 .tafm.org
@@ -17395,7 +16619,6 @@ tv.apple.com
 .taiwannews.com.tw
 .taiwanonline.cc
 .taiwans.tw
-.taiwansex.com
 .taiwantp.net
 .taiwantt.org.tw
 .taiwanus.net
@@ -17438,7 +16661,6 @@ tv.apple.com
 .taptap.tw
 .tara-medium.com
 .taragana.com
-.taramedium.com
 .tararokpacentre.co.za
 .target.com
 .targetr.net
@@ -17456,7 +16678,6 @@ tv.apple.com
 .taylanekinci.com
 .taylor-swift-club.sclub.tw
 .taylorfamily.net
-.taylorswiftclub.sclub.tw
 .tb0080.com
 .tb0082.com
 .tb0083.com
@@ -17495,7 +16716,6 @@ tv.apple.com
 .tbsec.org
 .tbsmalaysia.org
 .tbsn.org
-.tbsrainbow.org
 .tbsseattle.org
 .tbssqh.org
 .tbswd.org
@@ -17529,7 +16749,6 @@ tv.apple.com
 .techglue.me
 .technews.tw
 .technik-specials.de
-.technikspecials.de
 .technorati.com
 .techrepublic.com
 .techsmith.com
@@ -17538,8 +16757,6 @@ tv.apple.com
 .teck.in
 .teco-hk.org
 .teco-mo.org
-.tecohk.org
-.tecomo.org
 .tecsec.com
 .teddysun.com
 .tedra.es
@@ -17555,7 +16772,6 @@ tv.apple.com
 .tel.meet
 .telecaretv.org
 .telecom-cafe.com
-.telecomcafe.com
 .telecomspace.com
 .teleconomiser.com
 .telegra.ph
@@ -17565,7 +16781,6 @@ tv.apple.com
 .telesco.pe
 .teleshow.org
 .teletrade-asia.com
-.teletradeasia.com
 .telkom.co.id
 .tellme.pw
 .temp.al
@@ -17575,8 +16790,6 @@ tv.apple.com
 .tenacy.com
 .tenacy.home.kg
 .tenacy.link
-.tenacyfree.com
-.tenacyvpn.com
 .tenderfield.com.au
 .tengbo9885.com
 .tenor.com
@@ -17587,7 +16800,6 @@ tv.apple.com
 .teraprint.us
 .terocket.com
 .terra-x-shop.de
-.terraxshop.de
 .tesco.co.uk
 .tesco.com
 .test-idc-3.fjla37itnf5dpsen.com
@@ -17598,8 +16810,6 @@ tv.apple.com
 .test.hao999.ml
 .test.nadeo.com
 .testapi.xinbet.net
-.testidc3.fjla37itnf5dpsen.com
-.testwiki01.site88.net
 .tew.org
 .texasartsacademics.org
 .texasboyschoir.org
@@ -17616,7 +16826,6 @@ tv.apple.com
 .tfsu.tw
 .tfvip33.com
 .tfvip88.com
-.tg.com
 .tg.dev
 .tg9000.net
 .tgpasia.com
@@ -17635,7 +16844,6 @@ tv.apple.com
 .theatlantic.com
 .theatlanticcities.com
 .theatrum-belli.com
-.theatrumbelli.com
 .thebcomplex.com
 .thebestvpn.com
 .thebl.com
@@ -17643,7 +16851,6 @@ tv.apple.com
 .theblemish.com
 .thebobs.com
 .thebodyshop-usa.com
-.thebodyshopusa.com
 .thechildacademy.lin14.siteonlinetest.com
 .thechinabeat.org
 .thechinacollection.org
@@ -17786,7 +16993,6 @@ tv.apple.com
 .thumbzila.com
 .thumbzilla.com
 .thunder.free-signal.com
-.thunder.freesignal.com
 .thywords.com
 .thywords.com.tw
 .ti.me
@@ -17842,7 +17048,6 @@ tv.apple.com
 .tibetan-alliance.org
 .tibetan.fr
 .tibetanaidproject.org
-.tibetanalliance.org
 .tibetanarts.org
 .tibetanbuddhistinstitute.org
 .tibetancommunity.org
@@ -17871,12 +17076,9 @@ tv.apple.com
 .tibetcity.com
 .tibetcollection.com
 .tibetcorps.org
-.tibetdrustvo.si
 .tibetencostarica.com
-.tibetenvoy.eu
 .tibetexpress.net
 .tibetfocus.com
-.tibetfoundation.org
 .tibetfund.org
 .tibetgermany.com
 .tibetgermany.de
@@ -17885,13 +17087,9 @@ tv.apple.com
 .tibethouse.jp
 .tibethouse.org
 .tibethouse.us
-.tibethousetrust.co.uk
 .tibetinfonet.net
-.tibetinitiative.de
 .tibetjustice.org
-.tibetkailashhaus.de
 .tibetkomite.dk
-.tibetmunich.de
 .tibetmuseum.org
 .tibetnature.net
 .tibetnetwork.org
@@ -17922,7 +17120,6 @@ tv.apple.com
 .tibetwrites.org
 .ticket.com.tw
 .tickling-videos.com
-.ticklingvideos.com
 .tickmill.com
 .tidal.com
 .tidebit.com
@@ -17949,12 +17146,10 @@ tv.apple.com
 .timeinc.net
 .times-bignews.com
 .times.com
-.timesbignews.com
 .timesdispatch.com
 .timesnownews.com
 .timesofindia.com
 .timestalks.com
-.timetravellers.org
 .timewarnercable.com
 .timeweb.ru
 .timexv.xyz
@@ -17962,7 +17157,6 @@ tv.apple.com
 .timsah.com
 .timtales.com
 .tinc-vpn.org
-.tincvpn.org
 .tinder.com
 .tiney.com
 .tineye.com
@@ -17988,7 +17182,6 @@ tv.apple.com
 .tinypic.com
 .tinyrealm.com
 .tinytu.be
-.tinyurl.cc
 .tinyurl.com
 .tipas.net
 .tipo.gov.tw
@@ -17998,7 +17191,6 @@ tv.apple.com
 .tj900.com
 .tjmaxx.com
 .tkcs-collins.com
-.tkcscollins.com
 .tkfoot.com
 .tkj.jp
 .tktube.com
@@ -18031,7 +17223,6 @@ tv.apple.com
 .tmgm.com
 .tmhk.org
 .tmi.me
-.tmma.client.renweb.com
 .tmpp.org
 .tmsnrt.rs
 .tnaflix.com
@@ -18048,7 +17239,6 @@ tv.apple.com
 .tobing.web.id
 .tobuy.us
 .toc-online.ch
-.toconline.ch
 .todatienda.com
 .today.code4.hk
 .todayonline.com
@@ -18064,9 +17254,7 @@ tv.apple.com
 .tokopedia.com
 .tokyo-247.com
 .tokyo-hot.com
-.tokyo247.com
 .tokyocn.com
-.tokyohot.com
 .tokyomotion.net
 .tolonews.com
 .tomonews.net
@@ -18077,7 +17265,6 @@ tv.apple.com
 .tongil.or.kr
 .tonni.cms4people.de
 .tono-oka.jp
-.tonooka.jp
 .tonyhuangphotography.com
 .tonyskansascity.com
 .tonyyan.net
@@ -18097,7 +17284,6 @@ tv.apple.com
 .topalbums.club
 .topbtc.com
 .topescortbabes.com
-.topexpress.ro
 .topgunge.com
 .toplistproxy.com
 .topnews.asia
@@ -18116,12 +17302,9 @@ tv.apple.com
 .tor01.com
 .tora-group.com
 .tora.to
-.toragroup.com
 .torcn.com
 .torguard.net
 .torguard4u.com
-.torguardcn.com
-.torguardcn.net
 .torlock.com
 .torproject.org
 .torrentav.net
@@ -18190,7 +17373,6 @@ tv.apple.com
 .travelwithoutquit.com
 .travian.ae
 .travian.com.sa
-.trcam.com
 .tre.9adz1.com
 .tre.9aex1.com
 .tre.9bah1.com
@@ -18206,7 +17388,6 @@ tv.apple.com
 .treverix.com
 .trevitv.com
 .trevor-martin.com
-.trevormartin.com
 .trialofccp.org
 .tributetoliberty.ca
 .trickip.net
@@ -18228,7 +17409,6 @@ tv.apple.com
 .trubadis.com
 .trudireaume.com
 .truebuddha-md.org
-.truebuddhamd.org
 .trulyergonomic.com
 .trustasiassl.com
 .trustedreviews.com
@@ -18236,7 +17416,6 @@ tv.apple.com
 .truth.atspace.eu
 .truthontour.org
 .truthortrust.com
-.truthout.org
 .truthtalkradio.net
 .truveo.com
 .tryheart.jp
@@ -18260,7 +17439,6 @@ tv.apple.com
 .tsunagarumon.com
 .tsunamivpn.com
 .tsyl-c.emw919.com
-.tsylc.emw919.com
 .tt-rss.org
 .tt.qc.to
 .tt033.com
@@ -18322,7 +17500,6 @@ tv.apple.com
 .tuitui.info
 .tuitwit.com
 .tuk-tuk.co.uk
-.tuktuk.co.uk
 .tumbex.com
 .tumblr.agardenday.com
 .tumblr.co
@@ -18333,7 +17510,6 @@ tv.apple.com
 .tune-up.com
 .tune.pk
 .tunein.com
-.tuneup.com
 .tunnel.shellmix.com.nyud.net
 .tunnelbear.com
 .tunnelblick.com
@@ -18438,7 +17614,6 @@ tv.apple.com
 .tw.voicetube.com
 .tw.vonvon.me
 .tw01.org
-.tw1.mitsuhanode.com
 .tw116.com
 .tw6699.com
 .tw789.net
@@ -18450,7 +17625,6 @@ tv.apple.com
 .twbbs.net.tw
 .twbbs.org
 .twbbs.tw
-.twblog.com
 .twblogger.com
 .twcnn.net
 .twdown.com
@@ -18539,7 +17713,6 @@ tv.apple.com
 .twitzap.com
 .twiyia.com
 .twnorth.org.tw
-.twnpo.org
 .twreporter.org
 .twskype.com
 .twstar.net
@@ -18606,7 +17779,6 @@ tv.apple.com
 .typora.io
 .u.cc.st
 .u.f-q.me
-.u.fq.me
 .u.georgianlimerick.com
 .u.graylady.in
 .u15.info
@@ -18641,7 +17813,6 @@ tv.apple.com
 .ucdc1998.org
 .uchicago.edu
 .uchkconsulting.com
-.ucjapan.org
 .uclaut.net
 .ucmpage.org
 .ucountit.com
@@ -18675,7 +17846,6 @@ tv.apple.com
 .uk.to
 .ukcdp.co.uk
 .ukliferadio.co.uk
-.ukproxy.co.uk
 .ukproxyserver.com
 .ukrainianpolicy.com
 .uku.im
@@ -18729,15 +17899,12 @@ tv.apple.com
 .unblocker.yt
 .unblockit.dev
 .unblockmyweb.com
-.unblockproxy.com
-.unblockproxy.com.de
 .unblockproxy.us
 .unblocksit.es
 .unblocksite.net
 .unblocksites.co
 .unblocksurfproxy.com
 .unblockthatsite.net
-.unblockus.com
 .unblockvpn.com
 .unblockweb.co
 .unblockyouku.com
@@ -18762,7 +17929,6 @@ tv.apple.com
 .unification.net
 .unification.org.tw
 .unionelectric.ca
-.unipak.com.au
 .unirule.cloud
 .uniswap.org
 .unite4tibet.org
@@ -18776,7 +17942,6 @@ tv.apple.com
 .unknownspace.org
 .unlocator.com
 .unlock-iceland.com
-.unlockiceland.com
 .unlockriver.com
 .unodedos.com
 .unpo.org
@@ -18794,7 +17959,6 @@ tv.apple.com
 .upghsbc.com
 .upgrade-chat.nyc3.cdn.digitaloceanspaces.com
 .upgrade.shoplineapp.cn
-.upgradechat.nyc3.cdn.digitaloceanspaces.com
 .upholdjustice.org
 .uphome.com.tw
 .upi.com
@@ -18854,12 +18018,9 @@ tv.apple.com
 .us.net2cn.tk
 .us.to
 .us01-7.ssv4.net
-.us017.ssv4.net
 .us03-28.ssv4.net
-.us0328.ssv4.net
 .us1.dns.lavate.ch
 .us1.vpnme.me
-.us1892554.frigate.biz
 .us2.vpnme.me
 .us3.wd222.net
 .us52.cf
@@ -18871,13 +18032,6 @@ tv.apple.com
 .usb3.gq
 .usc.edu
 .uscellular.com
-.uscentral1.cloudfunctions.net
-.uscentral1celebrityvoice.cloudfunctions.net
-.uscentral1ecai2020prod.cloudfunctions.net
-.uscentral1invuelive.cloudfunctions.net
-.uscentral1kirichillicart.cloudfunctions.net
-.uscentral1metronautdevfa32c.cloudfunctions.net
-.uscentral1ripple3dc2d.cloudfunctions.net
 .uscirf.gov
 .uscti.org
 .usdehua.com
@@ -18920,7 +18074,6 @@ tv.apple.com
 .uu656.net
 .uu773.net
 .uubqp.com
-.uugg.com
 .uuhello.com
 .uukanshu.com
 .uushare.com
@@ -18945,7 +18098,6 @@ tv.apple.com
 .uyghurche.com
 .uyghurcongress.org
 .uyghurensemble.co.uk
-.uyghurj.org
 .uyghurpen.org
 .uyghurpress.com
 .uyghurstudies.org
@@ -18974,7 +18126,6 @@ tv.apple.com
 .v2raycn.com
 .v2raytech.com
 .v5.connect-link.com
-.v5.connectlink.com
 .v6551.com
 .v66612.com
 .v6ss.xyz
@@ -18991,7 +18142,6 @@ tv.apple.com
 .vaananen.fi
 .vac-go.de
 .vacationbibleschool.com
-.vacgo.de
 .vagos.es
 .valeriavidela.cl
 .valeursactuelles.com
@@ -19008,7 +18158,6 @@ tv.apple.com
 .vanemu.cn
 .vanie.web.id
 .vanilla-jp.com
-.vanillajp.com
 .vanitypanels.com
 .vanminh76.vn
 .vanpeople.com
@@ -19024,11 +18173,9 @@ tv.apple.com
 .vbstatic.co
 .vcc-hof.com
 .vcc.ca
-.vcchof.com
 .vcd01.com
 .vcf-online.org
 .vcfbuilder.org
-.vcfonline.org
 .vct.news
 .vctimes.com.au
 .vcup.in
@@ -19092,18 +18239,15 @@ tv.apple.com
 .videocyborg.com
 .videodetective.com
 .videogameheat.com
-.videohned.com
 .videoixir.net
 .videojug.com
 .videomega.tv
 .videomo.com
 .videomobo.com
-.videoone.com
 .videopediaworld.com
 .videopress.com
 .videos.com
 .videosection.com
-.videosport.pl
 .videosz.com
 .videouri.com
 .videovor.com
@@ -19134,7 +18278,6 @@ tv.apple.com
 .vine.co
 .vinniev.com
 .vintage-erotica-forum.com
-.vintageeroticaforum.com
 .vip-enterprise.com
 .vip.77xbgg.com
 .vip.asxxtv.com
@@ -19156,7 +18299,6 @@ tv.apple.com
 .vip9696.com
 .vipautosroig.es
 .vipdf8.com
-.vipenterprise.com
 .vipjs9900.com
 .vipletou.com
 .vipvpn.hu
@@ -19180,7 +18322,6 @@ tv.apple.com
 .vita.tw
 .vital247.org
 .vitamin-discounts.com
-.vitamindiscounts.com
 .viu.com
 .viu.tv
 .vivahentai4u.net
@@ -19206,7 +18347,6 @@ tv.apple.com
 .vn4.net
 .vn52888.com
 .vnet.link
-.vnlm.jbo25.com
 .vns0065.com
 .vns0090.com
 .vns06966.com
@@ -19317,7 +18457,6 @@ tv.apple.com
 .vpngates.com
 .vpngratis.net
 .vpnguard.net
-.vpnhotspot.com
 .vpnhq.com
 .vpnhub.com
 .vpninfo.dk
@@ -19387,10 +18526,7 @@ tv.apple.com
 .vsh.org
 .vsxtv.com
 .vt1-global12.netdna-ssl.com
-.vt1.global12.netdnacdn.com
-.vt1global12.netdnassl.com
 .vtb24.ru
-.vtea.com
 .vtrspeed.com
 .vtunnel.com
 .vudu.com
@@ -19490,7 +18626,6 @@ tv.apple.com
 .w3.css5.pw
 .w3.nat789.org
 .w3.now-ip.org
-.w3.nowip.org
 .w3.org
 .w3.tg333.net
 .w3373.com
@@ -19558,10 +18693,8 @@ tv.apple.com
 .wangruowang.org
 .wannaflix.com
 .want-daily.com
-.wantdaily.com
 .wanyepu.com
 .wanz-factory.com
-.wanzfactory.com
 .wap.xinbao6.net
 .wap.xinbao6.top
 .wapedia.mobi
@@ -19593,9 +18726,7 @@ tv.apple.com
 .wav.tv
 .waveprotocol.org
 .wawa-news.com
-.wawanews.com
 .wayback.archive-it.org
-.wayback.archiveit.org
 .waybackmachine.org
 .waybig.com
 .waymo.com
@@ -19609,10 +18740,6 @@ tv.apple.com
 .wc1-loud.wwdlw78.com
 .wc1-loud2.wwdlw78.com
 .wc1-loud3.wwdlw78.com
-.wc1api.wwdlw78.com
-.wc1loud.wwdlw78.com
-.wc1loud2.wwdlw78.com
-.wc1loud3.wwdlw78.com
 .wc990.com
 .wcnc.com
 .wda.gov.tw
@@ -19661,7 +18788,6 @@ tv.apple.com
 .webhop.me
 .webhop.org
 .webinars-api.cyberlink.com
-.webinarsapi.cyberlink.com
 .webindia123.com
 .webjb.org
 .weblagu.com
@@ -19689,7 +18815,6 @@ tv.apple.com
 .webproxy.to
 .webproxy.yt
 .webproxyfree.net
-.webproxyservice.de
 .webproxyusa.com
 .webptt.com
 .webring.com
@@ -19699,7 +18824,6 @@ tv.apple.com
 .webshite.com
 .websitepulse.com
 .websnapr.com
-.webstv.net
 .websurfingproxies.net
 .webtunnel.org
 .webtype.com
@@ -19744,7 +18868,6 @@ tv.apple.com
 .wengewang.com
 .wengewang.org
 .wenhui.ch
-.wenjos.idv.tw
 .wenweipo.com
 .wenxuecity.com
 .wenyunchao.com
@@ -19799,7 +18922,6 @@ tv.apple.com
 .white-plus.net
 .whitenight.net16.net
 .whitepages.com.au
-.whiteplus.net
 .whitneyquesenbery.com
 .whodns.xyz
 .whoer.net
@@ -19879,7 +19001,6 @@ tv.apple.com
 .wingy.site
 .winndixie.com
 .winner-bet.net
-.winnerbet.net
 .winning11.com
 .winnity.ro
 .winudf.com
@@ -19938,7 +19059,6 @@ tv.apple.com
 .wnacg.wtf
 .wnbc.com
 .wns1919.com
-.wnsr.com
 .wnsr1980.com
 .wnsr1984.com
 .wnsr1986.com
@@ -19948,7 +19068,6 @@ tv.apple.com
 .wnsr2006.com
 .wnu.com
 .wo.88.54.is-a-celticsfan.org
-.wo.88.54.isacelticsfan.org
 .wo.tc
 .wo00s0963.vooreeno.com
 .woam1350.com
@@ -19956,7 +19075,6 @@ tv.apple.com
 .wodemo.com
 .woeser.com
 .woesermiddle-way.net
-.woesermiddleway.net
 .woexzp.site
 .wofa.us
 .wokar.org
@@ -19973,7 +19091,6 @@ tv.apple.com
 .wordle.net
 .wordoftruthmedianetwork.com
 .wordpandit.com
-.wordplay.com
 .wordpress.com
 .wordpress.com.hk
 .wordsandturds.com
@@ -19993,14 +19110,12 @@ tv.apple.com
 .worldbull.com
 .worldcat.org
 .worldfalundafaday.org
-.worldforfun.com
 .worldheritage.org
 .worldjournal.com
 .worldmag.com
 .worldnews01.com
 .worldpay.com
 .worldpress.com
-.worldrights.org
 .worldsex.com
 .worldsmileday.com
 .worldtribune.com
@@ -20017,7 +19132,6 @@ tv.apple.com
 .wowgirls.com
 .wowgirls.xxx
 .wowlegacy.ml
-.wowlife.net
 .wowrk.com
 .wowxtv.com
 .woxinghuiguo.com
@@ -20151,7 +19265,6 @@ tv.apple.com
 .wuzuowei.com
 .wvd.org.au
 .wvw-82737.com
-.wvw82737.com
 .ww.daliulian.net
 .ww.jamate.com
 .ww.orange01.org
@@ -20194,7 +19307,6 @@ tv.apple.com
 .www.010xpj.com
 .www.018xpj.com
 .www.01bbcc.com
-.www.01torte.com
 .www.021330.com
 .www.028cym.com
 .www.02902.com
@@ -20271,7 +19383,6 @@ tv.apple.com
 .www.178537.com
 .www.178yl99.com
 .www.17916512.cn
-.www.17js.com
 .www.17ooxx.net
 .www.18123cpz.com
 .www.188188188188b.com
@@ -20365,7 +19476,6 @@ tv.apple.com
 .www.2ilt.com
 .www.2mm.tv
 .www.2n15.com
-.www.2vpn1.com
 .www.2ways.net
 .www.3001003.com
 .www.30066hg.com
@@ -20401,7 +19511,6 @@ tv.apple.com
 .www.360289.com
 .www.3648980.com
 .www.365-588.com
-.www.365588.com
 .www.36569.vip
 .www.365bei.com
 .www.365ggjj.com
@@ -20499,7 +19608,6 @@ tv.apple.com
 .www.5dias.com
 .www.5high.net
 .www.5pool.com
-.www.5yal.com
 .www.5ye8.com
 .www.5zuo2.com
 .www.6.am
@@ -20552,7 +19660,6 @@ tv.apple.com
 .www.774jj.com
 .www.777021.com
 .www.788-sb.com
-.www.788sb.com
 .www.789vpn.org
 .www.78bifa.com
 .www.79796h.com
@@ -20627,6 +19734,7 @@ tv.apple.com
 .www.93522.com
 .www.939025.com
 .www.93sihu.com
+.www.941hd.com
 .www.9458win.com
 .www.94695.com
 .www.958g.com
@@ -20696,7 +19804,6 @@ tv.apple.com
 .www.adameve.com
 .www.adcp105.com
 .www.adidas-group.com
-.www.adidasgroup.com
 .www.adj.idv.tw
 .www.admissionadviser.com
 .www.adult168.com
@@ -20715,13 +19822,11 @@ tv.apple.com
 .www.ag2958.com
 .www.ag9.com
 .www.agc-ity.com
-.www.agcity.com
 .www.agefans.tv
 .www.aggin.net
 .www.aggressivebabes.com
 .www.ah-me.com
 .www.ahediting.com
-.www.ahme.com
 .www.aibai.com
 .www.aiosearch.com
 .www.aipa520.com
@@ -20739,7 +19844,6 @@ tv.apple.com
 .www.alexanderforbes.co.za
 .www.alexanders.co.nz
 .www.alison-chang.com
-.www.alisonchang.com
 .www.alithia.gr
 .www.allcinema.net
 .www.alljapanesepass.com
@@ -20813,7 +19917,6 @@ tv.apple.com
 .www.artsculture.club
 .www.arzon.jp
 .www.as-ansar.com
-.www.asansar.com
 .www.asapm.org
 .www.asgam.com
 .www.ashnetworks.com
@@ -20821,8 +19924,6 @@ tv.apple.com
 .www.asia1.com
 .www.asiafinest.com
 .www.asiainfo-linkage.com
-.www.asiainfolinkage.com
-.www.asiajiasheng.com
 .www.asialyst.com
 .www.asianinvestor.net
 .www.asianlawcaucus.org
@@ -20849,12 +19950,10 @@ tv.apple.com
 .www.aunblock.com
 .www.aurfy.co.jp
 .www.aurora-pro.com
-.www.aurorapro.com
 .www.australia-proxy.com
 .www.australiachinafoundation.org.au
 .www.australianchinesedaily.com.au
 .www.australiapost.com.au
-.www.australiaproxy.com
 .www.autobild.de
 .www.autodesk.com
 .www.autospec.co.za
@@ -20879,7 +19978,6 @@ tv.apple.com
 .www.avwife.com
 .www.awamnews.com
 .www.awebproxy.com
-.www.awha.idv.tw
 .www.ayiconsulting.com
 .www.aykow.com
 .www.ayx121.com
@@ -20902,9 +20000,7 @@ tv.apple.com
 .www.babysaying.net
 .www.bai-she.com
 .www.baige-vpn.com
-.www.baigevpn.com
 .www.baina5.com
-.www.baishe.com
 .www.bajie123.com
 .www.ball388.com
 .www.ballbet.com
@@ -20921,7 +20017,6 @@ tv.apple.com
 .www.barstoolsports.com
 .www.barus.cc
 .www.baumann-solutions.de
-.www.baumannsolutions.de
 .www.bayareametro.com
 .www.bb-blockchain.com
 .www.bb-in.cc
@@ -20933,17 +20028,12 @@ tv.apple.com
 .www.bb366.net
 .www.bb757.net
 .www.bbb111.com
-.www.bbblockchain.com
 .www.bbcnews.com
 .www.bbcpersian.com
 .www.bbcukchina.com
 .www.bbgdirect.com
 .www.bbh.com
-.www.bbin.cc
 .www.bbin.com
-.www.bbin.org
-.www.bbin.tv
-.www.bbingames.com
 .www.bbsyouba.com
 .www.bc248.com
 .www.bc3355.com
@@ -20974,7 +20064,6 @@ tv.apple.com
 .www.benstalk.com
 .www.benzishe.net
 .www.berliner-zeitung.de
-.www.berlinerzeitung.de
 .www.bestfreevpn.com
 .www.bestfreevpn.net
 .www.bestialitytaboo.tv
@@ -21022,7 +20111,6 @@ tv.apple.com
 .www.bifa8885.com
 .www.big-cup.tv
 .www.bigboobsalert.com
-.www.bigcup.tv
 .www.bigfishgames.com
 .www.bigtitstokyo.com
 .www.bikeinn.com
@@ -21103,7 +20191,6 @@ tv.apple.com
 .www.boyztube.com
 .www.bozhidao.com
 .www.brazzers-girls.com
-.www.brazzersgirls.com
 .www.brcparticipate.com
 .www.breakingnews.com
 .www.breakwall.org
@@ -21229,7 +20316,6 @@ tv.apple.com
 .www.cathaypacificcargo.com
 .www.cathaysite.com
 .www.cathaysite.com.cn
-.www.catworld.com.au
 .www.cavip111.com
 .www.cazila.com
 .www.cba.ca
@@ -21237,7 +20323,6 @@ tv.apple.com
 .www.cbplus.com
 .www.ccavgirl.com
 .www.ccb-darmstadt.com
-.www.ccbdarmstadt.com
 .www.ccc3285.com
 .www.cccmelbourne.org.au
 .www.ccfellow.org
@@ -21276,7 +20361,6 @@ tv.apple.com
 .www.chaomedia.net
 .www.chaosinternational.com
 .www.chara-ani.com
-.www.charaani.com
 .www.charentelibre.fr
 .www.charminghk.com
 .www.checkpoint.com
@@ -21291,14 +20375,9 @@ tv.apple.com
 .www.chinacredentials.com
 .www.chinadigest.cn
 .www.chinaelections.com
-.www.chinafiles.com
-.www.chinapix.com
 .www.chinaproxy.me
-.www.chinaproxy.org
 .www.chinareport.com
-.www.chinareview.com
 .www.chinasfailedtibetpolicies.org
-.www.chinaunderground.com
 .www.chineseconferenceinterpreters.com
 .www.chineselovelinks.com
 .www.chinesewinnipeg.com
@@ -21306,9 +20385,7 @@ tv.apple.com
 .www.chitujsq.com
 .www.chobits.idv.tw
 .www.choi-waru.com
-.www.choiwaru.com
 .www.chosa-kai.jp
-.www.chosakai.jp
 .www.chqvpn.com
 .www.christianblogsites.com
 .www.christianheadlines.com
@@ -21358,7 +20435,6 @@ tv.apple.com
 .www.codereddit.com
 .www.coffee-maker-repair-tw.gq
 .www.coffeecup.com
-.www.coffeemakerrepairtw.gq
 .www.coffscoastadvocate.com.au
 .www.coinall.com
 .www.coinexchange.io
@@ -21393,14 +20469,12 @@ tv.apple.com
 .www.cp3511.com
 .www.cpami.gov.tw
 .www.cppa-dc.org
-.www.cppadc.org
 .www.cpu500.com
 .www.crackle.com.ar
 .www.crackle.com.br
 .www.crackle.com.mx
 .www.crackle.com.ve
 .www.crane-ze.com
-.www.craneze.com
 .www.cravedelibar.com
 .www.cre13.com
 .www.createspace.com
@@ -21408,6 +20482,7 @@ tv.apple.com
 .www.crexyer.com
 .www.crocoguide.com
 .www.crossvpn.org
+.www.crsna2015.tk
 .www.cryxw.com
 .www.cs.com
 .www.cs455.com
@@ -21418,7 +20493,6 @@ tv.apple.com
 .www.csdc555.com
 .www.csdc5555.com
 .www.csn66.com
-.www.cstudy.net
 .www.ctcwri.idv.tw
 .www.ctfmc.com
 .www.cumshot.com
@@ -21524,7 +20598,6 @@ tv.apple.com
 .www.digitalvajra.com
 .www.diplo.jp
 .www.dissidenti-ultra.de
-.www.dissidentiultra.de
 .www.diveinn.com
 .www.dizhenluntan.com
 .www.djjsq.cn
@@ -21547,7 +20620,6 @@ tv.apple.com
 .www.doubigjd.com
 .www.doujinshi.org
 .www.doule-motel.com.tw
-.www.doulemotel.com.tw
 .www.dpamcloud.com
 .www.dr-ming-xia.org
 .www.dramabeans.com
@@ -21559,16 +20631,13 @@ tv.apple.com
 .www.dubaichronicle.com
 .www.dubstep.net
 .www.dudu-sex.biz
-.www.dudusex.biz
 .www.duextv.com
 .www.duoguge.net
 .www.dvd-50.com
-.www.dvd50.com
 .www.dvdtrailertube.com
 .www.dyboss.com
 .www.dylangauthier.com
 .www.dynamic-proxy.com
-.www.dynamicproxy.com
 .www.dynasys.org
 .www.dynit.it
 .www.dytt8.com
@@ -21635,7 +20704,6 @@ tv.apple.com
 .www.eg1111.vip
 .www.eg611.com
 .www.egaleonews.bravehost.com
-.www.egreen.idv.tw
 .www.egyptindependent.com
 .www.ehn.io
 .www.ehornbill.com
@@ -21644,10 +20712,8 @@ tv.apple.com
 .www.einthusan.com
 .www.eiuperspectives.com
 .www.elbe-studios.de
-.www.elbestudios.de
 .www.elc.edu
 .www.electro-light.co.uk
-.www.electrolight.co.uk
 .www.elephantdrive.com
 .www.elkosmos.gr
 .www.elle.com.hk
@@ -21657,14 +20723,12 @@ tv.apple.com
 .www.emotiyou.com
 .www.emporis.com
 .www.endless-ss.com
-.www.endlessss.com
 .www.energy.ca.gov
 .www.englishdaily626.com
 .www.enjoygram.com
 .www.enotes.com
 .www.entrepreneurshipaward.com
 .www.enya.com
-.www.epayless.com.tw
 .www.epicnpc.com
 .www.epistar.com.tw
 .www.epochtimes.com.tw
@@ -21674,7 +20738,6 @@ tv.apple.com
 .www.ericjoung.idv.tw
 .www.erito.com
 .www.ero-guide.com
-.www.eroguide.com
 .www.erome.com
 .www.eroticbeauty.com
 .www.erou.idv.tw
@@ -21684,7 +20747,6 @@ tv.apple.com
 .www.eskimotube.com
 .www.eslready.com
 .www.esperanto-gb.org
-.www.esperantogb.org
 .www.esukhia.org
 .www.etet22.com
 .www.ethfinex.com
@@ -21693,7 +20755,6 @@ tv.apple.com
 .www.etop.idv.tw
 .www.eu99999.com
 .www.eurasia-montpellier.org
-.www.eurasiamontpellier.org
 .www.eurocis.com
 .www.europeaninnovators.eu
 .www.europrojekti.eu
@@ -21724,7 +20785,6 @@ tv.apple.com
 .www.f88da.com
 .www.f88go.com
 .www.f88help.com
-.www.f88line.com
 .www.f88vip101.com
 .www.f88vip107.com
 .www.f88vip108.com
@@ -21748,12 +20808,10 @@ tv.apple.com
 .www.familyradio.com
 .www.fanhao.in
 .www.fanqiang.net
-.www.fanqiangcn.com
 .www.fanqianglu.com
 .www.fanwall.org
 .www.farxian.com
 .www.fast-ssr.org
-.www.fastssr.org
 .www.fatrat.com
 .www.faxiannews.com
 .www.fbvpn.com
@@ -21789,7 +20847,6 @@ tv.apple.com
 .www.firstbiz.com
 .www.firstbullion.com
 .www.fisac-irsf.org
-.www.fisacirsf.org
 .www.fktv99.com
 .www.fl355.com
 .www.flags.idv.tw
@@ -21803,7 +20860,6 @@ tv.apple.com
 .www.fnbnamibia.com.na
 .www.fnp.gov.tw
 .www.focused-it.ca
-.www.focusedit.ca
 .www.foi.se
 .www.folicai.com
 .www.fondsprofessionell.at
@@ -21811,7 +20867,6 @@ tv.apple.com
 .www.football365.co.uk
 .www.footjobtube4free.com
 .www.force-mos.com
-.www.forcemos.com
 .www.forestracker.net
 .www.forestwhisper.com
 .www.forex110.net
@@ -21842,7 +20897,6 @@ tv.apple.com
 .www.freedur.com
 .www.freedur.net
 .www.freefuckvidz.com
-.www.freehardcore.com
 .www.freehk.live
 .www.freehostia.com
 .www.freeinchina.org
@@ -21850,10 +20904,9 @@ tv.apple.com
 .www.freelxb.com
 .www.freemalaysiatoday.com
 .www.freemansec.com
+.www.freeproxysite.com
 .www.freerussiasex.com
 .www.freesafeip.com
-.www.freesexyclips.net
-.www.freestripgames.com
 .www.freetibet.com
 .www.freeukvpn.com
 .www.freeunblocked.pw
@@ -21868,7 +20921,6 @@ tv.apple.com
 .www.frenchcreek.ca
 .www.freshnano.com
 .www.friends-of-tibet.org.nz
-.www.friendsoftibet.org.nz
 .www.frontpagemag.com
 .www.frostburg.com
 .www.fsbbs.net
@@ -21932,8 +20984,6 @@ tv.apple.com
 .www.fun88369.com
 .www.fun888city.net
 .www.fun88city.com
-.www.fun88i78.com
-.www.fun88mvp.com
 .www.fun898.com
 .www.fun903.com
 .www.fun908.com
@@ -21944,7 +20994,6 @@ tv.apple.com
 .www.fuqizy.com
 .www.fushicopperweld.com
 .www.future-interactive.net
-.www.futureinteractive.net
 .www.fuyin.tv
 .www.fuzokuu.com
 .www.fx110.com
@@ -21986,7 +21035,6 @@ tv.apple.com
 .www.gboy1069.com
 .www.gc585888.com
 .www.gca-mining.com
-.www.gcamining.com
 .www.gcfta.com
 .www.gcgc1788.com
 .www.gcntv.org
@@ -21998,7 +21046,6 @@ tv.apple.com
 .www.genmirror.com
 .www.georemittance.com
 .www.german-webproxy.de
-.www.germanwebproxy.de
 .www.getavpn.org
 .www.getbaku.com
 .www.getgreenjsq.co
@@ -22011,7 +21058,6 @@ tv.apple.com
 .www.gettyimages.it
 .www.getusvpn.com
 .www.gfashion.com
-.www.gforce.hk
 .www.gfsoso.com
 .www.gfsswy.com
 .www.gfwvpn.com
@@ -22068,7 +21114,6 @@ tv.apple.com
 .www.grannybet.com
 .www.gravure.com
 .www.green-living.com.tw
-.www.greenliving.com.tw
 .www.greenway.ie
 .www.grjsq.biz
 .www.grneggs.com
@@ -22124,8 +21169,6 @@ tv.apple.com
 .www.hd-wheels.com
 .www.hd21.com
 .www.hd95996.com
-.www.hdinc.com
-.www.hdwheels.com
 .www.hdwheelsonline.com
 .www.hdwin.idv.tw
 .www.hdzone.org
@@ -22143,10 +21186,8 @@ tv.apple.com
 .www.henanprosper.com
 .www.hengssc88.com
 .www.henry-lab.com
-.www.henrylab.com
 .www.hentai-foundry.com
 .www.hentai.ms
-.www.hentaifoundry.com
 .www.hentaimg.com
 .www.hentairon.net
 .www.herald.ie
@@ -22172,9 +21213,6 @@ tv.apple.com
 .www.hidemefast.net
 .www.hidemenow.net
 .www.hidemyass-freeproxy.com
-.www.hidemyassfreeproxy.com
-.www.hidemyip.com
-.www.hidemyip.net
 .www.hidemyipvpn.com
 .www.hidemynet.com
 .www.hidevpn.com
@@ -22207,7 +21245,6 @@ tv.apple.com
 .www.hkbdsmc.com
 .www.hkcities.com
 .www.hkddn.org
-.www.hkebc.edu
 .www.hkerc.org
 .www.hkex.com.hk
 .www.hkindieff.hk
@@ -22222,12 +21259,10 @@ tv.apple.com
 .www.hlqp.app
 .www.hm7188.com
 .www.hmg-mosaic.idv.tw
-.www.hmgmosaic.idv.tw
 .www.hmheiya.com
 .www.hntworldwide.com
 .www.ho5ho.com
 .www.hokkaido-np.co.jp
-.www.hokkaidonp.co.jp
 .www.hollisterco.com.tw
 .www.holynuts.xyz
 .www.home.saxo
@@ -22255,7 +21290,6 @@ tv.apple.com
 .www.hsbc.com.br
 .www.hsjzez.com
 .www.htl-steyr.ac.at
-.www.htlsteyr.ac.at
 .www.huancai66.com
 .www.huashengjp.com
 .www.huayuel.com
@@ -22274,7 +21308,6 @@ tv.apple.com
 .www.hustlertube.com
 .www.hustvpn.com
 .www.hutong-school.com
-.www.hutongschool.com
 .www.hw58888.com
 .www.hwadzan.com
 .www.hwadzan.net
@@ -22285,7 +21318,6 @@ tv.apple.com
 .www.hxcpp22.com
 .www.hxcpp8.com
 .www.hxlives.com
-.www.hxss.cc
 .www.hy99.co
 .www.hycm.com
 .www.hymnal.net
@@ -22320,7 +21352,6 @@ tv.apple.com
 .www.ikta.com
 .www.ilabour.org
 .www.ilove-blog-you.com
-.www.iloveblogyou.com
 .www.im2sports.com
 .www.imcp.com.au
 .www.imdeveloper.ml
@@ -22342,7 +21373,6 @@ tv.apple.com
 .www.inouyelab.org
 .www.inquisition21.com
 .www.insect-mall.idv.tw
-.www.insectmall.idv.tw
 .www.inside.com.tw
 .www.insidenorthernnevada.com
 .www.instaforex.eu
@@ -22380,13 +21410,11 @@ tv.apple.com
 .www.ishadowsocks.biz
 .www.islam-center.net
 .www.islam.uz
-.www.islamcenter.net
 .www.islamhk.com
 .www.islamtoleran.com
 .www.island77.tw
 .www.isnao.com
 .www.iss-wurst.de
-.www.isswurst.de
 .www.istripper.com
 .www.it.taboocams.com
 .www.italiacina.org
@@ -22403,7 +21431,6 @@ tv.apple.com
 .www.itechzero.com
 .www.ithk.org
 .www.itmag-dz.com
-.www.itmagdz.com
 .www.itmesh.com
 .www.itrio.ch
 .www.its.gov.tr
@@ -22492,8 +21519,6 @@ tv.apple.com
 .www.jianduwang.site
 .www.jiasheng-global.com
 .www.jiasheng-jituan.com
-.www.jiashengglobal.com
-.www.jiashengjituan.com
 .www.jica88.com
 .www.jicloud.site
 .www.jiedaibao10g.com
@@ -22512,7 +21537,6 @@ tv.apple.com
 .www.jjptr.com
 .www.jkasiege.com
 .www.jm-madeira.pt
-.www.jmmadeira.pt
 .www.joannagolabek.it
 .www.joi18.com
 .www.jonatin.com
@@ -22523,7 +21547,6 @@ tv.apple.com
 .www.jrf.org.tw
 .www.jsh911.com
 .www.jsjt-global.com
-.www.jsjtglobal.com
 .www.jsok147.com
 .www.jsok789.com
 .www.jsqgtx.net
@@ -22559,14 +21582,12 @@ tv.apple.com
 .www.kanjukumania.com
 .www.kanxi123.com
 .www.kao-calligraphy.idv.tw
-.www.kaocalligraphy.idv.tw
 .www.kapaza.be
 .www.kaskus.com
 .www.kaspersky.co.uk
 .www.katestube.com
 .www.kayako.com
 .www.kaze-travel.co.jp
-.www.kazetravel.co.jp
 .www.kbro.com.tw
 .www.kcai228.com
 .www.kcai229.com
@@ -22615,10 +21636,8 @@ tv.apple.com
 .www.kn899.com
 .www.ko-re.com
 .www.kobe-np.co.jp
-.www.kobenp.co.jp
 .www.kollect.com.tw
 .www.koraspeak.com
-.www.kore.com
 .www.koreapas.com
 .www.koryu.or.jp
 .www.kose.co.jp
@@ -22646,7 +21665,6 @@ tv.apple.com
 .www.lankanewsweb.com
 .www.lanqiuba.com
 .www.lanternes-thai.com
-.www.lanternesthai.com
 .www.lanyustar.idv.tw
 .www.lapresse.ca
 .www.lastweektonight.com
@@ -22691,14 +21709,12 @@ tv.apple.com
 .www.liberation.fr
 .www.libertarianismo.org
 .www.liberty-ss.top
-.www.libertyss.top
 .www.libertyvpn.com
 .www.libertyvpn.net
 .www.libraryofmoria.com
 .www.liejournal.com
 .www.lifaner.com
 .www.life-1s.com
-.www.life1s.com
 .www.lifespacex.com
 .www.lifetvcn.com
 .www.lifevpn.com
@@ -22707,7 +21723,6 @@ tv.apple.com
 .www.lighthz.com
 .www.liisex.com
 .www.lilith-soft.com
-.www.lilithsoft.com
 .www.limevpn.com
 .www.lineinchina.com
 .www.lingobite.com
@@ -22783,7 +21798,6 @@ tv.apple.com
 .www.macangmonastery.org
 .www.macau-focus.com
 .www.macau-slot.com
-.www.macaufocus.com
 .www.macdonaldlaurier.ca
 .www.macgn.com
 .www.madaili.com
@@ -22813,7 +21827,6 @@ tv.apple.com
 .www.mattborengasser.com
 .www.maturetube.com
 .www.maya-house.idv.tw
-.www.mayahouse.idv.tw
 .www.mbo666.com
 .www.mbvans.com
 .www.mcgrawfunding.com
@@ -22839,7 +21852,6 @@ tv.apple.com
 .www.mes.org
 .www.mespro360.com
 .www.messy-jessie.com
-.www.messyjessie.com
 .www.mesubuta.net
 .www.metasploit.com
 .www.metcn.com
@@ -22858,13 +21870,11 @@ tv.apple.com
 .www.middleeasteye.net
 .www.midphoto.com
 .www.miel-soft.com
-.www.mielsoft.com
 .www.mihiepa.com
 .www.mihk.tv
 .www.mikerogero.com
 .www.mikuclub.org
 .www.milan-yilan.com
-.www.milanyilan.com
 .www.milivpn.com
 .www.milulucn.com
 .www.mimemi.org
@@ -22876,7 +21886,6 @@ tv.apple.com
 .www.minecraft.net
 .www.minepi.com
 .www.ming-jian.net
-.www.mingjian.net
 .www.miniweather.com
 .www.minorplanetcenter.net
 .www.mips.tv
@@ -22897,7 +21906,6 @@ tv.apple.com
 .www.moe-acg.cc
 .www.moe-li.com
 .www.moeacg.cc
-.www.moeli.com
 .www.moeyo.com
 .www.mof.gov.tw
 .www.mohw.gov.tw
@@ -22910,7 +21918,6 @@ tv.apple.com
 .www.moorburn.com
 .www.moqavemat.ir
 .www.morii-group.co.jp
-.www.moriigroup.co.jp
 .www.mossad.gov.il
 .www.motardinn.com
 .www.motc.gov.tw
@@ -22924,7 +21931,6 @@ tv.apple.com
 .www.mr006.com
 .www.ms569.com
 .www.mskolshuk.com
-.www.msport.co.uk
 .www.mtac.gov.tw
 .www.mtco.com
 .www.mtslash.net
@@ -22938,7 +21944,6 @@ tv.apple.com
 .www.muslims4peace.org
 .www.muzik-online.com
 .www.muzikair.com
-.www.muzikonline.com
 .www.muzitube.com
 .www.mvclub.net
 .www.mvitraining.com
@@ -22954,10 +21959,8 @@ tv.apple.com
 .www.myaircover.com
 .www.myanmarinvestmentsummit.com
 .www.mybgcp-1.com
-.www.mybgcp1.com
 .www.myborderlife.com
 .www.myedaccount.com
-.www.myexpatnetwork.com
 .www.myfreevpn.com
 .www.myfreevpn.org
 .www.myfxcm.com
@@ -22965,7 +21968,6 @@ tv.apple.com
 .www.myorz.com
 .www.mypianku.net
 .www.mypress-release.biz
-.www.mypressrelease.biz
 .www.mysinchew.com
 .www.mysports98.com
 .www.mystrongvpn.com
@@ -22994,7 +21996,6 @@ tv.apple.com
 .www.nbclearn.com
 .www.nbhao.net
 .www.nbty-china.com
-.www.nbtychina.com
 .www.ndc.gov.tw
 .www.ndrive.com
 .www.negociecoins.com.br
@@ -23007,7 +22008,6 @@ tv.apple.com
 .www.neverland.com.tw
 .www.new-av.com
 .www.new7.com.tw
-.www.newav.com
 .www.newbrazzers.com
 .www.newhana.com
 .www.newipvpn.com
@@ -23022,7 +22022,6 @@ tv.apple.com
 .www.newtime.idv.tw
 .www.newtypeworks.com
 .www.newway-fabrics.com
-.www.newwayfabrics.com
 .www.nf2014.com
 .www.nfa.gov.tw
 .www.ngngfngfn.tjtekjtdgjrwhjsw.com
@@ -23068,8 +22067,8 @@ tv.apple.com
 .www.ntp.gov.tw
 .www.ntpu.edu.tw
 .www.ntue.edu.tw
+.www.ntv.de
 .www.nude-gals.com
-.www.nudegals.com
 .www.nudes.cz
 .www.nuoyavpn.com
 .www.nuttx.org
@@ -23077,7 +22076,6 @@ tv.apple.com
 .www.nwi.com
 .www.nyc520.com
 .www.nydus-vpn.com
-.www.nydusvpn.com
 .www.nyt.net
 .www.nytims.com
 .www.nytnow.com
@@ -23088,7 +22086,6 @@ tv.apple.com
 .www.obcc.idv.tw
 .www.oben.com
 .www.objectif-tibet.org
-.www.objectiftibet.org
 .www.obuy.tw
 .www.occupythebanks.com
 .www.oclearningteam.com
@@ -23123,7 +22120,6 @@ tv.apple.com
 .www.onislam.net
 .www.online-hardcore-video.com
 .www.online.hk
-.www.onlinehardcorevideo.com
 .www.onlinehost.ir
 .www.onlyjizz.com
 .www.onlypost.com
@@ -23140,9 +22136,7 @@ tv.apple.com
 .www.orangehouse.idv.tw
 .www.orcam.com
 .www.oreca-store.com
-.www.orecastore.com
 .www.orevo-zagreb.hr
-.www.orevozagreb.hr
 .www.orgs.one
 .www.orwell.live
 .www.oscaro.com
@@ -23162,7 +22156,6 @@ tv.apple.com
 .www.p88804.com
 .www.pabbs.org
 .www.pacific-times.com
-.www.pacifictimes.com
 .www.palgrave.com
 .www.pallabs.com
 .www.palpung.org
@@ -23188,7 +22181,6 @@ tv.apple.com
 .www.pchomeskype.com.tw
 .www.pcnet.idv.tw
 .www.peak-dynamics.com
-.www.peakdynamics.com
 .www.peanutsdaily.com
 .www.peclass.net
 .www.peeprec.com
@@ -23231,7 +22223,6 @@ tv.apple.com
 .www.pixunlimited.co.uk
 .www.pjdc6600.com
 .www.planches-de-surf.com
-.www.planchesdesurf.com
 .www.planetsuzy.org
 .www.playboytubes.com
 .www.playforceone.com
@@ -23245,7 +22236,6 @@ tv.apple.com
 .www.pocoav.com
 .www.pocucn.com
 .www.poczta-polska.pl
-.www.pocztapolska.pl
 .www.podvpn6.com
 .www.podvpn8.com
 .www.poems.com.sg
@@ -23323,7 +22313,6 @@ tv.apple.com
 .www.pugetsound.edu
 .www.purechat.com
 .www.pureland-buddhism.org
-.www.purelandbuddhism.org
 .www.purevpn.net
 .www.purifymind.com
 .www.pussy.org
@@ -23345,7 +22334,6 @@ tv.apple.com
 .www.qm5656.com
 .www.qmllt.com
 .www.qq-av.com
-.www.qqav.com
 .www.qruq.com
 .www.quarantados.com
 .www.qubxv.com
@@ -23353,7 +22341,6 @@ tv.apple.com
 .www.quickchargepower.com
 .www.quilt.idv.tw
 .www.quran-radio.com
-.www.quranradio.com
 .www.qwe18.com
 .www.qwe56.net
 .www.qwqjsq.com
@@ -23370,7 +22357,6 @@ tv.apple.com
 .www.radioveritas.co.za
 .www.ragingstallion.com
 .www.rai-playroom.net
-.www.raiplayroom.net
 .www.raise88.com
 .www.rakuten.com.tw
 .www.rakuten.ne.jp
@@ -23412,10 +22398,8 @@ tv.apple.com
 .www.restorerpvision.com
 .www.reuters.es
 .www.revolution-news.com
-.www.revolutionnews.com
 .www.rexxx.com
 .www.rf599.com-1
-.www.rf599.com1
 .www.rfa.com
 .www.rfimusic.com
 .www.rfimusique.com
@@ -23427,7 +22411,6 @@ tv.apple.com
 .www.rickh.cf
 .www.rightheart.org
 .www.ritsumei-arsvi.org
-.www.ritsumeiarsvi.org
 .www.rmb.li
 .www.robertwalters.cn
 .www.rocketreading123.com
@@ -23490,8 +22473,6 @@ tv.apple.com
 .www.saveclipbro.com
 .www.say-hanabi.com
 .www.say-huahuo.com
-.www.sayhanabi.com
-.www.sayhuahuo.com
 .www.sb1202.com
 .www.sbf159.com
 .www.sbf181.com
@@ -23538,7 +22519,6 @@ tv.apple.com
 .www.sextoyvideos.com
 .www.sexx123.com
 .www.sexy-cutie.com
-.www.sexycutie.com
 .www.sexypattycake.com
 .www.sf590.com
 .www.sg505.com
@@ -23562,7 +22542,6 @@ tv.apple.com
 .www.shireyishunjian.vip
 .www.shiyongtao.cn
 .www.shop-pro.cc
-.www.shoppro.cc
 .www.shs.edu.tw
 .www.shyhjg.com
 .www.siddiqlar.com
@@ -23570,15 +22549,12 @@ tv.apple.com
 .www.sikucyclopedia.com
 .www.silklabo.com
 .www.sim-outhouse.com
-.www.simouthouse.com
 .www.sinchew-i.com
-.www.sinchewi.com
 .www.sinostand.com
 .www.sir.com.tw
 .www.siyushe.com
 .www.sk-tea.com
 .www.skhkeihin.edu.hk
-.www.sktea.com
 .www.skybet98.com
 .www.skynews.com.au
 .www.skype.com.tw
@@ -23602,11 +22578,9 @@ tv.apple.com
 .www.socaifu.com
 .www.social-peek.com
 .www.socialequity.unimelb.edu.au
-.www.socialpeek.com
 .www.socketpro.help
 .www.socketpro.net
 .www.softonic.cn
-.www.soga.net
 .www.sologirlpussy.com
 .www.solopeliculasgratis.com
 .www.songkimo.com
@@ -23640,11 +22614,9 @@ tv.apple.com
 .www.springpadit.com
 .www.sqlspace.com
 .www.sr-71.org
-.www.sr71.org
 .www.srkoo.com
 .www.ss-fast.net
 .www.sscshishi.com
-.www.ssfast.net
 .www.ssgamer.cn
 .www.ssh110.com
 .www.sshagan.net
@@ -23673,19 +22645,15 @@ tv.apple.com
 .www.stronggames.com
 .www.sttf.idv.tw
 .www.studio-miksy.fr
-.www.studiomiksy.fr
 .www.stuffedcow.net
 .www.stuttgarter-zeitung.de
-.www.stuttgarterzeitung.de
 .www.stvid.com
 .www.styled-components.com
-.www.styledcomponents.com
 .www.subpig.net
 .www.subscribe.ru
 .www.sucsys.com
 .www.suedtirolnews.it
 .www.suika-ss.com
-.www.suikass.com
 .www.sun5505.com
 .www.sun718.com
 .www.sun7708.com
@@ -23728,7 +22696,6 @@ tv.apple.com
 .www.taco.idv.tw
 .www.tag-parts.com
 .www.tagesthemen.de
-.www.tagparts.com
 .www.tahsintour.com.tw
 .www.tainyi.idv.tw
 .www.taipeidaniel.idv.tw
@@ -23739,11 +22706,8 @@ tv.apple.com
 .www.taiwandrone.org
 .www.taiwanenews.com
 .www.taiwanhrj.org
-.www.taiwanpharma.org.tw
-.www.taiwanunalliance.org.tw
 .www.take-a-screenshot.org
 .www.take2hosting.com
-.www.takeascreenshot.org
 .www.takebackyourinternet.com
 .www.taki.com.tw
 .www.talgov.com
@@ -23751,7 +22715,6 @@ tv.apple.com
 .www.tameikegoro.jp
 .www.taolin.com.tw
 .www.tap-check.com
-.www.tapcheck.com
 .www.tarathenurse.com
 .www.tasc.com.tw
 .www.tawhed.ws
@@ -23783,7 +22746,6 @@ tv.apple.com
 .www.teoruiz.com
 .www.tesco.net
 .www.tex-corp.com
-.www.texcorp.com
 .www.tgcom24.it
 .www.thamestone.com
 .www.the-cloak.com
@@ -23795,7 +22757,6 @@ tv.apple.com
 .www.thebitcoinreview.com
 .www.theblackalley.com
 .www.thec.org.tw
-.www.thecloak.com
 .www.thedailymail.com
 .www.thedailytimes.com
 .www.thedoujin.com
@@ -23818,7 +22779,6 @@ tv.apple.com
 .www.thepillage.net
 .www.thequint.com
 .www.thesparklabs.com
-.www.thestar.co.ke
 .www.thestupidnetwork.fr
 .www.thetalkingturkey.com
 .www.thetarimnetwork.com
@@ -23849,10 +22809,8 @@ tv.apple.com
 .www.tibet.dk
 .www.tibet.or.kr
 .www.tibetaans-instituut.org
-.www.tibetaansinstituut.org
 .www.tibetanlife.com
 .www.tibetfest.org
-.www.tibetinfo.net
 .www.tibetnews101.com
 .www.tibetpolicy.net
 .www.tibetwatch.org
@@ -23896,7 +22854,6 @@ tv.apple.com
 .www.tockq.com
 .www.togelhoki8.com
 .www.toho-shoten.co.jp
-.www.tohoshoten.co.jp
 .www.tokvtom.xyz
 .www.tokyoteenies.com
 .www.tom365.co
@@ -23908,7 +22865,6 @@ tv.apple.com
 .www.top-proxies.co.uk
 .www.top.com
 .www.top10bestvpn.com
-.www.topproxies.co.uk
 .www.topproxies.org
 .www.topsy.com.hk
 .www.topuniversities.com
@@ -23922,7 +22878,6 @@ tv.apple.com
 .www.totalav.com
 .www.totallynsfw.com
 .www.tourism-lab.eu
-.www.tourismlab.eu
 .www.toutou18.com
 .www.toutou808.com
 .www.toutoulive.com
@@ -23933,11 +22888,9 @@ tv.apple.com
 .www.tpeman.com
 .www.tpimage.com
 .www.tpms-il.com
-.www.tpmsil.com
 .www.tps.moj.gov.tw
 .www.tpuser.idv.tw
 .www.tpw-tw.com
-.www.tpwtw.com
 .www.tqc.idv.tw
 .www.tqdc000.com
 .www.trademax.com.au
@@ -23955,7 +22908,6 @@ tv.apple.com
 .www.tripadvisor.co.uk
 .www.tripodadvisors.com
 .www.trips-edu.nl
-.www.tripsedu.nl
 .www.trtchinese.com
 .www.truebuddha.se
 .www.truthrevolt.org
@@ -24029,8 +22981,6 @@ tv.apple.com
 .www.ultrawebhosting.com
 .www.unblock-anything.com
 .www.unblock-proxy.net
-.www.unblockanything.com
-.www.unblockproxy.net
 .www.unblockthat.com
 .www.unblockvideos.com
 .www.uncensoredlibrary.com
@@ -24039,7 +22989,6 @@ tv.apple.com
 .www.uni-heidelberg.de
 .www.uni.lodz.pl
 .www.unification.org
-.www.uniheidelberg.de
 .www.unisef.org
 .www.upiasia.com
 .www.uploadedit.com
@@ -24062,8 +23011,6 @@ tv.apple.com
 .www.uu-gg.club
 .www.uu-gg.top
 .www.uu565.net
-.www.uugg.club
-.www.uugg.top
 .www.uuu711.net
 .www.uuworld.org
 .www.uyghurcultuurcentrum.com
@@ -24099,7 +23046,6 @@ tv.apple.com
 .www.vipf88.com
 .www.viptlc6088.com
 .www.virtual-browser.com
-.www.virtualbrowser.com
 .www.virtualworldland.com
 .www.visiontimes.com.au
 .www.visiontimes.de
@@ -24139,7 +23085,6 @@ tv.apple.com
 .www.vpndefender.com
 .www.vpndirect.com
 .www.vpnfan.net
-.www.vpnforchina.net
 .www.vpnforuk.com
 .www.vpngate.com
 .www.vpngeeks.com
@@ -24183,12 +23128,10 @@ tv.apple.com
 .www.wan368.com
 .www.wanbiwei.com
 .www.wangruowang.com
-.www.wanifra.org
 .www.wankspider.com
 .www.wanktube.com
 .www.wankworld.com
 .www.wankzvr.com
-.www.wanpress.org
 .www.wanweibaike.com
 .www.warrenchanphotography.com
 .www.washingtontimes.com
@@ -24228,7 +23171,6 @@ tv.apple.com
 .www.whatscap.com
 .www.wheresgeorge.com
 .www.white-jade.com
-.www.whitejade.com
 .www.whois365.com
 .www.wickedin.it
 .www.widex.com
@@ -24264,7 +23206,6 @@ tv.apple.com
 .www.workplace.com
 .www.world-sci.com
 .www.worldpoliticsreview.com
-.www.worldsci.com
 .www.worxgt2.com
 .www.wowgen.com
 .www.wowvpn.net
@@ -24286,7 +23227,6 @@ tv.apple.com
 .www.wsdc8855.com
 .www.wsdc998.com
 .www.wsj-asia.com
-.www.wsjasia.com
 .www.wsws.org
 .www.wtatsapp.com
 .www.wuji8.com
@@ -24302,6 +23242,7 @@ tv.apple.com
 .www.xab998.com
 .www.xam41.com
 .www.xam95.com
+.www.xart.com
 .www.xavduf.com
 .www.xb606.net
 .www.xbet.com
@@ -24356,8 +23297,6 @@ tv.apple.com
 .www.xm.co.uk
 .www.xn--jlqz7wnvax2ocxskuz.com
 .www.xn--octt84bmki.com
-.www.xnjlqz7wnvax2ocxskuz.com
-.www.xnoctt84bmki.com
 .www.xpj000888.com
 .www.xpj123123.com
 .www.xpu44.com
@@ -24410,8 +23349,6 @@ tv.apple.com
 .www.yc-tp.com
 .www.yc5015.com
 .www.yc5586.com
-.www.yctp.com
-.www.ycymro.com
 .www.yd1089.com
 .www.yd88m.com
 .www.yd88n.com
@@ -24449,7 +23386,6 @@ tv.apple.com
 .www.youngleak.com
 .www.youngmm.com
 .www.your-freedom.de
-.www.yourfreedom.de
 .www.yourube.com
 .www.yourworldreport.com
 .www.youss.org
@@ -24528,8 +23464,6 @@ tv.apple.com
 .www.ztlt.org
 .www.ztod.com
 .www.zukunft-moenchberg.de
-.www.zukunftmoenchberg.de
-.www.zunity.com.tw
 .www.zyff.org.cn
 .www.zyxel.com.tw
 .www.zz323.com
@@ -24539,40 +23473,22 @@ tv.apple.com
 .www1.downsx.com
 .www1.ifc.org
 .www1.ilmortodelmese.com
-.www19119.com
 .www2.yasegg.com
 .www2036.o0-5.com
-.www2036.o05.com
 .www3.nmtl.gov.tw
 .www3.panasonic.biz
-.www70202.com
-.www70911a.com
-.www70911d.com
-.www72388.cc
-.www7775678.com
-.www88810.com
-.www98198.tw
-.wwwaa678.com
-.wwwaa6789.com
-.wwwbb678.com
-.wwwbmc03.com
 .wwwc.moex.gov.tw
-.wwwc500.vip
-.wwwcpk06.com
 .wwwdaili.com
-.wwwdc1n1.sparklabs.com
 .wwwdns.work
 .wwwfh68.com
 .wwwhost.biz
 .wwwlh66.com
 .wwwqpby.com
-.wwwys688.com
 .wwx.idv.tw
 .wxbcm.com
 .wy.domain888.pw
 .wyd2.com.tw
 .wymann-fotografie.ch
-.wymannfotografie.ch
 .wynnware.com
 .wyt750.com
 .wz816.com
@@ -24624,14 +23540,11 @@ tv.apple.com
 .xam93.com
 .xamylc.org
 .xanga.com
-.xart.com
 .xartfan.com
-.xarthd.com
 .xb.dnsmail.xyz
 .xbabe.com
 .xbbxtv.com
 .xbef.com
-.xberry.com
 .xbet1996.com
 .xbo100.com
 .xbo333.com
@@ -24652,7 +23565,6 @@ tv.apple.com
 .xcritic.com
 .xcw1111.com
 .xda-developers.com
-.xdadevelopers.com
 .xeeno.com
 .xeerodev.com
 .xeper.org
@@ -24708,7 +23620,6 @@ tv.apple.com
 .xianba.net
 .xianchawang.net
 .xiang-ya.tw
-.xiangya.tw
 .xiangyangs1.xyz
 .xianjian.tw
 .xianqiao.net
@@ -24732,8 +23643,6 @@ tv.apple.com
 .xiaomi8.dele77.com
 .xiaomi8.dele88.com
 .xiaopv.com
-.xiaosheng.cf
-.xiaosheng.ml
 .xiaoshuomm.com
 .xiaowei11.com
 .xiaowei3.com
@@ -24761,7 +23670,6 @@ tv.apple.com
 .xinlingfamen.org
 .xinmiao.com.hk
 .xinmicredit.com
-.xinqimeng.overblog.com
 .xinshijue.com
 .xinweide.com
 .xinyubbs.net
@@ -24776,7 +23684,6 @@ tv.apple.com
 .xixicui.icu
 .xixitalk.top
 .xizang-zhiye.org
-.xizangzhiye.org
 .xizhutou.com
 .xj.domain888.pw
 .xj.freepac.pw
@@ -24823,7 +23730,6 @@ tv.apple.com
 .xmbus1.xyz
 .xmissy.nl
 .xml-training-guide.com
-.xmltrainingguide.com
 .xmovies.com
 .xmsina.com
 .xn--4gq171p.com
@@ -24840,23 +23746,10 @@ tv.apple.com
 .xn--rdt-0na.no
 .xn--rs8h.tk
 .xn--zck4aye2c2741a5qvo33a.com
-.xn4gq171p.com
-.xn9pr62r24a.com
-.xnczq75pvv1aj5c.org
-.xnfiq681d48s.org
-.xni2ru8q2qg.com
-.xnmgbtd2a1dpq.my
-.xnngstrlra8j.com
-.xnnoss43i.com
-.xnoiq.cc
-.xnp8j9a0d9c9a.xnq9jyb4c
-.xnrdt0na.no
-.xnrs8h.tk
 .xnxx-cdn.com
 .xnxx.blog.br
 .xnxx.com
 .xnxx.xxx
-.xnzck4aye2c2741a5qvo33a.com
 .xnzt666.com
 .xo104.com
 .xo77.com
@@ -24890,7 +23783,6 @@ tv.apple.com
 .xsoh.casa
 .xswqert56jki.point2this.com
 .xsz-av.com
-.xszav.com
 .xteko.com
 .xtube.com
 .xtve.5lxtv.com
@@ -24913,7 +23805,6 @@ tv.apple.com
 .xvdada.com
 .xvideo-jp.com
 .xvideo.cc
-.xvideojp.com
 .xvideos-cdn.com
 .xvideos.com
 .xvideos.com.br
@@ -24921,19 +23812,16 @@ tv.apple.com
 .xvideos.jp
 .xvideos.org
 .xvideos.tv
-.xvideoscdn.com
 .xvideoshd.net
 .xvidz.xyz
 .xvinlink.com
 .xvip.site
 .xvm-12-143.ghst.net
-.xvm12143.ghst.net
 .xvpn.io
 .xvxv9.com
 .xw188.com
 .xw66.cc
 .xwall.io
-.xwall.org
 .xx-book.com
 .xx-book.xyz
 .xx-map.com
@@ -24945,11 +23833,8 @@ tv.apple.com
 .xx3641.com
 .xx383.net
 .xxbbx.com
-.xxbook.com
-.xxbook.xyz
 .xxfoxh.com
 .xxlmovies.com
-.xxmap.com
 .xxmap.xyz
 .xxmap1.club
 .xxmap1.one
@@ -24964,7 +23849,6 @@ tv.apple.com
 .xxx.com
 .xxx.xxx
 .xxx516.net
-.xxxcomics.com
 .xxxdessert.com
 .xxxfk.com
 .xxxfuckmom.com
@@ -24981,7 +23865,6 @@ tv.apple.com
 .xy.domain888.pw
 .xys.org
 .xysblogs.org
-.xysolutions.com
 .xyv6.com
 .xyx5188.com
 .xyy69.com
@@ -25090,7 +23973,6 @@ tv.apple.com
 .ybhandle.sgapi00.com
 .ybloghandle.yitabangs.com
 .ybwt88.com
-.ychina.org
 .ycn.org
 .ycombinator.com
 .ycw9999.com
@@ -25115,7 +23997,6 @@ tv.apple.com
 .yesasia.com
 .yesasia.com.hk
 .yesav.net
-.yesnews.com
 .yespics.com
 .yesvpn.com
 .yewtu.be
@@ -25169,15 +24050,12 @@ tv.apple.com
 .yivarlden.com
 .yiyechat.com
 .yiyuanjy.w185-e0.ezwebtest.com
-.yiyuanjy.w185e0.ezwebtest.com
 .yizhihongxing.com
 .yizhihongxingss.com
 .yj1122.com
 .yk-tekoki1919.com
 .yk802.com
 .ykhwong.x-y.net
-.ykhwong.xy.net
-.yktekoki1919.com
 .yl.ejdj12.com
 .yl0108.com
 .yl0188.com
@@ -25220,11 +24098,9 @@ tv.apple.com
 .youdian.in
 .youdontcare.com
 .youfreeproxytube.com
-.youget.org
 .youiv.tv
 .youjizz-fuck.com
 .youjizz.com
-.youjizzfuck.com
 .youjizzlive.com
 .youlepoker.com
 .youmaker.com
@@ -25239,7 +24115,6 @@ tv.apple.com
 .your-world-at-penn.workplace.com
 .yourbittorrent.com
 .yourepeat.com
-.yourfreedom.net
 .yourlifemoments.ca
 .yourlisten.com
 .yourlust.com
@@ -25249,7 +24124,6 @@ tv.apple.com
 .yourstory.ro
 .yourtango.com
 .yourtrap.com
-.yourworldatpenn.workplace.com
 .yousekan.com
 .yousendit.com
 .youshun12.com
@@ -25303,7 +24177,6 @@ tv.apple.com
 .yuan.idv.tw
 .yuanzhengtang.org
 .yuanzone.no-ip.net
-.yuanzone.noip.net
 .yubew.com
 .yubico.com
 .yuebet100.com
@@ -25406,7 +24279,6 @@ tv.apple.com
 .zdnet.com
 .zdnet.com.tw
 .zds-agency.net
-.zdsagency.net
 .zdx.in
 .zebpay.com
 .zeena.eu
@@ -25440,13 +24312,11 @@ tv.apple.com
 .zgzcjj.net
 .zh.abna24.com
 .zh.b-ok.lat
-.zh.bok.lat
 .zh.cyaontheroad.com
 .zh.erocool.me
 .zh.flightaware.com
 .zh.foxtube.com
 .zh.hentai-image.com
-.zh.hentaiimage.com
 .zh.hotels.com
 .zh.islamway.net
 .zh.jinzhao.wiki
@@ -25463,11 +24333,8 @@ tv.apple.com
 .zh66.xp3.biz
 .zh6662.com
 .zh68.lima-city.de
-.zh68.limacity.de
 .zh888.lima-city.de
-.zh888.limacity.de
 .zh9.lima-city.de
-.zh9.limacity.de
 .zhanbin.net
 .zhangboli.net
 .zhangtianliang.com
@@ -25476,7 +24343,6 @@ tv.apple.com
 .zhaoav520.com
 .zhaoyang.at.tw
 .zhaoyang.byethost7.com
-.zhcn.enc.tfode.com
 .zhengdao.org
 .zhenghui.org
 .zhengjian.or.kr
@@ -25525,7 +24391,6 @@ tv.apple.com
 .zkgsxf.com
 .zkiz.com
 .zl66.me
-.zlib.org
 .zmw.cn
 .zneth.com
 .znetlive.com
@@ -25577,7 +24442,6 @@ tv.apple.com
 .zurama.ru
 .zvereff.com
 .zx-fly.com
-.zxfly.com
 .zyd.jygweb.org
 .zynaima.com
 .zynamics.com
