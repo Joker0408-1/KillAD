@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:55
+# UPDATED: 2022-01-22 02:10:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44738
+# DOMAIN: 44739
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 82908
+# DOMAIN-SUFFIX: 82930
 # IP-CIDR: 256
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 128291
+# TOTAL: 128314
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -33882,6 +33882,7 @@ service-sevenuao.org
 service-softbank.com
 service-tolefill.org
 service.a1aruba.com
+service.cmp.oath.com
 service.face2trade.com
 service.multi-pops.com
 service.youzu.com
@@ -45420,6 +45421,7 @@ zzzrtrcm2.com
 .1ctc.sfr.fr
 .1d1a.com
 .1d1px.net
+.1da19a918c.com
 .1dece427d89.com
 .1dmp.io
 .1drj.com
@@ -45777,6 +45779,7 @@ zzzrtrcm2.com
 .2dbd87c7a091b.com
 .2dpt.com
 .2e27bf1f09307aeb.com
+.2e552e6db0.com
 .2efj.up.coop
 .2f.com
 .2f0jlqc.cn
@@ -46782,6 +46785,7 @@ zzzrtrcm2.com
 .66wen.com
 .6711.com
 .6728812.com
+.6756240.com
 .6788787.com
 .6789.net
 .6789.run
@@ -47621,6 +47625,7 @@ zzzrtrcm2.com
 .9ehy8a8u6b.com
 .9f38cd012c83.com
 .9f3a91e76f.com
+.9f3b5a24d5.com
 .9fcbacf708f2.com
 .9fine.ru
 .9gg23.com
@@ -56032,7 +56037,6 @@ zzzrtrcm2.com
 .awrfds3.pornpapa.com
 .aws-ajax.com
 .aws-mail.net.zooplus.nl
-.aws.oath.cloud
 .awsatstb.com
 .awsclic.com
 .awsimiledarent.xyz
@@ -58339,6 +58343,7 @@ zzzrtrcm2.com
 .bjhjw.com.cn
 .bjhmdy.vip
 .bjhuhangjy.com
+.bjjabc.com
 .bjjdboai.cn
 .bjlmok.com
 .bjmantis.net
@@ -59859,6 +59864,7 @@ zzzrtrcm2.com
 .c.91wan.com
 .c.adbxb.cn
 .c.adxfactory.com
+.c.amazinglybrilliant.com.au
 .c.anytrx.com
 .c.ar.msn.com
 .c.at.msn.com
@@ -60865,6 +60871,7 @@ zzzrtrcm2.com
 .cdn.freejars.com
 .cdn.freejax.com
 .cdn.freelac.com
+.cdn.freshbots.ai
 .cdn.g5e.com
 .cdn.gimbal.tech
 .cdn.gladly.com
@@ -61007,6 +61014,7 @@ zzzrtrcm2.com
 .cdnstats-a.akamaihd.net
 .cdnstats.tube8.com
 .cdnstoremedia.com
+.cdnstr.com
 .cdntest.a8tiyu.com
 .cdntlz.cn
 .cdntrf.com
@@ -67215,6 +67223,7 @@ zzzrtrcm2.com
 .dichordkomati.cam
 .diclotrans.com
 .dicoah.com
+.dictationsuspendedpreface.com
 .dicularstors.top
 .did-it.com
 .did.ijinshan.com
@@ -74569,6 +74578,7 @@ zzzrtrcm2.com
 .garristo.com
 .gars57.cn
 .garss.tv
+.garysero.xyz
 .gas-sensing.spec-sensors.com
 .gasasthe.freehostia.com
 .gashot.yurivideos.com
@@ -75716,6 +75726,7 @@ zzzrtrcm2.com
 .go.electra-trade.co.il
 .go.emails.discoveryplus.com
 .go.emersonautomation.com
+.go.eu.sparkpostmail1.com
 .go.federalbank.co.in
 .go.foremostmedia.com
 .go.frost.com
@@ -79067,6 +79078,7 @@ zzzrtrcm2.com
 .hystericalcloth.com
 .hystericalfinger.com
 .hystericalhelp.com
+.hystericalpotprecede.com
 .hystq.com
 .hytcsh.cn
 .hytgj.com
@@ -82907,6 +82919,7 @@ zzzrtrcm2.com
 .judaisydfs.club
 .judantech.site
 .judgeauthority.com
+.judgeclaimsmaiden.com
 .judgementinvincible.com
 .judicated.com
 .judjetheminos.com
@@ -86425,6 +86438,7 @@ zzzrtrcm2.com
 .log.wilmaa.com
 .log.worldsoft-cms.info
 .log.wtlogin.qq.com
+.log.yapaytech.com
 .log.ycapp.yiche.com
 .log.yex.youdao.com
 .log.yougameover.com
@@ -96897,6 +96911,7 @@ zzzrtrcm2.com
 .outoctillerytor.com
 .outotheret.club
 .outovenmusths.com
+.outpacetochers.com
 .outreach.crossref.org
 .outreach.semaconnect.com
 .outreach.successforall.org
@@ -97485,6 +97500,7 @@ zzzrtrcm2.com
 .panther.tigil.rs
 .pantherads.com
 .pantherfaucetchoked.com
+.pantomimethat.com
 .panwenjun.top
 .panyh123456.cn
 .panypeditors.club
@@ -101105,6 +101121,7 @@ zzzrtrcm2.com
 .pushlommy.com
 .pushlum.com
 .pushly.com
+.pushmaster-cdn.xyz
 .pushmejs.com
 .pushmenews.com
 .pushmobilenews.com
@@ -101268,6 +101285,7 @@ zzzrtrcm2.com
 .pwjhg.com
 .pwjmzqx.cn
 .pwjwgrtznpl.com
+.pwkvdk.com
 .pwmpartner.carte-gr.total.fr
 .pwnz.org
 .pwptibeetbf.com
@@ -105291,6 +105309,7 @@ zzzrtrcm2.com
 .sanl.footlocker.se
 .sanl.ladyfootlocker.com
 .sanme2.lanzoui.com
+.sanmenxia.info
 .sanmet.originenergy.com.au
 .sanmiyangguang.com
 .santicalsse.club
@@ -105820,6 +105839,7 @@ zzzrtrcm2.com
 .sdata.avid.com
 .sdata.lifesize.com
 .sdata.wiley.com
+.sdawe.top
 .sdb.amazonaws.com
 .sdbjpmgbl.top
 .sdc.10086.cn
@@ -106554,7 +106574,6 @@ zzzrtrcm2.com
 .service.adtech.fr
 .service.adtech.us
 .service.charitiesaidfoundation.org.uk
-.service.cmp.oath.com
 .service.danmu.youku.com
 .service.frankwatching.com
 .service.kingoapp.com
@@ -107803,6 +107822,7 @@ zzzrtrcm2.com
 .smac-ssp.com
 .smaclick.com
 .smadex.com
+.smagod.com
 .smallbeginner.com
 .smallentpation.pro
 .smallmovieapp.com
@@ -112973,6 +112993,7 @@ zzzrtrcm2.com
 .sunrow.com
 .sunsekrious.com
 .sunsetdnsnow.com
+.sunsetencyclopaedia.com
 .sunspreadfamous.top
 .suntcontent.se
 .suntechauto.com.cn
@@ -115401,6 +115422,7 @@ zzzrtrcm2.com
 .tiglon.beyondco.de
 .tiglon.orisdental.no
 .tijorari.com
+.tikibihu.com
 .tikn.hwgs.info
 .tikodala.com
 .tikrailijorj.com
@@ -126674,6 +126696,7 @@ zzzrtrcm2.com
 .zbrfde.ozmall.co.jp
 .zbrushcn.com
 .zbsybh.cn
+.zbwnzb.cn
 .zbwowo.com
 .zbwp6ghm.com
 .zbxdvi.com

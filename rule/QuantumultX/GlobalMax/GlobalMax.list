@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:54
-# HOST-SUFFIX: 32616
+# UPDATED: 2022-01-22 02:10:56
+# HOST-SUFFIX: 32643
 # USER-AGENT: 78
 # HOST: 46
 # HOST-KEYWORD: 70
 # IP-CIDR: 1188
 # IP6-CIDR: 31
-# TOTAL: 34029
+# TOTAL: 34056
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -5120,6 +5120,7 @@ HOST-SUFFIX,bifa740.com,GlobalMax
 HOST-SUFFIX,bifa98.com,GlobalMax
 HOST-SUFFIX,big.one,GlobalMax
 HOST-SUFFIX,big2wt.com,GlobalMax
+HOST-SUFFIX,bigbeans.solutions,GlobalMax
 HOST-SUFFIX,bigbigchannel.com.hk,GlobalMax
 HOST-SUFFIX,bigbigshop.com,GlobalMax
 HOST-SUFFIX,bigbir.com,GlobalMax
@@ -5165,12 +5166,31 @@ HOST-SUFFIX,binads.com,GlobalMax
 HOST-SUFFIX,binance.cc,GlobalMax
 HOST-SUFFIX,binance.charity,GlobalMax
 HOST-SUFFIX,binance.cloud,GlobalMax
+HOST-SUFFIX,binance.co,GlobalMax
 HOST-SUFFIX,binance.com,GlobalMax
 HOST-SUFFIX,binance.im,GlobalMax
+HOST-SUFFIX,binance.info,GlobalMax
 HOST-SUFFIX,binance.me,GlobalMax
+HOST-SUFFIX,binance.net,GlobalMax
+HOST-SUFFIX,binance.org,GlobalMax
 HOST-SUFFIX,binance.us,GlobalMax
 HOST-SUFFIX,binance.vision,GlobalMax
+HOST-SUFFIX,binanceapi.com,GlobalMax
+HOST-SUFFIX,binancezh.be,GlobalMax
+HOST-SUFFIX,binancezh.biz,GlobalMax
+HOST-SUFFIX,binancezh.cc,GlobalMax
+HOST-SUFFIX,binancezh.co,GlobalMax
 HOST-SUFFIX,binancezh.com,GlobalMax
+HOST-SUFFIX,binancezh.info,GlobalMax
+HOST-SUFFIX,binancezh.ink,GlobalMax
+HOST-SUFFIX,binancezh.kim,GlobalMax
+HOST-SUFFIX,binancezh.link,GlobalMax
+HOST-SUFFIX,binancezh.live,GlobalMax
+HOST-SUFFIX,binancezh.mobi,GlobalMax
+HOST-SUFFIX,binancezh.net,GlobalMax
+HOST-SUFFIX,binancezh.pro,GlobalMax
+HOST-SUFFIX,binancezh.sh,GlobalMax
+HOST-SUFFIX,binancezh.top,GlobalMax
 HOST-SUFFIX,binary.com,GlobalMax
 HOST-SUFFIX,bind2.com,GlobalMax
 HOST-SUFFIX,bine.me,GlobalMax
@@ -6055,6 +6075,7 @@ HOST-SUFFIX,boyangu.com,GlobalMax
 HOST-SUFFIX,boyfriend.tv,GlobalMax
 HOST-SUFFIX,boyfriendtv.com,GlobalMax
 HOST-SUFFIX,boylove.cc,GlobalMax
+HOST-SUFFIX,boyloves.cc,GlobalMax
 HOST-SUFFIX,boysfood.com,GlobalMax
 HOST-SUFFIX,boysmaster.com,GlobalMax
 HOST-SUFFIX,boyxv.com,GlobalMax
@@ -9813,7 +9834,6 @@ HOST-SUFFIX,ec.7788.hk,GlobalMax
 HOST-SUFFIX,ecademy.com,GlobalMax
 HOST-SUFFIX,ecaipe.com.ar,GlobalMax
 HOST-SUFFIX,ecar.jlr-apps.com,GlobalMax
-HOST-SUFFIX,ecchi.iwara.tv,GlobalMax
 HOST-SUFFIX,ecfa.org.tw,GlobalMax
 HOST-SUFFIX,ecgapp.net,GlobalMax
 HOST-SUFFIX,echainhost.com,GlobalMax
@@ -11059,6 +11079,7 @@ HOST-SUFFIX,fookpan.com,GlobalMax
 HOST-SUFFIX,foolsmountain.com,GlobalMax
 HOST-SUFFIX,fooooo.com,GlobalMax
 HOST-SUFFIX,footensalle.be,GlobalMax
+HOST-SUFFIX,footseen.com,GlobalMax
 HOST-SUFFIX,footwiball.com,GlobalMax
 HOST-SUFFIX,for-some.biz,GlobalMax
 HOST-SUFFIX,fora.pl,GlobalMax
@@ -12196,6 +12217,7 @@ HOST-SUFFIX,girlbanker.com,GlobalMax
 HOST-SUFFIX,girlfriendvideos.com,GlobalMax
 HOST-SUFFIX,girlprops.com,GlobalMax
 HOST-SUFFIX,girlsgogames.com,GlobalMax
+HOST-SUFFIX,girlspoopingtube.com,GlobalMax
 HOST-SUFFIX,gisplanning.com,GlobalMax
 HOST-SUFFIX,git-scm.com,GlobalMax
 HOST-SUFFIX,git.io,GlobalMax
@@ -14845,6 +14867,7 @@ HOST-SUFFIX,ivyseeds.com,GlobalMax
 HOST-SUFFIX,iwancai.com,GlobalMax
 HOST-SUFFIX,iwank.tv,GlobalMax
 HOST-SUFFIX,iwantclips.com,GlobalMax
+HOST-SUFFIX,iwara.tv,GlobalMax
 HOST-SUFFIX,iwork.com,GlobalMax
 HOST-SUFFIX,iwork.wang,GlobalMax
 HOST-SUFFIX,iwowwe.com,GlobalMax
@@ -18958,6 +18981,7 @@ HOST-SUFFIX,nomadproject.io,GlobalMax
 HOST-SUFFIX,nomulus.foo,GlobalMax
 HOST-SUFFIX,non-fakenews.org,GlobalMax
 HOST-SUFFIX,nonesovile.com,GlobalMax
+HOST-SUFFIX,nonktube.com,GlobalMax
 HOST-SUFFIX,noodlevpn.com,GlobalMax
 HOST-SUFFIX,norados.com,GlobalMax
 HOST-SUFFIX,norbulingka.org,GlobalMax
@@ -24719,6 +24743,7 @@ HOST-SUFFIX,tubeon.com,GlobalMax
 HOST-SUFFIX,tubepleasure.com,GlobalMax
 HOST-SUFFIX,tuberb.com,GlobalMax
 HOST-SUFFIX,tuberl.com,GlobalMax
+HOST-SUFFIX,tubesafari.com,GlobalMax
 HOST-SUFFIX,tubestack.com,GlobalMax
 HOST-SUFFIX,tubestart.com,GlobalMax
 HOST-SUFFIX,tubeteen18.com,GlobalMax
@@ -24951,6 +24976,7 @@ HOST-SUFFIX,twitbridge.com,GlobalMax
 HOST-SUFFIX,twitbrowser.net,GlobalMax
 HOST-SUFFIX,twitcasting.tv,GlobalMax
 HOST-SUFFIX,twitcause.com,GlobalMax
+HOST-SUFFIX,twitch-ext.rootonline.de,GlobalMax
 HOST-SUFFIX,twitch.com,GlobalMax
 HOST-SUFFIX,twitch.tv,GlobalMax
 HOST-SUFFIX,twitchcdn.net,GlobalMax
@@ -26475,6 +26501,7 @@ HOST-SUFFIX,washingtontibet.org,GlobalMax
 HOST-SUFFIX,wataru.moe,GlobalMax
 HOST-SUFFIX,watch-ebay.org,GlobalMax
 HOST-SUFFIX,watch8x.com,GlobalMax
+HOST-SUFFIX,watchanimeattheoffice.com,GlobalMax
 HOST-SUFFIX,watchbabeshows.com,GlobalMax
 HOST-SUFFIX,watchdisneyfe.com,GlobalMax
 HOST-SUFFIX,watchespn.com,GlobalMax

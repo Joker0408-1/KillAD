@@ -1,16 +1,16 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:55
+# UPDATED: 2022-01-22 02:10:57
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 32616
+# DOMAIN-SUFFIX: 32643
 # USER-AGENT: 78
 # DOMAIN: 46
 # DOMAIN-KEYWORD: 70
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # URL-REGEX: 9
-# TOTAL: 34038
+# TOTAL: 34065
 amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
@@ -5122,6 +5122,7 @@ zeke.scea.com
 .bifa98.com
 .big.one
 .big2wt.com
+.bigbeans.solutions
 .bigbigchannel.com.hk
 .bigbigshop.com
 .bigbir.com
@@ -5167,12 +5168,31 @@ zeke.scea.com
 .binance.cc
 .binance.charity
 .binance.cloud
+.binance.co
 .binance.com
 .binance.im
+.binance.info
 .binance.me
+.binance.net
+.binance.org
 .binance.us
 .binance.vision
+.binanceapi.com
+.binancezh.be
+.binancezh.biz
+.binancezh.cc
+.binancezh.co
 .binancezh.com
+.binancezh.info
+.binancezh.ink
+.binancezh.kim
+.binancezh.link
+.binancezh.live
+.binancezh.mobi
+.binancezh.net
+.binancezh.pro
+.binancezh.sh
+.binancezh.top
 .binary.com
 .bind2.com
 .bine.me
@@ -6057,6 +6077,7 @@ zeke.scea.com
 .boyfriend.tv
 .boyfriendtv.com
 .boylove.cc
+.boyloves.cc
 .boysfood.com
 .boysmaster.com
 .boyxv.com
@@ -9815,7 +9836,6 @@ zeke.scea.com
 .ecademy.com
 .ecaipe.com.ar
 .ecar.jlr-apps.com
-.ecchi.iwara.tv
 .ecfa.org.tw
 .ecgapp.net
 .echainhost.com
@@ -11061,6 +11081,7 @@ zeke.scea.com
 .foolsmountain.com
 .fooooo.com
 .footensalle.be
+.footseen.com
 .footwiball.com
 .for-some.biz
 .fora.pl
@@ -12198,6 +12219,7 @@ zeke.scea.com
 .girlfriendvideos.com
 .girlprops.com
 .girlsgogames.com
+.girlspoopingtube.com
 .gisplanning.com
 .git-scm.com
 .git.io
@@ -14847,6 +14869,7 @@ zeke.scea.com
 .iwancai.com
 .iwank.tv
 .iwantclips.com
+.iwara.tv
 .iwork.com
 .iwork.wang
 .iwowwe.com
@@ -18960,6 +18983,7 @@ zeke.scea.com
 .nomulus.foo
 .non-fakenews.org
 .nonesovile.com
+.nonktube.com
 .noodlevpn.com
 .norados.com
 .norbulingka.org
@@ -24721,6 +24745,7 @@ zeke.scea.com
 .tubepleasure.com
 .tuberb.com
 .tuberl.com
+.tubesafari.com
 .tubestack.com
 .tubestart.com
 .tubeteen18.com
@@ -24953,6 +24978,7 @@ zeke.scea.com
 .twitbrowser.net
 .twitcasting.tv
 .twitcause.com
+.twitch-ext.rootonline.de
 .twitch.com
 .twitch.tv
 .twitchcdn.net
@@ -26477,6 +26503,7 @@ zeke.scea.com
 .wataru.moe
 .watch-ebay.org
 .watch8x.com
+.watchanimeattheoffice.com
 .watchbabeshows.com
 .watchdisneyfe.com
 .watchespn.com

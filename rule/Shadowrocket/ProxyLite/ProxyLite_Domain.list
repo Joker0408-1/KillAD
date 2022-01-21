@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:59
-# DOMAIN-SUFFIX: 31213
+# UPDATED: 2022-01-22 02:11:00
+# DOMAIN-SUFFIX: 31240
 # USER-AGENT: 10
 # DOMAIN: 16
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
-# TOTAL: 31353
+# TOTAL: 31380
 api-p.videomarket.jp
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
@@ -5030,6 +5030,7 @@ widgets.stripst.com
 .bifa98.com
 .big.one
 .big2wt.com
+.bigbeans.solutions
 .bigbigshop.com
 .bigbir.com
 .bigbird18.com
@@ -5071,11 +5072,32 @@ widgets.stripst.com
 .billzhu.com
 .bilyoner.com
 .binads.com
+.binance.cc
 .binance.charity
 .binance.cloud
+.binance.co
 .binance.com
+.binance.info
+.binance.me
+.binance.net
+.binance.org
 .binance.vision
+.binanceapi.com
+.binancezh.be
+.binancezh.biz
+.binancezh.cc
+.binancezh.co
 .binancezh.com
+.binancezh.info
+.binancezh.ink
+.binancezh.kim
+.binancezh.link
+.binancezh.live
+.binancezh.mobi
+.binancezh.net
+.binancezh.pro
+.binancezh.sh
+.binancezh.top
 .binary.com
 .bind2.com
 .bine.me
@@ -5749,6 +5771,7 @@ widgets.stripst.com
 .boyfriend.tv
 .boyfriendtv.com
 .boylove.cc
+.boyloves.cc
 .boysfood.com
 .boysmaster.com
 .boyxv.com
@@ -9276,7 +9299,6 @@ widgets.stripst.com
 .ecademy.com
 .ecaipe.com.ar
 .ecar.jlr-apps.com
-.ecchi.iwara.tv
 .ecfa.org.tw
 .ecgapp.net
 .echainhost.com
@@ -10500,6 +10522,7 @@ widgets.stripst.com
 .foolsmountain.com
 .fooooo.com
 .footensalle.be
+.footseen.com
 .footwiball.com
 .for-some.biz
 .fora.pl
@@ -11586,6 +11609,7 @@ widgets.stripst.com
 .girlfriendvideos.com
 .girlprops.com
 .girlsgogames.com
+.girlspoopingtube.com
 .gisplanning.com
 .git-scm.com
 .git.io
@@ -14022,6 +14046,7 @@ widgets.stripst.com
 .iwancai.com
 .iwank.tv
 .iwantclips.com
+.iwara.tv
 .iwork.com
 .iwork.wang
 .iwowwe.com
@@ -18011,6 +18036,7 @@ widgets.stripst.com
 .nomulus.foo
 .non-fakenews.org
 .nonesovile.com
+.nonktube.com
 .noodlevpn.com
 .norados.com
 .norbulingka.org
@@ -23505,6 +23531,7 @@ widgets.stripst.com
 .tubepleasure.com
 .tuberb.com
 .tuberl.com
+.tubesafari.com
 .tubestack.com
 .tubestart.com
 .tubeteen18.com
@@ -25141,6 +25168,7 @@ widgets.stripst.com
 .wataru.moe
 .watch-ebay.org
 .watch8x.com
+.watchanimeattheoffice.com
 .watchbabeshows.com
 .watchdisneyfe.com
 .watchespn.com
@@ -30853,7 +30881,6 @@ widgets.stripst.com
 .ysapp1.com
 .ysapp4.com
 .ysb88.com
-.yshyqxx.com
 .ysixdesign.com
 .ysku.in
 .ysmall.yitabangs.com

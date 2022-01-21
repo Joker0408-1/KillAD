@@ -1,13 +1,13 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:29
+# UPDATED: 2022-01-22 02:10:56
 # HOST: 43
 # USER-AGENT: 65
-# HOST-SUFFIX: 193
+# HOST-SUFFIX: 195
 # HOST-KEYWORD: 21
 # IP-CIDR: 863
-# TOTAL: 1185
+# TOTAL: 1187
 HOST,api.okzy.tv,GlobalMedia
 HOST,apm-misaka.biliapi.net,GlobalMedia
 HOST,apple.comscoreresearch.com,GlobalMedia
@@ -117,6 +117,7 @@ HOST-SUFFIX,edgedatg.com,GlobalMedia
 HOST-SUFFIX,emarsys.net,GlobalMedia
 HOST-SUFFIX,emome.net,GlobalMedia
 HOST-SUFFIX,encoretvb.com,GlobalMedia
+HOST-SUFFIX,ext-twitch.tv,GlobalMedia
 HOST-SUFFIX,fast.com,GlobalMedia
 HOST-SUFFIX,firebaseio.com,GlobalMedia
 HOST-SUFFIX,fox.com,GlobalMedia
@@ -232,6 +233,7 @@ HOST-SUFFIX,tiktokv.com,GlobalMedia
 HOST-SUFFIX,tv.apple.com,GlobalMedia
 HOST-SUFFIX,tvb.com,GlobalMedia
 HOST-SUFFIX,tver.jp,GlobalMedia
+HOST-SUFFIX,twitch-ext.rootonline.de,GlobalMedia
 HOST-SUFFIX,twitch.tv,GlobalMedia
 HOST-SUFFIX,twitchcdn.net,GlobalMedia
 HOST-SUFFIX,uplynk.com,GlobalMedia

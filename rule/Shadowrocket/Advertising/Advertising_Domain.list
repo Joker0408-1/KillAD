@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:58
+# UPDATED: 2022-01-22 02:10:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 45417
+# DOMAIN: 45419
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 72886
+# DOMAIN-SUFFIX: 72911
 # IP-CIDR: 256
 # URL-REGEX: 302
-# TOTAL: 118947
+# TOTAL: 118974
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -16565,6 +16565,7 @@ global-entropy.com
 global-gfx.com
 global-success-club.net
 global.18wifibank.com
+global.api.huangye.miui.com
 global.msmtrakk03a.com
 global200.com
 globalautoliners.com
@@ -18983,6 +18984,7 @@ huakaile88.com
 huangjintawujin.cn
 huangpai88.com
 huangxinran.com
+huangye.miui.com
 huanqiucaijing.cn
 huaqiangutv.com
 huaqiaomaicai.com
@@ -46053,6 +46055,7 @@ zzzrtrcm2.com
 .1ctc.sfr.fr
 .1d1a.com
 .1d1px.net
+.1da19a918c.com
 .1dece427d89.com
 .1dmp.io
 .1drj.com
@@ -46394,6 +46397,7 @@ zzzrtrcm2.com
 .2da6d8fae9.cc29bca73b.com
 .2dbd87c7a091b.com
 .2e27bf1f09307aeb.com
+.2e552e6db0.com
 .2efj.up.coop
 .2f.com
 .2f0jlqc.cn
@@ -47331,6 +47335,7 @@ zzzrtrcm2.com
 .66wen.com
 .6711.com
 .6728812.com
+.6756240.com
 .6788787.com
 .6789.net
 .678sky.com
@@ -48101,6 +48106,7 @@ zzzrtrcm2.com
 .9ehy8a8u6b.com
 .9f38cd012c83.com
 .9f3a91e76f.com
+.9f3b5a24d5.com
 .9fcbacf708f2.com
 .9fine.ru
 .9gg23.com
@@ -57570,6 +57576,7 @@ zzzrtrcm2.com
 .bjhjw.com.cn
 .bjhmdy.vip
 .bjhuhangjy.com
+.bjjabc.com
 .bjjdboai.cn
 .bjlmok.com
 .bjmantis.net
@@ -58951,6 +58958,7 @@ zzzrtrcm2.com
 .c.8l8l.com
 .c.91wan.com
 .c.adbxb.cn
+.c.amazinglybrilliant.com.au
 .c.anytrx.com
 .c.ar.msn.com
 .c.at.msn.com
@@ -65504,6 +65512,7 @@ zzzrtrcm2.com
 .dichordkomati.cam
 .diclotrans.com
 .dicoah.com
+.dictationsuspendedpreface.com
 .did-it.com
 .didchinosdub.cam
 .diddaisycuff.com
@@ -71358,6 +71367,7 @@ zzzrtrcm2.com
 .ftrp4.cn
 .fttwin.icu
 .ftv-publicite.fr
+.ftvqvv.cn
 .ftwjubad.com
 .ftysya.aboutyou.de
 .ftz.io
@@ -71946,6 +71956,7 @@ zzzrtrcm2.com
 .garristo.com
 .gars57.cn
 .garss.tv
+.garysero.xyz
 .gas.data.pplive.com
 .gasasthe.freehostia.com
 .gashot.yurivideos.com
@@ -72010,6 +72021,7 @@ zzzrtrcm2.com
 .gbjvangbtxlb.xyz
 .gbl007.com
 .gblcdn.com
+.gblvuim.cn
 .gblwebcen.com
 .gbotvisit.com
 .gbqofs.com
@@ -72955,6 +72967,7 @@ zzzrtrcm2.com
 .go.electra-trade.co.il
 .go.emails.discoveryplus.com
 .go.emersonautomation.com
+.go.eu.sparkpostmail1.com
 .go.fvtc.edu
 .go.getneighborly.com
 .go.getneighbourly.ca
@@ -75615,7 +75628,6 @@ zzzrtrcm2.com
 .huanbao110.com.cn
 .huanbaoxiangmu.xyz
 .huangdao.info
-.huangye.miui.com
 .huangyeqing.cn
 .huanqiucaizhi.com
 .huanrentv.cn
@@ -75935,6 +75947,7 @@ zzzrtrcm2.com
 .hystericalcloth.com
 .hystericalfinger.com
 .hystericalhelp.com
+.hystericalpotprecede.com
 .hystq.com
 .hytcsh.cn
 .hytgj.com
@@ -79331,6 +79344,7 @@ zzzrtrcm2.com
 .judaisydfs.club
 .judantech.site
 .judgeauthority.com
+.judgeclaimsmaiden.com
 .judgementinvincible.com
 .judicated.com
 .judjetheminos.com
@@ -82498,6 +82512,7 @@ zzzrtrcm2.com
 .log.weico.cc
 .log.wilmaa.com
 .log.worldsoft-cms.info
+.log.yapaytech.com
 .log.ycapp.yiche.com
 .log.yex.youdao.com
 .log.yougameover.com
@@ -87581,6 +87596,7 @@ zzzrtrcm2.com
 .mp-https.info
 .mp.5.p2l.info
 .mp.cheering3d.com
+.mp.huangye.miui.com
 .mp.subservis.com
 .mp3.haogeba.com
 .mp3bars.com
@@ -91421,6 +91437,7 @@ zzzrtrcm2.com
 .outlookabsorb.com
 .outoctillerytor.com
 .outovenmusths.com
+.outpacetochers.com
 .outreach.crossref.org
 .outreach.semaconnect.com
 .outrigger-a.outrigger.com
@@ -91926,6 +91943,7 @@ zzzrtrcm2.com
 .panruo.net.cn
 .panther.goguardian.com
 .pantherads.com
+.pantomimethat.com
 .panwenjun.top
 .panyh123456.cn
 .paochala.net
@@ -95187,6 +95205,7 @@ zzzrtrcm2.com
 .pushlommy.com
 .pushlum.com
 .pushly.com
+.pushmaster-cdn.xyz
 .pushmejs.com
 .pushmenews.com
 .pushmobilenews.com
@@ -95340,6 +95359,7 @@ zzzrtrcm2.com
 .pwjhg.com
 .pwjmzqx.cn
 .pwjwgrtznpl.com
+.pwkvdk.com
 .pwmpartner.carte-gr.total.fr
 .pwnz.org
 .pwptibeetbf.com
@@ -95904,6 +95924,7 @@ zzzrtrcm2.com
 .qtmojo.cn
 .qtmojo.com
 .qtpngov.cn
+.qtrwwov.cn
 .qttbfdygj.com
 .qttmjwno.com
 .qtymi.com
@@ -98909,6 +98930,7 @@ zzzrtrcm2.com
 .sanl.footlocker.pt
 .sanl.footlocker.se
 .sanme2.lanzoui.com
+.sanmenxia.info
 .sanmet.originenergy.com.au
 .sanmiyangguang.com
 .santonpardal.com
@@ -99359,6 +99381,7 @@ zzzrtrcm2.com
 .sdata.avid.com
 .sdata.lifesize.com
 .sdata.wiley.com
+.sdawe.top
 .sdb.amazonaws.com
 .sdbjpmgbl.top
 .sdc.10086.cn
@@ -101091,6 +101114,7 @@ zzzrtrcm2.com
 .smac-ssp.com
 .smaclick.com
 .smadex.com
+.smagod.com
 .smallbeginner.com
 .smallentpation.pro
 .smallmovieapp.com
@@ -105196,6 +105220,7 @@ zzzrtrcm2.com
 .sunrow.com
 .sunsekrious.com
 .sunsetdnsnow.com
+.sunsetencyclopaedia.com
 .suntcontent.se
 .suntechauto.com.cn
 .suntiz.com
@@ -107302,6 +107327,7 @@ zzzrtrcm2.com
 .tightslowingpredictable.com
 .tiglesoshi.pro
 .tijorari.com
+.tikibihu.com
 .tikn.hwgs.info
 .tikodala.com
 .tikrailijorj.com
@@ -117400,6 +117426,7 @@ zzzrtrcm2.com
 .zbqmsc.com
 .zbrushcn.com
 .zbsybh.cn
+.zbwnzb.cn
 .zbwowo.com
 .zbwp6ghm.com
 .zbxdvi.com

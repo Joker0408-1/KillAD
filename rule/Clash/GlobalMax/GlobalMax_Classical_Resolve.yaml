@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:58
-# DOMAIN-SUFFIX: 32616
+# UPDATED: 2022-01-22 02:10:59
+# DOMAIN-SUFFIX: 32643
 # DOMAIN: 46
 # DOMAIN-KEYWORD: 70
 # IP-CIDR: 1188
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34007
+# TOTAL: 34034
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
@@ -5121,6 +5121,7 @@ payload:
   - DOMAIN-SUFFIX,bifa98.com
   - DOMAIN-SUFFIX,big.one
   - DOMAIN-SUFFIX,big2wt.com
+  - DOMAIN-SUFFIX,bigbeans.solutions
   - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,bigbigshop.com
   - DOMAIN-SUFFIX,bigbir.com
@@ -5166,12 +5167,31 @@ payload:
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binance.co
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,binance.info
   - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.net
+  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,binance.us
   - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN-SUFFIX,binanceapi.com
+  - DOMAIN-SUFFIX,binancezh.be
+  - DOMAIN-SUFFIX,binancezh.biz
+  - DOMAIN-SUFFIX,binancezh.cc
+  - DOMAIN-SUFFIX,binancezh.co
   - DOMAIN-SUFFIX,binancezh.com
+  - DOMAIN-SUFFIX,binancezh.info
+  - DOMAIN-SUFFIX,binancezh.ink
+  - DOMAIN-SUFFIX,binancezh.kim
+  - DOMAIN-SUFFIX,binancezh.link
+  - DOMAIN-SUFFIX,binancezh.live
+  - DOMAIN-SUFFIX,binancezh.mobi
+  - DOMAIN-SUFFIX,binancezh.net
+  - DOMAIN-SUFFIX,binancezh.pro
+  - DOMAIN-SUFFIX,binancezh.sh
+  - DOMAIN-SUFFIX,binancezh.top
   - DOMAIN-SUFFIX,binary.com
   - DOMAIN-SUFFIX,bind2.com
   - DOMAIN-SUFFIX,bine.me
@@ -6056,6 +6076,7 @@ payload:
   - DOMAIN-SUFFIX,boyfriend.tv
   - DOMAIN-SUFFIX,boyfriendtv.com
   - DOMAIN-SUFFIX,boylove.cc
+  - DOMAIN-SUFFIX,boyloves.cc
   - DOMAIN-SUFFIX,boysfood.com
   - DOMAIN-SUFFIX,boysmaster.com
   - DOMAIN-SUFFIX,boyxv.com
@@ -9814,7 +9835,6 @@ payload:
   - DOMAIN-SUFFIX,ecademy.com
   - DOMAIN-SUFFIX,ecaipe.com.ar
   - DOMAIN-SUFFIX,ecar.jlr-apps.com
-  - DOMAIN-SUFFIX,ecchi.iwara.tv
   - DOMAIN-SUFFIX,ecfa.org.tw
   - DOMAIN-SUFFIX,ecgapp.net
   - DOMAIN-SUFFIX,echainhost.com
@@ -11060,6 +11080,7 @@ payload:
   - DOMAIN-SUFFIX,foolsmountain.com
   - DOMAIN-SUFFIX,fooooo.com
   - DOMAIN-SUFFIX,footensalle.be
+  - DOMAIN-SUFFIX,footseen.com
   - DOMAIN-SUFFIX,footwiball.com
   - DOMAIN-SUFFIX,for-some.biz
   - DOMAIN-SUFFIX,fora.pl
@@ -12197,6 +12218,7 @@ payload:
   - DOMAIN-SUFFIX,girlfriendvideos.com
   - DOMAIN-SUFFIX,girlprops.com
   - DOMAIN-SUFFIX,girlsgogames.com
+  - DOMAIN-SUFFIX,girlspoopingtube.com
   - DOMAIN-SUFFIX,gisplanning.com
   - DOMAIN-SUFFIX,git-scm.com
   - DOMAIN-SUFFIX,git.io
@@ -14846,6 +14868,7 @@ payload:
   - DOMAIN-SUFFIX,iwancai.com
   - DOMAIN-SUFFIX,iwank.tv
   - DOMAIN-SUFFIX,iwantclips.com
+  - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN-SUFFIX,iwork.com
   - DOMAIN-SUFFIX,iwork.wang
   - DOMAIN-SUFFIX,iwowwe.com
@@ -18959,6 +18982,7 @@ payload:
   - DOMAIN-SUFFIX,nomulus.foo
   - DOMAIN-SUFFIX,non-fakenews.org
   - DOMAIN-SUFFIX,nonesovile.com
+  - DOMAIN-SUFFIX,nonktube.com
   - DOMAIN-SUFFIX,noodlevpn.com
   - DOMAIN-SUFFIX,norados.com
   - DOMAIN-SUFFIX,norbulingka.org
@@ -24720,6 +24744,7 @@ payload:
   - DOMAIN-SUFFIX,tubepleasure.com
   - DOMAIN-SUFFIX,tuberb.com
   - DOMAIN-SUFFIX,tuberl.com
+  - DOMAIN-SUFFIX,tubesafari.com
   - DOMAIN-SUFFIX,tubestack.com
   - DOMAIN-SUFFIX,tubestart.com
   - DOMAIN-SUFFIX,tubeteen18.com
@@ -24952,6 +24977,7 @@ payload:
   - DOMAIN-SUFFIX,twitbrowser.net
   - DOMAIN-SUFFIX,twitcasting.tv
   - DOMAIN-SUFFIX,twitcause.com
+  - DOMAIN-SUFFIX,twitch-ext.rootonline.de
   - DOMAIN-SUFFIX,twitch.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
@@ -26476,6 +26502,7 @@ payload:
   - DOMAIN-SUFFIX,wataru.moe
   - DOMAIN-SUFFIX,watch-ebay.org
   - DOMAIN-SUFFIX,watch8x.com
+  - DOMAIN-SUFFIX,watchanimeattheoffice.com
   - DOMAIN-SUFFIX,watchbabeshows.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
   - DOMAIN-SUFFIX,watchespn.com

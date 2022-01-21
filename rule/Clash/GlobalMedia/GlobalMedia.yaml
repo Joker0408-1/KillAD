@@ -1,12 +1,12 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:37
+# UPDATED: 2022-01-22 02:10:59
 # DOMAIN: 43
-# DOMAIN-SUFFIX: 193
+# DOMAIN-SUFFIX: 195
 # DOMAIN-KEYWORD: 21
 # IP-CIDR: 863
-# TOTAL: 1120
+# TOTAL: 1122
 payload:
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
@@ -117,6 +117,7 @@ payload:
   - DOMAIN-SUFFIX,emarsys.net
   - DOMAIN-SUFFIX,emome.net
   - DOMAIN-SUFFIX,encoretvb.com
+  - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,fox.com
@@ -232,6 +233,7 @@ payload:
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tver.jp
+  - DOMAIN-SUFFIX,twitch-ext.rootonline.de
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,uplynk.com
