@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:56
-# HOST-SUFFIX: 32643
+# UPDATED: 2022-01-23 02:11:13
+# HOST-SUFFIX: 32649
 # USER-AGENT: 78
 # HOST: 46
 # HOST-KEYWORD: 70
 # IP-CIDR: 1188
 # IP6-CIDR: 31
-# TOTAL: 34056
+# TOTAL: 34062
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -3998,6 +3998,7 @@ HOST-SUFFIX,assitport.co.za,GlobalMax
 HOST-SUFFIX,assortednotions.com,GlobalMax
 HOST-SUFFIX,asstr.org,GlobalMax
 HOST-SUFFIX,assult.com,GlobalMax
+HOST-SUFFIX,assylum.com,GlobalMax
 HOST-SUFFIX,astrill.com,GlobalMax
 HOST-SUFFIX,astrill4u.com,GlobalMax
 HOST-SUFFIX,astrology-zodiac-signs.com,GlobalMax
@@ -14176,6 +14177,7 @@ HOST-SUFFIX,in05.icu,GlobalMax
 HOST-SUFFIX,in07.icu,GlobalMax
 HOST-SUFFIX,in99.org,GlobalMax
 HOST-SUFFIX,inamov.net,GlobalMax
+HOST-SUFFIX,inasian.club,GlobalMax
 HOST-SUFFIX,inbanban.com,GlobalMax
 HOST-SUFFIX,incapdns.net,GlobalMax
 HOST-SUFFIX,incapio.com,GlobalMax
@@ -15625,6 +15627,7 @@ HOST-SUFFIX,kodingen.com,GlobalMax
 HOST-SUFFIX,kodirectory.com,GlobalMax
 HOST-SUFFIX,komica2.net,GlobalMax
 HOST-SUFFIX,komicolle.org,GlobalMax
+HOST-SUFFIX,kompoz2.com,GlobalMax
 HOST-SUFFIX,kompozer.net,GlobalMax
 HOST-SUFFIX,konachan.com,GlobalMax
 HOST-SUFFIX,kone.com,GlobalMax
@@ -16036,6 +16039,7 @@ HOST-SUFFIX,let98.net,GlobalMax
 HOST-SUFFIX,letemps.ch,GlobalMax
 HOST-SUFFIX,lethean.io,GlobalMax
 HOST-SUFFIX,letitia.com,GlobalMax
+HOST-SUFFIX,letmejerk.com,GlobalMax
 HOST-SUFFIX,letou-bet.com,GlobalMax
 HOST-SUFFIX,letou.com,GlobalMax
 HOST-SUFFIX,letou.link,GlobalMax
@@ -21356,6 +21360,7 @@ HOST-SUFFIX,redditlist.com,GlobalMax
 HOST-SUFFIX,redditmail.com,GlobalMax
 HOST-SUFFIX,redditmedia.com,GlobalMax
 HOST-SUFFIX,redditstatic.com,GlobalMax
+HOST-SUFFIX,reddituploads.com,GlobalMax
 HOST-SUFFIX,redeemercast.net,GlobalMax
 HOST-SUFFIX,redgifs.com,GlobalMax
 HOST-SUFFIX,redgti.com.ar,GlobalMax
@@ -26509,6 +26514,7 @@ HOST-SUFFIX,watchinese.com,GlobalMax
 HOST-SUFFIX,watchmygf.net,GlobalMax
 HOST-SUFFIX,watchout.tw,GlobalMax
 HOST-SUFFIX,watchtowerdocuments.com,GlobalMax
+HOST-SUFFIX,water-and-power.com,GlobalMax
 HOST-SUFFIX,water.kinmen.gov.tw,GlobalMax
 HOST-SUFFIX,watter.cc,GlobalMax
 HOST-SUFFIX,wattpad.com,GlobalMax

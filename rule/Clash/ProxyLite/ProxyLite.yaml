@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:59
-# DOMAIN-SUFFIX: 31240
+# UPDATED: 2022-01-23 02:11:16
+# DOMAIN-SUFFIX: 31245
 # DOMAIN: 16
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 31373
+# TOTAL: 31378
 payload:
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,1e100

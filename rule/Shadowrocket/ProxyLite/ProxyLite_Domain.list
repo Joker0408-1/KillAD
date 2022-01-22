@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:11:00
-# DOMAIN-SUFFIX: 31240
+# UPDATED: 2022-01-23 02:11:17
+# DOMAIN-SUFFIX: 31245
 # USER-AGENT: 10
 # DOMAIN: 16
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
-# TOTAL: 31380
+# TOTAL: 31385
 api-p.videomarket.jp
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
@@ -3943,6 +3943,7 @@ widgets.stripst.com
 .assortednotions.com
 .asstr.org
 .assult.com
+.assylum.com
 .astrill.com
 .astrill4u.com
 .astrology-zodiac-signs.com
@@ -13499,6 +13500,7 @@ widgets.stripst.com
 .in99.org
 .inamov.net
 .inas520.i234.me
+.inasian.club
 .inbanban.com
 .incapdns.net
 .incapio.com
@@ -14866,6 +14868,7 @@ widgets.stripst.com
 .kodirectory.com
 .komica2.net
 .komicolle.org
+.kompoz2.com
 .kompozer.net
 .konachan.com
 .kone.com
@@ -15264,6 +15267,7 @@ widgets.stripst.com
 .letemps.ch
 .lethean.io
 .letitia.com
+.letmejerk.com
 .letou-bet.com
 .letou.com
 .letou.link
@@ -25178,6 +25182,7 @@ widgets.stripst.com
 .watchmygf.net
 .watchout.tw
 .watchtowerdocuments.com
+.water-and-power.com
 .water.kinmen.gov.tw
 .watermanfilms.weebly.com
 .watter.cc

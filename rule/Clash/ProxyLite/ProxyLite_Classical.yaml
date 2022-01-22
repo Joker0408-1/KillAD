@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:59
-# DOMAIN-SUFFIX: 31240
+# UPDATED: 2022-01-23 02:11:16
+# DOMAIN-SUFFIX: 31245
 # DOMAIN: 16
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 31373
+# TOTAL: 31378
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,blizzard.nefficient.co.kr
@@ -3944,6 +3944,7 @@ payload:
   - DOMAIN-SUFFIX,assortednotions.com
   - DOMAIN-SUFFIX,asstr.org
   - DOMAIN-SUFFIX,assult.com
+  - DOMAIN-SUFFIX,assylum.com
   - DOMAIN-SUFFIX,astrill.com
   - DOMAIN-SUFFIX,astrill4u.com
   - DOMAIN-SUFFIX,astrology-zodiac-signs.com
@@ -13500,6 +13501,7 @@ payload:
   - DOMAIN-SUFFIX,in99.org
   - DOMAIN-SUFFIX,inamov.net
   - DOMAIN-SUFFIX,inas520.i234.me
+  - DOMAIN-SUFFIX,inasian.club
   - DOMAIN-SUFFIX,inbanban.com
   - DOMAIN-SUFFIX,incapdns.net
   - DOMAIN-SUFFIX,incapio.com
@@ -14867,6 +14869,7 @@ payload:
   - DOMAIN-SUFFIX,kodirectory.com
   - DOMAIN-SUFFIX,komica2.net
   - DOMAIN-SUFFIX,komicolle.org
+  - DOMAIN-SUFFIX,kompoz2.com
   - DOMAIN-SUFFIX,kompozer.net
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,kone.com
@@ -15265,6 +15268,7 @@ payload:
   - DOMAIN-SUFFIX,letemps.ch
   - DOMAIN-SUFFIX,lethean.io
   - DOMAIN-SUFFIX,letitia.com
+  - DOMAIN-SUFFIX,letmejerk.com
   - DOMAIN-SUFFIX,letou-bet.com
   - DOMAIN-SUFFIX,letou.com
   - DOMAIN-SUFFIX,letou.link
@@ -25179,6 +25183,7 @@ payload:
   - DOMAIN-SUFFIX,watchmygf.net
   - DOMAIN-SUFFIX,watchout.tw
   - DOMAIN-SUFFIX,watchtowerdocuments.com
+  - DOMAIN-SUFFIX,water-and-power.com
   - DOMAIN-SUFFIX,water.kinmen.gov.tw
   - DOMAIN-SUFFIX,watermanfilms.weebly.com
   - DOMAIN-SUFFIX,watter.cc

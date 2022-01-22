@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:56
-# HOST-SUFFIX: 31240
+# UPDATED: 2022-01-23 02:11:12
+# HOST-SUFFIX: 31245
 # USER-AGENT: 10
 # HOST: 16
 # HOST-KEYWORD: 26
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 31383
+# TOTAL: 31388
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,blizzard.nefficient.co.kr,ProxyLite
 HOST,cdn77.scoreuniverse.com,ProxyLite
@@ -3944,6 +3944,7 @@ HOST-SUFFIX,associates-amazon.com,ProxyLite
 HOST-SUFFIX,assortednotions.com,ProxyLite
 HOST-SUFFIX,asstr.org,ProxyLite
 HOST-SUFFIX,assult.com,ProxyLite
+HOST-SUFFIX,assylum.com,ProxyLite
 HOST-SUFFIX,astrill.com,ProxyLite
 HOST-SUFFIX,astrill4u.com,ProxyLite
 HOST-SUFFIX,astrology-zodiac-signs.com,ProxyLite
@@ -13500,6 +13501,7 @@ HOST-SUFFIX,in07.icu,ProxyLite
 HOST-SUFFIX,in99.org,ProxyLite
 HOST-SUFFIX,inamov.net,ProxyLite
 HOST-SUFFIX,inas520.i234.me,ProxyLite
+HOST-SUFFIX,inasian.club,ProxyLite
 HOST-SUFFIX,inbanban.com,ProxyLite
 HOST-SUFFIX,incapdns.net,ProxyLite
 HOST-SUFFIX,incapio.com,ProxyLite
@@ -14867,6 +14869,7 @@ HOST-SUFFIX,kodingen.com,ProxyLite
 HOST-SUFFIX,kodirectory.com,ProxyLite
 HOST-SUFFIX,komica2.net,ProxyLite
 HOST-SUFFIX,komicolle.org,ProxyLite
+HOST-SUFFIX,kompoz2.com,ProxyLite
 HOST-SUFFIX,kompozer.net,ProxyLite
 HOST-SUFFIX,konachan.com,ProxyLite
 HOST-SUFFIX,kone.com,ProxyLite
@@ -15265,6 +15268,7 @@ HOST-SUFFIX,let98.net,ProxyLite
 HOST-SUFFIX,letemps.ch,ProxyLite
 HOST-SUFFIX,lethean.io,ProxyLite
 HOST-SUFFIX,letitia.com,ProxyLite
+HOST-SUFFIX,letmejerk.com,ProxyLite
 HOST-SUFFIX,letou-bet.com,ProxyLite
 HOST-SUFFIX,letou.com,ProxyLite
 HOST-SUFFIX,letou.link,ProxyLite
@@ -25179,6 +25183,7 @@ HOST-SUFFIX,watchmygf.com,ProxyLite
 HOST-SUFFIX,watchmygf.net,ProxyLite
 HOST-SUFFIX,watchout.tw,ProxyLite
 HOST-SUFFIX,watchtowerdocuments.com,ProxyLite
+HOST-SUFFIX,water-and-power.com,ProxyLite
 HOST-SUFFIX,water.kinmen.gov.tw,ProxyLite
 HOST-SUFFIX,watermanfilms.weebly.com,ProxyLite
 HOST-SUFFIX,watter.cc,ProxyLite

@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:59
-# DOMAIN-SUFFIX: 31240
+# UPDATED: 2022-01-23 02:11:16
+# DOMAIN-SUFFIX: 31245
 # DOMAIN: 16
 # DOMAIN-KEYWORD: 26
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 31373
+# TOTAL: 31378
 payload:
   - 'api-p.videomarket.jp'
   - 'blizzard.nefficient.co.kr'
@@ -3944,6 +3944,7 @@ payload:
   - '+.assortednotions.com'
   - '+.asstr.org'
   - '+.assult.com'
+  - '+.assylum.com'
   - '+.astrill.com'
   - '+.astrill4u.com'
   - '+.astrology-zodiac-signs.com'
@@ -13500,6 +13501,7 @@ payload:
   - '+.in99.org'
   - '+.inamov.net'
   - '+.inas520.i234.me'
+  - '+.inasian.club'
   - '+.inbanban.com'
   - '+.incapdns.net'
   - '+.incapio.com'
@@ -14867,6 +14869,7 @@ payload:
   - '+.kodirectory.com'
   - '+.komica2.net'
   - '+.komicolle.org'
+  - '+.kompoz2.com'
   - '+.kompozer.net'
   - '+.konachan.com'
   - '+.kone.com'
@@ -15265,6 +15268,7 @@ payload:
   - '+.letemps.ch'
   - '+.lethean.io'
   - '+.letitia.com'
+  - '+.letmejerk.com'
   - '+.letou-bet.com'
   - '+.letou.com'
   - '+.letou.link'
@@ -25179,6 +25183,7 @@ payload:
   - '+.watchmygf.net'
   - '+.watchout.tw'
   - '+.watchtowerdocuments.com'
+  - '+.water-and-power.com'
   - '+.water.kinmen.gov.tw'
   - '+.watermanfilms.weebly.com'
   - '+.watter.cc'

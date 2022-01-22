@@ -1,9 +1,9 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:55
+# UPDATED: 2022-01-23 02:11:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 32643
+# DOMAIN-SUFFIX: 32649
 # USER-AGENT: 78
 # DOMAIN: 46
 # DOMAIN-KEYWORD: 70
@@ -11,7 +11,7 @@
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # URL-REGEX: 9
-# TOTAL: 34121
+# TOTAL: 34127
 amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
@@ -4001,6 +4001,7 @@ zeke.scea.com
 .assortednotions.com
 .asstr.org
 .assult.com
+.assylum.com
 .astrill.com
 .astrill4u.com
 .astrology-zodiac-signs.com
@@ -14179,6 +14180,7 @@ zeke.scea.com
 .in07.icu
 .in99.org
 .inamov.net
+.inasian.club
 .inbanban.com
 .incapdns.net
 .incapio.com
@@ -15628,6 +15630,7 @@ zeke.scea.com
 .kodirectory.com
 .komica2.net
 .komicolle.org
+.kompoz2.com
 .kompozer.net
 .konachan.com
 .kone.com
@@ -16039,6 +16042,7 @@ zeke.scea.com
 .letemps.ch
 .lethean.io
 .letitia.com
+.letmejerk.com
 .letou-bet.com
 .letou.com
 .letou.link
@@ -21359,6 +21363,7 @@ zeke.scea.com
 .redditmail.com
 .redditmedia.com
 .redditstatic.com
+.reddituploads.com
 .redeemercast.net
 .redgifs.com
 .redgti.com.ar
@@ -26512,6 +26517,7 @@ zeke.scea.com
 .watchmygf.net
 .watchout.tw
 .watchtowerdocuments.com
+.water-and-power.com
 .water.kinmen.gov.tw
 .watter.cc
 .wattpad.com

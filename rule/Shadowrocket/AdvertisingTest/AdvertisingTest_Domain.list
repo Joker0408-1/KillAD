@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:11:00
+# UPDATED: 2022-01-23 02:11:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 44739
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 82930
+# DOMAIN-SUFFIX: 83001
 # IP-CIDR: 256
 # URL-REGEX: 302
-# TOTAL: 128313
+# TOTAL: 128384
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -45367,6 +45367,7 @@ zzzrtrcm2.com
 .188xiaoba.net
 .189key.com
 .189zj.cn
+.18a8f5a1c1.com
 .18av.mm-cg.co
 .18clicks.com
 .18dusun.com
@@ -46689,6 +46690,7 @@ zzzrtrcm2.com
 .60608787.com
 .6066bd8aab9d73e3.com
 .6068a17eed25.com
+.606d891745.com
 .606w.cn
 .6071.com
 .609623.com
@@ -48461,6 +48463,7 @@ zzzrtrcm2.com
 .aan.amazon.com
 .aanqylta.com
 .aanvlo.frenchconnection.com.au
+.aaoomqpaydap.com
 .aapsis.com
 .aaqiycetqwx.com
 .aardvark.helpingpets.org.uk
@@ -50404,6 +50407,7 @@ zzzrtrcm2.com
 .adjust.io
 .adjust.net.in
 .adjust.world
+.adjustmentmonarch.com
 .adjustnetwork.com
 .adjusts.info
 .adjwl.com
@@ -51017,6 +51021,7 @@ zzzrtrcm2.com
 .ads.5min.at
 .ads.73dpi.com
 .ads.7days.ae
+.ads.95516.com
 .ads.979799777.com
 .ads.a-snag-smartmoney.fyi
 .ads.aavv.com
@@ -55085,6 +55090,7 @@ zzzrtrcm2.com
 .archbushes.com
 .archhandlingperpetrate.com
 .archifaktura.hu
+.archipelagopuppy.com
 .archipelagowiped.com
 .architectwithdraw.com
 .archivendrons.xyz
@@ -57508,6 +57514,7 @@ zzzrtrcm2.com
 .bedrooming.club
 .bedsberry.com
 .bedsbreath.com
+.bedsideseller.com
 .bedspursueclueless.com
 .bee.andreawhitmer.com
 .bee.kascend.com
@@ -58800,6 +58807,7 @@ zzzrtrcm2.com
 .boilerstab.com
 .boilingbeetle.com
 .boilingcredit.com
+.boilingtruce.com
 .boilingumbrella.com
 .boilstaircasehug.com
 .boinkcash.com
@@ -59041,6 +59049,7 @@ zzzrtrcm2.com
 .bpe.mlb.com
 .bpe2.destinia.co.il
 .bpeml.mlb.com
+.bpesbkipynaf.xyz
 .bpioqb.com
 .bpkbqp.com
 .bplnskyetroo.xyz
@@ -60589,6 +60598,7 @@ zzzrtrcm2.com
 .caunuscoagel.com
 .caupdcloud.cn
 .causecherry.com
+.causerestrainrecorder.com
 .causlesscauslessswanmidday.com
 .causticpunctum.casa
 .caustouy.net
@@ -60852,7 +60862,6 @@ zzzrtrcm2.com
 .cdn.civicscience.com
 .cdn.clerk.io
 .cdn.clinch.co
-.cdn.cnbj1.fds.api.mi-img.com
 .cdn.comedia.coccoc.com
 .cdn.constafun.com
 .cdn.convertbox.com
@@ -62734,6 +62743,7 @@ zzzrtrcm2.com
 .cnbanbao.com
 .cnbole.net
 .cnco.me
+.cncsdn.cn
 .cncy8.com
 .cndaizi.com
 .cndeccsqtmjyh.com
@@ -64788,6 +64798,8 @@ zzzrtrcm2.com
 .cstoa.com
 .cstraffic.com
 .csv4.ebs-paris.fr
+.csvrufji.com
+.csvrufji.top
 .csxjys.com
 .csxsyp.cn
 .csxvsd.cn
@@ -65171,6 +65183,7 @@ zzzrtrcm2.com
 .czrcdq.com
 .czrkmjchnono.com
 .czshenyue.cn
+.czsmac.com
 .cztanchao.com
 .czvdlp.hgregoire.com
 .czx5eyk0exbhwp43ya.biz
@@ -65367,6 +65380,7 @@ zzzrtrcm2.com
 .d1ks8roequxbwa.cloudfront.net
 .d1l6p2sc9645hc.cloudfront.net
 .d1lm7kd3bd3yo9.cloudfront.net
+.d1lxhc4jvstzrp.cloudfront.net
 .d1m6l9dfulcyw7.cloudfront.net
 .d1mbgf0ge24riu.cloudfront.net
 .d1mbihpm2gncx7.cloudfront.net
@@ -66634,6 +66648,7 @@ zzzrtrcm2.com
 .deductionorderly.com
 .deecash.com
 .deechtebol.com
+.deecqem892bg5er.com
 .deedeedwinos.com
 .deefauph.com
 .deema.agency
@@ -67478,6 +67493,7 @@ zzzrtrcm2.com
 .disagreeablesmilingmagnet.com
 .disappearanceherbalsixpence.com
 .disappearanceinspiredscan.com
+.disappearancetickfilth.com
 .disappenedy.site
 .disapprovalaccusedirt.com
 .disapprovalhardwareenvy.com
@@ -73317,7 +73333,6 @@ zzzrtrcm2.com
 .fontent.streamp1ay.me
 .fontfewer.com
 .fontostudni.club
-.fontsctaticx.com
 .foo.cosmocode.de
 .foocheeb.net
 .food-offer.com
@@ -73581,6 +73596,7 @@ zzzrtrcm2.com
 .fqsbi.com
 .fqsecure.com
 .fqtag.com
+.fqtfkf.cn
 .fqtra.com
 .fqurmqe6agjyofb.ru
 .fqvvgjvjn.com
@@ -73808,7 +73824,6 @@ zzzrtrcm2.com
 .front99.com
 .frontier.musical.ly
 .frontierdough.com
-.frontstatics.com
 .fronttoad.com
 .frookshop-winsive.com
 .frosmo.com
@@ -73853,6 +73868,7 @@ zzzrtrcm2.com
 .fs0523.com
 .fsalfrwdr.com
 .fsd2.digital
+.fsdn.tech
 .fsdwd.xyz
 .fseed.ru
 .fsegfy.lepoint.fr
@@ -74356,6 +74372,7 @@ zzzrtrcm2.com
 .g9c7ofl.cn
 .g9o.cn
 .ga-beacon.appspot.com
+.ga-bq-py-1.appspot.com
 .ga.5.p2l.info
 .ga.canoe.ca
 .ga.giuem.com
@@ -74742,8 +74759,6 @@ zzzrtrcm2.com
 .gcpvkfe.cn
 .gcqdiydpfytvn.com
 .gcs1.cn
-.gctatic.com
-.gctatics.com
 .gctwh9xc.site
 .gcuter.ru
 .gcwubi.happypancake.fi
@@ -75161,6 +75176,7 @@ zzzrtrcm2.com
 .gf1352.com
 .gfcim5.gq
 .gfcowlrmdt.com
+.gfctkmnixrqygpm.com
 .gfd80.com
 .gfdfhdh5t5453.com
 .gfedch.carte-gr.total.fr
@@ -75429,6 +75445,7 @@ zzzrtrcm2.com
 .gkgojxjucutvnt.com
 .gkgygj.verivox.de
 .gkidgpdvpe.xyz
+.gkijlmbgf.xyz
 .gkirfipavwra.com
 .gkksi.com
 .gkopqp.coccodrillo.eu
@@ -76540,7 +76557,6 @@ zzzrtrcm2.com
 .gstat.myzaker.com
 .gstat.orange.fr
 .gstaticx.com
-.gstaticxs.com
 .gstats.cn
 .gstralpolita.info
 .gsupplyair.carte-gr.total.fr
@@ -77358,6 +77374,7 @@ zzzrtrcm2.com
 .hcbjwt.com
 .hccms.com.cn
 .hccwwz.cn
+.hcdz.site
 .hcenc.com
 .hcg82f2b.com
 .hchg89.cn
@@ -77872,6 +77889,7 @@ zzzrtrcm2.com
 .hiibcfr.cn
 .hiido.com
 .hijack.baidu.com
+.hikari.wiki
 .hikeheoratth.info
 .hikin.online
 .hikvar.ru
@@ -78846,6 +78864,7 @@ zzzrtrcm2.com
 .humbugplanning.com
 .humdrumhat.com
 .humidmentioned.com
+.humiliateirresistiblesore.com
 .huminfakt.ru
 .hummingbird.mavencoalition.io
 .humoek.com
@@ -78944,6 +78963,7 @@ zzzrtrcm2.com
 .hwebstaticsb.carte-gr.total.fr
 .hwertd.xyz
 .hweuoe.cyxus.com
+.hwgkaxhkjulyuyn.xyz
 .hwhiffonprotect.info
 .hwmwin.com
 .hwoqqv.namjacloset.com
@@ -80930,6 +80950,7 @@ zzzrtrcm2.com
 .instadia.net
 .instadrama.site
 .instaemail.net
+.instagram.astv.ru
 .instagramfollowbutton.com
 .instahookupclub2.com
 .instahookupclub3.com
@@ -81206,6 +81227,7 @@ zzzrtrcm2.com
 .ioahdio.com
 .ioam.de
 .ioc.mmakd.top
+.iocegdtpwmbg.top
 .iociley.com
 .iocnt.net
 .iodideeyebath.cam
@@ -82967,6 +82989,7 @@ zzzrtrcm2.com
 .jun01.oss-cn-beijing.aliyuncs.com
 .junbi-tracker.com
 .jundazulin.com
+.jundtapl.com
 .junfull.com
 .jungbey.xyz
 .jungloconding.info
@@ -83560,6 +83583,7 @@ zzzrtrcm2.com
 .kermit.macnn.com
 .kerriastiff.cam
 .kershop.ren
+.kertzmann.com
 .kerumal.com
 .keryt.jnservo.com
 .kesepsowy.pro
@@ -84011,6 +84035,7 @@ zzzrtrcm2.com
 .knivestuitionconsequence.com
 .knja123.top
 .knk95.cn
+.knkkpmtdesg.com
 .knkqjmjyxzev.info
 .knlob.com
 .knnwdyou.com
@@ -84456,6 +84481,7 @@ zzzrtrcm2.com
 .kypivukypi.ru
 .kypntcw.cn
 .kypzu.cn
+.kyqbifz.cn
 .kyqcfj.com
 .kyshygiwe.pro
 .kyson.kakao.com
@@ -84605,6 +84631,7 @@ zzzrtrcm2.com
 .ladytizer.org
 .ladyya.ru
 .ladyye.site
+.laf1ma3eban85ana.com
 .laferia.cr
 .lafontainedessenterue.cn
 .lagoonolivia.com
@@ -84834,6 +84861,7 @@ zzzrtrcm2.com
 .lawscagetroy.com
 .lawumi.cn
 .lawyers.rigbycooke.com.au
+.laxdevourmiddle.com
 .laydcilck.com
 .layer-ad.de
 .layer-ad.org
@@ -86083,6 +86111,7 @@ zzzrtrcm2.com
 .lm663.com
 .lm665.com
 .lm685.com
+.lm789456.com
 .lm832.com
 .lm865.com
 .lm881.com
@@ -91720,6 +91749,7 @@ zzzrtrcm2.com
 .mjpiqb.cn
 .mjrdficwuyy.top
 .mjs.csyymp4.com
+.mjsjmyend.top
 .mjsnvi.extraspace.com
 .mjsyqwpqnjbgua.com
 .mjtowot.cn
@@ -92806,6 +92836,7 @@ zzzrtrcm2.com
 .mtvp05j.com
 .mtwbedsl.biz
 .mtx.belfius.be
+.mtxs.xyz
 .mtxsk.com
 .mtyciy.solebox.com
 .mu722.com
@@ -95063,6 +95094,7 @@ zzzrtrcm2.com
 .nubao.lsdys.cn
 .nubseech.com
 .nuclearads.com
+.nuclearillano.casa
 .nuclearpurposely.com
 .nuclef.com
 .nucleo.ml
@@ -95919,6 +95951,7 @@ zzzrtrcm2.com
 .olentfarmost.com
 .olfrzo.webmotors.com.br
 .olgtex.com
+.olhkghhjxtomlq.xyz
 .olibenelading.xyz
 .olicyconsendsi.info
 .oligan.info
@@ -96183,6 +96216,7 @@ zzzrtrcm2.com
 .onclicktop.com
 .onclicktraffic.com
 .onclkds.com
+.oncomeannuals.com
 .onctus.com
 .oncustomer.asia
 .ondayswr.club
@@ -96916,6 +96950,7 @@ zzzrtrcm2.com
 .outreach.successforall.org
 .outreach.teex.info
 .outrigger-a.outrigger.com
+.outrodetops.com
 .outrushfetor.cam
 .outseeltor.com
 .outsimfat.site
@@ -97557,6 +97592,7 @@ zzzrtrcm2.com
 .parchlusciousepoch.com
 .parchmentwhale.com
 .parcle.io
+.parcrescentimportantly.com
 .parding.info
 .pardko.pricerunner.com
 .pardnergam.com
@@ -98083,6 +98119,7 @@ zzzrtrcm2.com
 .pepper.com
 .pepperjam.com
 .pepperjamnetwork.com
+.peppermintcoal.com
 .pepperstretching.com
 .peppy2lon1g1stalk.com
 .pepsgolfsintake.com
@@ -98980,6 +99017,7 @@ zzzrtrcm2.com
 .pla.wigglepixel.nl
 .placebubble.gimbal.com
 .placed.com
+.placedbookmen.com
 .placeiq.com
 .placelocal.com
 .placemypixel.com
@@ -99323,6 +99361,7 @@ zzzrtrcm2.com
 .pmxsvdb.pro
 .pmzer.com
 .pnads.com
+.pncloudfl.com
 .pnd.gs
 .pndagz.com
 .pndelfast.com
@@ -100732,6 +100771,7 @@ zzzrtrcm2.com
 .ptetchie.net
 .ptewarin.net
 .ptewauta.net
+.ptezyluny.com
 .ptgezc.com
 .ptgiweiu.com
 .pthejzb.com
@@ -100815,6 +100855,7 @@ zzzrtrcm2.com
 .pubaka5.com
 .pubbirdf.com
 .pubblicita.animeitaly.org
+.pubcloud.pub
 .pubdirecte.com
 .pubdream.com
 .pubexchange.com
@@ -101371,6 +101412,7 @@ zzzrtrcm2.com
 .pyxjwks.com
 .pyzjhd.com
 .pyzkk.com
+.pyzx.xyz
 .pz7zrn0xxgyg.com
 .pzdlfww.cn
 .pzhuzlwjiymfos.com
@@ -101777,6 +101819,7 @@ zzzrtrcm2.com
 .qmlcdlo.cn
 .qmlkji.carte-gr.total.fr
 .qmlzcm.petshop.ru
+.qmmmiyyxuceyt.xyz
 .qmname.com
 .qmnyjs7jd1jp.com
 .qmripebxljdey.com
@@ -102465,6 +102508,7 @@ zzzrtrcm2.com
 .rauntilperin.club
 .raupsica.net
 .raupsooy.net
+.rauwoafe.com
 .ravalads.com
 .ravaquinal.com
 .ravelin.click
@@ -102982,6 +103026,7 @@ zzzrtrcm2.com
 .refpakrtsb.top
 .refpakykgqyf.top
 .refpamjeql.top
+.refpanglbvyd.top
 .refparjhob.top
 .refpasrasw.world
 .refpaumckl.top
@@ -103953,6 +103998,7 @@ zzzrtrcm2.com
 .rng-snp-003.com
 .rng1812.top
 .rng1912.top
+.rngfavm.cn
 .rnigait.com
 .rnjouz.fnaim.fr
 .rnkasjneejw.xyz
@@ -105573,7 +105619,6 @@ zzzrtrcm2.com
 .scanmedios.com
 .scanscout.com
 .scanverify.com
-.scaraabresearch.com
 .scarabresearch.com
 .scarceagitationwry.com
 .scarcelysorrow.com
@@ -106302,6 +106347,7 @@ zzzrtrcm2.com
 .sehiba.com
 .sehoweve.fun
 .sehtjv.com
+.seinpounday.com
 .seisinhinger.com
 .seislational.club
 .seitenaufruf.com
@@ -106311,6 +106357,7 @@ zzzrtrcm2.com
 .seiya.work
 .seiyuu.ne.jp
 .seizedbraggingdeceptive.com
+.sekaneemits.com
 .sekeraly.com
 .sekindo.com
 .sekomums.lv
@@ -106370,6 +106417,7 @@ zzzrtrcm2.com
 .sematext.com
 .semblanceterrifiednoon.com
 .semi-cod.com
+.seminarlardeyelid.com
 .seminarpoorlyconceive.com
 .semiocast.com
 .semireproji.pro
@@ -107196,6 +107244,7 @@ zzzrtrcm2.com
 .shroughtened.com
 .shrtswkj.com
 .shrugartisticelder.com
+.shrugglefor.com
 .shsdw.cn
 .shshuoshu.com
 .shsistnovem.top
@@ -107715,6 +107764,7 @@ zzzrtrcm2.com
 .sleeper-sofa.dreamhoster.com
 .sleepwereexplanation.com
 .sleepyevacuate.com
+.sleepymosquenutrient.com
 .sleepzn.com
 .sleeveashame.com
 .slefle.tvoydom.ru
@@ -109702,6 +109752,7 @@ zzzrtrcm2.com
 .snormida.top
 .snortedbingo.com
 .snortedconsciencethaw.com
+.snouft.com
 .snow001.com
 .snowads.net
 .snowdayonline.xyz
@@ -110235,6 +110286,7 @@ zzzrtrcm2.com
 .sp.newarkadvocate.com
 .sp.news-press.com
 .sp.newsleader.com
+.sp.nintendolife.com
 .sp.northjersey.com
 .sp.pal-item.com
 .sp.pnj.com
@@ -110540,7 +110592,6 @@ zzzrtrcm2.com
 .sports-live-streams.club
 .sports-streams-online.best
 .sports-streams-online.com
-.sportsad.net
 .sportsbetaffiliates.com.au
 .sportsdream.top
 .sportssaint.net
@@ -112838,6 +112889,7 @@ zzzrtrcm2.com
 .submarinebarbecueemigrant.com
 .submarineundergonedebark.com
 .submissing.com
+.submissionhunk.com
 .submissionspurtgleamed.com
 .submitexpress.co.uk
 .submitnet.net
@@ -115507,6 +115559,7 @@ zzzrtrcm2.com
 .tiozao.net
 .tip-ads.de
 .tip.biquge.info
+.tipcatscarola.com
 .tipkeomoingay.club
 .tippcom01.tipp24.com
 .tippola.com
@@ -117620,6 +117673,7 @@ zzzrtrcm2.com
 .trikersuccessar.site
 .trikroacha.com
 .trilema.com
+.trillerseora.com
 .trilogyed.com
 .trimpur.com
 .trinityslantsummer.com
@@ -118106,6 +118160,8 @@ zzzrtrcm2.com
 .tundbjrjrqotjag.xyz
 .tune-up.site
 .tuniaf.com
+.tunihea.top
+.tunihta.top
 .tunihua.top
 .tunion-api.m.taobao.com
 .tunituttybanner.com
@@ -118554,6 +118610,7 @@ zzzrtrcm2.com
 .ud831d2.com
 .ud831d4.com
 .ud860ec5.com
+.ud860ec7.com
 .udarem.com
 .udbdf-v2.nimo.tv
 .udbvcevablxpk.com
@@ -119114,6 +119171,7 @@ zzzrtrcm2.com
 .unwillingcalumny.com
 .unwofulcountys.com
 .unwrittenspot.com
+.unyhllrctudfja.com
 .unyzea.aboutyou.sk
 .unzpc.com
 .uo.jstaogu.com
@@ -119343,6 +119401,7 @@ zzzrtrcm2.com
 .urthvisitoric.space
 .urtirepor.com
 .urtracker.q-sis.de
+.urtutb.cn
 .urubhfce.com
 .uruswan.com
 .urwb.ru
@@ -119665,6 +119724,7 @@ zzzrtrcm2.com
 .uyueread.com
 .uyunad.com
 .uz-analysis.akamaized.net
+.uz4cb.cn
 .uzcdnzta.com
 .uzd1.madeindesign.com
 .uzehen.com
@@ -119693,6 +119753,7 @@ zzzrtrcm2.com
 .v-support.free.bg
 .v-vlog.cn
 .v.76768hwj.cn
+.v.cdn4.life
 .v.center
 .v.ckpvz.space
 .v.cqpsf.cn
@@ -122678,6 +122739,7 @@ zzzrtrcm2.com
 .winvideo.xyz
 .wip3.adobe.com
 .wipe.de
+.wipedhypocrite.com
 .wipedstuffed.com
 .wipeneighbour.com
 .wipowaxe.com
@@ -123127,6 +123189,7 @@ zzzrtrcm2.com
 .wretchauraflirt.com
 .wretchedchapterdozen.com
 .wretchedsuperiority.com
+.wrfgenwgdfi.xyz
 .wrfiwa.ru
 .wrierville.com
 .wrinkads.com
@@ -123239,6 +123302,7 @@ zzzrtrcm2.com
 .wthbuh.icover.ru
 .wthnbwzk.com
 .wthykuvsntho.top
+.wtilhfyhcsmelk.top
 .wtk.db.com
 .wtlive.com
 .wtmtrack.com
@@ -124242,6 +124306,7 @@ zzzrtrcm2.com
 .xawsnngjljanxof.su
 .xaxaxa.ovh
 .xaxdwz.xyz
+.xaxeupvn.com
 .xaxis.com
 .xaxivaho.com
 .xaxo.xyz
@@ -125451,6 +125516,7 @@ zzzrtrcm2.com
 .ybytexer.xyz
 .ybzcmz.momoshop.com.tw
 .yc-ads.s3.amazonaws.com
+.ycbetnqpnjwptu.com
 .yccdn.com
 .ycembr.net-a-porter.com
 .yceml.net
@@ -125656,6 +125722,7 @@ zzzrtrcm2.com
 .ygudtbdnhkhlmkd.xyz
 .ygunaf.biz
 .yguuoibdsscki.com
+.ygyl.xyz
 .ygyzx.cn
 .ygzkedoxwhqlzp.com
 .yh21kk.com
@@ -126431,6 +126498,7 @@ zzzrtrcm2.com
 .yvhdcm.lashevan.com
 .yviletet.online
 .yvirandu.top
+.yviynhgxtyn.top
 .yvktmda.cn
 .yvmads.com
 .yvoria.com
@@ -126723,6 +126791,7 @@ zzzrtrcm2.com
 .zcpap.cn
 .zcpmenyq.com
 .zcpnq.cn
+.zcqgsnn.cn
 .zcrtd.com
 .zcsdbj.cn
 .zctibmvmbmev.com
@@ -127043,6 +127112,7 @@ zzzrtrcm2.com
 .zhpfl.cn
 .zhpxkl.cn
 .zhqqozqbk.com
+.zhswzxfw.com
 .zhtjdl.com
 .zhuahu.com
 .zhuanfakong.com
@@ -127514,6 +127584,7 @@ zzzrtrcm2.com
 .zvsuhljiha-a.akamaihd.net
 .zwaar.org
 .zwatgf.megaknihy.cz
+.zwdq.xyz
 .zwenhan.com
 .zwhkug.cn
 .zwkssb.com
