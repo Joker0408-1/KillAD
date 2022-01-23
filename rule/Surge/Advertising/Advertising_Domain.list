@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:21
+# UPDATED: 2022-01-24 02:09:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45420
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 73030
-# IP-CIDR: 256
+# DOMAIN-SUFFIX: 73046
+# IP-CIDR: 257
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 119095
+# TOTAL: 119112
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -46751,6 +46751,7 @@ zzzrtrcm2.com
 .3l4r8d61yz.com
 .3lga3.cn
 .3lift.com
+.3line.tech
 .3lr67y45.com
 .3lucosy.com
 .3mfm7jef91.ru
@@ -60371,6 +60372,7 @@ zzzrtrcm2.com
 .chengaib.net
 .chengboke.cn
 .chengdahdf.cn
+.chengduyiren.cn
 .chenggao.cn
 .chengjie168.com.cn
 .chengjunjie.top
@@ -60570,6 +60572,7 @@ zzzrtrcm2.com
 .chumanduo.com
 .chunfuxie.cn
 .chunkycactus.com
+.chuqiguan.co
 .churchasisou.site
 .churchatsouthcreek.com
 .churro.noteapps.info
@@ -62871,6 +62874,7 @@ zzzrtrcm2.com
 .cp.jz5u.net
 .cp.qbaobei.com
 .cp2.eastmoney.com
+.cp9.club
 .cpa-optimizer.online
 .cpabeyond.com
 .cpaclicks.com
@@ -69467,6 +69471,7 @@ zzzrtrcm2.com
 .exponential.com
 .exporder-patuility.com
 .export.voffka.com
+.exportspring.com
 .exposebox.com
 .exposuremixed.com
 .express-submit.de
@@ -75273,6 +75278,7 @@ zzzrtrcm2.com
 .holm.ru
 .holyyjs.xyz
 .homad-global-configs.schneevonmorgen.com
+.homchang.site
 .home-prize-winner-ma2d.live
 .home-soon.com
 .home.foni.net
@@ -75561,6 +75567,7 @@ zzzrtrcm2.com
 .hrbpay.com
 .hrcmzp.cn
 .hrjg.com.cn
+.hrjskj.top
 .hrnecek.com
 .hromasoma.com
 .hrsaeecwvkg.com
@@ -87319,6 +87326,7 @@ zzzrtrcm2.com
 .mobylog.jp
 .mobytrks.com
 .mobzver.ru
+.mocc.ltd
 .mocean.mobi
 .mochibot.com
 .mockingfish.com
@@ -90336,6 +90344,7 @@ zzzrtrcm2.com
 .octaviancontrast.com
 .octavius.rocks
 .octclck.xyz
+.octhkas.cn
 .octobird.com
 .octoclick.net
 .octomarket.com
@@ -96232,6 +96241,7 @@ zzzrtrcm2.com
 .qzwktr.nazology.net
 .qzxfnv.beams.co.jp
 .qzxmtyy.com
+.qzy123.ink
 .qzyfpfyy.com
 .qzyiming.cn
 .qzylyp.com
@@ -96595,6 +96605,7 @@ zzzrtrcm2.com
 .rdiul.com
 .rdlbkvo.cn
 .rdlrbm.studying.jp
+.rdms.xyz
 .rdowulajr.xyz
 .rdr.wargaming.net
 .rdrceting.com
@@ -101069,6 +101080,7 @@ zzzrtrcm2.com
 .skylink.vn
 .skylog.kz
 .skymedia.co.uk
+.skynetcdn.com
 .skynightmidm.com
 .skyplayer.tiscali.it
 .skypromotion.ru
@@ -101193,6 +101205,7 @@ zzzrtrcm2.com
 .sm1.todgo.com
 .sm2.todgo.com
 .sm3na.com
+.sm9t.ml
 .smaad.net
 .smaato.com
 .smaato.net
@@ -103366,6 +103379,7 @@ zzzrtrcm2.com
 .spywarelabs.com
 .spywords.com
 .spzqxefawfeubq.com
+.spzxgcw.com
 .sq.requestads.com
 .sq2trk2.com
 .sq7.co.uk
@@ -110215,6 +110229,7 @@ zzzrtrcm2.com
 .uczzd.com
 .uczzd.com.cn
 .uczzd.net
+.ud783c08.com
 .ud831d2.com
 .ud831d4.com
 .ud860ec5.com
@@ -110489,7 +110504,6 @@ zzzrtrcm2.com
 .un.xz6.com
 .un1.lawyernet.cn
 .un1.takefoto.cn
-.un1.wayoulegal.com
 .unableincludingrow.com
 .unablewisdom.com
 .unacceptableclevercapable.com
@@ -117279,6 +117293,7 @@ zzzrtrcm2.com
 .yunsennet.com
 .yunshipei.com
 .yunsoka.com
+.yunwanjia.wang
 .yunxiufang.net
 .yunxuu.com
 .yunzhanghe.cn
@@ -118286,6 +118301,7 @@ zzzrtrcm2.com
 .zuopp.com
 .zuoss.net
 .zuowen.hydcd.com
+.zuoyouyu.cn
 .zuphaims.com
 .zupsawhenu.com
 .zurgerya.ru

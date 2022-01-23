@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:23
+# UPDATED: 2022-01-24 02:09:33
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 44740
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 83049
-# IP-CIDR: 256
+# DOMAIN-SUFFIX: 83061
+# IP-CIDR: 257
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 128434
+# TOTAL: 128447
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -46156,6 +46156,7 @@ zzzrtrcm2.com
 .3l4r8d61yz.com
 .3lga3.cn
 .3lift.com
+.3line.tech
 .3lr67y45.com
 .3lucosy.com
 .3mfm7jef91.ru
@@ -61518,6 +61519,7 @@ zzzrtrcm2.com
 .chengaib.net
 .chengboke.cn
 .chengdahdf.cn
+.chengduyiren.cn
 .chenggao.cn
 .chengjie168.com.cn
 .chengjunjie.top
@@ -61741,6 +61743,7 @@ zzzrtrcm2.com
 .chumanduo.com
 .chunfuxie.cn
 .chunkycactus.com
+.chuqiguan.co
 .churchasisou.site
 .churchatsouthcreek.com
 .churro.noteapps.info
@@ -71763,6 +71766,7 @@ zzzrtrcm2.com
 .exponential.com
 .exporder-patuility.com
 .export.voffka.com
+.exportspring.com
 .exposebox.com
 .exposuremixed.com
 .expresentc.top
@@ -78662,6 +78666,7 @@ zzzrtrcm2.com
 .hrcmzp.cn
 .hriaaim06kts.com
 .hrjg.com.cn
+.hrjskj.top
 .hrnecek.com
 .hromasoma.com
 .hrsaeecwvkg.com
@@ -92193,6 +92198,7 @@ zzzrtrcm2.com
 .mobylog.jp
 .mobytrks.com
 .mobzver.ru
+.mocc.ltd
 .mocean.mobi
 .mochibot.com
 .mockingfish.com
@@ -95645,6 +95651,7 @@ zzzrtrcm2.com
 .octaviancontrast.com
 .octavius.rocks
 .octclck.xyz
+.octhkas.cn
 .octobird.com
 .octoclick.net
 .octomarket.com
@@ -107763,6 +107770,7 @@ zzzrtrcm2.com
 .skylink.vn
 .skylog.kz
 .skymedia.co.uk
+.skynetcdn.com
 .skynightmidm.com
 .skypicker-api.infinario.com
 .skyplayer.tiscali.it
@@ -107903,6 +107911,7 @@ zzzrtrcm2.com
 .sm1.todgo.com
 .sm2.todgo.com
 .sm3na.com
+.sm9t.ml
 .smaad.net
 .smaato-server.thinknearhub.com
 .smaato.com
@@ -110730,6 +110739,7 @@ zzzrtrcm2.com
 .spywarelabs.com
 .spywords.com
 .spzqxefawfeubq.com
+.spzxgcw.com
 .sq.requestads.com
 .sq2trk2.com
 .sq7.co.uk
@@ -118654,6 +118664,7 @@ zzzrtrcm2.com
 .uczzd.com
 .uczzd.com.cn
 .uczzd.net
+.ud783c08.com
 .ud831d2.com
 .ud831d4.com
 .ud860ec5.com
@@ -127611,6 +127622,7 @@ zzzrtrcm2.com
 .zuopp.com
 .zuoss.net
 .zuowen.hydcd.com
+.zuoyouyu.cn
 .zuphaims.com
 .zupsawhenu.com
 .zurgerya.ru
