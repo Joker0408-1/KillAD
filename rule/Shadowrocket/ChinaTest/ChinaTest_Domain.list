@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 02:11:17
-# DOMAIN-SUFFIX: 68443
+# UPDATED: 2022-01-23 17:40:26
+# DOMAIN-SUFFIX: 68445
 # USER-AGENT: 31
 # DOMAIN: 78
 # IP-CIDR: 10
 # DOMAIN-KEYWORD: 10
-# TOTAL: 68572
+# TOTAL: 68574
 265.com
 2mdn.net
 adservice.google.com
@@ -28882,6 +28882,7 @@ www4-static.gog-statics.com
 .hoperun.com
 .hopetrip.com.hk
 .hophingfood.com
+.hori-gz.com
 .hori3d.com
 .horion.com
 .horizon.ai
@@ -39203,6 +39204,7 @@ www4-static.gog-statics.com
 .lxf.me
 .lxi.me
 .lxin007.com
+.lxjapp.com
 .lxjep.com
 .lxjk999.com
 .lxlggo.com

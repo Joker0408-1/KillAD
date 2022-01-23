@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 02:11:12
+# UPDATED: 2022-01-23 17:40:22
 # USER-AGENT: 62
-# HOST-SUFFIX: 71815
+# HOST-SUFFIX: 71817
 # HOST: 53
 # IP-CIDR: 6184
 # HOST-KEYWORD: 14
 # IP6-CIDR: 5494
-# TOTAL: 83622
+# TOTAL: 83624
 HOST,265.com,ChinaMax
 HOST,c.android.clients.google.com,ChinaMax
 HOST,cache.pack.google.com,ChinaMax
@@ -30271,6 +30271,7 @@ HOST-SUFFIX,hopehook.com,ChinaMax
 HOST-SUFFIX,hoperun.com,ChinaMax
 HOST-SUFFIX,hopetrip.com.hk,ChinaMax
 HOST-SUFFIX,hophingfood.com,ChinaMax
+HOST-SUFFIX,hori-gz.com,ChinaMax
 HOST-SUFFIX,hori3d.com,ChinaMax
 HOST-SUFFIX,horion.com,ChinaMax
 HOST-SUFFIX,horizon.ai,ChinaMax
@@ -41078,6 +41079,7 @@ HOST-SUFFIX,lxdws.com,ChinaMax
 HOST-SUFFIX,lxf.me,ChinaMax
 HOST-SUFFIX,lxi.me,ChinaMax
 HOST-SUFFIX,lxin007.com,ChinaMax
+HOST-SUFFIX,lxjapp.com,ChinaMax
 HOST-SUFFIX,lxjep.com,ChinaMax
 HOST-SUFFIX,lxjk999.com,ChinaMax
 HOST-SUFFIX,lxlggo.com,ChinaMax

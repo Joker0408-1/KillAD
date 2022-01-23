@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 02:11:16
-# DOMAIN-SUFFIX: 71815
+# UPDATED: 2022-01-23 17:40:25
+# DOMAIN-SUFFIX: 71817
 # PROCESS-NAME: 5
 # DOMAIN: 53
 # IP-CIDR: 6184
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5494
-# TOTAL: 83565
+# TOTAL: 83567
 payload:
   - DOMAIN,265.com
   - DOMAIN,c.android.clients.google.com
@@ -30272,6 +30272,7 @@ payload:
   - DOMAIN-SUFFIX,hoperun.com
   - DOMAIN-SUFFIX,hopetrip.com.hk
   - DOMAIN-SUFFIX,hophingfood.com
+  - DOMAIN-SUFFIX,hori-gz.com
   - DOMAIN-SUFFIX,hori3d.com
   - DOMAIN-SUFFIX,horion.com
   - DOMAIN-SUFFIX,horizon.ai
@@ -41079,6 +41080,7 @@ payload:
   - DOMAIN-SUFFIX,lxf.me
   - DOMAIN-SUFFIX,lxi.me
   - DOMAIN-SUFFIX,lxin007.com
+  - DOMAIN-SUFFIX,lxjapp.com
   - DOMAIN-SUFFIX,lxjep.com
   - DOMAIN-SUFFIX,lxjk999.com
   - DOMAIN-SUFFIX,lxlggo.com

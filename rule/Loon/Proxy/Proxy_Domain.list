@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-20 15:02:55
-# DOMAIN-SUFFIX: 24593
+# UPDATED: 2022-01-23 17:40:23
+# DOMAIN-SUFFIX: 24592
 # USER-AGENT: 12
 # DOMAIN: 5
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 24730
+# TOTAL: 24729
 assets-priconne-redive-us.akamaized.net
 cvws.icloud-content.com
 developer.apple.com
@@ -5041,7 +5041,6 @@ voice.telephony.goog
 .cdig.info
 .cdjp.org
 .cdmr.rpz.su
-.cdn-apple.com
 .cdn-cvprhkn01m01.streaming.mediaservices.windows.net
 .cdn-cvprsg101m01.streaming.mediaservices.windows.net
 .cdn-hw.gog.com

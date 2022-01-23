@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 02:11:15
-# DOMAIN-SUFFIX: 68443
+# UPDATED: 2022-01-23 17:40:25
+# DOMAIN-SUFFIX: 68445
 # DOMAIN: 78
 # IP-CIDR: 10
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68545
+# TOTAL: 68547
 payload:
   - '265.com'
   - '2mdn.net'
@@ -28883,6 +28883,7 @@ payload:
   - '+.hoperun.com'
   - '+.hopetrip.com.hk'
   - '+.hophingfood.com'
+  - '+.hori-gz.com'
   - '+.hori3d.com'
   - '+.horion.com'
   - '+.horizon.ai'
@@ -39204,6 +39205,7 @@ payload:
   - '+.lxf.me'
   - '+.lxi.me'
   - '+.lxin007.com'
+  - '+.lxjapp.com'
   - '+.lxjep.com'
   - '+.lxjk999.com'
   - '+.lxlggo.com'
