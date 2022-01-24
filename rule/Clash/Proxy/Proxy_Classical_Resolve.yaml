@@ -1,14 +1,16 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:25
-# DOMAIN-SUFFIX: 24592
-# DOMAIN: 5
-# DOMAIN-KEYWORD: 29
-# IP-CIDR: 88
+# UPDATED: 2022-01-25 02:08:31
+# DOMAIN-SUFFIX: 24589
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 32
+# IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 24717
+# TOTAL: 24723
 payload:
+  - DOMAIN,api.waqi.info
+  - DOMAIN,aqi.aqicn.org
   - DOMAIN,assets-priconne-redive-us.akamaized.net
   - DOMAIN,cvws.icloud-content.com
   - DOMAIN,developer.apple.com
@@ -3346,6 +3348,7 @@ payload:
   - DOMAIN-SUFFIX,asia-gaming.com
   - DOMAIN-SUFFIX,asia-northeast1-saluton.cloudfunctions.net
   - DOMAIN-SUFFIX,asia.dnscepat.id
+  - DOMAIN-SUFFIX,asia.playstation.com
   - DOMAIN-SUFFIX,asiabet168.com
   - DOMAIN-SUFFIX,asiafrc.com
   - DOMAIN-SUFFIX,asiaharvest.org
@@ -4708,6 +4711,7 @@ payload:
   - DOMAIN-SUFFIX,byt707.com
   - DOMAIN-SUFFIX,byt909.com
   - DOMAIN-SUFFIX,byte.co
+  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytes.com
   - DOMAIN-SUFFIX,bytextv.com
   - DOMAIN-SUFFIX,byyzgtapp.com
@@ -7472,7 +7476,6 @@ payload:
   - DOMAIN-SUFFIX,fashionpulis.com
   - DOMAIN-SUFFIX,fassinating.com
   - DOMAIN-SUFFIX,fast-proxy.com.de
-  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,fastener.tw
   - DOMAIN-SUFFIX,fastest-proxy.com.de
   - DOMAIN-SUFFIX,fastestvpn.com
@@ -7603,7 +7606,6 @@ payload:
   - DOMAIN-SUFFIX,fibroblast.co.uk
   - DOMAIN-SUFFIX,fictionfanatic.ca
   - DOMAIN-SUFFIX,fiftythree.com
-  - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,figprayer.com
   - DOMAIN-SUFFIX,fijisun.com.fj
   - DOMAIN-SUFFIX,fikrifaizah.org
@@ -9750,6 +9752,8 @@ payload:
   - DOMAIN-SUFFIX,ibros.org
   - DOMAIN-SUFFIX,ibtimes.com
   - DOMAIN-SUFFIX,ibvpn.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,icahn.mssm.edu
   - DOMAIN-SUFFIX,icams.com
   - DOMAIN-SUFFIX,icanstay.com
@@ -9816,7 +9820,6 @@ payload:
   - DOMAIN-SUFFIX,ifeng2.com
   - DOMAIN-SUFFIX,ifex.org
   - DOMAIN-SUFFIX,ifishgo.com
-  - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,ifj.org
   - DOMAIN-SUFFIX,ifjc.org
   - DOMAIN-SUFFIX,ifmc.co
@@ -10063,6 +10066,7 @@ payload:
   - DOMAIN-SUFFIX,intrade.com
   - DOMAIN-SUFFIX,intralot.it
   - DOMAIN-SUFFIX,inversionesmatulic.cl
+  - DOMAIN-SUFFIX,investing.com
   - DOMAIN-SUFFIX,investusa-eb5.weebly.com
   - DOMAIN-SUFFIX,invidio.us
   - DOMAIN-SUFFIX,invidious.fdn.fr
@@ -10113,6 +10117,7 @@ payload:
   - DOMAIN-SUFFIX,ipredator.se
   - DOMAIN-SUFFIX,iproxysite.com
   - DOMAIN-SUFFIX,ipsnews.net
+  - DOMAIN-SUFFIX,ipstatp.com
   - DOMAIN-SUFFIX,ipsur.org
   - DOMAIN-SUFFIX,iptv.com.tw
   - DOMAIN-SUFFIX,iptvbin.com
@@ -11405,7 +11410,6 @@ payload:
   - DOMAIN-SUFFIX,lhasocialwork.org
   - DOMAIN-SUFFIX,lhfbet.com
   - DOMAIN-SUFFIX,lhfplay.com
-  - DOMAIN-SUFFIX,lhie1.com
   - DOMAIN-SUFFIX,li-hongzhi-master.org
   - DOMAIN-SUFFIX,li.t168.ml
   - DOMAIN-SUFFIX,liangchenyun.io
@@ -12672,7 +12676,6 @@ payload:
   - DOMAIN-SUFFIX,musescore.com
   - DOMAIN-SUFFIX,music.monstercat.com
   - DOMAIN-SUFFIX,musicade.net
-  - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,musictibet.com
   - DOMAIN-SUFFIX,muslimmatters.org
   - DOMAIN-SUFFIX,muslimvideo.com
@@ -14229,10 +14232,6 @@ payload:
   - DOMAIN-SUFFIX,playno1.com
   - DOMAIN-SUFFIX,playpcesor.com
   - DOMAIN-SUFFIX,plays.com.tw
-  - DOMAIN-SUFFIX,playstation.com
-  - DOMAIN-SUFFIX,playstation.com.hk
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,playtube.pk
   - DOMAIN-SUFFIX,playvid.com
   - DOMAIN-SUFFIX,playvpn.com
@@ -15240,6 +15239,7 @@ payload:
   - DOMAIN-SUFFIX,s.scss.pw
   - DOMAIN-SUFFIX,s.sh22.us
   - DOMAIN-SUFFIX,s.sne.jp
+  - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,s.vos.io
   - DOMAIN-SUFFIX,s.wxga.us
   - DOMAIN-SUFFIX,s.ymk.im
@@ -15641,6 +15641,7 @@ payload:
   - DOMAIN-SUFFIX,sg9097.com
   - DOMAIN-SUFFIX,sgforums.com
   - DOMAIN-SUFFIX,sgod.ga
+  - DOMAIN-SUFFIX,sgpstatp.com
   - DOMAIN-SUFFIX,sh223.cf
   - DOMAIN-SUFFIX,sha0001.com
   - DOMAIN-SUFFIX,shaaid.com
@@ -15971,6 +15972,7 @@ payload:
   - DOMAIN-SUFFIX,snowlionpub.com
   - DOMAIN-SUFFIX,snowpear.com
   - DOMAIN-SUFFIX,snowpick.co.il
+  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,so-net.net.tw
   - DOMAIN-SUFFIX,sobees.com
   - DOMAIN-SUFFIX,soc.mil
@@ -16035,9 +16037,6 @@ payload:
   - DOMAIN-SUFFIX,sonicbbs.cc
   - DOMAIN-SUFFIX,sonicresearch.com
   - DOMAIN-SUFFIX,sonidodelaesperanza.org
-  - DOMAIN-SUFFIX,sony.com
-  - DOMAIN-SUFFIX,sony.com.hk
-  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,soo.gd
   - DOMAIN-SUFFIX,soompi.com
   - DOMAIN-SUFFIX,soon.it
@@ -17179,9 +17178,7 @@ payload:
   - DOMAIN-SUFFIX,tigerdirect.com
   - DOMAIN-SUFFIX,tigerpvp.ga
   - DOMAIN-SUFFIX,tigervpn.com
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,timc.idv.tw
   - DOMAIN-SUFFIX,timdir.com
@@ -17777,6 +17774,7 @@ payload:
   - DOMAIN-SUFFIX,twurl.nl
   - DOMAIN-SUFFIX,twyac.org
   - DOMAIN-SUFFIX,twylah.com
+  - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,tx2600.net
   - DOMAIN-SUFFIX,tx69.net
   - DOMAIN-SUFFIX,tx8588.com
@@ -18965,6 +18963,7 @@ payload:
   - DOMAIN-SUFFIX,whatisscientology.org
   - DOMAIN-SUFFIX,whatsonweibo.com
   - DOMAIN-SUFFIX,wheatseeds.org
+  - DOMAIN-SUFFIX,wheel-size.cn
   - DOMAIN-SUFFIX,wheelockslatin.com
   - DOMAIN-SUFFIX,wheelpics.com
   - DOMAIN-SUFFIX,whereiswerner.com
@@ -24426,6 +24425,7 @@ payload:
   - DOMAIN-SUFFIX,zh.foxtube.com
   - DOMAIN-SUFFIX,zh.hentai-image.com
   - DOMAIN-SUFFIX,zh.hotels.com
+  - DOMAIN-SUFFIX,zh.ifixit.com
   - DOMAIN-SUFFIX,zh.islamway.net
   - DOMAIN-SUFFIX,zh.jinzhao.wiki
   - DOMAIN-SUFFIX,zh.mexgroup.com
@@ -24515,7 +24515,6 @@ payload:
   - DOMAIN-SUFFIX,zonghexinwen.net
   - DOMAIN-SUFFIX,zongse888.com
   - DOMAIN-SUFFIX,zoogvpn.com
-  - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zoosex.cc
   - DOMAIN-SUFFIX,zooshock.com
   - DOMAIN-SUFFIX,zootool.com
@@ -24622,6 +24621,7 @@ payload:
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,porn
@@ -24630,12 +24630,16 @@ payload:
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,tesla
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,tiktokv
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,youtube
   - IP-CIDR,1.201.0.0/24
+  - IP-CIDR,101.32.118.0/23
+  - IP-CIDR,101.32.96.0/20
   - IP-CIDR,103.2.28.0/22
   - IP-CIDR,103.246.56.0/22
   - IP-CIDR,103.27.148.0/22
@@ -24659,6 +24663,7 @@ payload:
   - IP-CIDR,125.6.149.0/24
   - IP-CIDR,125.6.190.0/24
   - IP-CIDR,129.134.0.0/17
+  - IP-CIDR,129.226.0.0/16
   - IP-CIDR,13.251.24.0/24
   - IP-CIDR,13.251.41.0/24
   - IP-CIDR,13.32.0.0/15
@@ -24684,6 +24689,7 @@ payload:
   - IP-CIDR,180.163.150.34/32
   - IP-CIDR,180.163.151.162/32
   - IP-CIDR,180.163.151.34/32
+  - IP-CIDR,183.128.0.0/11
   - IP-CIDR,184.173.128.0/17
   - IP-CIDR,185.60.216.0/22
   - IP-CIDR,203.104.103.0/24

@@ -1,14 +1,16 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:21
-# DOMAIN-SUFFIX: 24592
-# USER-AGENT: 12
-# DOMAIN: 5
-# DOMAIN-KEYWORD: 29
-# IP-CIDR: 88
+# UPDATED: 2022-01-25 02:08:27
+# DOMAIN-SUFFIX: 24589
+# USER-AGENT: 7
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 32
+# IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 24729
+# TOTAL: 24730
+api.waqi.info
+aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
 cvws.icloud-content.com
 developer.apple.com
@@ -3346,6 +3348,7 @@ voice.telephony.goog
 .asia-gaming.com
 .asia-northeast1-saluton.cloudfunctions.net
 .asia.dnscepat.id
+.asia.playstation.com
 .asiabet168.com
 .asiafrc.com
 .asiaharvest.org
@@ -4708,6 +4711,7 @@ voice.telephony.goog
 .byt707.com
 .byt909.com
 .byte.co
+.byteoversea.com
 .bytes.com
 .bytextv.com
 .byyzgtapp.com
@@ -7472,7 +7476,6 @@ voice.telephony.goog
 .fashionpulis.com
 .fassinating.com
 .fast-proxy.com.de
-.fast.com
 .fastener.tw
 .fastest-proxy.com.de
 .fastestvpn.com
@@ -7603,7 +7606,6 @@ voice.telephony.goog
 .fibroblast.co.uk
 .fictionfanatic.ca
 .fiftythree.com
-.figma.com
 .figprayer.com
 .fijisun.com.fj
 .fikrifaizah.org
@@ -9750,6 +9752,8 @@ voice.telephony.goog
 .ibros.org
 .ibtimes.com
 .ibvpn.com
+.ibytedtos.com
+.ibyteimg.com
 .icahn.mssm.edu
 .icams.com
 .icanstay.com
@@ -9816,7 +9820,6 @@ voice.telephony.goog
 .ifeng2.com
 .ifex.org
 .ifishgo.com
-.ifixit.com
 .ifj.org
 .ifjc.org
 .ifmc.co
@@ -10063,6 +10066,7 @@ voice.telephony.goog
 .intrade.com
 .intralot.it
 .inversionesmatulic.cl
+.investing.com
 .investusa-eb5.weebly.com
 .invidio.us
 .invidious.fdn.fr
@@ -10113,6 +10117,7 @@ voice.telephony.goog
 .ipredator.se
 .iproxysite.com
 .ipsnews.net
+.ipstatp.com
 .ipsur.org
 .iptv.com.tw
 .iptvbin.com
@@ -11405,7 +11410,6 @@ voice.telephony.goog
 .lhasocialwork.org
 .lhfbet.com
 .lhfplay.com
-.lhie1.com
 .li-hongzhi-master.org
 .li.t168.ml
 .liangchenyun.io
@@ -12672,7 +12676,6 @@ voice.telephony.goog
 .musescore.com
 .music.monstercat.com
 .musicade.net
-.musical.ly
 .musictibet.com
 .muslimmatters.org
 .muslimvideo.com
@@ -14229,10 +14232,6 @@ voice.telephony.goog
 .playno1.com
 .playpcesor.com
 .plays.com.tw
-.playstation.com
-.playstation.com.hk
-.playstation.net
-.playstationnetwork.com
 .playtube.pk
 .playvid.com
 .playvpn.com
@@ -15240,6 +15239,7 @@ voice.telephony.goog
 .s.scss.pw
 .s.sh22.us
 .s.sne.jp
+.s.team
 .s.vos.io
 .s.wxga.us
 .s.ymk.im
@@ -15641,6 +15641,7 @@ voice.telephony.goog
 .sg9097.com
 .sgforums.com
 .sgod.ga
+.sgpstatp.com
 .sh223.cf
 .sha0001.com
 .shaaid.com
@@ -15971,6 +15972,7 @@ voice.telephony.goog
 .snowlionpub.com
 .snowpear.com
 .snowpick.co.il
+.snssdk.com
 .so-net.net.tw
 .sobees.com
 .soc.mil
@@ -16035,9 +16037,6 @@ voice.telephony.goog
 .sonicbbs.cc
 .sonicresearch.com
 .sonidodelaesperanza.org
-.sony.com
-.sony.com.hk
-.sonyentertainmentnetwork.com
 .soo.gd
 .soompi.com
 .soon.it
@@ -17179,9 +17178,7 @@ voice.telephony.goog
 .tigerdirect.com
 .tigerpvp.ga
 .tigervpn.com
-.tiktok.com
-.tiktokcdn.com
-.tiktokv.com
+.tik-tokapi.com
 .tiltbrush.com
 .timc.idv.tw
 .timdir.com
@@ -17777,6 +17774,7 @@ voice.telephony.goog
 .twurl.nl
 .twyac.org
 .twylah.com
+.tx.me
 .tx2600.net
 .tx69.net
 .tx8588.com
@@ -18965,6 +18963,7 @@ voice.telephony.goog
 .whatisscientology.org
 .whatsonweibo.com
 .wheatseeds.org
+.wheel-size.cn
 .wheelockslatin.com
 .wheelpics.com
 .whereiswerner.com
@@ -24426,6 +24425,7 @@ voice.telephony.goog
 .zh.foxtube.com
 .zh.hentai-image.com
 .zh.hotels.com
+.zh.ifixit.com
 .zh.islamway.net
 .zh.jinzhao.wiki
 .zh.mexgroup.com
@@ -24515,7 +24515,6 @@ voice.telephony.goog
 .zonghexinwen.net
 .zongse888.com
 .zoogvpn.com
-.zoom.us
 .zoosex.cc
 .zooshock.com
 .zootool.com

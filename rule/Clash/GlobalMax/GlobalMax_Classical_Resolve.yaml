@@ -1,20 +1,22 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:26
-# DOMAIN-SUFFIX: 32648
-# DOMAIN: 46
-# DOMAIN-KEYWORD: 70
-# IP-CIDR: 1188
+# UPDATED: 2022-01-25 02:08:32
+# DOMAIN-SUFFIX: 32653
+# DOMAIN: 47
+# DOMAIN-KEYWORD: 71
+# IP-CIDR: 1194
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34039
+# TOTAL: 34052
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
   - DOMAIN,api.okzy.tv
+  - DOMAIN,api.waqi.info
   - DOMAIN,apicdn-p014.ribob01.net
   - DOMAIN,appleid.apple.com
+  - DOMAIN,aqi.aqicn.org
   - DOMAIN,artcdnsecure.ribob01.net
   - DOMAIN,beta.music.apple.com
   - DOMAIN,blizzard.nefficient.co.kr
@@ -49,7 +51,6 @@ payload:
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,radio.itunes.apple.com
   - DOMAIN,rpg.pic-imges.com
-  - DOMAIN,speed.dler.io
   - DOMAIN,static-resource.np.community.playstation.n
   - DOMAIN,testflight.apple.com
   - DOMAIN,uts-api.itunes.apple.com
@@ -2949,6 +2950,8 @@ payload:
   - DOMAIN-SUFFIX,airfrance.com.tw
   - DOMAIN-SUFFIX,airfrance.fr
   - DOMAIN-SUFFIX,airgonetworks.com
+  - DOMAIN-SUFFIX,airhorn.solutions
+  - DOMAIN-SUFFIX,airhornbot.com
   - DOMAIN-SUFFIX,airiti.com
   - DOMAIN-SUFFIX,airitilibrary.com
   - DOMAIN-SUFFIX,airmailmagazine.com
@@ -6498,6 +6501,7 @@ payload:
   - DOMAIN-SUFFIX,byt707.com
   - DOMAIN-SUFFIX,byt909.com
   - DOMAIN-SUFFIX,byte.co
+  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytes.com
   - DOMAIN-SUFFIX,bytextv.com
   - DOMAIN-SUFFIX,byyzgtapp.com
@@ -8207,6 +8211,7 @@ payload:
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,curanderahealing.com
   - DOMAIN-SUFFIX,curbed.com
+  - DOMAIN-SUFFIX,curiositystream.com
   - DOMAIN-SUFFIX,curlie.org
   - DOMAIN-SUFFIX,current.com
   - DOMAIN-SUFFIX,currently.com
@@ -8887,15 +8892,26 @@ payload:
   - DOMAIN-SUFFIX,disco-api.com
   - DOMAIN-SUFFIX,discoins.com
   - DOMAIN-SUFFIX,disconnect.me
+  - DOMAIN-SUFFIX,discord-activities.com
   - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.design
+  - DOMAIN-SUFFIX,discord.dev
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.gift
   - DOMAIN-SUFFIX,discord.gifts
   - DOMAIN-SUFFIX,discord.media
   - DOMAIN-SUFFIX,discord.new
+  - DOMAIN-SUFFIX,discord.store
+  - DOMAIN-SUFFIX,discord.tools
+  - DOMAIN-SUFFIX,discordactivities.com
   - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,discordmerch.com
+  - DOMAIN-SUFFIX,discordpartygames.com
+  - DOMAIN-SUFFIX,discordsays.com
   - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,discountbeatsbydre-us.com
   - DOMAIN-SUFFIX,discountbeatsstore.com
@@ -9844,6 +9860,7 @@ payload:
   - DOMAIN-SUFFIX,echosign.com
   - DOMAIN-SUFFIX,ecimg.tw
   - DOMAIN-SUFFIX,eckerd.com
+  - DOMAIN-SUFFIX,eclipse.org
   - DOMAIN-SUFFIX,ecministry.net
   - DOMAIN-SUFFIX,eco-visio.net
   - DOMAIN-SUFFIX,ecoinbroker.com
@@ -11961,6 +11978,7 @@ payload:
   - DOMAIN-SUFFIX,gci.xcegwjimj.com
   - DOMAIN-SUFFIX,gci.yabo808.com
   - DOMAIN-SUFFIX,gcih5.agingames.com
+  - DOMAIN-SUFFIX,gcld-line.com
   - DOMAIN-SUFFIX,gclooney.com
   - DOMAIN-SUFFIX,gclubs.com
   - DOMAIN-SUFFIX,gcmasia.com
@@ -12549,7 +12567,6 @@ payload:
   - DOMAIN-SUFFIX,groundskeeper.us
   - DOMAIN-SUFFIX,groupmax.hk
   - DOMAIN-SUFFIX,groups.com
-  - DOMAIN-SUFFIX,growthy-release-growthywebcollector-80.gcld-line.com
   - DOMAIN-SUFFIX,grrrgraphics.com
   - DOMAIN-SUFFIX,grss-ieee.org
   - DOMAIN-SUFFIX,grupobmw.com
@@ -13874,6 +13891,7 @@ payload:
   - DOMAIN-SUFFIX,ibros.org
   - DOMAIN-SUFFIX,ibtimes.com
   - DOMAIN-SUFFIX,ibvpn.com
+  - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,ic.ac.uk
   - DOMAIN-SUFFIX,icahn.mssm.edu
@@ -14545,6 +14563,7 @@ payload:
   - DOMAIN-SUFFIX,intralot.it
   - DOMAIN-SUFFIX,intunewiki.com
   - DOMAIN-SUFFIX,inversionesmatulic.cl
+  - DOMAIN-SUFFIX,investing.com
   - DOMAIN-SUFFIX,invidio.us
   - DOMAIN-SUFFIX,invidious.fdn.fr
   - DOMAIN-SUFFIX,invidious.snopyta.org
@@ -16114,7 +16133,6 @@ payload:
   - DOMAIN-SUFFIX,lhasocialwork.org
   - DOMAIN-SUFFIX,lhfbet.com
   - DOMAIN-SUFFIX,lhfplay.com
-  - DOMAIN-SUFFIX,lhie1.com
   - DOMAIN-SUFFIX,li-hongzhi-master.org
   - DOMAIN-SUFFIX,li.t168.ml
   - DOMAIN-SUFFIX,liangchenyun.io
@@ -16187,6 +16205,7 @@ payload:
   - DOMAIN-SUFFIX,lincolnisland.com
   - DOMAIN-SUFFIX,lindadevries.com
   - DOMAIN-SUFFIX,line-apps-beta.com
+  - DOMAIN-SUFFIX,line-apps-rc.com
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line-beta.me
   - DOMAIN-SUFFIX,line-cdn.net
@@ -16200,7 +16219,9 @@ payload:
   - DOMAIN-SUFFIX,linefriends.com.tw
   - DOMAIN-SUFFIX,linegame.jp
   - DOMAIN-SUFFIX,linemobile.com
+  - DOMAIN-SUFFIX,linemyshop.com
   - DOMAIN-SUFFIX,linepost.hk
+  - DOMAIN-SUFFIX,lineshoppingseller.com
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,linglingfa.com
   - DOMAIN-SUFFIX,linguee.com
@@ -18448,6 +18469,7 @@ payload:
   - DOMAIN-SUFFIX,neat-url.com
   - DOMAIN-SUFFIX,nebay.net
   - DOMAIN-SUFFIX,neborder.com
+  - DOMAIN-SUFFIX,nebula.app
   - DOMAIN-SUFFIX,nebulance.io
   - DOMAIN-SUFFIX,ned.org
   - DOMAIN-SUFFIX,needforspeed.com
@@ -18497,22 +18519,6 @@ payload:
   - DOMAIN-SUFFIX,netdna-cdn.com
   - DOMAIN-SUFFIX,netfirms.com
   - DOMAIN-SUFFIX,netflav.com
-  - DOMAIN-SUFFIX,netflix.ca
-  - DOMAIN-SUFFIX,netflix.com
-  - DOMAIN-SUFFIX,netflix.net
-  - DOMAIN-SUFFIX,netflixdnstest0.com
-  - DOMAIN-SUFFIX,netflixdnstest1.com
-  - DOMAIN-SUFFIX,netflixdnstest10.com
-  - DOMAIN-SUFFIX,netflixdnstest2.com
-  - DOMAIN-SUFFIX,netflixdnstest3.com
-  - DOMAIN-SUFFIX,netflixdnstest4.com
-  - DOMAIN-SUFFIX,netflixdnstest5.com
-  - DOMAIN-SUFFIX,netflixdnstest6.com
-  - DOMAIN-SUFFIX,netflixdnstest7.com
-  - DOMAIN-SUFFIX,netflixdnstest8.com
-  - DOMAIN-SUFFIX,netflixdnstest9.com
-  - DOMAIN-SUFFIX,netflixinvestor.com
-  - DOMAIN-SUFFIX,netflixtechblog.com
   - DOMAIN-SUFFIX,netlify.com
   - DOMAIN-SUFFIX,netmap.su
   - DOMAIN-SUFFIX,netmarble.com
@@ -20313,10 +20319,7 @@ payload:
   - DOMAIN-SUFFIX,plays.com.tw
   - DOMAIN-SUFFIX,playshow.io
   - DOMAIN-SUFFIX,playshowtv.com
-  - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.com.hk
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,playtube.pk
   - DOMAIN-SUFFIX,playvalorant.com
   - DOMAIN-SUFFIX,playvid.com
@@ -22787,7 +22790,6 @@ payload:
   - DOMAIN-SUFFIX,sony.co.nz
   - DOMAIN-SUFFIX,sony.co.th
   - DOMAIN-SUFFIX,sony.co.uk
-  - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,sony.com.ar
   - DOMAIN-SUFFIX,sony.com.au
   - DOMAIN-SUFFIX,sony.com.bo
@@ -22846,7 +22848,6 @@ payload:
   - DOMAIN-SUFFIX,sonyclassics.com
   - DOMAIN-SUFFIX,sonydesign.com
   - DOMAIN-SUFFIX,sonydna.com
-  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,sonyged.com.cn
   - DOMAIN-SUFFIX,sonyglobalsolutions.jp
   - DOMAIN-SUFFIX,sonykigyo.jp
@@ -22946,6 +22947,7 @@ payload:
   - DOMAIN-SUFFIX,special.miffyliye.org
   - DOMAIN-SUFFIX,specialtyheadphones.com
   - DOMAIN-SUFFIX,spectronlaser.com
+  - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-SUFFIX,speed.wyqn.net
   - DOMAIN-SUFFIX,speeddreamride.com
   - DOMAIN-SUFFIX,speedfantasybid.com
@@ -25101,6 +25103,7 @@ payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubint.net
   - DOMAIN-SUFFIX,ubisoft.com
+  - DOMAIN-SUFFIX,ubisoftconnect.com
   - DOMAIN-SUFFIX,ubktv.com
   - DOMAIN-SUFFIX,ubl.com
   - DOMAIN-SUFFIX,ublock.org
@@ -26512,6 +26515,7 @@ payload:
   - DOMAIN-SUFFIX,watchespn.com
   - DOMAIN-SUFFIX,watchinese.com
   - DOMAIN-SUFFIX,watchmygf.net
+  - DOMAIN-SUFFIX,watchnebula.com
   - DOMAIN-SUFFIX,watchout.tw
   - DOMAIN-SUFFIX,watchtowerdocuments.com
   - DOMAIN-SUFFIX,water-and-power.com
@@ -26756,6 +26760,7 @@ payload:
   - DOMAIN-SUFFIX,whatisworkspaceone.com
   - DOMAIN-SUFFIX,whatthefox.com
   - DOMAIN-SUFFIX,wheatseeds.org
+  - DOMAIN-SUFFIX,wheel-size.cn
   - DOMAIN-SUFFIX,wheel-soft.com
   - DOMAIN-SUFFIX,wheelockslatin.com
   - DOMAIN-SUFFIX,wheelpics.com
@@ -32653,6 +32658,7 @@ payload:
   - DOMAIN-SUFFIX,zynamics.com
   - DOMAIN-SUFFIX,zynews.com
   - DOMAIN-SUFFIX,zyns.com
+  - DOMAIN-SUFFIX,zype.com
   - DOMAIN-SUFFIX,zyxel.com
   - DOMAIN-SUFFIX,zyzc9.com
   - DOMAIN-SUFFIX,zyzg.us
@@ -32742,6 +32748,7 @@ payload:
   - DOMAIN-KEYWORD,jav
   - DOMAIN-KEYWORD,jooxweb-api
   - DOMAIN-KEYWORD,musical.ly
+  - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nflx
   - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,nowtv100
@@ -32780,6 +32787,8 @@ payload:
   - IP-CIDR,101.100.179.242/32
   - IP-CIDR,101.100.179.250/32
   - IP-CIDR,101.101.160.0/20
+  - IP-CIDR,101.32.118.0/23
+  - IP-CIDR,101.32.96.0/20
   - IP-CIDR,103.102.166.0/24
   - IP-CIDR,103.2.28.0/22
   - IP-CIDR,103.21.244.0/22
@@ -32789,6 +32798,7 @@ payload:
   - IP-CIDR,103.27.148.0/22
   - IP-CIDR,103.31.4.0/22
   - IP-CIDR,103.4.96.0/22
+  - IP-CIDR,103.44.56.0/22
   - IP-CIDR,103.53.48.0/23
   - IP-CIDR,103.59.49.10/32
   - IP-CIDR,103.6.172.0/24
@@ -32883,6 +32893,7 @@ payload:
   - IP-CIDR,128.1.87.196/32
   - IP-CIDR,128.14.208.0/24
   - IP-CIDR,129.134.0.0/17
+  - IP-CIDR,129.226.0.0/16
   - IP-CIDR,129.227.115.130/32
   - IP-CIDR,129.227.156.17/32
   - IP-CIDR,129.227.156.20/32
@@ -33466,6 +33477,8 @@ payload:
   - IP-CIDR,23.246.0.0/18
   - IP-CIDR,23.248.191.103/32
   - IP-CIDR,23.248.191.105/32
+  - IP-CIDR,23.40.241.251/32
+  - IP-CIDR,23.40.242.10/32
   - IP-CIDR,23.78.0.0/16
   - IP-CIDR,23.98.43.152/32
   - IP-CIDR,24.101.22.50/32

@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-24 02:09:34
+# UPDATED: 2022-01-25 02:08:30
 # DOMAIN: 45420
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 73046
+# DOMAIN-SUFFIX: 73048
 # IP-CIDR: 257
 # IP-CIDR6: 1
-# TOTAL: 118810
+# TOTAL: 118812
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -79780,6 +79780,7 @@ payload:
   - DOMAIN-SUFFIX,kan8.xyz
   - DOMAIN-SUFFIX,kanfaxing.com
   - DOMAIN-SUFFIX,kang08.com
+  - DOMAIN-SUFFIX,kangaroobro.com
   - DOMAIN-SUFFIX,kangerlu.com
   - DOMAIN-SUFFIX,kanghuaixin.cn
   - DOMAIN-SUFFIX,kanglaijd.cn
@@ -109884,6 +109885,7 @@ payload:
   - DOMAIN-SUFFIX,tuwuzaci.xyz
   - DOMAIN-SUFFIX,tuxbpnne.com
   - DOMAIN-SUFFIX,tuxi.com.cn
+  - DOMAIN-SUFFIX,tuyihea.top
   - DOMAIN-SUFFIX,tuzufsi.cn
   - DOMAIN-SUFFIX,tv-best.net
   - DOMAIN-SUFFIX,tv1s4d6klh4n.com

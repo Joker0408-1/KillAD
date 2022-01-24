@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:25
-# DOMAIN-SUFFIX: 563
+# UPDATED: 2022-01-25 02:08:31
+# DOMAIN-SUFFIX: 560
 # DOMAIN: 6
-# IP-CIDR: 10
+# IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 593
+# TOTAL: 586
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,client.amplifi.com
@@ -96,7 +96,6 @@ payload:
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,bitauto.com
   - DOMAIN-SUFFIX,bjango.com
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,bmj.com
@@ -104,8 +103,6 @@ payload:
   - DOMAIN-SUFFIX,booking.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,bstatic.com
-  - DOMAIN-SUFFIX,bthhotels.com
-  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,cailianpress.com
   - DOMAIN-SUFFIX,caiyunapp.com
   - DOMAIN-SUFFIX,cambridge.org
@@ -182,7 +179,6 @@ payload:
   - DOMAIN-SUFFIX,ebscohost.com
   - DOMAIN-SUFFIX,ecitic.com
   - DOMAIN-SUFFIX,ecitic.net
-  - DOMAIN-SUFFIX,eclipse.org
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,emerald.com
@@ -196,6 +192,7 @@ payload:
   - DOMAIN-SUFFIX,fir.im
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,fjhps.com
+  - DOMAIN-SUFFIX,ford.com
   - DOMAIN-SUFFIX,frdic.com
   - DOMAIN-SUFFIX,fresh-ideas.cc
   - DOMAIN-SUFFIX,futu5.com
@@ -232,9 +229,7 @@ payload:
   - DOMAIN-SUFFIX,huxiucdn.com
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,hxcdn.net
-  - DOMAIN-SUFFIX,ibeta.me
   - DOMAIN-SUFFIX,ibm.com
-  - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,icbc.com.cn
   - DOMAIN-SUFFIX,icedropper.com
   - DOMAIN-SUFFIX,icetorrent.org
@@ -254,7 +249,6 @@ payload:
   - DOMAIN-SUFFIX,iop.org
   - DOMAIN-SUFFIX,ip-cdn.com
   - DOMAIN-SUFFIX,ip.la
-  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,ipv6-test.com
   - DOMAIN-SUFFIX,iqiyi.com
@@ -287,8 +281,6 @@ payload:
   - DOMAIN-SUFFIX,kkmh.com
   - DOMAIN-SUFFIX,knewone.com
   - DOMAIN-SUFFIX,ksosoft.com
-  - DOMAIN-SUFFIX,ksyun.com
-  - DOMAIN-SUFFIX,ksyunacc.cn
   - DOMAIN-SUFFIX,kuaidi100.com
   - DOMAIN-SUFFIX,kugou.com
   - DOMAIN-SUFFIX,kuyunbo.club
@@ -385,6 +377,9 @@ payload:
   - DOMAIN-SUFFIX,pgyer.com
   - DOMAIN-SUFFIX,pingan.com
   - DOMAIN-SUFFIX,pingan.com.cn
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,pnas.org
   - DOMAIN-SUFFIX,pniao.com
@@ -446,7 +441,6 @@ payload:
   - DOMAIN-SUFFIX,smartisan.com
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,snapdrop.net
-  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,snwx.com
   - DOMAIN-SUFFIX,so.com
   - DOMAIN-SUFFIX,sogo.com
@@ -456,6 +450,8 @@ payload:
   - DOMAIN-SUFFIX,sohu.com
   - DOMAIN-SUFFIX,sohucs.com
   - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,sony.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,soso.com
   - DOMAIN-SUFFIX,spiedigitallibrary.org
   - DOMAIN-SUFFIX,springer.com
@@ -566,6 +562,7 @@ payload:
   - DOMAIN-SUFFIX,yunjiasu-cdn.net
   - DOMAIN-SUFFIX,zealer.com
   - DOMAIN-SUFFIX,zgslb.net
+  - DOMAIN-SUFFIX,zhangle.com
   - DOMAIN-SUFFIX,zhangzishi.cc
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhihuishu.com
@@ -589,12 +586,8 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - IP-CIDR,1.255.62.0/24
-  - IP-CIDR,101.32.118.0/23
-  - IP-CIDR,101.32.96.0/20
   - IP-CIDR,119.28.28.28/32
-  - IP-CIDR,129.226.0.0/16
   - IP-CIDR,182.254.116.0/24
-  - IP-CIDR,183.128.0.0/11
   - IP-CIDR,185.188.32.0/22
   - IP-CIDR,203.205.238.0/23
   - IP-CIDR,203.205.254.0/23

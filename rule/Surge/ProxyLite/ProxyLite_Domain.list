@@ -1,15 +1,17 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 02:11:11
-# DOMAIN-SUFFIX: 31245
-# USER-AGENT: 10
-# DOMAIN: 16
-# DOMAIN-KEYWORD: 26
-# IP-CIDR: 88
+# UPDATED: 2022-01-25 02:08:28
+# DOMAIN-SUFFIX: 31253
+# USER-AGENT: 5
+# DOMAIN: 18
+# DOMAIN-KEYWORD: 28
+# IP-CIDR: 91
 # IP-CIDR6: 3
-# TOTAL: 31388
+# TOTAL: 31398
 api-p.videomarket.jp
+api.waqi.info
+aqi.aqicn.org
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
 deutschewelle.h-cdn.com
@@ -2933,6 +2935,8 @@ widgets.stripst.com
 .airfrance.com.tw
 .airfrance.fr
 .airgonetworks.com
+.airhorn.solutions
+.airhornbot.com
 .airiti.com
 .airitilibrary.com
 .airmailmagazine.com
@@ -6183,6 +6187,7 @@ widgets.stripst.com
 .byt707.com
 .byt909.com
 .byte.co
+.byteoversea.com
 .bytes.com
 .bytextv.com
 .byyzgtapp.com
@@ -8462,15 +8467,26 @@ widgets.stripst.com
 .dirtymilfclub.com
 .discoins.com
 .disconnect.me
+.discord-activities.com
 .discord.co
 .discord.com
+.discord.design
+.discord.dev
 .discord.gg
 .discord.gift
 .discord.gifts
 .discord.media
 .discord.new
+.discord.store
+.discord.tools
+.discordactivities.com
 .discordapp.com
+.discordapp.io
 .discordapp.net
+.discordcdn.com
+.discordmerch.com
+.discordpartygames.com
+.discordsays.com
 .discordstatus.com
 .discountbeatsbydre-us.com
 .discountbeatsstore.com
@@ -11380,6 +11396,7 @@ widgets.stripst.com
 .gci.xcegwjimj.com
 .gci.yabo808.com
 .gcih5.agingames.com
+.gcld-line.com
 .gclooney.com
 .gclubs.com
 .gcmasia.com
@@ -11563,7 +11580,6 @@ widgets.stripst.com
 .ggg16.net
 .ggg36.net
 .ggg626.net
-.ggpht.com
 .ggso.co
 .ggso.me
 .ggsrv.com
@@ -11923,7 +11939,6 @@ widgets.stripst.com
 .groundskeeper.us
 .groupmax.hk
 .groups.com
-.growthy-release-growthywebcollector-80.gcld-line.com
 .grrrgraphics.com
 .grss-ieee.org
 .grupobmw.com
@@ -13205,6 +13220,7 @@ widgets.stripst.com
 .ibros.org
 .ibtimes.com
 .ibvpn.com
+.ibytedtos.com
 .ibyteimg.com
 .icahn.mssm.edu
 .icams.com
@@ -13320,7 +13336,6 @@ widgets.stripst.com
 .ifeng2.com
 .ifex.org
 .ifishgo.com
-.ifixit.com
 .ifj.org
 .ifjc.org
 .ifmc.co
@@ -13734,6 +13749,7 @@ widgets.stripst.com
 .intralot.it
 .intunewiki.com
 .inversionesmatulic.cl
+.investing.com
 .investusa-eb5.weebly.com
 .invidio.us
 .invidious.fdn.fr
@@ -13851,6 +13867,7 @@ widgets.stripst.com
 .iproperty.com
 .iproxysite.com
 .ipsnews.net
+.ipstatp.com
 .ipsur.org
 .iptv.com.tw
 .iptvbin.com
@@ -15343,7 +15360,6 @@ widgets.stripst.com
 .lhasocialwork.org
 .lhfbet.com
 .lhfplay.com
-.lhie1.com
 .li-hongzhi-master.org
 .li.t168.ml
 .liangchenyun.io
@@ -15418,6 +15434,7 @@ widgets.stripst.com
 .lincolnisland.com
 .lindadevries.com
 .line-apps-beta.com
+.line-apps-rc.com
 .line-apps.com
 .line-beta.me
 .line-cdn.net
@@ -15429,7 +15446,9 @@ widgets.stripst.com
 .linecorp.com
 .linefriends.com
 .linemobile.com
+.linemyshop.com
 .linepost.hk
+.lineshoppingseller.com
 .linglingfa.com
 .linguee.com
 .lingvodics.com
@@ -17130,7 +17149,6 @@ widgets.stripst.com
 .mushymush.tv
 .music.monstercat.com
 .musicade.net
-.musical.ly
 .musicbay.net
 .musickit.net
 .musictibet.com
@@ -19320,10 +19338,6 @@ widgets.stripst.com
 .plays.com.tw
 .playshow.io
 .playshowtv.com
-.playstation.com
-.playstation.com.hk
-.playstation.net
-.playstationnetwork.com
 .playtube.pk
 .playvalorant.com
 .playvid.com
@@ -21151,6 +21165,7 @@ widgets.stripst.com
 .sg9097.com
 .sgforums.com
 .sgod.ga
+.sgpstatp.com
 .sh223.cf
 .sha0001.com
 .shaaid.com
@@ -21579,6 +21594,7 @@ widgets.stripst.com
 .snowlionpub.com
 .snowpear.com
 .snowpick.co.il
+.snssdk.com
 .so-net.net.tw
 .soasta-dswb.com
 .sobees.com
@@ -21675,10 +21691,8 @@ widgets.stripst.com
 .sony.be
 .sony.ch
 .sony.co.id
-.sony.com
 .sony.com.co
 .sony.com.do
-.sony.com.hk
 .sony.ee
 .sony.hr
 .sony.it
@@ -21690,7 +21704,6 @@ widgets.stripst.com
 .sonyclassics.com
 .sonydesign.com
 .sonydna.com
-.sonyentertainmentnetwork.com
 .sonylatvija.com
 .sonypictures.com
 .sonypicturesanimation.com
@@ -23134,9 +23147,7 @@ widgets.stripst.com
 .tigerdirect.com
 .tigerpvp.ga
 .tigervpn.com
-.tiktok.com
-.tiktokcdn.com
-.tiktokv.com
+.tik-tokapi.com
 .tiltbrush.com
 .timc.idv.tw
 .timdir.com
@@ -23882,6 +23893,7 @@ widgets.stripst.com
 .ubi.com
 .ubint.net
 .ubisoft.com
+.ubisoftconnect.com
 .ubktv.com
 .ubl.com
 .ublock.org
@@ -25412,6 +25424,7 @@ widgets.stripst.com
 .whatsonweibo.com
 .whatthefox.com
 .wheatseeds.org
+.wheel-size.cn
 .wheelockslatin.com
 .wheelpics.com
 .wheelpop.com
@@ -30862,7 +30875,6 @@ widgets.stripst.com
 .youthtaiwan.net
 .youthwant.com.tw
 .youtobe.com
-.youtu.be
 .youtufab.cc
 .youversion.com
 .youwin.com
@@ -30890,11 +30902,9 @@ widgets.stripst.com
 .ysixdesign.com
 .ysku.in
 .ysmall.yitabangs.com
-.yt.be
 .yt1s.com
 .ytchannelembed.com
 .ytht.net
-.ytimg.com
 .ytixtv.site
 .ytlinks.ml
 .ytmp3.cc
@@ -31077,6 +31087,7 @@ widgets.stripst.com
 .zh.foxtube.com
 .zh.hentai-image.com
 .zh.hotels.com
+.zh.ifixit.com
 .zh.islamway.net
 .zh.jinzhao.wiki
 .zh.mexgroup.com
@@ -31174,7 +31185,6 @@ widgets.stripst.com
 .zongse888.com
 .zoogvpn.com
 .zoom.com
-.zoom.us
 .zoomingin.tv
 .zoosex.cc
 .zooshock.com

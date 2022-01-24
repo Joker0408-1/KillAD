@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-24 02:09:34
+# UPDATED: 2022-01-25 02:08:30
 # DOMAIN: 44740
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 83061
+# DOMAIN-SUFFIX: 83063
 # IP-CIDR: 257
 # IP-CIDR6: 1
-# TOTAL: 128145
+# TOTAL: 128147
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -83394,6 +83394,7 @@ payload:
   - '+.kanfaxing.com'
   - '+.kang08.com'
   - '+.kangaroo.kraenk.de'
+  - '+.kangaroobro.com'
   - '+.kangerlu.com'
   - '+.kanghuaixin.cn'
   - '+.kanglaijd.cn'
@@ -118284,6 +118285,7 @@ payload:
   - '+.tuwuzaci.xyz'
   - '+.tuxbpnne.com'
   - '+.tuxi.com.cn'
+  - '+.tuyihea.top'
   - '+.tuzufsi.cn'
   - '+.tv-best.net'
   - '+.tv1s4d6klh4n.com'

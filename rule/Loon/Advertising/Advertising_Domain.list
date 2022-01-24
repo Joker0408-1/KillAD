@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-24 02:09:33
+# UPDATED: 2022-01-25 02:08:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45420
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 73046
+# DOMAIN-SUFFIX: 73048
 # IP-CIDR: 257
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 119112
+# TOTAL: 119114
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -79781,6 +79781,7 @@ zzzrtrcm2.com
 .kan8.xyz
 .kanfaxing.com
 .kang08.com
+.kangaroobro.com
 .kangerlu.com
 .kanghuaixin.cn
 .kanglaijd.cn
@@ -109885,6 +109886,7 @@ zzzrtrcm2.com
 .tuwuzaci.xyz
 .tuxbpnne.com
 .tuxi.com.cn
+.tuyihea.top
 .tuzufsi.cn
 .tv-best.net
 .tv1s4d6klh4n.com

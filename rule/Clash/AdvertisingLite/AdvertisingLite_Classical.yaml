@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:26
+# UPDATED: 2022-01-25 02:08:30
 # DOMAIN: 23359
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13212
+# DOMAIN-SUFFIX: 13224
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 36757
+# TOTAL: 36769
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -24452,6 +24452,7 @@ payload:
   - DOMAIN-SUFFIX,aabku.cn
   - DOMAIN-SUFFIX,aafanke.cc
   - DOMAIN-SUFFIX,aauisg64017.cn
+  - DOMAIN-SUFFIX,aax-us-iad.amazon.com
   - DOMAIN-SUFFIX,aazcio.cn
   - DOMAIN-SUFFIX,ab.cnbanbao.com
   - DOMAIN-SUFFIX,ab.hysdknb.com
@@ -25346,6 +25347,7 @@ payload:
   - DOMAIN-SUFFIX,amiok.org
   - DOMAIN-SUFFIX,ammankeyan.com
   - DOMAIN-SUFFIX,amobee.com
+  - DOMAIN-SUFFIX,amp-error-reporting.appspot.com
   - DOMAIN-SUFFIX,ampallall.site
   - DOMAIN-SUFFIX,ampleteexis.info
   - DOMAIN-SUFFIX,amradmin.5173.com
@@ -25726,6 +25728,7 @@ payload:
   - DOMAIN-SUFFIX,ax.ifeng.com
   - DOMAIN-SUFFIX,axhxa.com
   - DOMAIN-SUFFIX,axiba66.com
+  - DOMAIN-SUFFIX,axislogger.appspot.com
   - DOMAIN-SUFFIX,axizb.cn
   - DOMAIN-SUFFIX,axkxy.com
   - DOMAIN-SUFFIX,axonix.com
@@ -26455,6 +26458,7 @@ payload:
   - DOMAIN-SUFFIX,casee.cn
   - DOMAIN-SUFFIX,cash.neweramediaworks.com
   - DOMAIN-SUFFIX,casinohacksforyou.com
+  - DOMAIN-SUFFIX,caspionlog.appspot.com
   - DOMAIN-SUFFIX,cast-bid27-j.adtdp.com
   - DOMAIN-SUFFIX,castplatform.com
   - DOMAIN-SUFFIX,catalog.video.msn.com
@@ -27118,6 +27122,7 @@ payload:
   - DOMAIN-SUFFIX,csbthyhh.com
   - DOMAIN-SUFFIX,csgtfruit.com
   - DOMAIN-SUFFIX,cshwhy.cn
+  - DOMAIN-SUFFIX,csp-collector.appspot.com
   - DOMAIN-SUFFIX,cspb1.5w5w.com
   - DOMAIN-SUFFIX,csqiulong.com
   - DOMAIN-SUFFIX,css.juqingba.cn
@@ -28435,6 +28440,7 @@ payload:
   - DOMAIN-SUFFIX,fouas.com
   - DOMAIN-SUFFIX,foumm.com
   - DOMAIN-SUFFIX,founseezb.cn
+  - DOMAIN-SUFFIX,fourmtagservices.appspot.com
   - DOMAIN-SUFFIX,fowpq.top
   - DOMAIN-SUFFIX,foxypp.com
   - DOMAIN-SUFFIX,fozhu.rrsdl.com
@@ -28575,6 +28581,7 @@ payload:
   - DOMAIN-SUFFIX,g4rre.xyz
   - DOMAIN-SUFFIX,g52bl.cn
   - DOMAIN-SUFFIX,g6rfh.cn
+  - DOMAIN-SUFFIX,ga-beacon.appspot.com
   - DOMAIN-SUFFIX,ga.canoe.ca
   - DOMAIN-SUFFIX,gad.kugou.com
   - DOMAIN-SUFFIX,gadhx.cn
@@ -28911,6 +28918,7 @@ payload:
   - DOMAIN-SUFFIX,graunada.com
   - DOMAIN-SUFFIX,greatvideos.xyz
   - DOMAIN-SUFFIX,grebanise.pw
+  - DOMAIN-SUFFIX,green-griffin-860.appspot.com
   - DOMAIN-SUFFIX,green.erne.co
   - DOMAIN-SUFFIX,greenbetterkids.com
   - DOMAIN-SUFFIX,greenhouseglobal.cn
@@ -29952,6 +29960,7 @@ payload:
   - DOMAIN-SUFFIX,jasonsvid.com
   - DOMAIN-SUFFIX,jaugloup.com
   - DOMAIN-SUFFIX,jav23.com
+  - DOMAIN-SUFFIX,javascriptcounter.appspot.com
   - DOMAIN-SUFFIX,javhd.com
   - DOMAIN-SUFFIX,jb.4hw.com.cn
   - DOMAIN-SUFFIX,jb.asqql.com
@@ -30724,6 +30733,7 @@ payload:
   - DOMAIN-SUFFIX,lishuanghao.com
   - DOMAIN-SUFFIX,listenother.com
   - DOMAIN-SUFFIX,listlog.baofeng.net
+  - DOMAIN-SUFFIX,literally-analytics.appspot.com
   - DOMAIN-SUFFIX,litlif.net
   - DOMAIN-SUFFIX,littlementok.site
   - DOMAIN-SUFFIX,liufang1994.top
@@ -32408,6 +32418,7 @@ payload:
   - DOMAIN-SUFFIX,pimg1.126.net
   - DOMAIN-SUFFIX,pincidao.cn
   - DOMAIN-SUFFIX,pindao.huoban.taobao.com
+  - DOMAIN-SUFFIX,ping-dot-acp-magento.appspot.com
   - DOMAIN-SUFFIX,ping.acc.sogou.com
   - DOMAIN-SUFFIX,ping.pinyin.sogou.com
   - DOMAIN-SUFFIX,ping.weiduofan.com
@@ -32878,6 +32889,7 @@ payload:
   - DOMAIN-SUFFIX,quanjiapp.cn
   - DOMAIN-SUFFIX,quansj.cn
   - DOMAIN-SUFFIX,quavomi.com
+  - DOMAIN-SUFFIX,qubitanalytics.appspot.com
   - DOMAIN-SUFFIX,qucaigg.com
   - DOMAIN-SUFFIX,queene.cn
   - DOMAIN-SUFFIX,questionmarket.com

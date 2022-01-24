@@ -1,18 +1,20 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:25
-# DOMAIN-SUFFIX: 24459
-# DOMAIN: 26
-# DOMAIN-KEYWORD: 41
-# IP-CIDR: 129
+# UPDATED: 2022-01-25 02:08:32
+# DOMAIN-SUFFIX: 24461
+# DOMAIN: 28
+# DOMAIN-KEYWORD: 44
+# IP-CIDR: 133
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 24660
+# TOTAL: 24671
 payload:
   - 'amp-api.podcasts.apple.com'
+  - 'api.waqi.info'
   - 'apple.comscoreresearch.com'
   - 'appleid.apple.com'
+  - 'aqi.aqicn.org'
   - 'assets-priconne-redive-us.akamaized.net'
   - 'beta.music.apple.com'
   - 'books.apple.com'
@@ -4713,6 +4715,7 @@ payload:
   - '+.byt707.com'
   - '+.byt909.com'
   - '+.byte.co'
+  - '+.byteoversea.com'
   - '+.bytes.com'
   - '+.bytextv.com'
   - '+.byyzgtapp.com'
@@ -6910,6 +6913,7 @@ payload:
   - '+.echofon.com'
   - '+.ecimg.tw'
   - '+.eckerd.com'
+  - '+.eclipse.org'
   - '+.ecministry.net'
   - '+.eco-visio.net'
   - '+.ecoinbroker.com'
@@ -9763,6 +9767,8 @@ payload:
   - '+.ibros.org'
   - '+.ibtimes.com'
   - '+.ibvpn.com'
+  - '+.ibytedtos.com'
+  - '+.ibyteimg.com'
   - '+.icahn.mssm.edu'
   - '+.icams.com'
   - '+.icanstay.com'
@@ -10076,6 +10082,7 @@ payload:
   - '+.intrade.com'
   - '+.intralot.it'
   - '+.inversionesmatulic.cl'
+  - '+.investing.com'
   - '+.invidio.us'
   - '+.invidious.fdn.fr'
   - '+.invidious.snopyta.org'
@@ -10125,6 +10132,7 @@ payload:
   - '+.ipredator.se'
   - '+.iproxysite.com'
   - '+.ipsnews.net'
+  - '+.ipstatp.com'
   - '+.ipsur.org'
   - '+.iptv.com.tw'
   - '+.iptvbin.com'
@@ -11360,7 +11368,6 @@ payload:
   - '+.lhasocialwork.org'
   - '+.lhfbet.com'
   - '+.lhfplay.com'
-  - '+.lhie1.com'
   - '+.li-hongzhi-master.org'
   - '+.li.t168.ml'
   - '+.liangchenyun.io'
@@ -12628,7 +12635,6 @@ payload:
   - '+.musescore.com'
   - '+.music.monstercat.com'
   - '+.musicade.net'
-  - '+.musical.ly'
   - '+.musictibet.com'
   - '+.muslimmatters.org'
   - '+.muslimvideo.com'
@@ -14177,10 +14183,7 @@ payload:
   - '+.playno1.com'
   - '+.playpcesor.com'
   - '+.plays.com.tw'
-  - '+.playstation.com'
   - '+.playstation.com.hk'
-  - '+.playstation.net'
-  - '+.playstationnetwork.com'
   - '+.playtube.pk'
   - '+.playvid.com'
   - '+.playvpn.com'
@@ -15191,6 +15194,7 @@ payload:
   - '+.s.scss.pw'
   - '+.s.sh22.us'
   - '+.s.sne.jp'
+  - '+.s.team'
   - '+.s.vos.io'
   - '+.s.wxga.us'
   - '+.s.ymk.im'
@@ -15591,6 +15595,7 @@ payload:
   - '+.sg9097.com'
   - '+.sgforums.com'
   - '+.sgod.ga'
+  - '+.sgpstatp.com'
   - '+.sh223.cf'
   - '+.sha0001.com'
   - '+.shaaid.com'
@@ -15920,6 +15925,7 @@ payload:
   - '+.snowlionpub.com'
   - '+.snowpear.com'
   - '+.snowpick.co.il'
+  - '+.snssdk.com'
   - '+.so-net.net.tw'
   - '+.sobees.com'
   - '+.soc.mil'
@@ -15984,9 +15990,7 @@ payload:
   - '+.sonicbbs.cc'
   - '+.sonicresearch.com'
   - '+.sonidodelaesperanza.org'
-  - '+.sony.com'
   - '+.sony.com.hk'
-  - '+.sonyentertainmentnetwork.com'
   - '+.soo.gd'
   - '+.soompi.com'
   - '+.soon.it'
@@ -17131,9 +17135,7 @@ payload:
   - '+.tigerdirect.com'
   - '+.tigerpvp.ga'
   - '+.tigervpn.com'
-  - '+.tiktok.com'
-  - '+.tiktokcdn.com'
-  - '+.tiktokv.com'
+  - '+.tik-tokapi.com'
   - '+.tiltbrush.com'
   - '+.timc.idv.tw'
   - '+.timdir.com'
@@ -17722,6 +17724,7 @@ payload:
   - '+.twurl.nl'
   - '+.twyac.org'
   - '+.twylah.com'
+  - '+.tx.me'
   - '+.tx2600.net'
   - '+.tx69.net'
   - '+.tx8588.com'
@@ -18908,6 +18911,7 @@ payload:
   - '+.whatisscientology.org'
   - '+.whatsonweibo.com'
   - '+.wheatseeds.org'
+  - '+.wheel-size.cn'
   - '+.wheelockslatin.com'
   - '+.wheelpics.com'
   - '+.whereiswerner.com'

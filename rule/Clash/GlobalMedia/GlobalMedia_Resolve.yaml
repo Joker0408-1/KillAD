@@ -1,12 +1,12 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-22 02:10:59
-# DOMAIN: 43
-# DOMAIN-SUFFIX: 195
-# DOMAIN-KEYWORD: 21
+# UPDATED: 2022-01-25 02:08:32
+# DOMAIN: 42
+# DOMAIN-SUFFIX: 187
+# DOMAIN-KEYWORD: 22
 # IP-CIDR: 863
-# TOTAL: 1122
+# TOTAL: 1114
 payload:
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
@@ -37,7 +37,6 @@ payload:
   - DOMAIN,mobileso.bz.mgtv.com
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
-  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
@@ -90,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,curiositystream.com
   - DOMAIN-SUFFIX,d9.flashtalking.com
   - DOMAIN-SUFFIX,dazn-api.com
   - DOMAIN-SUFFIX,dazn.com
@@ -174,18 +174,7 @@ payload:
   - DOMAIN-SUFFIX,my5.tv
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,naver.com
-  - DOMAIN-SUFFIX,netflix.com
-  - DOMAIN-SUFFIX,netflix.net
-  - DOMAIN-SUFFIX,netflixdnstest0.com
-  - DOMAIN-SUFFIX,netflixdnstest1.com
-  - DOMAIN-SUFFIX,netflixdnstest2.com
-  - DOMAIN-SUFFIX,netflixdnstest3.com
-  - DOMAIN-SUFFIX,netflixdnstest4.com
-  - DOMAIN-SUFFIX,netflixdnstest5.com
-  - DOMAIN-SUFFIX,netflixdnstest6.com
-  - DOMAIN-SUFFIX,netflixdnstest7.com
-  - DOMAIN-SUFFIX,netflixdnstest8.com
-  - DOMAIN-SUFFIX,netflixdnstest9.com
+  - DOMAIN-SUFFIX,nebula.app
   - DOMAIN-SUFFIX,nicovideo.jp
   - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-SUFFIX,now.com
@@ -240,12 +229,14 @@ payload:
   - DOMAIN-SUFFIX,urlload.net
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,watchnebula.com
   - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-SUFFIX,wetvinfo.com
   - DOMAIN-SUFFIX,yb.uncn.jp
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,zype.com
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,.hbogoasia.
@@ -259,6 +250,7 @@ payload:
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
   - DOMAIN-KEYWORD,jooxweb-api
+  - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nflx
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,rthklive

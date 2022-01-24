@@ -1,20 +1,22 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-23 17:40:26
+# UPDATED: 2022-01-25 02:08:33
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 32648
-# USER-AGENT: 78
-# DOMAIN: 46
-# DOMAIN-KEYWORD: 70
-# IP-CIDR: 1188
+# DOMAIN-SUFFIX: 32653
+# USER-AGENT: 73
+# DOMAIN: 47
+# DOMAIN-KEYWORD: 71
+# IP-CIDR: 1194
 # URL-REGEX: 9
-# TOTAL: 34039
+# TOTAL: 34047
 amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
+api.waqi.info
 apicdn-p014.ribob01.net
 appleid.apple.com
+aqi.aqicn.org
 artcdnsecure.ribob01.net
 beta.music.apple.com
 blizzard.nefficient.co.kr
@@ -49,7 +51,6 @@ pchomeonline.com.tw
 play-edge.itunes.apple.com
 radio.itunes.apple.com
 rpg.pic-imges.com
-speed.dler.io
 static-resource.np.community.playstation.n
 testflight.apple.com
 uts-api.itunes.apple.com
@@ -2949,6 +2950,8 @@ zeke.scea.com
 .airfrance.com.tw
 .airfrance.fr
 .airgonetworks.com
+.airhorn.solutions
+.airhornbot.com
 .airiti.com
 .airitilibrary.com
 .airmailmagazine.com
@@ -6498,6 +6501,7 @@ zeke.scea.com
 .byt707.com
 .byt909.com
 .byte.co
+.byteoversea.com
 .bytes.com
 .bytextv.com
 .byyzgtapp.com
@@ -8207,6 +8211,7 @@ zeke.scea.com
 .cups.org
 .curanderahealing.com
 .curbed.com
+.curiositystream.com
 .curlie.org
 .current.com
 .currently.com
@@ -8887,15 +8892,26 @@ zeke.scea.com
 .disco-api.com
 .discoins.com
 .disconnect.me
+.discord-activities.com
 .discord.co
 .discord.com
+.discord.design
+.discord.dev
 .discord.gg
 .discord.gift
 .discord.gifts
 .discord.media
 .discord.new
+.discord.store
+.discord.tools
+.discordactivities.com
 .discordapp.com
+.discordapp.io
 .discordapp.net
+.discordcdn.com
+.discordmerch.com
+.discordpartygames.com
+.discordsays.com
 .discordstatus.com
 .discountbeatsbydre-us.com
 .discountbeatsstore.com
@@ -9844,6 +9860,7 @@ zeke.scea.com
 .echosign.com
 .ecimg.tw
 .eckerd.com
+.eclipse.org
 .ecministry.net
 .eco-visio.net
 .ecoinbroker.com
@@ -11961,6 +11978,7 @@ zeke.scea.com
 .gci.xcegwjimj.com
 .gci.yabo808.com
 .gcih5.agingames.com
+.gcld-line.com
 .gclooney.com
 .gclubs.com
 .gcmasia.com
@@ -12549,7 +12567,6 @@ zeke.scea.com
 .groundskeeper.us
 .groupmax.hk
 .groups.com
-.growthy-release-growthywebcollector-80.gcld-line.com
 .grrrgraphics.com
 .grss-ieee.org
 .grupobmw.com
@@ -13874,6 +13891,7 @@ zeke.scea.com
 .ibros.org
 .ibtimes.com
 .ibvpn.com
+.ibytedtos.com
 .ibyteimg.com
 .ic.ac.uk
 .icahn.mssm.edu
@@ -14545,6 +14563,7 @@ zeke.scea.com
 .intralot.it
 .intunewiki.com
 .inversionesmatulic.cl
+.investing.com
 .invidio.us
 .invidious.fdn.fr
 .invidious.snopyta.org
@@ -16114,7 +16133,6 @@ zeke.scea.com
 .lhasocialwork.org
 .lhfbet.com
 .lhfplay.com
-.lhie1.com
 .li-hongzhi-master.org
 .li.t168.ml
 .liangchenyun.io
@@ -16187,6 +16205,7 @@ zeke.scea.com
 .lincolnisland.com
 .lindadevries.com
 .line-apps-beta.com
+.line-apps-rc.com
 .line-apps.com
 .line-beta.me
 .line-cdn.net
@@ -16200,7 +16219,9 @@ zeke.scea.com
 .linefriends.com.tw
 .linegame.jp
 .linemobile.com
+.linemyshop.com
 .linepost.hk
+.lineshoppingseller.com
 .linetv.tw
 .linglingfa.com
 .linguee.com
@@ -18448,6 +18469,7 @@ zeke.scea.com
 .neat-url.com
 .nebay.net
 .neborder.com
+.nebula.app
 .nebulance.io
 .ned.org
 .needforspeed.com
@@ -18497,22 +18519,6 @@ zeke.scea.com
 .netdna-cdn.com
 .netfirms.com
 .netflav.com
-.netflix.ca
-.netflix.com
-.netflix.net
-.netflixdnstest0.com
-.netflixdnstest1.com
-.netflixdnstest10.com
-.netflixdnstest2.com
-.netflixdnstest3.com
-.netflixdnstest4.com
-.netflixdnstest5.com
-.netflixdnstest6.com
-.netflixdnstest7.com
-.netflixdnstest8.com
-.netflixdnstest9.com
-.netflixinvestor.com
-.netflixtechblog.com
 .netlify.com
 .netmap.su
 .netmarble.com
@@ -20313,10 +20319,7 @@ zeke.scea.com
 .plays.com.tw
 .playshow.io
 .playshowtv.com
-.playstation.com
 .playstation.com.hk
-.playstation.net
-.playstationnetwork.com
 .playtube.pk
 .playvalorant.com
 .playvid.com
@@ -22787,7 +22790,6 @@ zeke.scea.com
 .sony.co.nz
 .sony.co.th
 .sony.co.uk
-.sony.com
 .sony.com.ar
 .sony.com.au
 .sony.com.bo
@@ -22846,7 +22848,6 @@ zeke.scea.com
 .sonyclassics.com
 .sonydesign.com
 .sonydna.com
-.sonyentertainmentnetwork.com
 .sonyged.com.cn
 .sonyglobalsolutions.jp
 .sonykigyo.jp
@@ -22946,6 +22947,7 @@ zeke.scea.com
 .special.miffyliye.org
 .specialtyheadphones.com
 .spectronlaser.com
+.speed.dler.io
 .speed.wyqn.net
 .speeddreamride.com
 .speedfantasybid.com
@@ -25101,6 +25103,7 @@ zeke.scea.com
 .ubi.com
 .ubint.net
 .ubisoft.com
+.ubisoftconnect.com
 .ubktv.com
 .ubl.com
 .ublock.org
@@ -26512,6 +26515,7 @@ zeke.scea.com
 .watchespn.com
 .watchinese.com
 .watchmygf.net
+.watchnebula.com
 .watchout.tw
 .watchtowerdocuments.com
 .water-and-power.com
@@ -26756,6 +26760,7 @@ zeke.scea.com
 .whatisworkspaceone.com
 .whatthefox.com
 .wheatseeds.org
+.wheel-size.cn
 .wheel-soft.com
 .wheelockslatin.com
 .wheelpics.com
@@ -32653,6 +32658,7 @@ zeke.scea.com
 .zynamics.com
 .zynews.com
 .zyns.com
+.zype.com
 .zyxel.com
 .zyzc9.com
 .zyzg.us

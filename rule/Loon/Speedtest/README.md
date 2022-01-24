@@ -17,9 +17,8 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN-KEYWORD | 1 |
-| DOMAIN-SUFFIX | 3 |
+| DOMAIN-SUFFIX | 4 |
 | USER-AGENT | 1 |
-| DOMAIN | 1 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。

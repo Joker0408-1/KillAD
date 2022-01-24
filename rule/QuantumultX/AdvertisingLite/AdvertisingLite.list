@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:24
+# UPDATED: 2022-01-25 02:08:28
 # HOST: 23359
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 13212
+# HOST-SUFFIX: 13224
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 36757
+# TOTAL: 36769
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -24451,6 +24451,7 @@ HOST-SUFFIX,aabbccddeeffgg.cn,AdvertisingLite
 HOST-SUFFIX,aabku.cn,AdvertisingLite
 HOST-SUFFIX,aafanke.cc,AdvertisingLite
 HOST-SUFFIX,aauisg64017.cn,AdvertisingLite
+HOST-SUFFIX,aax-us-iad.amazon.com,AdvertisingLite
 HOST-SUFFIX,aazcio.cn,AdvertisingLite
 HOST-SUFFIX,ab.cnbanbao.com,AdvertisingLite
 HOST-SUFFIX,ab.hysdknb.com,AdvertisingLite
@@ -25345,6 +25346,7 @@ HOST-SUFFIX,amfi.gou.sogou.com,AdvertisingLite
 HOST-SUFFIX,amiok.org,AdvertisingLite
 HOST-SUFFIX,ammankeyan.com,AdvertisingLite
 HOST-SUFFIX,amobee.com,AdvertisingLite
+HOST-SUFFIX,amp-error-reporting.appspot.com,AdvertisingLite
 HOST-SUFFIX,ampallall.site,AdvertisingLite
 HOST-SUFFIX,ampleteexis.info,AdvertisingLite
 HOST-SUFFIX,amradmin.5173.com,AdvertisingLite
@@ -25725,6 +25727,7 @@ HOST-SUFFIX,ax.ggfeng.com,AdvertisingLite
 HOST-SUFFIX,ax.ifeng.com,AdvertisingLite
 HOST-SUFFIX,axhxa.com,AdvertisingLite
 HOST-SUFFIX,axiba66.com,AdvertisingLite
+HOST-SUFFIX,axislogger.appspot.com,AdvertisingLite
 HOST-SUFFIX,axizb.cn,AdvertisingLite
 HOST-SUFFIX,axkxy.com,AdvertisingLite
 HOST-SUFFIX,axonix.com,AdvertisingLite
@@ -26454,6 +26457,7 @@ HOST-SUFFIX,casbanlly.com,AdvertisingLite
 HOST-SUFFIX,casee.cn,AdvertisingLite
 HOST-SUFFIX,cash.neweramediaworks.com,AdvertisingLite
 HOST-SUFFIX,casinohacksforyou.com,AdvertisingLite
+HOST-SUFFIX,caspionlog.appspot.com,AdvertisingLite
 HOST-SUFFIX,cast-bid27-j.adtdp.com,AdvertisingLite
 HOST-SUFFIX,castplatform.com,AdvertisingLite
 HOST-SUFFIX,catalog.video.msn.com,AdvertisingLite
@@ -27117,6 +27121,7 @@ HOST-SUFFIX,csbew.com,AdvertisingLite
 HOST-SUFFIX,csbthyhh.com,AdvertisingLite
 HOST-SUFFIX,csgtfruit.com,AdvertisingLite
 HOST-SUFFIX,cshwhy.cn,AdvertisingLite
+HOST-SUFFIX,csp-collector.appspot.com,AdvertisingLite
 HOST-SUFFIX,cspb1.5w5w.com,AdvertisingLite
 HOST-SUFFIX,csqiulong.com,AdvertisingLite
 HOST-SUFFIX,css.juqingba.cn,AdvertisingLite
@@ -28434,6 +28439,7 @@ HOST-SUFFIX,fotao9.com,AdvertisingLite
 HOST-SUFFIX,fouas.com,AdvertisingLite
 HOST-SUFFIX,foumm.com,AdvertisingLite
 HOST-SUFFIX,founseezb.cn,AdvertisingLite
+HOST-SUFFIX,fourmtagservices.appspot.com,AdvertisingLite
 HOST-SUFFIX,fowpq.top,AdvertisingLite
 HOST-SUFFIX,foxypp.com,AdvertisingLite
 HOST-SUFFIX,fozhu.rrsdl.com,AdvertisingLite
@@ -28574,6 +28580,7 @@ HOST-SUFFIX,g4.iqilu.com,AdvertisingLite
 HOST-SUFFIX,g4rre.xyz,AdvertisingLite
 HOST-SUFFIX,g52bl.cn,AdvertisingLite
 HOST-SUFFIX,g6rfh.cn,AdvertisingLite
+HOST-SUFFIX,ga-beacon.appspot.com,AdvertisingLite
 HOST-SUFFIX,ga.canoe.ca,AdvertisingLite
 HOST-SUFFIX,gad.kugou.com,AdvertisingLite
 HOST-SUFFIX,gadhx.cn,AdvertisingLite
@@ -28910,6 +28917,7 @@ HOST-SUFFIX,grand.ele.me,AdvertisingLite
 HOST-SUFFIX,graunada.com,AdvertisingLite
 HOST-SUFFIX,greatvideos.xyz,AdvertisingLite
 HOST-SUFFIX,grebanise.pw,AdvertisingLite
+HOST-SUFFIX,green-griffin-860.appspot.com,AdvertisingLite
 HOST-SUFFIX,green.erne.co,AdvertisingLite
 HOST-SUFFIX,greenbetterkids.com,AdvertisingLite
 HOST-SUFFIX,greenhouseglobal.cn,AdvertisingLite
@@ -29951,6 +29959,7 @@ HOST-SUFFIX,jamestop.xyz,AdvertisingLite
 HOST-SUFFIX,jasonsvid.com,AdvertisingLite
 HOST-SUFFIX,jaugloup.com,AdvertisingLite
 HOST-SUFFIX,jav23.com,AdvertisingLite
+HOST-SUFFIX,javascriptcounter.appspot.com,AdvertisingLite
 HOST-SUFFIX,javhd.com,AdvertisingLite
 HOST-SUFFIX,jb.4hw.com.cn,AdvertisingLite
 HOST-SUFFIX,jb.asqql.com,AdvertisingLite
@@ -30723,6 +30732,7 @@ HOST-SUFFIX,lisconcertain.site,AdvertisingLite
 HOST-SUFFIX,lishuanghao.com,AdvertisingLite
 HOST-SUFFIX,listenother.com,AdvertisingLite
 HOST-SUFFIX,listlog.baofeng.net,AdvertisingLite
+HOST-SUFFIX,literally-analytics.appspot.com,AdvertisingLite
 HOST-SUFFIX,litlif.net,AdvertisingLite
 HOST-SUFFIX,littlementok.site,AdvertisingLite
 HOST-SUFFIX,liufang1994.top,AdvertisingLite
@@ -32407,6 +32417,7 @@ HOST-SUFFIX,piliangzhuce.cn,AdvertisingLite
 HOST-SUFFIX,pimg1.126.net,AdvertisingLite
 HOST-SUFFIX,pincidao.cn,AdvertisingLite
 HOST-SUFFIX,pindao.huoban.taobao.com,AdvertisingLite
+HOST-SUFFIX,ping-dot-acp-magento.appspot.com,AdvertisingLite
 HOST-SUFFIX,ping.acc.sogou.com,AdvertisingLite
 HOST-SUFFIX,ping.pinyin.sogou.com,AdvertisingLite
 HOST-SUFFIX,ping.weiduofan.com,AdvertisingLite
@@ -32877,6 +32888,7 @@ HOST-SUFFIX,quandangdang.net,AdvertisingLite
 HOST-SUFFIX,quanjiapp.cn,AdvertisingLite
 HOST-SUFFIX,quansj.cn,AdvertisingLite
 HOST-SUFFIX,quavomi.com,AdvertisingLite
+HOST-SUFFIX,qubitanalytics.appspot.com,AdvertisingLite
 HOST-SUFFIX,qucaigg.com,AdvertisingLite
 HOST-SUFFIX,queene.cn,AdvertisingLite
 HOST-SUFFIX,questionmarket.com,AdvertisingLite

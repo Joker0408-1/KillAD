@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-19 02:11:23
+# UPDATED: 2022-01-25 02:08:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 23359
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13212
+# DOMAIN-SUFFIX: 13224
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 37053
+# TOTAL: 37065
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -24453,6 +24453,7 @@ zzxosget.com
 .aabku.cn
 .aafanke.cc
 .aauisg64017.cn
+.aax-us-iad.amazon.com
 .aazcio.cn
 .ab.cnbanbao.com
 .ab.hysdknb.com
@@ -25347,6 +25348,7 @@ zzxosget.com
 .amiok.org
 .ammankeyan.com
 .amobee.com
+.amp-error-reporting.appspot.com
 .ampallall.site
 .ampleteexis.info
 .amradmin.5173.com
@@ -25727,6 +25729,7 @@ zzxosget.com
 .ax.ifeng.com
 .axhxa.com
 .axiba66.com
+.axislogger.appspot.com
 .axizb.cn
 .axkxy.com
 .axonix.com
@@ -26456,6 +26459,7 @@ zzxosget.com
 .casee.cn
 .cash.neweramediaworks.com
 .casinohacksforyou.com
+.caspionlog.appspot.com
 .cast-bid27-j.adtdp.com
 .castplatform.com
 .catalog.video.msn.com
@@ -27119,6 +27123,7 @@ zzxosget.com
 .csbthyhh.com
 .csgtfruit.com
 .cshwhy.cn
+.csp-collector.appspot.com
 .cspb1.5w5w.com
 .csqiulong.com
 .css.juqingba.cn
@@ -28436,6 +28441,7 @@ zzxosget.com
 .fouas.com
 .foumm.com
 .founseezb.cn
+.fourmtagservices.appspot.com
 .fowpq.top
 .foxypp.com
 .fozhu.rrsdl.com
@@ -28576,6 +28582,7 @@ zzxosget.com
 .g4rre.xyz
 .g52bl.cn
 .g6rfh.cn
+.ga-beacon.appspot.com
 .ga.canoe.ca
 .gad.kugou.com
 .gadhx.cn
@@ -28912,6 +28919,7 @@ zzxosget.com
 .graunada.com
 .greatvideos.xyz
 .grebanise.pw
+.green-griffin-860.appspot.com
 .green.erne.co
 .greenbetterkids.com
 .greenhouseglobal.cn
@@ -29953,6 +29961,7 @@ zzxosget.com
 .jasonsvid.com
 .jaugloup.com
 .jav23.com
+.javascriptcounter.appspot.com
 .javhd.com
 .jb.4hw.com.cn
 .jb.asqql.com
@@ -30725,6 +30734,7 @@ zzxosget.com
 .lishuanghao.com
 .listenother.com
 .listlog.baofeng.net
+.literally-analytics.appspot.com
 .litlif.net
 .littlementok.site
 .liufang1994.top
@@ -32409,6 +32419,7 @@ zzxosget.com
 .pimg1.126.net
 .pincidao.cn
 .pindao.huoban.taobao.com
+.ping-dot-acp-magento.appspot.com
 .ping.acc.sogou.com
 .ping.pinyin.sogou.com
 .ping.weiduofan.com
@@ -32879,6 +32890,7 @@ zzxosget.com
 .quanjiapp.cn
 .quansj.cn
 .quavomi.com
+.qubitanalytics.appspot.com
 .qucaigg.com
 .queene.cn
 .questionmarket.com
