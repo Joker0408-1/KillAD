@@ -33,20 +33,6 @@ body['data']['sections_v2'] = [
         "button": {}
     },
     {
-        "title": "创作中心",
-        "items": [
-        ],
-        "style": 1,
-        "button": {
-            "text": "发布",
-            "url": "bilibili://uper/user_center/archive_selection",
-            "icon": "http://i0.hdslb.com/bfs/archive/205f47675eaaca7912111e0e9b1ac94cb985901f.png",
-            "style": 1
-        },
-        "type": 1,
-        "up_title": "创作中心"
-    },
-    {
         "title": "更多服务",
         "items": [
             {
