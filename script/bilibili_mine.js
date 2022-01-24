@@ -33,7 +33,7 @@ body['data']['sections_v2'] = [
         "button": {}
     },
     {
-        "title": " ",
+        "title": "创作中心",
         "items": [
         ],
         "style": 1,
@@ -44,7 +44,7 @@ body['data']['sections_v2'] = [
             "style": 1
         },
         "type": 1,
-        "up_title": " "
+        "up_title": "创作中心"
     },
     {
         "title": "更多服务",
