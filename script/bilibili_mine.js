@@ -31,8 +31,7 @@ body['data']['sections_v2'] = [
         ],
         "style": 1,
         "button": {}
-    }
-        ],
+    },
         "style": 1,
         "button": {
             "text": "发布",
