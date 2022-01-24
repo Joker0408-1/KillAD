@@ -62,26 +62,10 @@ body['data']['sections_v2'] = [
                 "display": 1
             },
             {
-                "id": 34944,
-                "title": "主播活动",
-                "uri": "https://live.bilibili.com/p/html/live-app-activity-list/index.html?force_web=1&is_live_webview=1#/activity-list",
-                "icon": "https://i0.hdslb.com/bfs/live/5bc5a1aa8dd4bc5d6f5222d29ebaca9ef9ce37de.png",
-                "need_login": 1,
-                "display": 1
-            },
-            {
-                "id": 4,
-                "title": "直播数据",
-                "uri": "https://live.bilibili.com/p/html/live-app-data/index.html?is_live_webview=1#/",
-                "icon": "https://i0.hdslb.com/bfs/live/684d9c8a4cddc45d6d13f3527185e83a879ffae3.png",
-                "need_login": 1,
-                "display": 1
-            },
-            {
                 "id": 1,
                 "title": "我的直播",
                 "uri": "https://live.bilibili.com/p/html/live-app-center/index.html?is_live_webview=1",
-                "icon": "https://i0.hdslb.com/bfs/live/a9be4fa50ea4772142c1fc7992cde28294d63021.png",
+                "icon": "https://i0.hdslb.com/bfs/live/684d9c8a4cddc45d6d13f3527185e83a879ffae3.png",
                 "need_login": 1,
                 "display": 1
             }
