@@ -31,28 +31,7 @@ body['data']['sections_v2'] = [
         ],
         "style": 1,
         "button": {}
-    },
-    {
-        "title": "创作中心",
-        "items": [
-            {
-                "id": 171,
-                "title": "创作首页",
-                "uri": "bilibili://uper/homevc",
-                "icon": "http://i0.hdslb.com/bfs/archive/d3aad2d07538d2d43805f1fa14a412d7a45cc861.png",
-                "need_login": 1,
-                "global_red_dot": 1,
-                "display": 1
-            },
-            {
-                "id": 533,
-                "title": "任务中心",
-                "uri": "https://member.bilibili.com/studio/bds/redirect?target_source=mission_archive_2&",
-                "icon": "http://i0.hdslb.com/bfs/archive/ae18624fd2a7bdda6d95ca606d5e4cf2647bfa4d.png",
-                "need_login": 1,
-                "global_red_dot": 1,
-                "display": 1
-            }
+    }
         ],
         "style": 1,
         "button": {
@@ -61,9 +40,6 @@ body['data']['sections_v2'] = [
             "icon": "http://i0.hdslb.com/bfs/archive/205f47675eaaca7912111e0e9b1ac94cb985901f.png",
             "style": 1
         },
-        "type": 1,
-        "up_title": "创作中心"
-    },
     {
         "title": "更多服务",
         "items": [
