@@ -33,7 +33,7 @@ body['data']['sections_v2'] = [
         "button": {}
     },
     {
-        "title": "",
+        "title": " ",
         "items": [
         ],
         "style": 1,
@@ -44,7 +44,7 @@ body['data']['sections_v2'] = [
             "style": 1
         },
         "type": 1,
-        "up_title": ""
+        "up_title": " "
     },
     {
         "title": "更多服务",
@@ -54,18 +54,6 @@ body['data']['sections_v2'] = [
                 "title": "联系客服",
                 "uri": "bilibili://user_center/feedback",
                 "icon": "http://i0.hdslb.com/bfs/archive/7ca840cf1d887a45ee1ef441ab57845bf26ef5fa.png"
-            },
-            {
-                "id": 408,
-                "title": "课堂模式",
-                "uri": "bilibili://user_center/lessonsmode",
-                "icon": "http://i0.hdslb.com/bfs/archive/bb3b48455b9364440785fade6223e0c774891b31.png"
-            },
-            {
-                "id": 409,
-                "title": "青少年模式",
-                "uri": "bilibili://user_center/teenagersmode",
-                "icon": "http://i0.hdslb.com/bfs/archive/68acfd37a735411ad56b59b3253acc33f94f7046.png"
             },
             {
                 "id": 410,
