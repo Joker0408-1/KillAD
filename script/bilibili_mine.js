@@ -33,7 +33,6 @@ body['data']['sections_v2'] = [
         "button": {}
     },
     {
-        "title": " ",
         "items": [
             {
                 "id": 407,
