@@ -33,7 +33,7 @@ body['data']['sections_v2'] = [
         "button": {}
     },
     {
-        "title": "更多服务",
+        "title": " ",
         "items": [
             {
                 "id": 407,
