@@ -52,22 +52,6 @@ body['data']['sections_v2'] = [
                 "need_login": 1,
                 "global_red_dot": 1,
                 "display": 1
-            },
-            {
-                "id": 324864,
-                "title": "主播中心",
-                "uri": "https://live.bilibili.com/p/html/live-app-anchor-center/index.html?is_live_webview=1#/",
-                "icon": "https://i0.hdslb.com/bfs/live/48e17ccd0ce0cfc9c7826422d5e47ce98f064c2a.png",
-                "need_login": 1,
-                "display": 1
-            },
-            {
-                "id": 1,
-                "title": "我的直播",
-                "uri": "https://live.bilibili.com/p/html/live-app-center/index.html?is_live_webview=1",
-                "icon": "https://i0.hdslb.com/bfs/live/684d9c8a4cddc45d6d13f3527185e83a879ffae3.png",
-                "need_login": 1,
-                "display": 1
             }
         ],
         "style": 1,
