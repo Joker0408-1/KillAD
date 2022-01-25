@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 23:47:12
+# UPDATED: 2022-01-26 02:11:26
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 71761
-# DOMAIN: 53
+# DOMAIN-SUFFIX: 71775
+# DOMAIN: 55
 # IP-CIDR: 6180
 # DOMAIN-KEYWORD: 14
-# TOTAL: 78070
+# TOTAL: 78086
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -39,6 +39,7 @@ moocs.unipus.cn
 ocsp.pki.goog
 opencourse.pku.edu.cn
 p16-tiktokcdn-com.akamaized.net
+pagead-googlehosted.l.google.com
 pki-goog.l.google.com
 productcard.gog-statics.com
 recaptcha.net
@@ -58,6 +59,7 @@ translation.googleapis.com
 update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
 weizhiyundong.list
+www-googletagmanager.l.google.com
 www.gstatic.com
 www.recaptcha.net
 www4-static.gog-statics.com
@@ -1584,6 +1586,7 @@ www4-static.gog-statics.com
 .166cdn.com
 .166dns.com
 .166ks.net
+.166sh.com
 .166xs.cc
 .166zw.com
 .16768.com
@@ -2249,6 +2252,7 @@ www4-static.gog-statics.com
 .1zsoft.com
 .1zu.com
 .1zw.com
+.2-01-5830-0005.cdx.cedexis.net
 .2-class.com
 .2-mm.net
 .2.gy
@@ -10704,6 +10708,7 @@ www4-static.gog-statics.com
 .baiwutong.com
 .baixiangxiang.com
 .baixiaosheng.net
+.baixing.com
 .baixing.net
 .baixingcdn.com
 .baixingfanli.com
@@ -19945,6 +19950,7 @@ www4-static.gog-statics.com
 .dfss-club.com
 .dfstw.com
 .dfsyjm.com
+.dftoutiao.com
 .dftq.net
 .dftzj.com
 .dfv5.net
@@ -21547,6 +21553,7 @@ www4-static.gog-statics.com
 .dushu365.com
 .dushu369.com
 .dushudaren.com
+.dushuge.net
 .dushuzhe.com
 .dushuzhong.com
 .dushw.com
@@ -26896,6 +26903,7 @@ www4-static.gog-statics.com
 .gotoip2.com
 .gotoip3.com
 .gotoip4.com
+.gotoip55.com
 .gotojp.net
 .gotokeep.com
 .gotonets.com
@@ -51003,6 +51011,7 @@ www4-static.gog-statics.com
 .scbyx.net
 .scbz.org
 .scbz120.com
+.scc.ssacdn.com
 .scccyts.com
 .sccin.com
 .scclssj.com
@@ -55964,6 +55973,7 @@ www4-static.gog-statics.com
 .taozaisheng.com
 .taozhutu.com
 .tapapis.com
+.tapas.net
 .tapd.cn
 .tapdata.net
 .tapechat.net
@@ -59419,6 +59429,7 @@ www4-static.gog-statics.com
 .videougc.com
 .videoyi.com
 .videoyx.com
+.videozhishi.com
 .vidoadsplus.xyz
 .vienblog.com
 .viewones.com
@@ -61370,6 +61381,7 @@ www4-static.gog-statics.com
 .whnatural.com
 .whnfc.com
 .whngd.org
+.whoami.akamai.net
 .whoceansys.com
 .whocool.com
 .whoil.net
@@ -64048,6 +64060,7 @@ www4-static.gog-statics.com
 .xifenggroup.com
 .xifengjiuzhaoshang.com
 .xifengwangzhan.com
+.xifuquan.com
 .xifuwa.com
 .xigo.tv
 .xigua110.com
@@ -68378,6 +68391,7 @@ www4-static.gog-statics.com
 .yunnut.com
 .yunos-inc.com
 .yunos-tv.com
+.yunos.com
 .yunpan.cn
 .yunpan.com
 .yunpan.com.cn
@@ -68999,6 +69013,7 @@ www4-static.gog-statics.com
 .zawomkv.com
 .zazhi.com
 .zazhiboss.com
+.zazhipu.com
 .zazsz.com
 .zb-kc.com
 .zb1.org
@@ -71312,6 +71327,7 @@ www4-static.gog-statics.com
 .ztfans.com
 .ztfsec.com
 .ztfssc.com
+.ztgame.com
 .ztgy.org
 .zthxcf.com
 .ztinfoga.com

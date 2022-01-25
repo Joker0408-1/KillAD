@@ -1,16 +1,16 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:29
+# UPDATED: 2022-01-26 02:11:24
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 32653
+# DOMAIN-SUFFIX: 32669
 # USER-AGENT: 73
 # DOMAIN: 47
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1194
 # IP-CIDR6: 31
 # URL-REGEX: 9
-# TOTAL: 34078
+# TOTAL: 34094
 amp-api.podcasts.apple.com
 api-p014.ribob01.net
 api.okzy.tv
@@ -2229,6 +2229,7 @@ zeke.scea.com
 .888dde.com
 .888diao.com
 .888funcity.net
+.888poker.com
 .888rch.com
 .888xjs.net
 .888ylg.com
@@ -3701,6 +3702,7 @@ zeke.scea.com
 .apple.com.pr
 .apple.com.pt
 .apple.com.py
+.apple.comscoreresearch.com
 .apple.ee
 .apple.hamburg
 .apple.hr
@@ -8027,6 +8029,7 @@ zeke.scea.com
 .crisp.chat
 .cristyli.com
 .crit-staging.com
+.crittercism.com
 .crmdynint-gcc.com
 .crmdynint.com
 .crocotube.com
@@ -13904,6 +13907,7 @@ zeke.scea.com
 .icecast.org
 .icerocket.com
 .icevil.webege.com
+.icgirls.com
 .icij.org
 .icili.net
 .icisleri.gov.tr
@@ -14755,6 +14759,7 @@ zeke.scea.com
 .isa-hockeynut.com
 .isaacmao.com
 .isalnikov.com
+.isanalyze.com
 .isasecret.com
 .isca-speech.org
 .ischool.com
@@ -16347,6 +16352,7 @@ zeke.scea.com
 .lobsangwangyal.com
 .lobsterbay.hk
 .lobstertube.com
+.localbitcoins.com
 .localbitcoins.net
 .localbitcoinschain.com
 .localdomain.ws
@@ -17143,6 +17149,7 @@ zeke.scea.com
 .meetfasttrack.com
 .meeting.yunghsuan.me
 .meetme.com
+.meetsexygirls.org
 .meetsmartbook.com
 .meetup.com
 .meetyourdevices.com
@@ -17996,6 +18003,7 @@ zeke.scea.com
 .msb.strikewin.com
 .mschallenge2018.com
 .msdn.com
+.msedge.net
 .msft.info
 .msft.net
 .msftauth.net
@@ -18444,6 +18452,7 @@ zeke.scea.com
 .nbcsports.com
 .nbcsports.h-cdn.com
 .nbcudigitaladops.com
+.nbcuni.com
 .nbcuniversal.com
 .nbn.org.il
 .nbtvpn.com
@@ -21028,6 +21037,7 @@ zeke.scea.com
 .qualcommventures.com
 .quality-electronics.com
 .qualphone.com
+.qualtrics.com
 .quanben-xiaoshuo.com
 .quannengshen.org
 .quantumbooter.net
@@ -21207,6 +21217,7 @@ zeke.scea.com
 .rationalwiki.org
 .ratujtybet.org
 .rauchmeldershop.ch
+.ravm.tv
 .raw.githack.com
 .rawcdn.githack.com
 .rawdirect.com
@@ -22059,6 +22070,7 @@ zeke.scea.com
 .sebe.fairuse.org
 .seccionamarilla.com.mx
 .secomtrust.net
+.secretchina.com
 .secretgarden.no
 .secretofluck.com
 .secretproxy.org
@@ -22661,6 +22673,7 @@ zeke.scea.com
 .snai.it
 .snap-dev.net
 .snap-telemetry.io
+.snap.com
 .snapchat.com
 .snapcraft.io
 .snapdragon.cn
@@ -26515,6 +26528,7 @@ zeke.scea.com
 .watchdisneyfe.com
 .watchespn.com
 .watchinese.com
+.watchmygf.com
 .watchmygf.net
 .watchnebula.com
 .watchout.tw
@@ -30213,6 +30227,7 @@ zeke.scea.com
 .www.pucocn.com
 .www.puff-store.com
 .www.pugetsound.edu
+.www.purechat.com
 .www.pureland-buddhism.org
 .www.purevpn.net
 .www.purifymind.com
@@ -31637,6 +31652,7 @@ zeke.scea.com
 .xm.com
 .xmaduras.com
 .xmasxtv.com
+.xmatch.com
 .xmbs1.xyz
 .xmbs2.xyz
 .xmbs3.xyz

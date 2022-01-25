@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:32
-# DOMAIN-SUFFIX: 32653
+# UPDATED: 2022-01-26 02:11:25
+# DOMAIN-SUFFIX: 32669
 # DOMAIN: 47
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1194
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34052
+# TOTAL: 34068
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api-p014.ribob01.net
@@ -2228,6 +2228,7 @@ payload:
   - DOMAIN-SUFFIX,888dde.com
   - DOMAIN-SUFFIX,888diao.com
   - DOMAIN-SUFFIX,888funcity.net
+  - DOMAIN-SUFFIX,888poker.com
   - DOMAIN-SUFFIX,888rch.com
   - DOMAIN-SUFFIX,888xjs.net
   - DOMAIN-SUFFIX,888ylg.com
@@ -3700,6 +3701,7 @@ payload:
   - DOMAIN-SUFFIX,apple.com.pr
   - DOMAIN-SUFFIX,apple.com.pt
   - DOMAIN-SUFFIX,apple.com.py
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,apple.ee
   - DOMAIN-SUFFIX,apple.hamburg
   - DOMAIN-SUFFIX,apple.hr
@@ -8026,6 +8028,7 @@ payload:
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
   - DOMAIN-SUFFIX,crit-staging.com
+  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,crocotube.com
@@ -13903,6 +13906,7 @@ payload:
   - DOMAIN-SUFFIX,icecast.org
   - DOMAIN-SUFFIX,icerocket.com
   - DOMAIN-SUFFIX,icevil.webege.com
+  - DOMAIN-SUFFIX,icgirls.com
   - DOMAIN-SUFFIX,icij.org
   - DOMAIN-SUFFIX,icili.net
   - DOMAIN-SUFFIX,icisleri.gov.tr
@@ -14754,6 +14758,7 @@ payload:
   - DOMAIN-SUFFIX,isa-hockeynut.com
   - DOMAIN-SUFFIX,isaacmao.com
   - DOMAIN-SUFFIX,isalnikov.com
+  - DOMAIN-SUFFIX,isanalyze.com
   - DOMAIN-SUFFIX,isasecret.com
   - DOMAIN-SUFFIX,isca-speech.org
   - DOMAIN-SUFFIX,ischool.com
@@ -16346,6 +16351,7 @@ payload:
   - DOMAIN-SUFFIX,lobsangwangyal.com
   - DOMAIN-SUFFIX,lobsterbay.hk
   - DOMAIN-SUFFIX,lobstertube.com
+  - DOMAIN-SUFFIX,localbitcoins.com
   - DOMAIN-SUFFIX,localbitcoins.net
   - DOMAIN-SUFFIX,localbitcoinschain.com
   - DOMAIN-SUFFIX,localdomain.ws
@@ -17142,6 +17148,7 @@ payload:
   - DOMAIN-SUFFIX,meetfasttrack.com
   - DOMAIN-SUFFIX,meeting.yunghsuan.me
   - DOMAIN-SUFFIX,meetme.com
+  - DOMAIN-SUFFIX,meetsexygirls.org
   - DOMAIN-SUFFIX,meetsmartbook.com
   - DOMAIN-SUFFIX,meetup.com
   - DOMAIN-SUFFIX,meetyourdevices.com
@@ -17995,6 +18002,7 @@ payload:
   - DOMAIN-SUFFIX,msb.strikewin.com
   - DOMAIN-SUFFIX,mschallenge2018.com
   - DOMAIN-SUFFIX,msdn.com
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msft.info
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
@@ -18443,6 +18451,7 @@ payload:
   - DOMAIN-SUFFIX,nbcsports.com
   - DOMAIN-SUFFIX,nbcsports.h-cdn.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
+  - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,nbcuniversal.com
   - DOMAIN-SUFFIX,nbn.org.il
   - DOMAIN-SUFFIX,nbtvpn.com
@@ -21027,6 +21036,7 @@ payload:
   - DOMAIN-SUFFIX,qualcommventures.com
   - DOMAIN-SUFFIX,quality-electronics.com
   - DOMAIN-SUFFIX,qualphone.com
+  - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN-SUFFIX,quanben-xiaoshuo.com
   - DOMAIN-SUFFIX,quannengshen.org
   - DOMAIN-SUFFIX,quantumbooter.net
@@ -21206,6 +21216,7 @@ payload:
   - DOMAIN-SUFFIX,rationalwiki.org
   - DOMAIN-SUFFIX,ratujtybet.org
   - DOMAIN-SUFFIX,rauchmeldershop.ch
+  - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,raw.githack.com
   - DOMAIN-SUFFIX,rawcdn.githack.com
   - DOMAIN-SUFFIX,rawdirect.com
@@ -22058,6 +22069,7 @@ payload:
   - DOMAIN-SUFFIX,sebe.fairuse.org
   - DOMAIN-SUFFIX,seccionamarilla.com.mx
   - DOMAIN-SUFFIX,secomtrust.net
+  - DOMAIN-SUFFIX,secretchina.com
   - DOMAIN-SUFFIX,secretgarden.no
   - DOMAIN-SUFFIX,secretofluck.com
   - DOMAIN-SUFFIX,secretproxy.org
@@ -22660,6 +22672,7 @@ payload:
   - DOMAIN-SUFFIX,snai.it
   - DOMAIN-SUFFIX,snap-dev.net
   - DOMAIN-SUFFIX,snap-telemetry.io
+  - DOMAIN-SUFFIX,snap.com
   - DOMAIN-SUFFIX,snapchat.com
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,snapdragon.cn
@@ -26514,6 +26527,7 @@ payload:
   - DOMAIN-SUFFIX,watchdisneyfe.com
   - DOMAIN-SUFFIX,watchespn.com
   - DOMAIN-SUFFIX,watchinese.com
+  - DOMAIN-SUFFIX,watchmygf.com
   - DOMAIN-SUFFIX,watchmygf.net
   - DOMAIN-SUFFIX,watchnebula.com
   - DOMAIN-SUFFIX,watchout.tw
@@ -30212,6 +30226,7 @@ payload:
   - DOMAIN-SUFFIX,www.pucocn.com
   - DOMAIN-SUFFIX,www.puff-store.com
   - DOMAIN-SUFFIX,www.pugetsound.edu
+  - DOMAIN-SUFFIX,www.purechat.com
   - DOMAIN-SUFFIX,www.pureland-buddhism.org
   - DOMAIN-SUFFIX,www.purevpn.net
   - DOMAIN-SUFFIX,www.purifymind.com
@@ -31636,6 +31651,7 @@ payload:
   - DOMAIN-SUFFIX,xm.com
   - DOMAIN-SUFFIX,xmaduras.com
   - DOMAIN-SUFFIX,xmasxtv.com
+  - DOMAIN-SUFFIX,xmatch.com
   - DOMAIN-SUFFIX,xmbs1.xyz
   - DOMAIN-SUFFIX,xmbs2.xyz
   - DOMAIN-SUFFIX,xmbs3.xyz
