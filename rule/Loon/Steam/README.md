@@ -10,14 +10,14 @@
 
 ## 规则统计
 
-总计规则：33 条。
+总计规则：21 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 30 |
-| DOMAIN-KEYWORD | 3 |
+| DOMAIN-SUFFIX | 14 |
+| DOMAIN | 7 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -42,10 +42,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 当前分流规则，未包含其他子规则。
 
-当前分流规则，已排除以下规则：
-
-- SteamCN
-
 ## 数据来源
 
 本项目的Steam复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。
@@ -54,7 +50,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Steam.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
 - https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Steam.list
 
 
