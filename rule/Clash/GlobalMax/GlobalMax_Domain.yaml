@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-26 02:11:25
-# DOMAIN-SUFFIX: 32669
+# UPDATED: 2022-01-27 02:10:35
+# DOMAIN-SUFFIX: 32653
 # DOMAIN: 47
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1194
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34068
+# TOTAL: 34052
 payload:
   - 'amp-api.podcasts.apple.com'
   - 'api-p014.ribob01.net'
@@ -2228,7 +2228,6 @@ payload:
   - '+.888dde.com'
   - '+.888diao.com'
   - '+.888funcity.net'
-  - '+.888poker.com'
   - '+.888rch.com'
   - '+.888xjs.net'
   - '+.888ylg.com'
@@ -3701,7 +3700,6 @@ payload:
   - '+.apple.com.pr'
   - '+.apple.com.pt'
   - '+.apple.com.py'
-  - '+.apple.comscoreresearch.com'
   - '+.apple.ee'
   - '+.apple.hamburg'
   - '+.apple.hr'
@@ -8028,7 +8026,6 @@ payload:
   - '+.crisp.chat'
   - '+.cristyli.com'
   - '+.crit-staging.com'
-  - '+.crittercism.com'
   - '+.crmdynint-gcc.com'
   - '+.crmdynint.com'
   - '+.crocotube.com'
@@ -13906,7 +13903,6 @@ payload:
   - '+.icecast.org'
   - '+.icerocket.com'
   - '+.icevil.webege.com'
-  - '+.icgirls.com'
   - '+.icij.org'
   - '+.icili.net'
   - '+.icisleri.gov.tr'
@@ -14758,7 +14754,6 @@ payload:
   - '+.isa-hockeynut.com'
   - '+.isaacmao.com'
   - '+.isalnikov.com'
-  - '+.isanalyze.com'
   - '+.isasecret.com'
   - '+.isca-speech.org'
   - '+.ischool.com'
@@ -16351,7 +16346,6 @@ payload:
   - '+.lobsangwangyal.com'
   - '+.lobsterbay.hk'
   - '+.lobstertube.com'
-  - '+.localbitcoins.com'
   - '+.localbitcoins.net'
   - '+.localbitcoinschain.com'
   - '+.localdomain.ws'
@@ -17148,7 +17142,6 @@ payload:
   - '+.meetfasttrack.com'
   - '+.meeting.yunghsuan.me'
   - '+.meetme.com'
-  - '+.meetsexygirls.org'
   - '+.meetsmartbook.com'
   - '+.meetup.com'
   - '+.meetyourdevices.com'
@@ -18002,7 +17995,6 @@ payload:
   - '+.msb.strikewin.com'
   - '+.mschallenge2018.com'
   - '+.msdn.com'
-  - '+.msedge.net'
   - '+.msft.info'
   - '+.msft.net'
   - '+.msftauth.net'
@@ -18451,7 +18443,6 @@ payload:
   - '+.nbcsports.com'
   - '+.nbcsports.h-cdn.com'
   - '+.nbcudigitaladops.com'
-  - '+.nbcuni.com'
   - '+.nbcuniversal.com'
   - '+.nbn.org.il'
   - '+.nbtvpn.com'
@@ -21036,7 +21027,6 @@ payload:
   - '+.qualcommventures.com'
   - '+.quality-electronics.com'
   - '+.qualphone.com'
-  - '+.qualtrics.com'
   - '+.quanben-xiaoshuo.com'
   - '+.quannengshen.org'
   - '+.quantumbooter.net'
@@ -21216,7 +21206,6 @@ payload:
   - '+.rationalwiki.org'
   - '+.ratujtybet.org'
   - '+.rauchmeldershop.ch'
-  - '+.ravm.tv'
   - '+.raw.githack.com'
   - '+.rawcdn.githack.com'
   - '+.rawdirect.com'
@@ -22069,7 +22058,6 @@ payload:
   - '+.sebe.fairuse.org'
   - '+.seccionamarilla.com.mx'
   - '+.secomtrust.net'
-  - '+.secretchina.com'
   - '+.secretgarden.no'
   - '+.secretofluck.com'
   - '+.secretproxy.org'
@@ -22672,7 +22660,6 @@ payload:
   - '+.snai.it'
   - '+.snap-dev.net'
   - '+.snap-telemetry.io'
-  - '+.snap.com'
   - '+.snapchat.com'
   - '+.snapcraft.io'
   - '+.snapdragon.cn'
@@ -26527,7 +26514,6 @@ payload:
   - '+.watchdisneyfe.com'
   - '+.watchespn.com'
   - '+.watchinese.com'
-  - '+.watchmygf.com'
   - '+.watchmygf.net'
   - '+.watchnebula.com'
   - '+.watchout.tw'
@@ -30226,7 +30212,6 @@ payload:
   - '+.www.pucocn.com'
   - '+.www.puff-store.com'
   - '+.www.pugetsound.edu'
-  - '+.www.purechat.com'
   - '+.www.pureland-buddhism.org'
   - '+.www.purevpn.net'
   - '+.www.purifymind.com'
@@ -31651,7 +31636,6 @@ payload:
   - '+.xm.com'
   - '+.xmaduras.com'
   - '+.xmasxtv.com'
-  - '+.xmatch.com'
   - '+.xmbs1.xyz'
   - '+.xmbs2.xyz'
   - '+.xmbs3.xyz'
