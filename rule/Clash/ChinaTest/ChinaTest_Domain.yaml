@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 23:47:10
-# DOMAIN-SUFFIX: 68381
+# UPDATED: 2022-01-28 02:11:22
+# DOMAIN-SUFFIX: 68391
 # DOMAIN: 78
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68479
+# TOTAL: 68489
 payload:
   - '265.com'
   - '2mdn.net'
@@ -9805,6 +9805,7 @@ payload:
   - '+.artlinkart.com'
   - '+.artliving.tv'
   - '+.artlnk.com'
+  - '+.artmotions.net'
   - '+.artoolinks.com'
   - '+.artopia-group.com'
   - '+.artp.cc'
@@ -17302,6 +17303,7 @@ payload:
   - '+.cpcwe.com'
   - '+.cpdad.com'
   - '+.cpdaily.com'
+  - '+.cpdyj.com'
   - '+.cpecc.net'
   - '+.cpeol.net'
   - '+.cpgzh.com'
@@ -19581,6 +19583,7 @@ payload:
   - '+.dimeng.net'
   - '+.dimensionalzone.com'
   - '+.dimpurr.com'
+  - '+.dimsmary.tech'
   - '+.dinais.com'
   - '+.dindin.com'
   - '+.dingdanggj.com'
@@ -21351,6 +21354,7 @@ payload:
   - '+.ecombdstatic.com'
   - '+.ecomoter.com'
   - '+.ecookinn.com'
+  - '+.ecool.site'
   - '+.ecoplastech.com'
   - '+.ecoprint.tech'
   - '+.ecorr.org'
@@ -25208,6 +25212,7 @@ payload:
   - '+.global-idc.net'
   - '+.global-jf.com'
   - '+.global-scsl.com'
+  - '+.global-trade-center.com'
   - '+.globalaccentchinese.com'
   - '+.globalbuy.cc'
   - '+.globalcompressor.com'
@@ -28412,6 +28417,7 @@ payload:
   - '+.hkpep.com'
   - '+.hkproperty.com'
   - '+.hkqbh.com'
+  - '+.hkscxh.com'
   - '+.hkserversolution.com'
   - '+.hkskyloyd.com'
   - '+.hkstv.tv'
@@ -54265,6 +54271,7 @@ payload:
   - '+.tlcharity.com'
   - '+.tlfjw.com'
   - '+.tlfw.net'
+  - '+.tlggzyjy.com'
   - '+.tlgslb.com'
   - '+.tlightsky.com'
   - '+.tlinx.com'
@@ -56456,6 +56463,7 @@ payload:
   - '+.vertuonline.com'
   - '+.ververica.com'
   - '+.very9s.net'
+  - '+.veryapex.com'
   - '+.verybeaut.com'
   - '+.verycaca.com'
   - '+.verycd.com'
@@ -58961,6 +58969,7 @@ payload:
   - '+.wn51.com'
   - '+.wn789.com'
   - '+.wnacg.xyz'
+  - '+.wnark.com'
   - '+.wnbsq.com'
   - '+.wndhw.com'
   - '+.wndlkj.com'
@@ -63083,6 +63092,7 @@ payload:
   - '+.yeshj.com'
   - '+.yeshu.com'
   - '+.yesidos.com'
+  - '+.yesiness.com'
   - '+.yeskn.com'
   - '+.yesky.com'
   - '+.yeslib.com'

@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-27 02:10:35
-# DOMAIN-SUFFIX: 71761
+# UPDATED: 2022-01-28 02:11:22
+# DOMAIN-SUFFIX: 71771
 # PROCESS-NAME: 5
 # DOMAIN: 53
 # IP-CIDR: 6185
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5494
-# TOTAL: 83512
+# TOTAL: 83522
 payload:
   - DOMAIN,265.com
   - DOMAIN,c.android.clients.google.com
@@ -10021,6 +10021,7 @@ payload:
   - DOMAIN-SUFFIX,artlinkart.com
   - DOMAIN-SUFFIX,artliving.tv
   - DOMAIN-SUFFIX,artlnk.com
+  - DOMAIN-SUFFIX,artmotions.net
   - DOMAIN-SUFFIX,artoolinks.com
   - DOMAIN-SUFFIX,artopia-group.com
   - DOMAIN-SUFFIX,artp.cc
@@ -17928,6 +17929,7 @@ payload:
   - DOMAIN-SUFFIX,cpcwe.com
   - DOMAIN-SUFFIX,cpdad.com
   - DOMAIN-SUFFIX,cpdaily.com
+  - DOMAIN-SUFFIX,cpdyj.com
   - DOMAIN-SUFFIX,cpecc.net
   - DOMAIN-SUFFIX,cpeol.net
   - DOMAIN-SUFFIX,cpgzh.com
@@ -20321,6 +20323,7 @@ payload:
   - DOMAIN-SUFFIX,dimeng.net
   - DOMAIN-SUFFIX,dimensionalzone.com
   - DOMAIN-SUFFIX,dimpurr.com
+  - DOMAIN-SUFFIX,dimsmary.tech
   - DOMAIN-SUFFIX,dinais.com
   - DOMAIN-SUFFIX,dindin.com
   - DOMAIN-SUFFIX,dingdanggj.com
@@ -22184,6 +22187,7 @@ payload:
   - DOMAIN-SUFFIX,ecombdstatic.com
   - DOMAIN-SUFFIX,ecomoter.com
   - DOMAIN-SUFFIX,ecookinn.com
+  - DOMAIN-SUFFIX,ecool.site
   - DOMAIN-SUFFIX,ecoplastech.com
   - DOMAIN-SUFFIX,ecoprint.tech
   - DOMAIN-SUFFIX,ecorr.org
@@ -26510,6 +26514,7 @@ payload:
   - DOMAIN-SUFFIX,global-jf.com
   - DOMAIN-SUFFIX,global-ks-cdn.com
   - DOMAIN-SUFFIX,global-scsl.com
+  - DOMAIN-SUFFIX,global-trade-center.com
   - DOMAIN-SUFFIX,globalaccentchinese.com
   - DOMAIN-SUFFIX,globalbuy.cc
   - DOMAIN-SUFFIX,globalcdn.cn
@@ -29800,6 +29805,7 @@ payload:
   - DOMAIN-SUFFIX,hkpep.com
   - DOMAIN-SUFFIX,hkproperty.com
   - DOMAIN-SUFFIX,hkqbh.com
+  - DOMAIN-SUFFIX,hkscxh.com
   - DOMAIN-SUFFIX,hkserversolution.com
   - DOMAIN-SUFFIX,hkskyloyd.com
   - DOMAIN-SUFFIX,hkstv.tv
@@ -57010,6 +57016,7 @@ payload:
   - DOMAIN-SUFFIX,tlcharity.com
   - DOMAIN-SUFFIX,tlfjw.com
   - DOMAIN-SUFFIX,tlfw.net
+  - DOMAIN-SUFFIX,tlggzyjy.com
   - DOMAIN-SUFFIX,tlgslb.cn
   - DOMAIN-SUFFIX,tlgslb.com
   - DOMAIN-SUFFIX,tlightsky.com
@@ -59323,6 +59330,7 @@ payload:
   - DOMAIN-SUFFIX,vertuonline.com
   - DOMAIN-SUFFIX,ververica.com
   - DOMAIN-SUFFIX,very9s.net
+  - DOMAIN-SUFFIX,veryapex.com
   - DOMAIN-SUFFIX,verybeaut.com
   - DOMAIN-SUFFIX,verycaca.com
   - DOMAIN-SUFFIX,verycd.com
@@ -61909,6 +61917,7 @@ payload:
   - DOMAIN-SUFFIX,wn51.com
   - DOMAIN-SUFFIX,wn789.com
   - DOMAIN-SUFFIX,wnacg.xyz
+  - DOMAIN-SUFFIX,wnark.com
   - DOMAIN-SUFFIX,wnbsq.com
   - DOMAIN-SUFFIX,wndhw.com
   - DOMAIN-SUFFIX,wnform.com
@@ -66256,6 +66265,7 @@ payload:
   - DOMAIN-SUFFIX,yeshj.com
   - DOMAIN-SUFFIX,yeshu.com
   - DOMAIN-SUFFIX,yesidos.com
+  - DOMAIN-SUFFIX,yesiness.com
   - DOMAIN-SUFFIX,yeskn.com
   - DOMAIN-SUFFIX,yesky.com
   - DOMAIN-SUFFIX,yeslib.com

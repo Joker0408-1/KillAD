@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 23:47:11
-# DOMAIN-SUFFIX: 68381
-# USER-AGENT: 31
+# UPDATED: 2022-01-28 02:11:23
+# DOMAIN-SUFFIX: 68391
 # DOMAIN: 78
 # IP-CIDR: 6
+# USER-AGENT: 31
 # DOMAIN-KEYWORD: 10
-# TOTAL: 68506
+# TOTAL: 68516
 265.com
 2mdn.net
 adservice.google.com
@@ -9804,6 +9804,7 @@ www4-static.gog-statics.com
 .artlinkart.com
 .artliving.tv
 .artlnk.com
+.artmotions.net
 .artoolinks.com
 .artopia-group.com
 .artp.cc
@@ -17301,6 +17302,7 @@ www4-static.gog-statics.com
 .cpcwe.com
 .cpdad.com
 .cpdaily.com
+.cpdyj.com
 .cpecc.net
 .cpeol.net
 .cpgzh.com
@@ -19580,6 +19582,7 @@ www4-static.gog-statics.com
 .dimeng.net
 .dimensionalzone.com
 .dimpurr.com
+.dimsmary.tech
 .dinais.com
 .dindin.com
 .dingdanggj.com
@@ -21350,6 +21353,7 @@ www4-static.gog-statics.com
 .ecombdstatic.com
 .ecomoter.com
 .ecookinn.com
+.ecool.site
 .ecoplastech.com
 .ecoprint.tech
 .ecorr.org
@@ -25207,6 +25211,7 @@ www4-static.gog-statics.com
 .global-idc.net
 .global-jf.com
 .global-scsl.com
+.global-trade-center.com
 .globalaccentchinese.com
 .globalbuy.cc
 .globalcompressor.com
@@ -28411,6 +28416,7 @@ www4-static.gog-statics.com
 .hkpep.com
 .hkproperty.com
 .hkqbh.com
+.hkscxh.com
 .hkserversolution.com
 .hkskyloyd.com
 .hkstv.tv
@@ -54264,6 +54270,7 @@ www4-static.gog-statics.com
 .tlcharity.com
 .tlfjw.com
 .tlfw.net
+.tlggzyjy.com
 .tlgslb.com
 .tlightsky.com
 .tlinx.com
@@ -56455,6 +56462,7 @@ www4-static.gog-statics.com
 .vertuonline.com
 .ververica.com
 .very9s.net
+.veryapex.com
 .verybeaut.com
 .verycaca.com
 .verycd.com
@@ -58960,6 +58968,7 @@ www4-static.gog-statics.com
 .wn51.com
 .wn789.com
 .wnacg.xyz
+.wnark.com
 .wnbsq.com
 .wndhw.com
 .wndlkj.com
@@ -63082,6 +63091,7 @@ www4-static.gog-statics.com
 .yeshj.com
 .yeshu.com
 .yesidos.com
+.yesiness.com
 .yeskn.com
 .yesky.com
 .yeslib.com

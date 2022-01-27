@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-27 02:10:35
-# DOMAIN-SUFFIX: 71761
+# UPDATED: 2022-01-28 02:11:22
+# DOMAIN-SUFFIX: 71771
 # PROCESS-NAME: 5
 # DOMAIN: 53
 # IP-CIDR: 6185
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5494
-# TOTAL: 83512
+# TOTAL: 83522
 payload:
   - '265.com'
   - 'c.android.clients.google.com'
@@ -10021,6 +10021,7 @@ payload:
   - '+.artlinkart.com'
   - '+.artliving.tv'
   - '+.artlnk.com'
+  - '+.artmotions.net'
   - '+.artoolinks.com'
   - '+.artopia-group.com'
   - '+.artp.cc'
@@ -17928,6 +17929,7 @@ payload:
   - '+.cpcwe.com'
   - '+.cpdad.com'
   - '+.cpdaily.com'
+  - '+.cpdyj.com'
   - '+.cpecc.net'
   - '+.cpeol.net'
   - '+.cpgzh.com'
@@ -20321,6 +20323,7 @@ payload:
   - '+.dimeng.net'
   - '+.dimensionalzone.com'
   - '+.dimpurr.com'
+  - '+.dimsmary.tech'
   - '+.dinais.com'
   - '+.dindin.com'
   - '+.dingdanggj.com'
@@ -22184,6 +22187,7 @@ payload:
   - '+.ecombdstatic.com'
   - '+.ecomoter.com'
   - '+.ecookinn.com'
+  - '+.ecool.site'
   - '+.ecoplastech.com'
   - '+.ecoprint.tech'
   - '+.ecorr.org'
@@ -26510,6 +26514,7 @@ payload:
   - '+.global-jf.com'
   - '+.global-ks-cdn.com'
   - '+.global-scsl.com'
+  - '+.global-trade-center.com'
   - '+.globalaccentchinese.com'
   - '+.globalbuy.cc'
   - '+.globalcdn.cn'
@@ -29800,6 +29805,7 @@ payload:
   - '+.hkpep.com'
   - '+.hkproperty.com'
   - '+.hkqbh.com'
+  - '+.hkscxh.com'
   - '+.hkserversolution.com'
   - '+.hkskyloyd.com'
   - '+.hkstv.tv'
@@ -57010,6 +57016,7 @@ payload:
   - '+.tlcharity.com'
   - '+.tlfjw.com'
   - '+.tlfw.net'
+  - '+.tlggzyjy.com'
   - '+.tlgslb.cn'
   - '+.tlgslb.com'
   - '+.tlightsky.com'
@@ -59323,6 +59330,7 @@ payload:
   - '+.vertuonline.com'
   - '+.ververica.com'
   - '+.very9s.net'
+  - '+.veryapex.com'
   - '+.verybeaut.com'
   - '+.verycaca.com'
   - '+.verycd.com'
@@ -61909,6 +61917,7 @@ payload:
   - '+.wn51.com'
   - '+.wn789.com'
   - '+.wnacg.xyz'
+  - '+.wnark.com'
   - '+.wnbsq.com'
   - '+.wndhw.com'
   - '+.wnform.com'
@@ -66256,6 +66265,7 @@ payload:
   - '+.yeshj.com'
   - '+.yeshu.com'
   - '+.yesidos.com'
+  - '+.yesiness.com'
   - '+.yeskn.com'
   - '+.yesky.com'
   - '+.yeslib.com'
