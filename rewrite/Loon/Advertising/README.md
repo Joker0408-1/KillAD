@@ -17,8 +17,8 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | mitm | 608 |
-| DOMAIN-SUFFIX | 1 |
 | DOMAIN | 2 |
+| DOMAIN-SUFFIX | 1 |
 | reject | 792 |
 ## 配置说明
 
