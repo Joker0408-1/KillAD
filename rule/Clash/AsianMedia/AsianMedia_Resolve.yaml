@@ -1,15 +1,16 @@
 # NAME: AsianMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:35
+# UPDATED: 2022-01-28 12:41:57
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 18
-# DOMAIN: 3
+# DOMAIN: 4
 # IP-CIDR: 11
-# TOTAL: 35
+# TOTAL: 36
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+  - DOMAIN,mobileso.bz.mgtv.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,acg.tv

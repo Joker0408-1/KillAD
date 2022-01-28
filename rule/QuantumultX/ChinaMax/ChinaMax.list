@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-28 02:11:19
+# UPDATED: 2022-01-28 12:41:55
 # USER-AGENT: 62
 # HOST-SUFFIX: 71771
 # HOST: 53
-# IP-CIDR: 6185
+# IP-CIDR: 6184
 # HOST-KEYWORD: 14
-# IP6-CIDR: 5494
-# TOTAL: 83579
+# IP6-CIDR: 5511
+# TOTAL: 83595
 HOST,265.com,ChinaMax
 HOST,c.android.clients.google.com,ChinaMax
 HOST,cache.pack.google.com,ChinaMax
@@ -78054,7 +78054,6 @@ IP-CIDR,67.198.188.0/23,ChinaMax
 IP-CIDR,67.198.192.0/23,ChinaMax
 IP-CIDR,67.198.195.0/24,ChinaMax
 IP-CIDR,67.198.199.0/24,ChinaMax
-IP-CIDR,67.198.201.0/24,ChinaMax
 IP-CIDR,67.198.207.0/24,ChinaMax
 IP-CIDR,67.198.208.0/24,ChinaMax
 IP-CIDR,67.198.221.0/24,ChinaMax
@@ -78156,7 +78155,6 @@ IP6-CIDR,2001:df0:1bc0::/48,ChinaMax
 IP6-CIDR,2001:df0:2180::/48,ChinaMax
 IP6-CIDR,2001:df0:25c0::/48,ChinaMax
 IP6-CIDR,2001:df0:26c0::/48,ChinaMax
-IP6-CIDR,2001:df0:27e::/48,ChinaMax
 IP6-CIDR,2001:df0:2d80::/48,ChinaMax
 IP6-CIDR,2001:df0:2e00::/48,ChinaMax
 IP6-CIDR,2001:df0:2e80::/48,ChinaMax
@@ -78439,7 +78437,6 @@ IP6-CIDR,2400:ba41:80::/41,ChinaMax
 IP6-CIDR,2400:ba41:8::/45,ChinaMax
 IP6-CIDR,2400:ba41::/48,ChinaMax
 IP6-CIDR,2400:bac0::/32,ChinaMax
-IP6-CIDR,2400:bc40::/32,ChinaMax
 IP6-CIDR,2400:be00::/32,ChinaMax
 IP6-CIDR,2400:bf00::/32,ChinaMax
 IP6-CIDR,2400:c200::/32,ChinaMax
@@ -79140,7 +79137,6 @@ IP6-CIDR,2403:8c00::/32,ChinaMax
 IP6-CIDR,2403:8c80::/32,ChinaMax
 IP6-CIDR,2403:8d00::/32,ChinaMax
 IP6-CIDR,2403:8d80::/32,ChinaMax
-IP6-CIDR,2403:8f80::/32,ChinaMax
 IP6-CIDR,2403:9080::/32,ChinaMax
 IP6-CIDR,2403:9180::/32,ChinaMax
 IP6-CIDR,2403:9280::/32,ChinaMax
@@ -79526,7 +79522,6 @@ IP6-CIDR,2405:580::/32,ChinaMax
 IP6-CIDR,2405:5880::/32,ChinaMax
 IP6-CIDR,2405:5980::/32,ChinaMax
 IP6-CIDR,2405:5a80::/32,ChinaMax
-IP6-CIDR,2405:5b00::/32,ChinaMax
 IP6-CIDR,2405:5b80::/32,ChinaMax
 IP6-CIDR,2405:5c80::/32,ChinaMax
 IP6-CIDR,2405:5cc0::/32,ChinaMax
@@ -79976,6 +79971,7 @@ IP6-CIDR,2406:da60:e000::/40,ChinaMax
 IP6-CIDR,2406:da70:e000::/40,ChinaMax
 IP6-CIDR,2406:daa0:e000::/40,ChinaMax
 IP6-CIDR,2406:daf0:e000::/40,ChinaMax
+IP6-CIDR,2406:daf1:e000::/40,ChinaMax
 IP6-CIDR,2406:daf8:e000::/40,ChinaMax
 IP6-CIDR,2406:daf9:e000::/40,ChinaMax
 IP6-CIDR,2406:dafa:e000::/40,ChinaMax
@@ -80190,6 +80186,26 @@ IP6-CIDR,240f:8000::/24,ChinaMax
 IP6-CIDR,240f:c000::/24,ChinaMax
 IP6-CIDR,2600:1f01:4814::/47,ChinaMax
 IP6-CIDR,2602:fe9f:a00::/48,ChinaMax
+IP6-CIDR,2602:feda:c00::/42,ChinaMax
+IP6-CIDR,2602:feda:c40::/44,ChinaMax
+IP6-CIDR,2602:feda:c60::/43,ChinaMax
+IP6-CIDR,2602:feda:c80::/41,ChinaMax
+IP6-CIDR,2602:feda:d00::/42,ChinaMax
+IP6-CIDR,2602:feda:d40::/43,ChinaMax
+IP6-CIDR,2602:feda:d60::/44,ChinaMax
+IP6-CIDR,2602:feda:d80::/42,ChinaMax
+IP6-CIDR,2602:feda:dc0::/44,ChinaMax
+IP6-CIDR,2602:feda:de0::/47,ChinaMax
+IP6-CIDR,2602:feda:de3::/48,ChinaMax
+IP6-CIDR,2602:feda:de4::/46,ChinaMax
+IP6-CIDR,2602:feda:de8::/45,ChinaMax
+IP6-CIDR,2602:feda:df0::/44,ChinaMax
+IP6-CIDR,2602:feda:e00::/44,ChinaMax
+IP6-CIDR,2602:feda:e20::/44,ChinaMax
+IP6-CIDR,2602:feda:e30::/48,ChinaMax
+IP6-CIDR,2602:feda:e40::/42,ChinaMax
+IP6-CIDR,2602:feda:e80::/41,ChinaMax
+IP6-CIDR,2602:feda:f00::/40,ChinaMax
 IP6-CIDR,2605:3e80:1b00::/40,ChinaMax
 IP6-CIDR,2606:54c0:1980:100::/64,ChinaMax
 IP6-CIDR,2606:54c0:1980:108::/64,ChinaMax

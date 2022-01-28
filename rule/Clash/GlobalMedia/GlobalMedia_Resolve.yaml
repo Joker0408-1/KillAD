@@ -1,12 +1,12 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:32
-# DOMAIN: 42
+# UPDATED: 2022-01-28 12:41:58
+# DOMAIN: 41
 # DOMAIN-SUFFIX: 187
 # DOMAIN-KEYWORD: 22
 # IP-CIDR: 863
-# TOTAL: 1114
+# TOTAL: 1113
 payload:
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
@@ -34,7 +34,6 @@ payload:
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,ktpx.amazon.com
-  - DOMAIN,mobileso.bz.mgtv.com
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN,news-client.apple.com
@@ -61,7 +60,6 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,ameba.jp
-  - DOMAIN-SUFFIX,api.mgtv.com
   - DOMAIN-SUFFIX,api.segment.io
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,bahamut.com.tw
@@ -235,6 +233,7 @@ payload:
   - DOMAIN-SUFFIX,yb.uncn.jp
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zype.com
   - DOMAIN-KEYWORD,-spotify-com
