@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:27
+# UPDATED: 2022-01-30 02:14:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 24461
+# DOMAIN-SUFFIX: 24463
 # USER-AGENT: 44
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 44
@@ -11,7 +11,7 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 24716
+# TOTAL: 24718
 amp-api.podcasts.apple.com
 api.waqi.info
 apple.comscoreresearch.com
@@ -12484,6 +12484,7 @@ tv.apple.com
 .moodys.com
 .moodyz.com
 .moon.com
+.moon.fm
 .moonbbs.com
 .moonbingo.com
 .moonpoet.com
@@ -14215,6 +14216,7 @@ tv.apple.com
 .pobieramy.top
 .pocketmags.com
 .podbean.com
+.podcast.co
 .podictionary.com
 .podvpn9.com
 .podzone.net

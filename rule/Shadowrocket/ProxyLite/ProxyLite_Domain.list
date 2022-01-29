@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:33
-# DOMAIN-SUFFIX: 31253
+# UPDATED: 2022-01-30 02:14:06
+# DOMAIN-SUFFIX: 31255
 # USER-AGENT: 5
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
 # IP-CIDR: 91
-# TOTAL: 31395
+# TOTAL: 31397
 api-p.videomarket.jp
 api.waqi.info
 aqi.aqicn.org
@@ -16934,6 +16934,7 @@ widgets.stripst.com
 .moodys.com
 .moodyz.com
 .moon.com
+.moon.fm
 .moonbbs.com
 .moonbingo.com
 .moonpoet.com
@@ -19372,6 +19373,7 @@ widgets.stripst.com
 .pocketcasts.com
 .pocketmags.com
 .podbean.com
+.podcast.co
 .podictionary.com
 .podvpn9.com
 .podzone.net

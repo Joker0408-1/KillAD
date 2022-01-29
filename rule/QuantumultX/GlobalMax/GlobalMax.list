@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-27 02:10:32
-# HOST-SUFFIX: 32653
+# UPDATED: 2022-01-30 02:14:01
+# HOST-SUFFIX: 32655
 # USER-AGENT: 73
 # HOST: 47
 # HOST-KEYWORD: 71
 # IP-CIDR: 1194
 # IP6-CIDR: 31
-# TOTAL: 34069
+# TOTAL: 34071
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -17854,6 +17854,7 @@ HOST-SUFFIX,moodstocks.com,GlobalMax
 HOST-SUFFIX,moodys.com,GlobalMax
 HOST-SUFFIX,moodyz.com,GlobalMax
 HOST-SUFFIX,moon.com,GlobalMax
+HOST-SUFFIX,moon.fm,GlobalMax
 HOST-SUFFIX,moonbbs.com,GlobalMax
 HOST-SUFFIX,moonbingo.com,GlobalMax
 HOST-SUFFIX,moonpoet.com,GlobalMax
@@ -20358,6 +20359,7 @@ HOST-SUFFIX,pocketbiketrader.com,GlobalMax
 HOST-SUFFIX,pocketcasts.com,GlobalMax
 HOST-SUFFIX,pocketmags.com,GlobalMax
 HOST-SUFFIX,podbean.com,GlobalMax
+HOST-SUFFIX,podcast.co,GlobalMax
 HOST-SUFFIX,podictionary.com,GlobalMax
 HOST-SUFFIX,podvpn9.com,GlobalMax
 HOST-SUFFIX,podzone.net,GlobalMax

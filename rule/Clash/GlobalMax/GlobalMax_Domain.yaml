@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-27 02:10:35
-# DOMAIN-SUFFIX: 32653
+# UPDATED: 2022-01-30 02:14:05
+# DOMAIN-SUFFIX: 32655
 # DOMAIN: 47
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1194
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34052
+# TOTAL: 34054
 payload:
   - 'amp-api.podcasts.apple.com'
   - 'api-p014.ribob01.net'
@@ -17855,6 +17855,7 @@ payload:
   - '+.moodys.com'
   - '+.moodyz.com'
   - '+.moon.com'
+  - '+.moon.fm'
   - '+.moonbbs.com'
   - '+.moonbingo.com'
   - '+.moonpoet.com'
@@ -20359,6 +20360,7 @@ payload:
   - '+.pocketcasts.com'
   - '+.pocketmags.com'
   - '+.podbean.com'
+  - '+.podcast.co'
   - '+.podictionary.com'
   - '+.podvpn9.com'
   - '+.podzone.net'

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:32
-# DOMAIN-SUFFIX: 24461
+# UPDATED: 2022-01-30 02:14:04
+# DOMAIN-SUFFIX: 24463
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 44
 # IP-CIDR: 133
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 24671
+# TOTAL: 24673
 payload:
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,api.waqi.info
@@ -12482,6 +12482,7 @@ payload:
   - DOMAIN-SUFFIX,moodys.com
   - DOMAIN-SUFFIX,moodyz.com
   - DOMAIN-SUFFIX,moon.com
+  - DOMAIN-SUFFIX,moon.fm
   - DOMAIN-SUFFIX,moonbbs.com
   - DOMAIN-SUFFIX,moonbingo.com
   - DOMAIN-SUFFIX,moonpoet.com
@@ -14213,6 +14214,7 @@ payload:
   - DOMAIN-SUFFIX,pobieramy.top
   - DOMAIN-SUFFIX,pocketmags.com
   - DOMAIN-SUFFIX,podbean.com
+  - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
   - DOMAIN-SUFFIX,podvpn9.com
   - DOMAIN-SUFFIX,podzone.net

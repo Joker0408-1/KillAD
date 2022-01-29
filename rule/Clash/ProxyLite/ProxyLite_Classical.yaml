@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:32
-# DOMAIN-SUFFIX: 31253
+# UPDATED: 2022-01-30 02:14:04
+# DOMAIN-SUFFIX: 31255
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
 # IP-CIDR: 91
 # IP-CIDR6: 3
-# TOTAL: 31393
+# TOTAL: 31395
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,api.waqi.info
@@ -16935,6 +16935,7 @@ payload:
   - DOMAIN-SUFFIX,moodys.com
   - DOMAIN-SUFFIX,moodyz.com
   - DOMAIN-SUFFIX,moon.com
+  - DOMAIN-SUFFIX,moon.fm
   - DOMAIN-SUFFIX,moonbbs.com
   - DOMAIN-SUFFIX,moonbingo.com
   - DOMAIN-SUFFIX,moonpoet.com
@@ -19373,6 +19374,7 @@ payload:
   - DOMAIN-SUFFIX,pocketcasts.com
   - DOMAIN-SUFFIX,pocketmags.com
   - DOMAIN-SUFFIX,podbean.com
+  - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
   - DOMAIN-SUFFIX,podvpn9.com
   - DOMAIN-SUFFIX,podzone.net

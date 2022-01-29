@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:28
-# HOST-SUFFIX: 31253
+# UPDATED: 2022-01-30 02:14:01
+# HOST-SUFFIX: 31255
 # USER-AGENT: 5
 # HOST: 18
 # HOST-KEYWORD: 28
 # IP-CIDR: 91
 # IP6-CIDR: 3
-# TOTAL: 31398
+# TOTAL: 31400
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
 HOST,aqi.aqicn.org,ProxyLite
@@ -16935,6 +16935,7 @@ HOST-SUFFIX,moodstocks.com,ProxyLite
 HOST-SUFFIX,moodys.com,ProxyLite
 HOST-SUFFIX,moodyz.com,ProxyLite
 HOST-SUFFIX,moon.com,ProxyLite
+HOST-SUFFIX,moon.fm,ProxyLite
 HOST-SUFFIX,moonbbs.com,ProxyLite
 HOST-SUFFIX,moonbingo.com,ProxyLite
 HOST-SUFFIX,moonpoet.com,ProxyLite
@@ -19373,6 +19374,7 @@ HOST-SUFFIX,pocketbiketrader.com,ProxyLite
 HOST-SUFFIX,pocketcasts.com,ProxyLite
 HOST-SUFFIX,pocketmags.com,ProxyLite
 HOST-SUFFIX,podbean.com,ProxyLite
+HOST-SUFFIX,podcast.co,ProxyLite
 HOST-SUFFIX,podictionary.com,ProxyLite
 HOST-SUFFIX,podvpn9.com,ProxyLite
 HOST-SUFFIX,podzone.net,ProxyLite

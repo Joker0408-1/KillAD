@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:31
-# DOMAIN-SUFFIX: 24589
+# UPDATED: 2022-01-30 02:14:03
+# DOMAIN-SUFFIX: 24591
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 24723
+# TOTAL: 24725
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -12523,6 +12523,7 @@ payload:
   - DOMAIN-SUFFIX,moodys.com
   - DOMAIN-SUFFIX,moodyz.com
   - DOMAIN-SUFFIX,moon.com
+  - DOMAIN-SUFFIX,moon.fm
   - DOMAIN-SUFFIX,moonbbs.com
   - DOMAIN-SUFFIX,moonbingo.com
   - DOMAIN-SUFFIX,moonpoet.com
@@ -14260,6 +14261,7 @@ payload:
   - DOMAIN-SUFFIX,pobieramy.top
   - DOMAIN-SUFFIX,pocketmags.com
   - DOMAIN-SUFFIX,podbean.com
+  - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
   - DOMAIN-SUFFIX,podvpn9.com
   - DOMAIN-SUFFIX,podzone.net
