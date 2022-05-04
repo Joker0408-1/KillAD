@@ -1,8 +1,8 @@
 ! Title: 百度净化+ChinaList
-! Description: 效果过于强大，慎用
+! Description: [慎用]效果过于强大
 ! Last Modified: 2022/5/4
 ! Homepage: https://github.com/Joker0408-1/KillAD
-! Version: 202205041908
+! Version: 202205042000
 ! -- 限制剪切板写入
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
