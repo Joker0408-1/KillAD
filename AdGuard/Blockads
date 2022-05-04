@@ -1,12 +1,46 @@
 ! Title: 百度净化+ChinaList
 ! Description: 效果过于强大，慎用
-! Last Modified: 2022/1/24
+! Last Modified: 2022/5/4
 ! Homepage: https://github.com/Joker0408-1/KillAD
-! Version: 202201241333
+! Version: 202205041908
 ! -- 限制剪切板写入
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
+m.sohu.com##div.article-page.article-page-test:nth-child(6) > div.article-content-wrapper:last-child > div.article-main:nth-child(5)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt62725b.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###js-replies-container > div.reply-item:nth-child(3)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627259.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627258.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627258.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627257.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627258.icon-bannerad.zhidao_na_middle:nth-child(15)
+zhidao.baidu.com###main-content > div.question-container:first-child > div:nth-child(17)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627257.icon-bannerad.zhidao_na_middle:nth-child(15)
+zhidao.baidu.com###main-content > div.question-container:first-child > div:nth-child(17) > div.exp-payask-card-wrapper:first-child
+xw.qq.com###__xw_next_view_root > div.jsx-2375966888 > div.jsx-2375966888:nth-child(9)
+xw.qq.com###article_body > div.jsx-2375966888.channel-entry:last-child
+xw.qq.com###__xw_next_view_root > div.jsx-2375966888 > div.jsx-2375966888:nth-child(11)
+xw.qq.com###__xw_next_view_root > div.jsx-2375966888 > div.jsx-873733093.footer.hasnav:nth-child(10)
+xw.qq.com###miniAio > div.jsx-2005580460.footer.fixed:first-child
+xw.qq.com###article-content-end
+xw.qq.com###recommend-modules
+m.sohu.com##div.article-page.article-page-test:nth-child(6) > div.article-content-wrapper:last-child > div.footer_menu_new:nth-child(14)
+m.sohu.com##div.article-page.article-page-test:nth-child(6) > div.article-content-wrapper:last-child > div.nav_maps:nth-child(13)
+m.sohu.com###artFloatDiscuss > div > a.float-discuss-container
+m.sohu.com###artRecNews
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627218.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > a.ask-for-friend:nth-child(6)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627183.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div:nth-child(12)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627183.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div:nth-child(12) > div.exp-payask-card-wrapper:first-child
+zhidao.baidu.com###knowledge-answer-list
+baijiahao.baidu.com###content_wrapper > div.headDeflectorContainer:first-child
+m.youku.com###app > div > div:nth-child(3) > div.clipboard.h5-detail-guide > a.text
+baijiahao.baidu.com###content_wrapper > header.landingHead:first-child > h1.titleSize:first-child > div.titleLogo.titleLogo1:last-child
+https://github.com/Joker0408-1/KillAD
+https://github.com
 ||mbdp02.bdstatic.com^
 m.baidu.com##ARTICLE#wenda_inquiry
 tieba.baidu.com##div.footer-wrap
