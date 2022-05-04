@@ -25,6 +25,24 @@ xw.qq.com###__xw_next_view_root > div.jsx-2375966888 > div.jsx-873733093.footer.
 xw.qq.com###miniAio > div.jsx-2005580460.footer.fixed:first-child
 xw.qq.com###article-content-end
 xw.qq.com###recommend-modules
+m.baidu.com###page-copyright
+m.baidu.com###page-ft
+3g.163.com##footer:nth-child(11) > div.foot_nav:first-child > div.u_topmenu.clearfix
+3g.163.com##footer:nth-child(11)
+3g.163.com##main:nth-child(10) > div.ad-above-comment:nth-child(6)
+3g.163.com##main:nth-child(10) > div.footer:nth-child(2) > div.wakeup_client.js-wakeupclient:nth-child(4) > div.more_up > span.hiup_bar
+3g.163.com##main:nth-child(10) > section.article_comment.tie-CDDFEC5Q0526BVK8:nth-child(7)
+3g.163.com##main:nth-child(10) > div.new_relative_doc.js-new-relative-doc:nth-child(9)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627277.icon-bannerad.zhidao_na_middle:nth-child(16)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627275.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627274.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627272.icon-bannerad.zhidao_na_middle:nth-child(16) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627272.icon-bannerad.zhidao_na_middle:nth-child(16)
+zhidao.baidu.com###main-content > div.question-line:nth-child(7)
+zhidao.baidu.com###wgt-all-replies > div.all-replies-box > div.question-line:last-child
+zhidao.baidu.com###mhjcy627271
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627271.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627270.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
 zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627218.icon-bannerad.zhidao_na_middle:nth-child(14)
 zhidao.baidu.com###main-content > a.ask-for-friend:nth-child(6)
 zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627183.icon-bannerad.zhidao_na_middle:nth-child(14)
