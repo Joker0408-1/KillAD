@@ -1,12 +1,86 @@
 ! Title: 国内网页净化+ChinaList
 ! Description: [慎用]效果过于强大
-! Last Modified: 2022/5/5
+! Last Modified: 2022/5/6
 ! Homepage: https://github.com/Joker0408-1/KillAD
-! Version: 202205051200
+! Version: 202205060000
 ! -- 限制剪切板写入
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
+zhidao.baidu.com###reply-author-2689928437 > div.question-author-follow-box:last-child
+zhidao.baidu.com###reply-author-3590102969 > div.question-author-follow-box:last-child
+zhidao.baidu.com###reply-author-3649858717 > div.question-author-follow-box:last-child
+zhidao.baidu.com###reply-author-3649762532 > div.question-author-follow-box:last-child > span.question-author-follow
+zhidao.baidu.com###reply-author-2689928437 > div.question-author-follow-box:last-child > span.question-author-follow
+zhidao.baidu.com###reply-author-3590102969 > div.question-author-follow-box:last-child > span.question-author-follow
+zhidao.baidu.com###reply-author-3649858717 > div.question-author-follow-box:last-child > span.question-author-follow
+zhidao.baidu.com###reply-author-3576090331
+zhidao.baidu.com###reply-author-3576090331 > div.question-author-follow-box:last-child
+zhidao.baidu.com###reply-author-3576090331 > div.question-author-follow-box:last-child > span.question-author-follow
+zhidao.baidu.com###main-content > div.comment-layer-wrapper.show:nth-child(10)
+m.baidu.com###results > div.c-result.result:nth-child(21) > div.c-result-content:first-child > article.c-container._2bSuG > section._3Nnbc:last-child > div.c-row-tile:last-child > div.c-scroll-wrapper > div.c-scroll-touch > div.c-scroll-scroller > div.c-scroll-item:first-child > div > div
+m.baidu.com###results > div.c-result.result:nth-child(18) > div.c-result-content:first-child > article.c-container._2bSuG > section._3Nnbc:last-child > div.c-row-tile:last-child > div.c-scroll-wrapper > div.c-scroll-touch > div.c-scroll-scroller > div.c-scroll-item:nth-child(2)
+m.baidu.com###results > div.c-result.result:nth-child(18) > div.c-result-content:first-child > article.c-container._2bSuG > section._3Nnbc:last-child > div.c-row-tile:last-child > div.c-scroll-wrapper > div.c-scroll-touch > div.c-scroll-scroller > div.c-scroll-item:first-child > div > div > div.c-touchable-feedback.c-touchable-feedback-no-default > a.c-invoke-class.c-blocka > div.c-img-wrapper:first-child > div.c-img.c-img-item.c-img-s.c-img-radius-tl.c-img-radius-tr.c-img-radius-bl.c-img-radius-br
+m.baidu.com###results > div.c-result.result:nth-child(18) > div.c-result-content:first-child > article.c-container._2bSuG > header.c-gap-bottom-small.c-title-gap-bottom:first-child > div.c-touchable-feedback.c-touchable-feedback-no-default > div.c-gap-inner-bottom-lh > h3.c-title > span.c-title-text
+m.baidu.com###results > div.c-result.result:nth-child(18) > div.c-result-content:first-child > article.c-container._2bSuG > section._3Nnbc:last-child > div.func-btn__3r4kq:first-child > div._1GZWo.NO_B_C.c-color-gray.s-feedback > div._1GZWo > div > i._-93OI.c-icon
+m.baidu.com###results > div.c-result.result:nth-child(18)
+m.baidu.com###results > div.c-result.result:nth-child(16) > div.c-result-content:first-child > article.c-container._2bSuG._11fnp
+m.baidu.com###results > div.c-result.result:nth-child(16) > div.c-result-content:first-child > article.c-container._2bSuG._11fnp > section._3Nnbc:nth-child(2) > div:first-child > div.c-tags-container.c-tags
+m.baidu.com###results > div.c-result.result:nth-child(16) > div.c-result-content:first-child > article.c-container._2bSuG._11fnp > header.c-gap-bottom-small.c-title-gap-bottom:first-child > div.c-touchable-feedback.c-touchable-feedback-no-default > div.c-gap-inner-bottom-lh > h3.c-title > span.c-title-text
+m.baidu.com###results > div.c-result.result:nth-child(15) > div.c-result-content:first-child > article.c-container._2bSuG > header.c-gap-bottom-small.c-title-gap-bottom:first-child > div.c-touchable-feedback.c-touchable-feedback-no-default > div.c-gap-inner-bottom-lh > h3.c-title > span.c-title-text > em
+m.baidu.com###results > div.c-result.result:nth-child(15) > div.c-result-content:first-child > article.c-container._2bSuG
+m.baidu.com###results > div.c-result.result:nth-child(10) > div.c-result-content:first-child > article.c-container._2bSuG._11fnp
+3g.163.com##main:nth-child(10) > section.article_comment.tie-H6JHHNLU04179HUN:nth-child(7) > div.comment_title:first-child > a.comment_more.js-reply-app:last-child
+3g.163.com##main:nth-child(10) > section.article_comment.tie-H6JOBR7O04179HUN:nth-child(7) > div.comment_title:first-child > a.comment_more.js-reply-app:last-child
+3g.163.com##div.sub_box.sub-box.show:nth-child(12) > div.go_index:nth-child(2)
+3g.163.com##div.sub_box.sub-box.show:nth-child(12) > div.big_boom:last-child > a
+3g.163.com##div:nth-child(42) > section.widget-slider.widget-slider-article.bottom > div.widget-slider-article-simple.js-open-newsapp:last-child
+3g.163.com##div:nth-child(42) > section.widget-slider.widget-slider-article.bottom > div.widget-slider-article-simple.js-open-newsapp:last-child > div.info.default-first-slide:first-child
+3g.163.com##main:nth-child(10) > section.article_comment.tie-H6KARAJG04179HUN:nth-child(7) > div.comment_title:first-child > a.comment_more.js-reply-app:last-child
+3g.163.com##div.sub_box.sub-box.show:nth-child(12) > div.go_index:nth-child(2) > i.icon_index.iconfont.item
+3g.163.com##div:nth-child(42) > section.widget-slider.widget-slider-article.bottom
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw627421.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw627420.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###w-1
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw627420.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###w-1 > div.question-answer-btn-wraper:first-child > div.question-answer-hasbetter.question-answer-hasbetter-single:first-child > i.iconfont.icon-huidapx1:first-child
+zhidao.baidu.com###w-1 > div.question-answer-btn-wraper:first-child > div.question-answer-hasbetter.question-answer-hasbetter-single:first-child > span:last-child
+zhidao.baidu.com###w-1 > div.question-answer-btn-wraper:first-child > div.question-answer-hasbetter.question-answer-hasbetter-single:first-child
+zhidao.baidu.com###iknow-common-header > div.iknow-common-header-content:first-child > div.appendix.pa:last-child > span.option.dib:first-child > span.dib
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw62741f.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###iknow-common-header > div.iknow-common-header-content:first-child > div.appendix.pa:last-child
+zhidao.baidu.com###iknow-common-header > div.iknow-common-header-content:first-child > div.appendix.pa:last-child > span.option.dib:first-child > span.dib.toggle > span.header-option-icon
+zhidao.baidu.com###iknow-common-header > div.iknow-common-header-content:first-child > header.spect-header:nth-child(3) > span.search-logo:first-child
+zhidao.baidu.com###iknow-common-header > div.iknow-common-header-content:first-child > a.go-to-ask:nth-child(2)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw62741f.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###respect-footer > div.bom-meta:last-child > p.mt5:nth-child(5)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw62741e.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.qzhqw62741e.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###respect-footer > div.bom-meta:last-child
+wk.baidu.com###app > div > div.shops-hot:nth-child(10) > div.shops-hot-inner:last-child > div.shops-hot-body > div.w-container.scroll-wrap
+wk.baidu.com###app > div > div.shops-hot:nth-child(10) > div.w-container.shops-hot-inner:first-child > div.shops-hot-head
+wk.baidu.com###app > div > div.shops-hot:nth-child(10)
+wk.baidu.com###app > div > div.video-rec-wrap:nth-child(12) > div.video-rec-inner
+wenwen.soso.com###contentForSearch > footer.sogou-footer:nth-child(12) > p
+wenwen.soso.com###contentForSearch > footer.sogou-footer:nth-child(12)
+wenwen.soso.com###relate_recommend > ul.recommend-list > div
+qb.zuoyebang.com###__layout > div.wapqb_3Ryc5 > div.Card_3aiTQ.card_24QrA:nth-child(3) > div.content_1XS4O:last-child > div.askExam_3572V:last-child
+qb.zuoyebang.com###__layout > div.wapqb_3Ryc5 > div.Card_3aiTQ.card_24QrA:nth-child(2) > div.content_1XS4O:last-child > div.questionWrap_2WYe1 > div.adCard_3H6n7:last-child
+qb.zuoyebang.com###__layout > div.wapqb_3Ryc5 > footer.footer_1HFD5:last-child
+qb.zuoyebang.com###__layout > div.wapqb_3Ryc5 > footer.footer_1HFD5:last-child > div
+m.sohu.com###NavMap6a9a4d7803a348eb018c16517341150690mljuc9uv3l > div.cbd-nav-map.cbd-plate:first-child
+m.baidu.com###super-frame > div.sfa-view.active > b-superframe-body.sfa-body:last-child > div.sfa-content > div.sfc-video-page.c-container:last-child > div:last-child > div.short-mini-wrapper:last-child > div.c-infinite-scroll > div.short-mini:nth-child(2) > div:first-child > div > div:first-child > div.na-ec-item > div.na-ec-waterfall
+m.baidu.com###super-frame > div.sfa-view.active > b-superframe-body.sfa-body:last-child > div.sfa-content > div.sfc-video-page.c-container:last-child > div:last-child > div.short-mini-wrapper:last-child
+m.baidu.com###super-frame > div.sfa-view.active > b-superframe-body.sfa-body:last-child > div.sfa-content > div.sfc-video-page.c-container:last-child > div:last-child > div.short-mini-wrapper:last-child > div.c-infinite-scroll
+m.sohu.com###NavMap6a9a4d7803a348eb018c16517337943249pkmdpjeudt > div.cbd-nav-map.cbd-plate:first-child
+m.sohu.com##div.article-page.article-page-test:nth-child(6) > div.article-content-wrapper:last-child > div.bottom-slot:last-child
+m.sohu.com###NavMap6a9a4d7803a348eb018c1651733958597lkar8s3vbd > div.cbd-nav-map.cbd-plate:first-child
+m.sohu.com###recommendSearch > div.recommend-search
+m.sohu.com##div.article-page.article-page-test:nth-child(6) > div.article-content-wrapper:last-child > div.footer_menu_new:nth-child(14) > div.cbd-plate.cbd-footer-menu
+m.sohu.com###NavMap6a9a4d7803a348eb018c1651733815067eufzgmtx6dh > div.cbd-nav-map.cbd-plate:first-child
+m.sohu.com###artFloatDiscuss > div > a.float-discuss-container
+m.sohu.com###artRecNews > div.art-rec-news
+3g.163.com##main:nth-child(10) > div.new_relative_doc.js-new-relative-doc:nth-child(9)
 zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt62725b.icon-bannerad.zhidao_na_middle:nth-child(14)
 zhidao.baidu.com###js-replies-container > div.reply-item:nth-child(3)
 zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627259.icon-bannerad.zhidao_na_middle:nth-child(14)
