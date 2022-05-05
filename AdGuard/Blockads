@@ -1,8 +1,8 @@
-! Title: 百度净化+ChinaList
+! Title: 国内网页净化+ChinaList
 ! Description: [慎用]效果过于强大
-! Last Modified: 2022/5/4
+! Last Modified: 2022/5/5
 ! Homepage: https://github.com/Joker0408-1/KillAD
-! Version: 202205042000
+! Version: 202205051200
 ! -- 限制剪切板写入
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
@@ -27,6 +27,21 @@ xw.qq.com###article-content-end
 xw.qq.com###recommend-modules
 m.baidu.com###page-copyright
 m.baidu.com###page-ft
+bbs.tianya.cn###j-post-content > div.u-like.hot-list:nth-child(8)
+bbs.tianya.cn###edit_div
+bbs.tianya.cn###j-post-content > a.u-more:nth-child(5)
+bbs.tianya.cn###J_ty_footer
+bbs.tianya.cn###j-post-content > div.u-like.hot-list:nth-child(9)
+bbs.tianya.cn###like_div
+zhihu.com###root > div.App > main.App-main:last-child > div.Question-mainEntity > div.Question-main:nth-child(12) > div:nth-child(3)
+m.douban.com##div.page:nth-child(4) > div.download-app:last-child > div.info:first-child
+m.douban.com##div.page:nth-child(4) > div.download-app:last-child > a:last-child
+m.douban.com##div.page:nth-child(4) > div.download-app:last-child
+m.douban.com##div.page:nth-child(4) > div.card:first-child > div:last-child > div:last-child
+m.douban.com##div.page:nth-child(4) > div.card:first-child > section:nth-child(7) > div > div:last-child
+m.douban.com##div.page:nth-child(4) > div.card:first-child > section.more_topic:nth-child(8)
+m.douban.com##div.page:nth-child(4) > div.card:first-child > section.more_topic:nth-child(6)
+m.douban.com##div.page:nth-child(4) > div.card:first-child > div:nth-child(3) > div:last-child
 3g.163.com##footer:nth-child(11) > div.foot_nav:first-child > div.u_topmenu.clearfix
 3g.163.com##footer:nth-child(11)
 3g.163.com##main:nth-child(10) > div.ad-above-comment:nth-child(6)
