@@ -7,7 +7,6 @@
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
-m.sohu.com##div.article-page.article-page-test:nth-child(6) > div.article-content-wrapper:last-child > div.article-main:nth-child(5)
 zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt62725b.icon-bannerad.zhidao_na_middle:nth-child(14)
 zhidao.baidu.com###js-replies-container > div.reply-item:nth-child(3)
 zhidao.baidu.com###main-content > div.question-container:first-child > div.lclgt627259.icon-bannerad.zhidao_na_middle:nth-child(14)
