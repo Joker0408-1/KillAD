@@ -1,12 +1,53 @@
 ! Title: 国内网页净化+ChinaList
 ! Description: [慎用]效果过于强大
-! Last Modified: 2022/5/6
+! Last Modified: 2022/5/15
 ! Homepage: https://github.com/Joker0408-1/KillAD
-! Version: 202205060000
+! Version: 202205152300
 ! -- 限制剪切板写入
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
+3g.163.com##main:nth-child(10) > section.article_comment.tie-CTP1HTQD05188ELQ:nth-child(7) > div.comment_title:first-child > a.comment_more.js-reply-app:last-child
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq627720.icon-bannerad.zhidao_na_middle:nth-child(16) > a.link
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq627720.icon-bannerad.zhidao_na_middle:nth-child(16) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq627720.icon-bannerad.zhidao_na_middle:nth-child(16)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq627720.icon-bannerad.zhidao_na_middle:nth-child(14) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276db.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###qqhov6276da
+zhidao.baidu.com###qqhov6276d9
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276d9.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.wgt-topic-hot.js-hot-topic:nth-child(16) > a.w-t-h-topic.js-topic-question.no-img
+zhidao.baidu.com###qqhov6276d9-related-list > div
+zhidao.baidu.com###qqhov6276d9-related-list > div > div.w-question-list.w-question-list-0:first-child > a.question-list.zd-symbol-item > span.r-question-list-title:first-child
+zhidao.baidu.com###main-content > div.question-container:first-child > div.question-line:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276d9.icon-bannerad.zhidao_na_middle:nth-child(16)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276d9.icon-bannerad.zhidao_na_middle:nth-child(16) > a.link > img.icon_ad
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276d9.icon-bannerad.zhidao_na_middle:nth-child(16) > a.link
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276d8.icon-bannerad.zhidao_na_middle:nth-child(16)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276a9.icon-ad:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276aa.icon-ad:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276aa.icon-ad:nth-child(14) > a.link
+zhidao.baidu.com###qqhov6276aa
+zhidao.baidu.com###qqhov6276a9
+zhidao.baidu.com###main-content > div.question-container:first-child > div.elghq6276a9.icon-bannerad.zhidao_na_middle:nth-child(14)
+zhidao.baidu.com###main-content > div.question-container:first-child > div.question-line:nth-child(9)
+m.baidu.com###results > div.c-result.result:nth-child(13) > div.c-result-content:first-child > article.c-container._2bSuG._11fnp
+zhidao.baidu.com###main-content > div.wyw-content:nth-child(3) > div.question-container > div.wyw-other-content:last-child > div.question-line:first-child
+zhidao.baidu.com###w-detail-new-1 > div.wyw-reply-meta-container.reply-meta-3774412342:last-child
+zhidao.baidu.com###main-content > div.wyw-content:nth-child(3) > div.question-container > div.wyw-other-content:last-child
+zhidao.baidu.com###reply-author-3774412342
+zhidao.baidu.com###reply-author-3774412342 > div.question-reply-avatar:first-child
+zhidao.baidu.com###reply-author-3774412342 > div.author-btn.wyw-ask-btn:last-child
+zhidao.baidu.com###reply-author-3774412342 > div.author-center:nth-child(2)
+zhidao.baidu.com###reply-author-3774412342 > div.author-center:nth-child(2) > div.fst-sec:first-child > div.author-name:first-child
+zhidao.baidu.com###go-sp-btn
+zhidao.baidu.com###main-content > div.wyw-content:nth-child(3) > div.question-container > div.main-content-new-bg:first-child > div.wyw-qb-card-wrapper:last-child > div.wyw-qb-card-title:first-child
+zhidao.baidu.com###main-content > div.wyw-content:nth-child(3) > div.question-container > div.main-content-new-bg:first-child > div.wyw-qb-card-wrapper:last-child > div.wyw-qb-card-title:first-child > span:last-child
+zhidao.baidu.com###wyw-bottom-bar > div.bottombar-wp.bottombar-wyw
+zhidao.baidu.com###wyw-bottom-bar > div.bottombar-wp.bottombar-wyw > div.bottombar-wp-btn2:last-child
+zhidao.baidu.com###wyw-bottom-bar > div.bottombar-wp.bottombar-wyw > div.bottombar-wp-btn1:first-child
+zhidao.baidu.com###respect-footer
+zhidao.baidu.com###main-content > div.wyw-content:nth-child(3) > div.question-container > div.main-content-new-bg:first-child > div.wyw-qb-card-wrapper:last-child > div.exp-payask-card-wrapper:last-child
 zhidao.baidu.com###reply-author-2689928437 > div.question-author-follow-box:last-child
 zhidao.baidu.com###reply-author-3590102969 > div.question-author-follow-box:last-child
 zhidao.baidu.com###reply-author-3649858717 > div.question-author-follow-box:last-child
