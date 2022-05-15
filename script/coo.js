@@ -8,4 +8,3 @@ let obj = JSON.parse(magicJS.response.body);
    magicJS.logError(`屏蔽热搜出现异常：${err}`);
          }
    break;
-$done({body: JSON.stringify(obj)});
