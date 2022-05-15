@@ -16,6 +16,7 @@ HOST,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 HOST,sf3-be-pack.pglstatp-toutiao.com,REJECT
 HOST,log-api.pangolin-sdk-toutiao.com,REJECT
 HOST,sf1-be-pack.pglstatp-toutiao.com,REJECT
+HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,api-access.pangolin-sdk-toutiao.com,REJECT
 
 #  >> QQ音乐
