@@ -1,6 +1,6 @@
 let obj = JSON.parse($response.body);
 delete obj.data.extra_pic;
-delete obj.data.message_status;
+delete obj.data.is_html_article;
 delete obj.data.extra_title;
 delete obj.data.extraDataArr;
 delete obj.data.include_goods;
