@@ -37,7 +37,7 @@ body['data']['sections_v2'] = [
         "items": [
             {
                 "id": 407,
-                "title": "联系客服",
+                "title": "客服中心",
                 "uri": "bilibili://user_center/feedback",
                 "icon": "http://i0.hdslb.com/bfs/archive/7ca840cf1d887a45ee1ef441ab57845bf26ef5fa.png"
             },
