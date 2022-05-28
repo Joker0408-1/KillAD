@@ -1,5 +1,4 @@
 let body = JSON.parse($response.body);
-
 body['data']['entities'] = [
       "entities" : [
         {
