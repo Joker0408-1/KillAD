@@ -1,3 +1,3 @@
 let obj = JSON.parse($response.body);
-delete obj.data.detailSponsorCard;
+delete obj.data.entities
 $done({body: JSON.stringify(obj)});
