@@ -1,17 +1,3 @@
 let obj = JSON.parse($response.body);
-delete obj.data.extra_pic;
-delete obj.data.recommend;
-delete obj.data.extra_title;
-delete obj.data.mall_domain;
-delete obj.data.goods_title;
-delete obj.data.categoryInfo;
-delete obj.data.cardStatName;
-delete obj.data.extraDataArr;
-delete obj.data.extra_fromApi;
-delete obj.data.goods_buy_url;
-delete obj.data.include_goods;
-delete obj.data.goods_buy_text;
-delete obj.data.extra_entities;
-delete obj.data.detailSponsorCard;
-delete obj.data.goods_promo_title;
+delete obj.data.include_goods
 $done({body: JSON.stringify(obj)});
