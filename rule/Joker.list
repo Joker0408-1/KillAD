@@ -1,8 +1,8 @@
-# HOST: 159
-# HOST-SUFFIX: 39
+# HOST: 166
+# HOST-SUFFIX: 40
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
-# UPDATED: 2022-06-03 06:26:27
+# UPDATED: 2022-06-03 06:58:27
 
 HOST, ID6.ME, REJECT
 HOST, g1.tagtic.cn, REJECT
@@ -88,18 +88,18 @@ HOST, gdfp.gifshow.com, REJECT
 HOST, volceapplog.com, REJECT
 
 #  >> QQ音乐
-DOMAIN,p.l.qq.com,Reject
-DOMAIN,sdk.e.qq.com,Reject
-DOMAIN,oth.bls.mdt.qq.com,Reject
-DOMAIN,adcdn.tencentmusic.com,Reject
-DOMAIN,adexpo.tencentmusic.com,Reject
-DOMAIN-SUFFIX,sngdia.imtmp.net,Reject
-DOMAIN,adclick.tencentmusic.com,Reject
+HOST, p.l.qq.com, REJECT
+HOST, sdk.e.qq.com, REJECT
+HOST, oth.bls.mdt.qq.com, REJECT
+HOST, adcdn.tencentmusic.com, REJECT
+HOST, adexpo.tencentmusic.com, REJECT
+HOST-SUFFIX, sngdia.imtmp.net, REJECT
+HOST, adclick.tencentmusic.com, REJECT
 
 #  >> 腾讯的广点通(优量汇)和字节跳动的穿山甲广告
 HOST-SUFFIX,umeng.com, REJECT
 HOST-SUFFIX,toutiao.com, REJECT
-HoST,wgo.mmstat.com, REJECT
+HOST, wgo.mmstat.com, REJECT
 HOST, bsync.snssdk.com, REJECT
 HOST, toblog.ctobsnssdk.com, REJECT
 HOST, tnc3-alisc1.snssdk.com, REJECT
