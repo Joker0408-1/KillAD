@@ -1,5 +1,12 @@
 # AUTHOR: Joker0408-1
-# UPDATED: 2022-06-02 14:53:27
+# UPDATED: 2022-06-02 15:26:27
+
+HOST,g1.tagtic.cn
+HOST,img.adnyg.com
+HOST,log.tagtic.cn
+HOST,pgdt.ugdtimg.com
+HOST,sdownload.stargame.com
+HOST,img.adnyg.com.w.kunlungr.com
 
 #  >>谷歌
 HOST,tpc.googlesyndication.com,REJECT
