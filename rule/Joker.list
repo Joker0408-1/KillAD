@@ -1,6 +1,10 @@
+# HOST: 159
+# HOST-SUFFIX: 39
+# HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
 # UPDATED: 2022-06-03 06:26:27
 
+HOST, ID6.ME, REJECT
 HOST, g1.tagtic.cn, REJECT
 HOST, img.adnyg.com, REJECT
 HOST, log.tagtic.cn, REJECT
@@ -70,6 +74,9 @@ HOST-SUFFIX, temai.snssdk.com, REJECT
 HOST-SUFFIX, ufosdk.baidu.cn, REJECT
 HOST-SUFFIX, ufosdk.baidu.com, REJECT
 HOST-SUFFIX, xlog.snssdk.com, REJECT
+HOST-SUFFIX, MOB.COM, REJECT
+HOST-SUFFIX, FENGKONGCLOUD.COM, REJECT
+HOST-SUFFIX, ADASHXGC.UT.TAOBAO.COM, REJECT
 
 #  >>谷歌
 HOST, tpc.googlesyndication.com, REJECT
