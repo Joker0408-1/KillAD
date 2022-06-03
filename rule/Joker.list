@@ -4,6 +4,8 @@
 # AUTHOR: Joker0408-1
 # UPDATED: 2022-06-03 06:58:27
 
+## HOST
+
 HOST, ID6.ME, REJECT
 HOST, g1.tagtic.cn, REJECT
 HOST, img.adnyg.com, REJECT
@@ -30,7 +32,6 @@ HOST, onrt-stsdk.vivo.com.cn, REJECT
 HOST, ort-stsdk.vivo.com.cn, REJECT
 HOST, pangolin.snssdk.com, REJECT
 HOST, report-ads-sdk.upltv.com, REJECT
-HOST, sales-pop-dot-autoketing-production-sdk.appspot.com, REJECT
 HOST, sdk.api.oaid.wocloud.cn, REJECT
 HOST, sdk.appadhoc.com.bsclink.cn, REJECT
 HOST, sdk.zsdfm.com, REJECT
@@ -41,6 +42,10 @@ HOST, toblog.ctobsnssdk.com, REJECT
 HOST, stnetsdk.appstore.vivo.com.cn, REJECT
 HOST, ug.snssdk.com, REJECT
 HOST, vcardsdkservice.vivo.com.cn, REJECT
+HOST, sales-pop-dot-autoketing-production-sdk.appspot.com, REJECT
+
+## HOST-SUFFIX
+
 HOST-SUFFIX, ab.hysdknb.com, REJECT
 HOST-SUFFIX, actsdk.idreamsky.com, REJECT
 HOST-SUFFIX, adsdk.9imobi.com, REJECT
@@ -52,9 +57,6 @@ HOST-SUFFIX, iadsdk.apple.com, REJECT
 HOST-SUFFIX, ic.snssdk.com, REJECT
 HOST-SUFFIX, jnsdkjzs.com, REJECT
 HOST-SUFFIX, log.snssdk.com, REJECT
-HOST-SUFFIX, nbsdk-baichuan.alicdn.com, REJECT
-HOST-SUFFIX, nbsdk-baichuan.taobao.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao-b.com, REJECT
 HOST-SUFFIX, pangolin-sdk-toutiao.com, REJECT
 HOST-SUFFIX, sdk.cmgame.com, REJECT
 HOST-SUFFIX, sdk.look.360.cn, REJECT
@@ -77,6 +79,9 @@ HOST-SUFFIX, xlog.snssdk.com, REJECT
 HOST-SUFFIX, MOB.COM, REJECT
 HOST-SUFFIX, FENGKONGCLOUD.COM, REJECT
 HOST-SUFFIX, ADASHXGC.UT.TAOBAO.COM, REJECT
+HOST-SUFFIX, nbsdk-baichuan.alicdn.com, REJECT
+HOST-SUFFIX, nbsdk-baichuan.taobao.com, REJECT
+HOST-SUFFIX, pangolin-sdk-toutiao-b.com, REJECT
 
 #  >>谷歌
 HOST, tpc.googlesyndication.com, REJECT
@@ -93,25 +98,22 @@ HOST, sdk.e.qq.com, REJECT
 HOST, oth.bls.mdt.qq.com, REJECT
 HOST, adcdn.tencentmusic.com, REJECT
 HOST, adexpo.tencentmusic.com, REJECT
-HOST-SUFFIX, sngdia.imtmp.net, REJECT
 HOST, adclick.tencentmusic.com, REJECT
+HOST-SUFFIX, sngdia.imtmp.net, REJECT
 
 #  >> 腾讯的广点通(优量汇)和字节跳动的穿山甲广告
-HOST-SUFFIX,umeng.com, REJECT
-HOST-SUFFIX,toutiao.com, REJECT
+
 HOST, wgo.mmstat.com, REJECT
 HOST, bsync.snssdk.com, REJECT
 HOST, toblog.ctobsnssdk.com, REJECT
 HOST, tnc3-alisc1.snssdk.com, REJECT
 HOST, tnc3-aliec2.snssdk.com, REJECT
-HOST-SUFFIX,normal-c-lq.amemv.com, REJECT
 HOST, astrategy.beacon.qq.com, REJECT
 HOST, aeventlog.beacon.qq.com, REJECT
 HOST, oth.eve.mdt.qq.com, REJECT
 HOST, oth.eve.qq.com, REJECT
 HOST, ug.snssdk.com, REJECT
 HOST, v*-be-pack.pglstatp-toutiao.com, REJECT
-HOST, sf*-be-pack.pglstatp-toutiao.com, REJECT
 HOST, tobapplog.ctobsnssdk.com, REJECT
 HOST, ulogs.umengcloud.com, REJECT
 HOST, game.weixin.qq.com, REJECT
@@ -127,13 +129,10 @@ HOST, extlog.snssdk.com, REJECT
 HOST, sf3-ttcdn-tos.pstatp.com, REJECT
 HOST, bds.snssdk.com, REJECT
 HOST, dig.bdurl.net, REJECT
-HOST, api-access.pangolin-sdk-toutiao.com, REJECT
 HOST, sf*-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sf*-be-pack.pglstatp-toutiao.com, REJECT
 HOST, sf*-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, s*-fe-scm.pglstatp-toutiao.com, REJECT
 HOST, s*a.pstatp.com, REJECT
-HOST, sf6-be-pack.pglstatp-toutiao.com, REJECT
 HOST, toblog.volceapplog.com, REJECT
 HOST, access.toggle.qq.com, REJECT
 HOST, in-addr.arpa, REJECT
@@ -155,6 +154,12 @@ HOST, it.snssdk.com.edgekey.net, REJECT
 HOST, iu.snssdk.com.edgekey.net, REJECT
 HOST, lianmengapi.snssdk.com, REJECT
 HOST, log-hl.snssdk.com, REJECT
+HOST, imp-toutiao-data.37.com.cn, REJECT
+HOST, pangolin-sdk-toutiao-b.com, REJECT
+HOST, pangolin-sdk-toutiao.com, REJECT
+HOST, partner.toutiao.com, REJECT
+HOST, pglstatp-toutiao.com, REJECT
+HOST, s.toutiao.com, REJECT
 HOST, log.snssdk.com, REJECT
 HOST, log.snssdk.com.bytedns.net, REJECT
 HOST, mcs.snssdk.com, REJECT
@@ -177,44 +182,47 @@ HOST, vcs.snssdk.com, REJECT
 HOST, verify.snssdk.com, REJECT
 HOST, xlog.snssdk.com, REJECT
 HOST, p*-ad-sign.byteimg.com, REJECT
-HOST, access.pangolin-sdk-toutiao-b.com, REJECT
 HOST, ad.toutiao.com, REJECT
 HOST, adshare.toutiao.com, REJECT
-HOST, api-access.pangolin-sdk-toutiao-b.com, REJECT
 HOST, d.toutiao.com, REJECT
 HOST, dm-hl.toutiao.com, REJECT
 HOST, dm.toutiao.com, REJECT
 HOST, dsp.toutiao.com, REJECT
-HOST, ether-pack.pangolin-sdk-toutiao.com, REJECT
-HOST, imp-toutiao-data.37.com.cn, REJECT
-HOST, log-api.pangolin-sdk-toutiao-b.com, REJECT
-HOST, log-api.pangolin-sdk-toutiao.com, REJECT
 HOST, nativeapp.toutiao.com, REJECT
-HOST, novel.pangolin-sdk-toutiao.com, REJECT
-HOST, p1-be-endcard.pglstatp-toutiao.com, REJECT
-HOST, pangolin-sdk-toutiao-b.com, REJECT
-HOST, pangolin-sdk-toutiao.com, REJECT
-HOST, partner.toutiao.com, REJECT
-HOST, pglstatp-toutiao.com, REJECT
-HOST, s.toutiao.com, REJECT
-HOST, s3-fe-scm.pglstatp-toutiao.com, REJECT
-HOST, sf1-be-pack.pglstatp-toutiao.com, REJECT
-HOST, sf1-fe-pack.pglstatp-toutiao.com, REJECT
-HOST, sf1-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sf3-be-pack.pglstatp-toutiao.com, REJECT
-HOST, sf3-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sf6-be-pack.pglstatp-toutiao.com, REJECT
-HOST, sf6-fe-pack.pglstatp-toutiao.com, REJECT
-HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, toutiao-frontier.snssdk.com, REJECT
 HOST, toutiao.2haha.com, REJECT
 HOST, toutiao.jxnews.com.cn, REJECT
 HOST, toutiao.social, REJECT
 HOST, toutiao.xn--fiqs8s, REJECT
+HOST, zhanzhang.toutiao.com, REJECT
+HOST, novel.pangolin-sdk-toutiao.com, REJECT
+HOST, s3-fe-scm.pglstatp-toutiao.com, REJECT
+HOST, sf1-fe-tos.pglstatp-toutiao.com, REJECT
+HOST, sf3-fe-tos.pglstatp-toutiao.com, REJECT
+HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, v1-be-pack.pglstatp-toutiao.com, REJECT
 HOST, v1-fe-pack.pglstatp-toutiao.com, REJECT
 HOST, v3-be-pack.pglstatp-toutiao.com, REJECT
 HOST, v3-fe-pack.pglstatp-toutiao.com, REJECT
 HOST, v6-be-pack.pglstatp-toutiao.com, REJECT
 HOST, v6-fe-pack.pglstatp-toutiao.com, REJECT
-HOST, zhanzhang.toutiao.com, REJECT
+HOST, sf*-be-pack.pglstatp-toutiao.com, REJECT
+HOST, sf6-be-pack.pglstatp-toutiao.com, REJECT
+HOST, api-access.pangolin-sdk-toutiao.com, REJECT
+HOST, sf*-be-pack.pglstatp-toutiao.com, REJECT
+HOST, api-access.pangolin-sdk-toutiao-b.com, REJECT
+HOST, access.pangolin-sdk-toutiao-b.com, REJECT
+HOST, sf6-fe-pack.pglstatp-toutiao.com, REJECT
+HOST, sf6-be-pack.pglstatp-toutiao.com, REJECT
+HOST, sf3-be-pack.pglstatp-toutiao.com, REJECT
+HOST, sf1-be-pack.pglstatp-toutiao.com, REJECT
+HOST, sf1-fe-pack.pglstatp-toutiao.com, REJECT
+HOST, ether-pack.pangolin-sdk-toutiao.com, REJECT
+HOST, log-api.pangolin-sdk-toutiao-b.com, REJECT
+HOST, log-api.pangolin-sdk-toutiao.com, REJECT
+HOST, p1-be-endcard.pglstatp-toutiao.com, REJECT
+
+
+HOST-SUFFIX, umeng.com, REJECT
+HOST-SUFFIX, toutiao.com, REJECT
+HOST-SUFFIX, normal-c-lq.amemv.com, REJECT
