@@ -1,4 +1,4 @@
-# HOST: 1
+# HOST: 5
 # HOST-SUFFIX: 0
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
@@ -6,4 +6,8 @@
 # DESCRIDE：GeoIP白名单，避免分流出错
 
 # > 云闪付
+HOST, ads.95516.com
+HOST, open.95516.com
+HOST, wallet.95516.com
 HOST, cloudvip.95516.com
+HOST, foundation.95516.com
