@@ -1,4 +1,4 @@
-# HOST: 1
+# HOST: 0
 # IP-CIDR: 10
 # HOST-SUFFIX: 17
 # HOST-KEYWORD: 2
@@ -7,10 +7,6 @@
 # DESCRIDE：GeoIP白名单，避免分流出错
 
 # Apple
-
-## HOST
-
-HOST, comscoreresearch.com
 
 ## IP-CIDR
 
