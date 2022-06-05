@@ -5,5 +5,8 @@
 # UPDATED: 2022-06-04 06:58:27
 # DESCRIDE：GeoIP白名单，避免分流出错
 
+# > 苹果
+HOST-SUFFIX, push.apple.com
+
 # > 云闪付
 HOST-SUFFIX, 95516.com
