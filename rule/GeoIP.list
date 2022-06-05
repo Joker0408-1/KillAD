@@ -1,12 +1,40 @@
-# HOST: 0
-# HOST-SUFFIX: 1
-# HOST-KEYWORD: 0
+# HOST: 1
+# IP-CIDR: 10
+# HOST-SUFFIX: 17
+# HOST-KEYWORD: 2
 # AUTHOR: Joker0408-1
 # UPDATED: 2022-06-04 06:58:27
 # DESCRIDE：GeoIP白名单，避免分流出错
 
 # > 苹果
-HOST-SUFFIX, push.apple.com
+IP-CIDR, 17.0.0.0/8
+IP-CIDR, 192.35.50.0/24
+IP-CIDR, 63.92.224.0/19
+IP-CIDR, 65.199.22.0/23
+IP-CIDR, 144.178.0.0/19
+IP-CIDR, 144.178.36.0/22
+IP-CIDR, 144.178.48.0/20
+IP-CIDR, 198.183.17.0/24
+IP-CIDR, 139.178.128.0/18
+IP-CIDR, 205.180.175.0/24
+HOST-SUFFIX, apple.co
+HOST-SUFFIX, apple.com
+HOST-SUFFIX, itunes.com
+HOST-SUFFIX, akadns.net
+HOST-SUFFIX, apple.news
+HOST-SUFFIX, icloud.com
+HOST-SUFFIX, aaplimg.com
+HOST-SUFFIX, apple.com.cn
+HOST-SUFFIX, mzstatic.com
+HOST-SUFFIX, appstore.com
+HOST, comscoreresearch.com
+HOST-SUFFIX, cdn-apple.com
+HOST-SUFFIX, icloud.com.cn
+HOST-SUFFIX, crashlytics.com
+HOST-SUFFIX, apple-cloudkit.com
+HOST-SUFFIX, icloud-content.com
+HOST-KEYWORD, apple.com.akadns.net
+HOST-KEYWORD, icloud.com.akadns.net
 
 # > 云闪付
 HOST-SUFFIX, 95516.com
