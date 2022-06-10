@@ -1,4 +1,4 @@
-# HOST: 166
+# HOST: 160
 # HOST-SUFFIX: 40
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
@@ -128,11 +128,8 @@ HOST, i.snssdk.com, REJECT
 HOST, is.snssdk.com, REJECT
 HOST, pangolin.snssdk.com, REJECT
 HOST, extlog.snssdk.com, REJECT
-HOST, sf3-ttcdn-tos.pstatp.com, REJECT
 HOST, bds.snssdk.com, REJECT
 HOST, dig.bdurl.net, REJECT
-HOST, sf*-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sf*-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, s*-fe-scm.pglstatp-toutiao.com, REJECT
 HOST, s*a.pstatp.com, REJECT
 HOST, toblog.volceapplog.com, REJECT
@@ -199,9 +196,6 @@ HOST, toutiao.xn--fiqs8s, REJECT
 HOST, zhanzhang.toutiao.com, REJECT
 HOST, novel.pangolin-sdk-toutiao.com, REJECT
 HOST, s3-fe-scm.pglstatp-toutiao.com, REJECT
-HOST, sf1-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sf3-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, v1-be-pack.pglstatp-toutiao.com, REJECT
 HOST, v1-fe-pack.pglstatp-toutiao.com, REJECT
 HOST, v3-be-pack.pglstatp-toutiao.com, REJECT
