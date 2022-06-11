@@ -1,8 +1,8 @@
 # HOST: 160
-# HOST-SUFFIX: 40
+# HOST-SUFFIX: 39
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
-# UPDATED: 2022-06-03 06:58:27
+# UPDATED: 2022-06-12 06:58:27
 
 ## HOST
 
@@ -53,7 +53,6 @@ HOST-SUFFIX, adsdk.dmzj.com, REJECT
 HOST-SUFFIX, analytics.snssdk.com, REJECT
 HOST-SUFFIX, anysdk.com, REJECT
 HOST-SUFFIX, extlog.snssdk.com, REJECT
-HOST-SUFFIX, iadsdk.apple.com, REJECT
 HOST-SUFFIX, ic.snssdk.com, REJECT
 HOST-SUFFIX, jnsdkjzs.com, REJECT
 HOST-SUFFIX, log.snssdk.com, REJECT
