@@ -30,7 +30,6 @@ HOST, mon.snssdk.com, REJECT
 HOST, monitor-stsdk.vivo.com.cn, REJECT
 HOST, onrt-stsdk.vivo.com.cn, REJECT
 HOST, ort-stsdk.vivo.com.cn, REJECT
-HOST, pangolin.snssdk.com, REJECT
 HOST, report-ads-sdk.upltv.com, REJECT
 HOST, sdk.api.oaid.wocloud.cn, REJECT
 HOST, sdk.appadhoc.com.bsclink.cn, REJECT
@@ -125,7 +124,6 @@ HOST, mssdk-bu.snssdk.com, REJECT
 HOST, aaid.umeng.com, REJECT
 HOST, i.snssdk.com, REJECT
 HOST, is.snssdk.com, REJECT
-HOST, pangolin.snssdk.com, REJECT
 HOST, extlog.snssdk.com, REJECT
 HOST, bds.snssdk.com, REJECT
 HOST, dig.bdurl.net, REJECT
