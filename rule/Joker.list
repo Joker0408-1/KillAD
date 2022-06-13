@@ -89,15 +89,18 @@ HOST, adcdn.tencentmusic.com, REJECT
 HOST, adexpo.tencentmusic.com, REJECT
 HOST, adclick.tencentmusic.com, REJECT
 HOST-SUFFIX, sngdia.imtmp.net, REJECT
-#  >> 腾讯的广点通(优量汇)和字节跳动的穿山甲广告
+#  >> 广点通&穿山甲
+HOST, dig.bdurl.net
+HOST, midas.gtimg.cn
+HOST, s3a.pstatp.com, REJECT
 HOST, wgo.mmstat.com, REJECT
+HOST, oth.eve.qq.com, REJECT
 HOST, bsync.snssdk.com, REJECT
+HOST, oth.eve.mdt.qq.com, REJECT
 HOST, tnc3-alisc1.snssdk.com, REJECT
 HOST, tnc3-aliec2.snssdk.com, REJECT
 HOST, astrategy.beacon.qq.com, REJECT
 HOST, aeventlog.beacon.qq.com, REJECT
-HOST, oth.eve.mdt.qq.com, REJECT
-HOST, oth.eve.qq.com, REJECT
 HOST, v*-be-pack.pglstatp-toutiao.com, REJECT
 HOST, tobapplog.ctobsnssdk.com, REJECT
 HOST, ulogs.umengcloud.com, REJECT
@@ -192,10 +195,8 @@ HOST-SUFFIX, toutiao.com, REJECT
 HOST-SUFFIX, normal-c-lq.amemv.com, REJECT
 HOST, astrategy.beacon.qq.com, REJECT.com, REJECT
 HOST, sf3-ttcdn-tos.pstatp.com, REJECT
-HOST, dig.bdurl.net
 HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, sf3-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, s3a.pstatp.com, REJECT
 HOST, access1.tpns.tencent.com, REJECT
 HOST, lf6-ttcdn-tos.pstatp.com, REJECT
 HOST, lf9-ttcdn-tos.pstatp.com, REJECT
@@ -205,6 +206,5 @@ HOST, lf9-cdn-tos.bytegecko.com, REJECT
 HOST, lf3.com, REJECTmon-ckv-tos.pstatp.com, REJECT
 HOST, lf6.com, REJECTmon-ckv-tos.pstatp.com, REJECT
 HOST, lf9.com, REJECTmon-ckv-tos.pstatp.com, REJECT
-HOST, midas.gtimg.cn
 HOST, lf1-ttcdn-tos.pstatp.com, REJECT
 HOST, lf3-ttcdn-tos.pstatp.com, REJECT
