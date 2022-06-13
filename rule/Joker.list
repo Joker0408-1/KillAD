@@ -1,4 +1,4 @@
-# HOST: 162
+# HOST: 161
 # HOST-SUFFIX: 39
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
@@ -191,7 +191,6 @@ HOST-SUFFIX, umeng.com, REJECT
 HOST-SUFFIX, toutiao.com, REJECT
 HOST-SUFFIX, normal-c-lq.amemv.com, REJECT
 HOST, astrategy.beacon.qq.com, REJECT.com, REJECT
-HOST, img14.360buyimg.com, REJECT
 HOST, sf3-ttcdn-tos.pstatp.com, REJECT
 HOST, dig.bdurl.net
 HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
