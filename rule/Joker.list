@@ -1,8 +1,8 @@
 # HOST: 162
-# HOST-SUFFIX: 39
+# HOST-SUFFIX: 41
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
-# UPDATED: 2022-06-14 00:12:27
+# UPDATED: 2022-06-20 00:12:27
 
 HOST, ID6.ME, REJECT
 HOST, g1.tagtic.cn, REJECT
@@ -89,6 +89,9 @@ HOST, adcdn.tencentmusic.com, REJECT
 HOST, adexpo.tencentmusic.com, REJECT
 HOST, adclick.tencentmusic.com, REJECT
 HOST-SUFFIX, sngdia.imtmp.net, REJECT
+# >> HDOBOX
+HOST-SUFFIX, applvn.com, REJECT
+HOST-SUFFIX, applovin.com, REJECT
 #  >> 广点通&穿山甲
 HOST, dm.pstatp.com, REJECT
 HOST, dig.bdurl.net, REJECT
