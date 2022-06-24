@@ -1,8 +1,8 @@
-# HOST: 162
+# HOST: 154
 # HOST-SUFFIX: 41
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
-# UPDATED: 2022-06-20 00:12:27
+# UPDATED: 2022-06-24 18:12:27
 
 HOST, ID6.ME, REJECT
 HOST, g1.tagtic.cn, REJECT
@@ -198,17 +198,9 @@ HOST-SUFFIX, umeng.com, REJECT
 HOST-SUFFIX, toutiao.com, REJECT
 HOST-SUFFIX, normal-c-lq.amemv.com, REJECT
 HOST, astrategy.beacon.qq.com, REJECT.com, REJECT
-HOST, sf3-ttcdn-tos.pstatp.com, REJECT
 HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, sf3-fe-tos.pglstatp-toutiao.com, REJECT
 HOST, access1.tpns.tencent.com, REJECT
-HOST, lf6-ttcdn-tos.pstatp.com, REJECT
-HOST, lf9-ttcdn-tos.pstatp.com, REJECT
 HOST, lf3-cdn-tos.bytegecko.com, REJECT
 HOST, lf6-cdn-tos.bytegecko.com, REJECT
 HOST, lf9-cdn-tos.bytegecko.com, REJECT
-HOST, lf3.com, REJECTmon-ckv-tos.pstatp.com, REJECT
-HOST, lf6.com, REJECTmon-ckv-tos.pstatp.com, REJECT
-HOST, lf9.com, REJECTmon-ckv-tos.pstatp.com, REJECT
-HOST, lf1-ttcdn-tos.pstatp.com, REJECT
-HOST, lf3-ttcdn-tos.pstatp.com, REJECT
