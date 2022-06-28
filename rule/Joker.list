@@ -1,5 +1,5 @@
-# HOST: 154
-# HOST-SUFFIX: 40
+# HOST: 153
+# HOST-SUFFIX: 41
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
 # UPDATED: 2022-06-28 18:12:27
@@ -59,6 +59,7 @@ HOST-SUFFIX, sdkclick.com, REJECT
 HOST-SUFFIX, sdkclick.mobile.sina.cn, REJECT
 HOST-SUFFIX, sdkconfig.video.qq.com, REJECT
 HOST-SUFFIX, sdkdm.com, REJECT
+HOST-SUFFIX, mmstat.com, REJECT
 HOST-SUFFIX, sdkfjxjertertry.com, REJECT
 HOST-SUFFIX, sdkinit.taobao.com, REJECT
 HOST-SUFFIX, sdklog.cmgame.com, REJECT
@@ -96,7 +97,6 @@ HOST, dm.pstatp.com, REJECT
 HOST, dig.bdurl.net, REJECT
 HOST, midas.gtimg.cn, REJECT
 HOST, s3a.pstatp.com, REJECT
-HOST, wgo.mmstat.com, REJECT
 HOST, oth.eve.qq.com, REJECT
 HOST, bsync.snssdk.com, REJECT
 HOST, oth.eve.mdt.qq.com, REJECT
