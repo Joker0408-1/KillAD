@@ -1,8 +1,8 @@
-# HOST: 153
+# HOST: 151
 # HOST-SUFFIX: 41
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
-# UPDATED: 2022-06-28 18:12:27
+# UPDATED: 2022-07-03 23:55:27
 
 HOST, ID6.ME, REJECT
 HOST, g1.tagtic.cn, REJECT
@@ -96,7 +96,6 @@ HOST-SUFFIX, applovin.com, REJECT
 HOST, dm.pstatp.com, REJECT
 HOST, dig.bdurl.net, REJECT
 HOST, midas.gtimg.cn, REJECT
-HOST, s3a.pstatp.com, REJECT
 HOST, oth.eve.qq.com, REJECT
 HOST, bsync.snssdk.com, REJECT
 HOST, oth.eve.mdt.qq.com, REJECT
@@ -116,7 +115,6 @@ HOST, is.snssdk.com, REJECT
 HOST, extlog.snssdk.com, REJECT
 HOST, dig.bdurl.net, REJECT
 HOST, s*-fe-scm.pglstatp-toutiao.com, REJECT
-HOST, s*a.pstatp.com, REJECT
 HOST, toblog.volceapplog.com, REJECT
 HOST, access.toggle.qq.com, REJECT
 HOST, in-addr.arpa, REJECT
