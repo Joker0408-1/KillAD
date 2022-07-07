@@ -1,5 +1,5 @@
-# HOST: 151
-# HOST-SUFFIX: 41
+# HOST: 144
+# HOST-SUFFIX: 38
 # HOST-KEYWORD: 0
 # AUTHOR: Joker0408-1
 # UPDATED: 2022-07-03 23:55:27
@@ -191,13 +191,3 @@ HOST, ether-pack.pangolin-sdk-toutiao.com, REJECT
 HOST, log-api.pangolin-sdk-toutiao-b.com, REJECT
 HOST, log-api.pangolin-sdk-toutiao.com, REJECT
 HOST, p1-be-endcard.pglstatp-toutiao.com, REJECT
-HOST-SUFFIX, umeng.com, REJECT
-HOST-SUFFIX, toutiao.com, REJECT
-HOST-SUFFIX, normal-c-lq.amemv.com, REJECT
-HOST, astrategy.beacon.qq.com, REJECT.com, REJECT
-HOST, sfl-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, sf3-fe-tos.pglstatp-toutiao.com, REJECT
-HOST, access1.tpns.tencent.com, REJECT
-HOST, lf3-cdn-tos.bytegecko.com, REJECT
-HOST, lf6-cdn-tos.bytegecko.com, REJECT
-HOST, lf9-cdn-tos.bytegecko.com, REJECT
